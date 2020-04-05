@@ -9,6 +9,13 @@ Data is scraped from Wikipedia, which is scraped from vairous sources.
 **Density:** The number of residents per square mile.  
 
 ## Files
-**counties.csv:** List of all counties in CSV format.  
-**counties.json:** List of all counties is JSON Format.  
-**counties_by_state:** List of all counties grouped by state in JSON format.  
+All files are located in the `data` folder of this repo.
+* **`counties.csv`:** List of all counties in CSV format.
+  * Direct repo link: https://github.com/balsama/us_counties_data/blob/master/data/counties.csv
+  * Raw link: https://raw.githubusercontent.com/balsama/us_counties_data/master/data/counties.csv  
+* **`counties.json`:** List of all counties is JSON Format.  
+  * Direct repo link: https://github.com/balsama/us_counties_data/blob/master/data/counties.json
+  * Raw link: https://raw.githubusercontent.com/balsama/us_counties_data/master/data/counties.json
+* **`counties_by_state`:** List of all counties grouped by state in JSON format.
+  * Direct repo link: https://github.com/balsama/us_counties_data/blob/master/data/counties_by_state.json
+  * Raw link: https://github.com/balsama/us_counties_data/raw/master/data/counties_by_state.json
