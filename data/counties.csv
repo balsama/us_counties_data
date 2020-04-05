@@ -1,71 +1,71 @@
 County,State,Population,Area,Density
 "Autauga County",Alabama,54571,594,92
-"Baldwin County",Georgia,46367,258,180
-"Barbour County","West Virginia",16589,341,49
-"Bibb County",Georgia,156462,250,626
-"Blount County",Tennessee,123010,559,220
+"Baldwin County",Alabama,182265,1589,115
+"Barbour County",Alabama,27457,884,31
+"Bibb County",Alabama,22915,622,37
+"Blount County",Alabama,57322,644,89
 "Bullock County",Alabama,10914,622,18
-"Butler County",Pennsylvania,183862,795,231
-"Calhoun County","West Virginia",7627,281,27
-"Chambers County",Texas,41441,599,69
-"Cherokee County",Texas,52240,1052,50
+"Butler County",Alabama,20947,776,27
+"Calhoun County",Alabama,118572,605,196
+"Chambers County",Alabama,34215,596,57
+"Cherokee County",Alabama,25989,553,47
 "Chilton County",Alabama,43643,692,63
-"Choctaw County",Mississippi,8547,419,20
-"Clarke County",Virginia,14363,177,81
-"Clay County","West Virginia",9386,342,27
-"Cleburne County",Arkansas,25970,591,44
-"Coffee County",Tennessee,52796,429,123
+"Choctaw County",Alabama,13859,913,15
+"Clarke County",Alabama,25833,1238,21
+"Clay County",Alabama,13932,603,23
+"Cleburne County",Alabama,14972,560,27
+"Coffee County",Alabama,49948,678,74
 "Colbert County",Alabama,54428,592,92
 "Conecuh County",Alabama,13228,850,16
 "Coosa County",Alabama,11539,650,18
-"Covington County",Mississippi,19568,414,47
+"Covington County",Alabama,37765,1030,37
 "Crenshaw County",Alabama,13906,608,23
 "Cullman County",Alabama,80406,734,110
 "Dale County",Alabama,50251,561,90
-"Dallas County",Texas,2618148,880,2975
-"DeKalb County",Tennessee,18723,304,62
-"Elmore County",Idaho,27038,3078,9
-"Escambia County",Florida,299114,664,450
+"Dallas County",Alabama,43820,978,45
+"DeKalb County",Alabama,71109,777,92
+"Elmore County",Alabama,79303,618,128
+"Escambia County",Alabama,38319,945,41
 "Etowah County",Alabama,104430,534,196
-"Fayette County","West Virginia",46039,664,69
-"Franklin County",Washington,95222,1242,77
+"Fayette County",Alabama,17241,627,27
+"Franklin County",Alabama,31704,633,50
 "Geneva County",Alabama,26790,574,47
-"Greene County",Virginia,19162,157,122
-"Hale County",Texas,34134,1005,34
-"Henry County",Virginia,51881,382,136
-"Houston County",Texas,23021,1231,19
-"Jackson County",Wisconsin,20449,987,21
-"Jefferson County",Wisconsin,83686,556,151
-"Lamar County",Texas,49587,917,54
-"Lauderdale County",Tennessee,27815,470,59
-"Lawrence County",Tennessee,41869,617,68
-"Lee County",Virginia,24742,437,57
-"Limestone County",Texas,23527,909,26
-"Lowndes County",Mississippi,59779,502,119
-"Macon County",Tennessee,22248,307,72
-"Madison County",Virginia,13134,322,41
+"Greene County",Alabama,9045,647,14
+"Hale County",Alabama,15760,643,25
+"Henry County",Alabama,17302,561,31
+"Houston County",Alabama,101547,579,175
+"Jackson County",Alabama,53227,1077,49
+"Jefferson County",Alabama,658466,1111,593
+"Lamar County",Alabama,14564,604,24
+"Lauderdale County",Alabama,92709,667,139
+"Lawrence County",Alabama,34339,690,50
+"Lee County",Alabama,140247,607,231
+"Limestone County",Alabama,82782,559,148
+"Lowndes County",Alabama,11299,715,16
+"Macon County",Alabama,21452,608,35
+"Madison County",Alabama,334811,801,418
 "Marengo County",Alabama,21027,976,22
-"Marion County","West Virginia",56418,310,182
-"Marshall County","West Virginia",33107,307,108
+"Marion County",Alabama,30776,742,41
+"Marshall County",Alabama,93019,565,165
 "Mobile County",Alabama,412992,1229,336
-"Monroe County",Wisconsin,44673,900,50
-"Montgomery County",Virginia,97653,388,252
-"Morgan County","West Virginia",17541,229,77
-"Perry County",Tennessee,7915,415,19
-"Pickens County","South Carolina",122863,512,240
-"Pike County",Pennsylvania,57369,567,101
-"Randolph County","West Virginia",29405,1040,28
-"Russell County",Virginia,27891,475,59
-"St. Clair County",Michigan,163040,837,195
-"Shelby County",Texas,25513,794,32
-"Sumter County","South Carolina",107396,682,157
+"Monroe County",Alabama,23068,1025,23
+"Montgomery County",Alabama,229363,784,293
+"Morgan County",Alabama,119490,579,206
+"Perry County",Alabama,10591,719,15
+"Pickens County",Alabama,19746,881,22
+"Pike County",Alabama,32899,672,49
+"Randolph County",Alabama,22913,580,40
+"Russell County",Alabama,52947,641,83
+"St. Clair County",Alabama,83593,631,132
+"Shelby County",Alabama,195085,784,249
+"Sumter County",Alabama,13763,903,15
 "Talladega County",Alabama,82291,736,112
 "Tallapoosa County",Alabama,41616,716,58
 "Tuscaloosa County",Alabama,194656,1321,147
-"Walker County",Texas,72245,788,92
-"Washington County",Wisconsin,131887,430,307
-"Wilcox County",Georgia,9068,380,24
-"Winston County",Mississippi,19198,607,32
+"Walker County",Alabama,67023,791,85
+"Washington County",Alabama,17581,1080,16
+"Wilcox County",Alabama,11670,888,13
+"Winston County",Alabama,24484,612,40
 "Aleutians East Borough",Alaska,2938,6985,0
 Anchorage,Alaska,291845,1707,171
 "Bristol Bay Borough",Alaska,869,482,2
@@ -90,7 +90,7 @@ Yakutat,Alaska,540,7623,0
 "Cochise County",Arizona,127866,6219,21
 "Coconino County",Arizona,134421,18661,7
 "Gila County",Arizona,51994,4796,11
-"Graham County","North Carolina",75,302,0
+"Graham County",Arizona,34769,4641,7
 "Greenlee County",Arizona,7754,1848,4
 "La Paz County",Arizona,20172,4513,4
 "Maricopa County",Arizona,3990181,9224,433
@@ -98,70 +98,88 @@ Yakutat,Alaska,540,7623,0
 "Navajo County",Arizona,111273,9959,11
 "Pima County",Arizona,1003235,9189,109
 "Pinal County",Arizona,324962,5374,60
-"Santa Cruz County",California,275897,446,619
+"Santa Cruz County",Arizona,42845,1238,35
 "Yavapai County",Arizona,212635,8128,26
-"Yuma County",Colorado,10043,2369,4
+"Yuma County",Arizona,190557,5519,35
 "Arkansas County",Arkansas,19019,1033,18
 "Ashley County",Arkansas,21853,939,23
 "Baxter County",Arkansas,41513,586,71
-"Benton County",Washington,204390,1703,120
-"Boone County","West Virginia",24629,503,49
-"Bradley County",Tennessee,98963,329,301
-"Carroll County",Virginia,29724,476,62
+"Benton County",Arkansas,221339,884,250
+"Boone County",Arkansas,36903,601,61
+"Bradley County",Arkansas,11508,654,18
+"Calhoun County",Arkansas,5368,632,8
+"Carroll County",Arkansas,27446,638,43
 "Chicot County",Arkansas,11800,690,17
-"Clark County",Wisconsin,34690,1209,29
-"Cleveland County",Oklahoma,255755,536,477
-"Columbia County",Wisconsin,56833,765,74
+"Clark County",Arkansas,22995,882,26
+"Clay County",Arkansas,16083,641,25
+"Cleburne County",Arkansas,25970,591,44
+"Cleveland County",Arkansas,8689,598,15
+"Columbia County",Arkansas,24552,766,32
 "Conway County",Arkansas,21273,566,38
 "Craighead County",Arkansas,96443,712,135
-"Crawford County",Wisconsin,16644,570,29
-"Crittenden County",Kentucky,9224,362,25
+"Crawford County",Arkansas,61948,604,103
+"Crittenden County",Arkansas,50902,636,80
 "Cross County",Arkansas,17870,622,29
+"Dallas County",Arkansas,8116,668,12
 "Desha County",Arkansas,13008,819,16
 "Drew County",Arkansas,18509,835,22
 "Faulkner County",Arkansas,113237,664,171
-"Fulton County",Pennsylvania,14845,438,34
+"Franklin County",Arkansas,18125,619,29
+"Fulton County",Arkansas,12245,620,20
 "Garland County",Arkansas,96024,734,131
-"Grant County",Wisconsin,51208,1146,45
+"Grant County",Arkansas,17853,633,28
+"Greene County",Arkansas,42090,579,73
 "Hempstead County",Arkansas,22609,741,31
 "Hot Spring County",Arkansas,32923,622,53
-"Howard County",Texas,36040,903,40
+"Howard County",Arkansas,13789,595,23
 "Independence County",Arkansas,36647,771,48
 "Izard County",Arkansas,13696,584,23
-"Johnson County",Wyoming,8615,4166,2
-"Lafayette County",Wisconsin,16836,633,27
-"Lincoln County",Wyoming,17961,4069,4
+"Jackson County",Arkansas,17997,641,28
+"Jefferson County",Arkansas,77435,913,85
+"Johnson County",Arkansas,25540,682,37
+"Lafayette County",Arkansas,7645,545,14
+"Lawrence County",Arkansas,17415,592,29
+"Lee County",Arkansas,10424,619,17
+"Lincoln County",Arkansas,14134,572,25
 "Little River County",Arkansas,13171,564,23
-"Logan County","West Virginia",36743,454,81
+"Logan County",Arkansas,22353,731,31
 "Lonoke County",Arkansas,68356,802,85
-"Miller County",Missouri,24748,592,42
-"Mississippi County",Missouri,14358,413,35
-"Nevada County",California,99814,958,104
-"Newton County",Texas,13952,933,15
+"Madison County",Arkansas,15717,837,19
+"Marion County",Arkansas,16653,640,26
+"Miller County",Arkansas,43462,637,68
+"Mississippi County",Arkansas,46480,919,51
+"Monroe County",Arkansas,8149,621,13
+"Montgomery County",Arkansas,9487,800,12
+"Nevada County",Arkansas,8997,620,15
+"Newton County",Arkansas,8330,823,10
 "Ouachita County",Arkansas,26120,739,35
-"Phillips County",Montana,4192,5140,1
+"Perry County",Arkansas,10445,560,19
+"Phillips County",Arkansas,21757,727,30
+"Pike County",Arkansas,11291,613,18
 "Poinsett County",Arkansas,24583,763,32
-"Polk County",Wisconsin,44205,913,48
-"Pope County",Minnesota,10995,670,16
-"Prairie County",Montana,1148,1737,1
-"Pulaski County",Virginia,34332,321,107
+"Polk County",Arkansas,20662,862,24
+"Pope County",Arkansas,61754,830,74
+"Prairie County",Arkansas,8715,675,13
+"Pulaski County",Arkansas,382748,807,474
+"Randolph County",Arkansas,17969,656,27
 "St. Francis County",Arkansas,28258,642,44
-"Saline County",Missouri,23370,756,31
-"Scott County",Virginia,22126,537,41
+"Saline County",Arkansas,107118,730,147
+"Scott County",Arkansas,11233,898,13
 "Searcy County",Arkansas,8195,668,12
 "Sebastian County",Arkansas,125744,546,230
-"Sevier County",Utah,20802,1911,11
+"Sevier County",Arkansas,17058,581,29
 "Sharp County",Arkansas,17264,606,28
-"Stone County",Missouri,32202,463,70
-"Union County",Tennessee,19109,224,85
-"Van Buren County",Tennessee,5548,247,22
-"White County",Tennessee,25841,377,69
+"Stone County",Arkansas,12394,609,20
+"Union County",Arkansas,41639,1055,39
+"Van Buren County",Arkansas,17295,724,24
+"Washington County",Arkansas,203065,951,214
+"White County",Arkansas,77076,1042,74
 "Woodruff County",Arkansas,7260,594,12
 "Yell County",Arkansas,22185,948,23
 "Alameda County",California,1663190,738,2254
 "Alpine County",California,1120,739,2
 "Amador County",California,38626,606,64
-"Butte County","South Dakota",10110,2249,4
+"Butte County",California,229294,1640,140
 "Calaveras County",California,45670,1020,45
 "Colusa County",California,21805,1151,19
 "Contra Costa County",California,1147439,720,1594
@@ -169,12 +187,12 @@ Yakutat,Alaska,540,7623,0
 "El Dorado County",California,188987,1712,110
 "Fresno County",California,989255,5963,166
 "Glenn County",California,28094,1315,21
-"Humboldt County",Nevada,16528,9658,2
+"Humboldt County",California,136754,3573,38
 "Imperial County",California,182830,4175,44
 "Inyo County",California,18026,10192,2
 "Kern County",California,893119,8142,110
-"Kings County","New York",47,96,0
-"Lake County",Tennessee,7832,163,48
+"Kings County",California,150101,1390,108
+"Lake County",California,64246,1258,51
 "Lassen County",California,31163,4558,7
 "Los Angeles County",California,10163507,4060,2503
 "Madera County",California,156890,2138,73
@@ -186,7 +204,8 @@ Yakutat,Alaska,540,7623,0
 "Mono County",California,14168,3044,5
 "Monterey County",California,437907,3322,132
 "Napa County",California,140973,754,187
-"Orange County",Virginia,35385,342,103
+"Nevada County",California,99814,958,104
+"Orange County",California,3190400,948,3365
 "Placer County",California,386166,1407,274
 "Plumas County",California,18742,2554,7
 "Riverside County",California,2423266,7208,336
@@ -200,21 +219,22 @@ Yakutat,Alaska,540,7623,0
 "San Mateo County",California,771410,449,1718
 "Santa Barbara County",California,448150,2738,164
 "Santa Clara County",California,1938153,1291,1501
+"Santa Cruz County",California,275897,446,619
 "Shasta County",California,179921,3786,48
-"Sierra County","New Mexico",51,4180,0
+"Sierra County",California,2999,953,3
 "Siskiyou County",California,43853,6287,7
 "Solano County",California,445458,828,538
 "Sonoma County",California,504217,1576,320
 "Stanislaus County",California,547899,1495,366
 "Sutter County",California,96648,603,160
 "Tehama County",California,63926,2951,22
-"Trinity County",Texas,14667,693,21
+"Trinity County",California,12709,3179,4
 "Tulare County",California,464493,4824,96
 "Tuolumne County",California,54248,2236,24
 "Ventura County",California,854223,1846,463
 "Yolo County",California,219116,1012,217
 "Yuba County",California,77031,630,122
-"Adams County",Wisconsin,20875,645,32
+"Adams County",Colorado,441603,1182,374
 "Alamosa County",Colorado,15445,723,21
 "Arapahoe County",Colorado,572003,804,711
 "Archuleta County",Colorado,12084,1354,9
@@ -223,39 +243,46 @@ Yakutat,Alaska,540,7623,0
 "Boulder County",Colorado,294567,740,398
 "City and County of Broomfield",Colorado,55889,33,1694
 "Chaffee County",Colorado,17809,1014,18
-"Cheyenne County",Nebraska,10091,1196,8
+"Cheyenne County",Colorado,1836,1781,1
 "Clear Creek County",Colorado,9088,396,23
 "Conejos County",Colorado,8256,1290,6
 "Costilla County",Colorado,3524,1229,3
 "Crowley County",Colorado,5823,800,7
-"Custer County","South Dakota",8216,1558,5
-"Delta County",Texas,5298,277,19
+"Custer County",Colorado,4255,739,6
+"Delta County",Colorado,30952,1149,27
 "City and County of Denver",Colorado,600158,155,3872
 "Dolores County",Colorado,2064,1076,2
-"Douglas County",Wisconsin,44159,1304,34
+"Douglas County",Colorado,285465,842,339
 "Eagle County",Colorado,52197,1700,31
-"El Paso County",Texas,840410,1013,830
-"Elbert County",Georgia,19684,369,53
-"Fremont County",Wyoming,41110,9183,4
-"Garfield County",Washington,2225,710,3
+"El Paso County",Colorado,622263,2128,292
+"Elbert County",Colorado,23086,1849,12
+"Fremont County",Colorado,46824,1533,31
+"Garfield County",Colorado,56389,2958,19
 "Gilpin County",Colorado,5441,150,36
-"Grand County",Utah,9225,3672,3
+"Grand County",Colorado,14843,1868,8
 "Gunnison County",Colorado,15324,3259,5
 "Hinsdale County",Colorado,843,1123,1
 "Huerfano County",Colorado,6711,1592,4
-"Kiowa County",Oklahoma,9446,1015,9
+"Jackson County",Colorado,1394,1619,1
+"Jefferson County",Colorado,534543,772,692
+"Kiowa County",Colorado,1398,1785,1
 "Kit Carson County",Colorado,8270,2162,4
 "La Plata County",Colorado,51334,1700,30
+"Lake County",Colorado,7310,383,19
 "Larimer County",Colorado,299630,2631,114
 "Las Animas County",Colorado,15507,4773,3
+"Lincoln County",Colorado,5467,2585,2
+"Logan County",Colorado,22709,1845,12
 "Mesa County",Colorado,146723,3345,44
-"Mineral County","West Virginia",28212,328,86
+"Mineral County",Colorado,712,878,1
 "Moffat County",Colorado,13795,4755,3
 "Montezuma County",Colorado,25535,2035,13
 "Montrose County",Colorado,41276,2246,18
-"Otero County","New Mexico",35,6627,0
+"Morgan County",Colorado,28159,1293,22
+"Otero County",Colorado,18831,1267,15
 "Ouray County",Colorado,4436,542,8
-"Park County",Wyoming,28702,6943,4
+"Park County",Colorado,16206,2209,7
+"Phillips County",Colorado,4442,688,6
 "Pitkin County",Colorado,17148,970,18
 "Prowers County",Colorado,12551,1645,8
 "Pueblo County",Colorado,159063,2396,66
@@ -263,480 +290,818 @@ Yakutat,Alaska,540,7623,0
 "Rio Grande County",Colorado,11982,913,13
 "Routt County",Colorado,23509,2362,10
 "Saguache County",Colorado,6108,3168,2
-"San Juan County",Washington,17582,175,100
-"San Miguel County","New Mexico",47,4717,0
-"Sedgwick County",Kansas,503889,1000,504
-"Summit County",Utah,36324,1872,19
+"San Juan County",Colorado,699,388,2
+"San Miguel County",Colorado,7359,1290,6
+"Sedgwick County",Colorado,2379,548,4
+"Summit County",Colorado,27994,618,45
 "Teller County",Colorado,23350,558,42
+"Washington County",Colorado,4814,2522,2
 "Weld County",Colorado,252825,4013,63
-"Fairfield County","South Carolina",22653,710,32
+"Yuma County",Colorado,10043,2369,4
+"Fairfield County",Connecticut,916829,626,1465
 "Hartford County",Connecticut,894014,736,1215
 "Litchfield County",Connecticut,189927,920,206
-"Middlesex County",Virginia,10606,130,82
+"Middlesex County",Connecticut,165676,369,449
 "New Haven County",Connecticut,862477,606,1423
 "New London County",Connecticut,274055,666,411
 "Tolland County",Connecticut,152691,410,372
-"Windham County",Vermont,43386,789,55
-"Kent County",Texas,763,902,1
+"Windham County",Connecticut,118428,513,231
+"Kent County",Delaware,162310,800,203
 "New Castle County",Delaware,538479,494,1090
-"Sussex County",Virginia,11715,491,24
+"Sussex County",Delaware,197145,1196,165
 "Alachua County",Florida,249365,874,285
-"Baker County",Oregon,16510,3068,5
-"Bay County",Michigan,107771,631,171
-"Bradford County",Pennsylvania,62622,1161,54
+"Baker County",Florida,27154,585,46
+"Bay County",Florida,169856,764,222
+"Bradford County",Florida,28255,293,96
 "Brevard County",Florida,543566,1018,534
 "Broward County",Florida,1780172,1209,1472
-"Charlotte County",Virginia,12201,475,26
+"Calhoun County",Florida,14750,567,26
+"Charlotte County",Florida,160511,694,231
 "Citrus County",Florida,140031,584,240
+"Clay County",Florida,192370,601,320
 "Collier County",Florida,328134,2026,162
-"DeSoto County",Mississippi,161252,478,337
+"Columbia County",Florida,67485,797,85
+"DeSoto County",Florida,34894,637,55
 "Dixie County",Florida,16486,704,23
-"Duval County",Texas,11273,1793,6
+"Duval County",Florida,937934,774,1212
+"Escambia County",Florida,299114,664,450
 "Flagler County",Florida,97376,485,201
+"Franklin County",Florida,11596,534,22
 "Gadsden County",Florida,46151,516,89
 "Gilchrist County",Florida,17004,349,49
 "Glades County",Florida,12635,774,16
 "Gulf County",Florida,15844,565,28
-"Hamilton County",Texas,8422,836,10
+"Hamilton County",Florida,14671,515,28
 "Hardee County",Florida,27887,637,44
 "Hendry County",Florida,39089,1153,34
 "Hernando County",Florida,173094,478,362
 "Highlands County",Florida,98630,1028,96
-"Hillsborough County","New Hampshire",406678,876,464
-"Holmes County",Mississippi,19198,756,25
+"Hillsborough County",Florida,1267775,1051,1206
+"Holmes County",Florida,19873,482,41
 "Indian River County",Florida,138894,503,276
-"Leon County",Texas,17243,1072,16
+"Jackson County",Florida,49292,916,54
+"Jefferson County",Florida,14658,598,25
+"Lafayette County",Florida,8942,543,16
+"Lake County",Florida,301019,953,316
+"Lee County",Florida,631330,804,785
+"Leon County",Florida,277971,667,417
 "Levy County",Florida,40156,1118,36
-"Liberty County",Texas,83658,1160,72
+"Liberty County",Florida,8314,836,10
+"Madison County",Florida,19115,692,28
 "Manatee County",Florida,327142,741,441
-"Martin County",Texas,5626,915,6
+"Marion County",Florida,332529,1579,211
+"Martin County",Florida,147495,556,265
 "Miami-Dade County",Florida,2662874,1946,1368
-"Nassau County","New York",59,453,0
+"Monroe County",Florida,73873,997,74
+"Nassau County",Florida,74195,652,114
 "Okaloosa County",Florida,183482,936,196
 "Okeechobee County",Florida,40140,774,52
-"Osceola County",Michigan,23528,573,41
+"Orange County",Florida,1169107,908,1288
+"Osceola County",Florida,276163,1322,209
 "Palm Beach County",Florida,1335187,2034,656
 "Pasco County",Florida,466457,745,626
 "Pinellas County",Florida,917398,280,3276
-"Putnam County","West Virginia",55486,346,160
+"Polk County",Florida,609492,1875,325
+"Putnam County",Florida,74041,722,103
 "St. Johns County",Florida,195823,609,322
 "St. Lucie County",Florida,280379,572,490
 "Santa Rosa County",Florida,154104,1016,152
 "Sarasota County",Florida,382213,572,668
-"Seminole County",Oklahoma,25482,632,40
+"Seminole County",Florida,425071,308,1380
+"Sumter County",Florida,97756,546,179
 "Suwannee County",Florida,41972,688,61
-"Taylor County",Wisconsin,20689,974,21
+"Taylor County",Florida,22691,1042,22
+"Union County",Florida,15388,240,64
 "Volusia County",Florida,494804,1106,447
 "Wakulla County",Florida,30978,607,51
-"Walton County",Georgia,84575,329,257
+"Walton County",Florida,55793,1058,53
+"Washington County",Florida,24935,580,43
 "Appling County",Georgia,18368,509,36
 "Atkinson County",Georgia,8284,338,25
 "Bacon County",Georgia,11198,285,39
+"Baker County",Georgia,3366,343,10
+"Baldwin County",Georgia,46367,258,180
 "Banks County",Georgia,18316,234,78
 "Barrow County",Georgia,70169,162,433
 "Bartow County",Georgia,100661,460,219
 "Ben Hill County",Georgia,17538,252,70
-"Berrien County",Michigan,156813,1581,99
+"Berrien County",Georgia,19041,452,42
+"Bibb County",Georgia,156462,250,626
 "Bleckley County",Georgia,12913,217,60
 "Brantley County",Georgia,18587,444,42
-"Brooks County",Texas,7235,943,8
-"Bryan County",Oklahoma,42416,909,47
+"Brooks County",Georgia,15403,494,31
+"Bryan County",Georgia,32214,442,73
 "Bulloch County",Georgia,72694,683,106
-"Burke County","North Dakota",1968,1104,2
+"Burke County",Georgia,23125,831,28
 "Butts County",Georgia,23524,187,126
-"Camden County",Missouri,44002,655,67
+"Calhoun County",Georgia,6504,280,23
+"Camden County",Georgia,51402,630,82
 "Candler County",Georgia,11117,247,45
+"Carroll County",Georgia,111580,499,224
 "Catoosa County",Georgia,65046,162,402
 "Charlton County",Georgia,13295,781,17
-"Chatham County","North Carolina",37,709,0
+"Chatham County",Georgia,276434,440,628
 "Chattahoochee County",Georgia,13037,249,52
 "Chattooga County",Georgia,25725,314,82
-"Clayton County",Iowa,18129,779,23
+"Cherokee County",Georgia,221315,424,522
+"Clarke County",Georgia,120266,121,994
+"Clay County",Georgia,3116,195,16
+"Clayton County",Georgia,265888,143,1859
 "Clinch County",Georgia,6718,809,8
 "Cobb County",Georgia,707442,340,2081
+"Coffee County",Georgia,43170,599,72
 "Colquitt County",Georgia,46137,552,84
-"Cook County",Minnesota,5176,1450,4
+"Columbia County",Georgia,131627,290,454
+"Cook County",Georgia,16923,229,74
 "Coweta County",Georgia,130929,443,296
+"Crawford County",Georgia,12600,325,39
 "Crisp County",Georgia,23606,274,86
-"Dade County",Missouri,7883,490,16
-"Dawson County",Texas,12813,902,14
-"Decatur County",Tennessee,11757,333,35
-"Dodge County",Wisconsin,88759,875,101
+"Dade County",Georgia,16490,174,95
+"Dawson County",Georgia,22422,211,106
+"Decatur County",Georgia,27509,597,46
+"DeKalb County",Georgia,707089,268,2638
+"Dodge County",Georgia,21329,501,43
 "Dooly County",Georgia,14318,393,36
 "Dougherty County",Georgia,94501,330,286
+"Douglas County",Georgia,133971,199,673
 "Early County",Georgia,10594,511,21
 "Echols County",Georgia,3988,404,10
-"Effingham County",Illinois,34242,479,71
+"Effingham County",Georgia,53293,480,111
+"Elbert County",Georgia,19684,369,53
 "Emanuel County",Georgia,22898,686,33
 "Evans County",Georgia,10689,185,58
-"Fannin County",Texas,34446,892,39
-"Floyd County",Virginia,15651,382,41
-"Forsyth County","North Carolina",67,413,0
-"Gilmer County","West Virginia",8693,340,26
+"Fannin County",Georgia,23492,386,61
+"Fayette County",Georgia,107524,197,546
+"Floyd County",Georgia,96177,513,187
+"Forsyth County",Georgia,187928,226,832
+"Franklin County",Georgia,21894,263,83
+"Fulton County",Georgia,1041423,529,1969
+"Gilmer County",Georgia,28190,427,66
 "Glascock County",Georgia,3142,144,22
 "Glynn County",Georgia,81022,422,192
 "Gordon County",Georgia,55766,355,157
-"Grady County",Oklahoma,52431,1101,48
+"Grady County",Georgia,25440,458,56
+"Greene County",Georgia,16092,388,41
 "Gwinnett County",Georgia,842046,433,1945
 "Habersham County",Georgia,43520,278,157
-"Hall County",Texas,3071,903,3
-"Hancock County","West Virginia",30676,83,370
+"Hall County",Georgia,185416,394,471
+"Hancock County",Georgia,8996,473,19
 "Haralson County",Georgia,28400,282,101
-"Harris County",Texas,4652980,1729,2691
-"Hart County",Kentucky,18597,416,45
+"Harris County",Georgia,32550,464,70
+"Hart County",Georgia,25518,232,110
 "Heard County",Georgia,11633,296,39
+"Henry County",Georgia,209053,323,647
+"Houston County",Georgia,146136,377,388
 "Irwin County",Georgia,9600,357,27
-"Jasper County",Texas,35561,938,38
-"Jeff Davis County",Texas,2280,2265,1
+"Jackson County",Georgia,60571,342,177
+"Jasper County",Georgia,13630,370,37
+"Jeff Davis County",Georgia,15156,333,46
+"Jefferson County",Georgia,16432,528,31
 "Jenkins County",Georgia,9213,350,26
-"Jones County",Texas,19983,931,21
+"Johnson County",Georgia,9897,304,33
+"Jones County",Georgia,28577,394,73
+"Lamar County",Georgia,18057,185,98
 "Lanier County",Georgia,10400,187,56
-"Laurens County","South Carolina",66777,724,92
+"Laurens County",Georgia,48041,813,59
+"Lee County",Georgia,28746,356,81
+"Liberty County",Georgia,65471,519,126
+"Lincoln County",Georgia,7737,211,37
 "Long County",Georgia,16048,401,40
+"Lowndes County",Georgia,114552,504,227
 "Lumpkin County",Georgia,30611,284,108
+"Macon County",Georgia,14263,403,35
+"Madison County",Georgia,27922,284,98
+"Marion County",Georgia,8711,367,24
 "McDuffie County",Georgia,21663,260,83
-"McIntosh County",Oklahoma,20252,620,33
+"McIntosh County",Georgia,13839,434,32
 "Meriwether County",Georgia,21273,503,42
-"Mitchell County",Texas,8468,910,9
-"Murray County",Minnesota,8725,704,12
+"Miller County",Georgia,5969,283,21
+"Mitchell County",Georgia,23144,512,45
+"Monroe County",Georgia,26637,396,67
+"Montgomery County",Georgia,8913,245,36
+"Morgan County",Georgia,17881,350,51
+"Murray County",Georgia,39392,344,115
 "Muscogee County",Georgia,198413,216,919
-"Oconee County","South Carolina",76355,674,113
+"Newton County",Georgia,101505,276,368
+"Oconee County",Georgia,33619,186,181
 "Oglethorpe County",Georgia,14618,441,33
-"Paulding County",Ohio,19614,416,47
+"Paulding County",Georgia,144800,314,461
 "Peach County",Georgia,27622,151,183
-"Pierce County",Wisconsin,41019,573,72
-"Quitman County",Mississippi,8223,405,20
+"Pickens County",Georgia,29268,232,126
+"Pierce County",Georgia,18844,343,55
+"Pike County",Georgia,17810,218,82
+"Polk County",Georgia,41188,311,132
+"Pulaski County",Georgia,11720,247,47
+"Putnam County",Georgia,21198,344,62
+"Quitman County",Georgia,2404,152,16
 "Rabun County",Georgia,16297,371,44
-"Richmond County",Virginia,8908,192,46
+"Randolph County",Georgia,7327,429,17
+"Richmond County",Georgia,202587,324,625
 "Rockdale County",Georgia,85820,131,655
 "Schley County",Georgia,4990,168,30
 "Screven County",Georgia,14202,648,22
+"Seminole County",Georgia,8947,238,38
 "Spalding County",Georgia,63865,198,323
-"Stephens County",Texas,9337,895,10
-"Stewart County",Tennessee,13324,458,29
-"Talbot County",Maryland,38098,477,80
+"Stephens County",Georgia,25891,179,145
+"Stewart County",Georgia,6042,459,13
+"Sumter County",Georgia,31554,485,65
+"Talbot County",Georgia,6517,393,17
 "Taliaferro County",Georgia,1680,195,9
 "Tattnall County",Georgia,25384,484,52
+"Taylor County",Georgia,8420,378,22
 "Telfair County",Georgia,16349,441,37
-"Terrell County",Texas,810,2358,0
-"Thomas County",Nebraska,699,713,1
+"Terrell County",Georgia,9045,336,27
+"Thomas County",Georgia,44724,548,82
 "Tift County",Georgia,41064,265,155
 "Toombs County",Georgia,27315,367,74
 "Towns County",Georgia,10495,166,63
 "Treutlen County",Georgia,6769,201,34
 "Troup County",Georgia,68468,414,165
-"Turner County","South Dakota",8347,617,14
+"Turner County",Georgia,8410,286,29
 "Twiggs County",Georgia,8447,360,23
+"Union County",Georgia,21451,323,66
 "Upson County",Georgia,26630,326,82
+"Walker County",Georgia,68094,446,153
+"Walton County",Georgia,84575,329,257
 "Ware County",Georgia,35821,903,40
-"Warren County",Virginia,39083,214,183
-"Wayne County","West Virginia",42481,506,84
-"Webster County","West Virginia",9154,556,16
-"Wheeler County",Texas,5358,914,6
+"Warren County",Georgia,5578,286,20
+"Washington County",Georgia,20879,680,31
+"Wayne County",Georgia,30305,645,47
+"Webster County",Georgia,2793,210,13
+"Wheeler County",Georgia,7888,298,26
+"White County",Georgia,27556,242,114
 "Whitfield County",Georgia,103359,290,356
-"Wilkes County","North Carolina",193,760,0
-"Wilkinson County",Mississippi,9878,677,15
-"Worth County",Missouri,2171,266,8
+"Wilcox County",Georgia,9068,380,24
+"Wilkes County",Georgia,10076,471,21
+"Wilkinson County",Georgia,9577,447,21
+"Worth County",Georgia,21741,570,38
 "Hawaii County",Hawaii,185079,4028,46
 "Honolulu County",Hawaii,953207,597,1597
 "Kalawao County",Hawaii,88,5,18
 "Kauai County",Hawaii,67091,622,108
 "Maui County",Hawaii,154834,1120,138
 "Ada County",Idaho,392365,1055,372
+"Adams County",Idaho,3976,1365,3
 "Bannock County",Idaho,82839,1113,74
 "Bear Lake County",Idaho,5986,971,6
 "Benewah County",Idaho,9285,776,12
 "Bingham County",Idaho,45607,2095,22
-"Blaine County",Oklahoma,11943,929,13
+"Blaine County",Idaho,21376,2645,8
 "Boise County",Idaho,7028,1902,4
 "Bonner County",Idaho,40877,1738,24
 "Bonneville County",Idaho,104234,1869,56
 "Boundary County",Idaho,10972,1269,9
+"Butte County",Idaho,2891,2233,1
 "Camas County",Idaho,1117,1075,1
 "Canyon County",Idaho,188923,590,320
 "Caribou County",Idaho,6963,1766,4
 "Cassia County",Idaho,22952,2567,9
-"Clearwater County",Minnesota,8695,994,9
+"Clark County",Idaho,982,1765,1
+"Clearwater County",Idaho,8761,2462,4
+"Custer County",Idaho,4368,4926,1
+"Elmore County",Idaho,27038,3078,9
+"Franklin County",Idaho,12786,666,19
+"Fremont County",Idaho,13242,1867,7
 "Gem County",Idaho,16719,563,30
 "Gooding County",Idaho,15464,731,21
 "Idaho County",Idaho,16267,8485,2
+"Jefferson County",Idaho,26140,1095,24
 "Jerome County",Idaho,22374,600,37
 "Kootenai County",Idaho,138494,1245,111
 "Latah County",Idaho,37244,1077,35
 "Lemhi County",Idaho,7936,4564,2
-"Lewis County","West Virginia",16372,389,42
+"Lewis County",Idaho,3821,479,8
+"Lincoln County",Idaho,5208,1206,4
+"Madison County",Idaho,37536,472,80
 "Minidoka County",Idaho,20069,760,26
 "Nez Perce County",Idaho,39265,849,46
-"Oneida County",Wisconsin,35998,1112,32
+"Oneida County",Idaho,4286,1200,4
 "Owyhee County",Idaho,11526,7678,2
 "Payette County",Idaho,22623,408,55
 "Power County",Idaho,7817,1406,6
 "Shoshone County",Idaho,12765,2634,5
-"Teton County",Wyoming,21675,4008,5
+"Teton County",Idaho,10170,450,23
 "Twin Falls County",Idaho,77230,1925,40
-"Valley County",Nebraska,4193,568,7
-"Alexander County","North Carolina",3,263,0
+"Valley County",Idaho,9862,3733,3
+"Washington County",Idaho,10198,1456,7
+"Adams County",Illinois,67103,857,78
+"Alexander County",Illinois,8238,236,35
 "Bond County",Illinois,17768,380,47
-"Brown County",Wisconsin,248007,529,469
+"Boone County",Illinois,54165,281,193
+"Brown County",Illinois,6937,306,23
 "Bureau County",Illinois,34978,869,40
-"Cass County",Texas,30012,938,32
-"Champaign County",Ohio,40097,428,94
-"Christian County",Missouri,77422,563,138
-"Clinton County",Pennsylvania,39238,898,44
+"Calhoun County",Illinois,5089,254,20
+"Carroll County",Illinois,15387,444,35
+"Cass County",Illinois,13642,376,36
+"Champaign County",Illinois,201081,997,202
+"Christian County",Illinois,34800,709,49
+"Clark County",Illinois,16335,502,33
+"Clay County",Illinois,13815,469,29
+"Clinton County",Illinois,37762,474,80
 "Coles County",Illinois,53873,508,106
-"Cumberland County",Virginia,9719,298,33
-"DeWitt County",Texas,20226,909,22
+"Cook County",Illinois,5194675,946,5491
+"Crawford County",Illinois,19817,444,45
+"Cumberland County",Illinois,11048,346,32
+"DeKalb County",Illinois,105160,634,166
+"DeWitt County",Illinois,16561,398,42
+"Douglas County",Illinois,19980,417,48
 "DuPage County",Illinois,916924,334,2745
 "Edgar County",Illinois,18576,624,30
-"Edwards County",Texas,1953,2120,1
-"Ford County",Kansas,34752,1099,32
-"Gallatin County",Montana,97308,2507,39
-"Grundy County",Tennessee,13703,361,38
-"Hardin County",Texas,57139,894,64
-"Henderson County",Texas,81064,874,93
+"Edwards County",Illinois,6721,222,30
+"Effingham County",Illinois,34242,479,71
+"Fayette County",Illinois,22140,716,31
+"Ford County",Illinois,14081,486,29
+"Franklin County",Illinois,39561,412,96
+"Fulton County",Illinois,37069,866,43
+"Gallatin County",Illinois,5589,324,17
+"Greene County",Illinois,13886,543,26
+"Grundy County",Illinois,50063,420,119
+"Hamilton County",Illinois,8457,435,19
+"Hancock County",Illinois,19104,795,24
+"Hardin County",Illinois,4320,178,24
+"Henderson County",Illinois,7331,379,19
+"Henry County",Illinois,50486,823,61
 "Iroquois County",Illinois,29718,1116,27
+"Jackson County",Illinois,60218,588,102
+"Jasper County",Illinois,9698,494,20
+"Jefferson County",Illinois,38827,571,68
 "Jersey County",Illinois,22985,369,62
 "Jo Daviess County",Illinois,22678,601,38
-"Kane County",Utah,7125,3990,2
+"Johnson County",Illinois,12582,346,36
+"Kane County",Illinois,515269,521,989
 "Kankakee County",Illinois,113449,678,167
-"Kendall County",Texas,44026,662,67
-"Knox County",Texas,3710,854,4
+"Kendall County",Illinois,114736,321,357
+"Knox County",Illinois,52919,716,74
+"Lake County",Illinois,703462,448,1570
 "LaSalle County",Illinois,113924,1135,100
-"Livingston County",Missouri,15195,535,28
+"Lawrence County",Illinois,16833,372,45
+"Lee County",Illinois,36031,725,50
+"Livingston County",Illinois,38950,1044,37
+"Logan County",Illinois,30305,618,49
+"Macon County",Illinois,110768,581,191
 "Macoupin County",Illinois,47765,864,55
-"Mason County","West Virginia",27324,432,63
+"Madison County",Illinois,269282,725,371
+"Marion County",Illinois,39437,572,69
+"Marshall County",Illinois,12640,386,33
+"Mason County",Illinois,14666,539,27
 "Massac County",Illinois,15429,239,65
 "McDonough County",Illinois,32612,589,55
-"McHenry County","North Dakota",5395,1874,3
-"McLean County","North Dakota",8962,2110,4
-"Menard County",Texas,2124,902,2
-"Mercer County","West Virginia",62264,420,148
+"McHenry County",Illinois,308760,604,511
+"McLean County",Illinois,169572,1184,143
+"Menard County",Illinois,12705,314,40
+"Mercer County",Illinois,16434,561,29
+"Monroe County",Illinois,32957,388,85
+"Montgomery County",Illinois,30104,704,43
+"Morgan County",Illinois,35547,569,62
 "Moultrie County",Illinois,14846,336,44
 "Ogle County",Illinois,53497,759,70
 "Peoria County",Illinois,186494,620,301
+"Perry County",Illinois,22350,441,51
 "Piatt County",Illinois,16729,440,38
-"Richland County",Wisconsin,18021,586,31
+"Pike County",Illinois,16430,830,20
+"Pope County",Illinois,4470,371,12
+"Pulaski County",Illinois,6161,201,31
+"Putnam County",Illinois,6006,160,38
+"Randolph County",Illinois,33476,578,58
+"Richland County",Illinois,16233,360,45
 "Rock Island County",Illinois,147546,427,346
+"Saline County",Illinois,24913,383,65
 "Sangamon County",Illinois,197465,868,227
-"Schuyler County",Missouri,4431,308,14
-"Stark County",Ohio,375586,576,652
+"Schuyler County",Illinois,7544,437,17
+"Scott County",Illinois,5355,251,21
+"Shelby County",Illinois,22363,759,29
+"St. Clair County",Illinois,270056,664,407
+"Stark County",Illinois,5994,288,21
 "Stephenson County",Illinois,47711,564,85
-"Tazewell County",Virginia,42899,520,82
+"Tazewell County",Illinois,135394,649,209
+"Union County",Illinois,17808,416,43
 "Vermilion County",Illinois,81625,899,91
-"Wabash County",Indiana,32888,412,80
+"Wabash County",Illinois,11947,224,53
+"Warren County",Illinois,17707,543,33
+"Washington County",Illinois,14716,563,26
+"Wayne County",Illinois,16760,714,23
+"White County",Illinois,14665,495,30
 "Whiteside County",Illinois,58498,685,85
 "Will County",Illinois,677560,837,810
-"Williamson County",Texas,547545,1124,487
-"Winnebago County",Wisconsin,166994,434,385
-"Woodford County",Kentucky,25563,191,134
-"Allen County",Ohio,106331,404,263
+"Williamson County",Illinois,66357,424,157
+"Winnebago County",Illinois,295266,514,574
+"Woodford County",Illinois,38664,528,73
+"Adams County",Indiana,34387,339,101
+"Allen County",Indiana,355329,657,541
 "Bartholomew County",Indiana,76794,407,189
+"Benton County",Indiana,8854,406,22
 "Blackford County",Indiana,12766,165,77
-"Daviess County",Missouri,8433,567,15
+"Boone County",Indiana,56640,423,134
+"Brown County",Indiana,15242,312,49
+"Carroll County",Indiana,20165,372,54
+"Cass County",Indiana,38966,412,95
+"Clark County",Indiana,110232,373,296
+"Clay County",Indiana,26890,358,75
+"Clinton County",Indiana,33224,405,82
+"Crawford County",Indiana,10713,306,35
+"Daviess County",Indiana,31648,429,74
 "Dearborn County",Indiana,50047,305,164
-"Delaware County",Pennsylvania,558979,191,2927
+"Decatur County",Indiana,25740,373,69
+"DeKalb County",Indiana,40285,363,111
+"Delaware County",Indiana,117671,392,300
 "Dubois County",Indiana,41889,427,98
 "Elkhart County",Indiana,197559,463,427
+"Fayette County",Indiana,24277,215,113
+"Floyd County",Indiana,74578,148,504
 "Fountain County",Indiana,17240,396,44
-"Gibson County",Tennessee,49683,603,82
-"Harrison County","West Virginia",69099,416,166
+"Franklin County",Indiana,23087,384,60
+"Fulton County",Indiana,20836,368,57
+"Gibson County",Indiana,33503,487,69
+"Grant County",Indiana,70061,414,169
+"Greene County",Indiana,33165,543,61
+"Hamilton County",Indiana,274569,394,697
+"Hancock County",Indiana,70002,306,229
+"Harrison County",Indiana,39364,485,81
 "Hendricks County",Indiana,145488,407,357
+"Henry County",Indiana,49462,392,126
+"Howard County",Indiana,82752,293,282
 "Huntington County",Indiana,37124,383,97
+"Jackson County",Indiana,42367,509,83
+"Jasper County",Indiana,33478,560,60
 "Jay County",Indiana,21253,384,55
+"Jefferson County",Indiana,32428,361,90
 "Jennings County",Indiana,28525,377,76
+"Johnson County",Indiana,139654,320,436
+"Knox County",Indiana,38440,516,74
 "Kosciusko County",Indiana,77358,531,146
 "LaGrange County",Indiana,37128,380,98
+"Lake County",Indiana,496005,499,994
 "LaPorte County",Indiana,111467,598,186
-"Miami County",Ohio,102506,407,252
-"Noble County",Oklahoma,11561,732,16
-"Ohio County","West Virginia",44443,106,419
-"Owen County",Kentucky,10645,352,30
+"Lawrence County",Indiana,46134,449,103
+"Madison County",Indiana,131636,452,291
+"Marion County",Indiana,903393,396,2281
+"Marshall County",Indiana,47051,444,106
+"Martin County",Indiana,10334,336,31
+"Miami County",Indiana,36903,374,99
+"Monroe County",Indiana,137974,395,349
+"Montgomery County",Indiana,38124,505,75
+"Morgan County",Indiana,68894,404,171
+"Newton County",Indiana,14244,402,35
+"Noble County",Indiana,47536,411,116
+"Ohio County",Indiana,6128,86,71
+"Orange County",Indiana,19840,398,50
+"Owen County",Indiana,21575,385,56
 "Parke County",Indiana,17339,445,39
+"Perry County",Indiana,19338,382,51
+"Pike County",Indiana,12845,334,38
 "Porter County",Indiana,164343,418,393
 "Posey County",Indiana,25910,410,63
-"Ripley County",Missouri,14100,630,22
-"Rush County",Kansas,3220,718,4
-"St. Joseph County",Michigan,61295,521,118
-"Spencer County",Kentucky,17668,186,95
+"Pulaski County",Indiana,13402,434,31
+"Putnam County",Indiana,36019,481,75
+"Randolph County",Indiana,26171,452,58
+"Ripley County",Indiana,28818,446,65
+"Rush County",Indiana,17392,408,43
+"St. Joseph County",Indiana,266931,458,583
+"Scott County",Indiana,24181,190,127
+"Shelby County",Indiana,44436,411,108
+"Spencer County",Indiana,20952,397,53
 "Starke County",Indiana,23363,309,76
-"Steuben County","New York",101,1404,0
-"Sullivan County",Tennessee,156823,413,380
+"Steuben County",Indiana,34185,309,111
+"Sullivan County",Indiana,21745,447,49
 "Switzerland County",Indiana,10613,221,48
 "Tippecanoe County",Indiana,172780,500,346
-"Tipton County",Tennessee,61081,459,133
+"Tipton County",Indiana,15936,261,61
+"Union County",Indiana,7516,161,47
 "Vanderburgh County",Indiana,179703,233,771
 "Vermillion County",Indiana,16212,257,63
 "Vigo County",Indiana,107818,403,268
+"Wabash County",Indiana,32888,412,80
+"Warren County",Indiana,8508,365,23
 "Warrick County",Indiana,59689,385,155
-"Wells County","North Dakota",4207,1271,3
-"Whitley County",Kentucky,35503,440,81
-"Adair County",Missouri,25607,568,45
+"Washington County",Indiana,28262,514,55
+"Wayne County",Indiana,68917,402,171
+"Wells County",Indiana,27636,368,75
+"White County",Indiana,24643,505,49
+"Whitley County",Indiana,33292,336,99
+"Adair County",Iowa,7682,569,14
+"Adams County",Iowa,4029,424,10
 "Allamakee County",Iowa,14330,640,22
 "Appanoose County",Iowa,12884,496,26
 "Audubon County",Iowa,6119,443,14
+"Benton County",Iowa,26076,716,36
 "Black Hawk County",Iowa,131090,567,231
+"Boone County",Iowa,26306,572,46
 "Bremer County",Iowa,24276,428,57
-"Buchanan County",Virginia,22776,504,45
+"Buchanan County",Iowa,20958,571,37
 "Buena Vista County",Iowa,20260,575,35
-"Cedar County",Missouri,13982,476,29
+"Butler County",Iowa,14867,580,26
+"Calhoun County",Iowa,9670,570,17
+"Carroll County",Iowa,20816,569,37
+"Cass County",Iowa,13956,564,25
+"Cedar County",Iowa,18499,580,32
 "Cerro Gordo County",Iowa,44151,568,78
-"Chickasaw County",Mississippi,17392,502,35
-"Davis County",Utah,306479,299,1025
+"Cherokee County",Iowa,12072,577,21
+"Chickasaw County",Iowa,12439,505,25
+"Clarke County",Iowa,9286,431,22
+"Clay County",Iowa,16667,569,29
+"Clayton County",Iowa,18129,779,23
+"Clinton County",Iowa,49116,695,71
+"Crawford County",Iowa,17096,714,24
+"Dallas County",Iowa,66135,586,113
+"Davis County",Iowa,8753,503,17
+"Decatur County",Iowa,8457,532,16
+"Delaware County",Iowa,17764,578,31
 "Des Moines County",Iowa,40325,416,97
-"Dickinson County",Michigan,26168,777,34
+"Dickinson County",Iowa,16667,381,44
 "Dubuque County",Iowa,93653,608,154
-"Emmet County",Michigan,32694,882,37
+"Emmet County",Iowa,10302,396,26
+"Fayette County",Iowa,20880,731,29
+"Floyd County",Iowa,16303,501,33
+"Franklin County",Iowa,10680,582,18
+"Fremont County",Iowa,7441,511,15
+"Greene County",Iowa,9336,568,16
+"Grundy County",Iowa,12453,503,25
 "Guthrie County",Iowa,10954,591,19
+"Hamilton County",Iowa,15673,577,27
+"Hancock County",Iowa,11341,571,20
+"Hardin County",Iowa,17534,569,31
+"Harrison County",Iowa,14928,697,21
+"Henry County",Iowa,20145,434,46
+"Howard County",Iowa,9566,473,20
+"Humboldt County",Iowa,9815,434,23
 "Ida County",Iowa,7089,432,16
-"Iowa County",Wisconsin,23687,762,31
+"Iowa County",Iowa,16355,586,28
+"Jackson County",Iowa,19848,636,31
+"Jasper County",Iowa,36842,730,50
+"Jefferson County",Iowa,16843,435,39
+"Johnson County",Iowa,130882,614,213
+"Jones County",Iowa,20638,575,36
 "Keokuk County",Iowa,10511,579,18
 "Kossuth County",Iowa,15543,973,16
-"Linn County",Missouri,12761,620,21
-"Louisa County",Virginia,34602,498,69
-"Lucas County",Ohio,441815,340,1299
-"Lyon County",Minnesota,25857,714,36
+"Lee County",Iowa,35862,517,69
+"Linn County",Iowa,211226,718,294
+"Louisa County",Iowa,11387,402,28
+"Lucas County",Iowa,8898,431,21
+"Lyon County",Iowa,11581,588,20
+"Madison County",Iowa,15679,561,28
 "Mahaska County",Iowa,22381,571,39
-"Mills County",Texas,4921,748,7
+"Marion County",Iowa,33309,554,60
+"Marshall County",Iowa,40648,572,71
+"Mills County",Iowa,15059,437,34
+"Mitchell County",Iowa,10776,469,23
 "Monona County",Iowa,9243,693,13
+"Monroe County",Iowa,7970,433,18
+"Montgomery County",Iowa,10740,424,25
 "Muscatine County",Iowa,42745,439,97
 "O'Brien County",Iowa,14398,573,25
-"Page County",Virginia,23726,311,76
+"Osceola County",Iowa,6462,399,16
+"Page County",Iowa,15932,535,30
 "Palo Alto County",Iowa,9421,564,17
-"Plymouth County",Massachusetts,494919,661,749
-"Pocahontas County","West Virginia",8719,940,9
+"Plymouth County",Iowa,24986,864,29
+"Pocahontas County",Iowa,7310,578,13
+"Polk County",Iowa,430640,570,756
 "Pottawattamie County",Iowa,93158,954,98
 "Poweshiek County",Iowa,18914,585,32
 "Ringgold County",Iowa,5131,538,10
 "Sac County",Iowa,10350,576,18
-"Sioux County","North Dakota",4153,1094,4
+"Scott County",Iowa,165224,458,361
+"Shelby County",Iowa,12167,591,21
+"Sioux County",Iowa,33704,768,44
 "Story County",Iowa,89542,573,156
 "Tama County",Iowa,17767,721,25
+"Taylor County",Iowa,6317,534,12
+"Union County",Iowa,12534,424,30
+"Van Buren County",Iowa,7570,485,16
 "Wapello County",Iowa,35625,432,82
+"Warren County",Iowa,46225,572,81
+"Washington County",Iowa,21704,569,38
+"Wayne County",Iowa,6403,526,12
+"Webster County",Iowa,38013,715,53
+"Winnebago County",Iowa,10866,400,27
 "Winneshiek County",Iowa,21056,690,31
 "Woodbury County",Iowa,102172,873,117
-"Wright County",Missouri,18815,682,28
-"Anderson County",Texas,57741,1071,54
-"Atchison County",Missouri,5685,545,10
+"Worth County",Iowa,7598,400,19
+"Wright County",Iowa,13229,581,23
+"Allen County",Kansas,13319,503,26
+"Anderson County",Kansas,7917,583,14
+"Atchison County",Kansas,16813,432,39
 "Barber County",Kansas,4861,1134,4
-"Barton County",Missouri,12402,594,21
-"Bourbon County",Kentucky,19972,291,69
-"Chase County",Nebraska,4000,894,4
-"Chautauqua County","New York",13,1500,0
+"Barton County",Kansas,27557,894,31
+"Bourbon County",Kansas,14897,637,23
+"Brown County",Kansas,9881,571,17
+"Butler County",Kansas,65827,1428,46
+"Chase County",Kansas,2757,776,4
+"Chautauqua County",Kansas,3571,642,6
+"Cherokee County",Kansas,21226,587,36
+"Cheyenne County",Kansas,2678,1020,3
+"Clark County",Kansas,2181,975,2
+"Clay County",Kansas,8531,644,13
 "Cloud County",Kansas,9397,716,13
 "Coffey County",Kansas,8502,630,13
-"Comanche County",Texas,13573,938,14
+"Comanche County",Kansas,1913,788,2
 "Cowley County",Kansas,36288,1126,32
+"Crawford County",Kansas,39361,593,66
+"Decatur County",Kansas,2871,894,3
+"Dickinson County",Kansas,19762,848,23
 "Doniphan County",Kansas,7864,392,20
-"Elk County",Pennsylvania,31946,832,38
-"Ellis County",Texas,173620,940,185
+"Douglas County",Kansas,112864,457,247
+"Edwards County",Kansas,2979,622,5
+"Elk County",Kansas,2720,648,4
+"Ellis County",Kansas,29053,900,32
 "Ellsworth County",Kansas,6494,716,9
 "Finney County",Kansas,37200,1300,29
+"Ford County",Kansas,34752,1099,32
+"Franklin County",Kansas,25906,574,45
 "Geary County",Kansas,38013,384,99
 "Gove County",Kansas,2729,1072,3
-"Gray County",Texas,22404,928,24
-"Greeley County",Nebraska,2494,570,4
-"Greenwood County","South Carolina",70133,463,151
-"Harper County",Oklahoma,3685,1039,4
+"Graham County",Kansas,2578,898,3
+"Grant County",Kansas,7923,575,14
+"Gray County",Kansas,6030,869,7
+"Greeley County",Kansas,1298,778,2
+"Greenwood County",Kansas,6454,1140,6
+"Hamilton County",Kansas,2639,996,3
+"Harper County",Kansas,5911,802,7
 "Harvey County",Kansas,34852,539,65
-"Haskell County",Texas,5746,903,6
+"Haskell County",Kansas,4256,577,7
 "Hodgeman County",Kansas,1963,860,2
+"Jackson County",Kansas,13449,657,20
+"Jefferson County",Kansas,18945,536,35
 "Jewell County",Kansas,3046,909,3
+"Johnson County",Kansas,559913,477,1174
 "Kearny County",Kansas,3968,870,5
 "Kingman County",Kansas,7863,864,9
+"Kiowa County",Kansas,2496,722,3
 "Labette County",Kansas,21284,649,33
-"Lane County",Oregon,365940,4554,80
+"Lane County",Kansas,1704,717,2
 "Leavenworth County",Kansas,77739,463,168
-"McPherson County","South Dakota",2459,1137,2
-"Meade County","South Dakota",25434,3471,7
-"Morris County",Texas,12467,254,49
-"Morton County","North Dakota",27471,1926,14
-"Nemaha County",Nebraska,7157,409,17
+"Lincoln County",Kansas,3174,719,4
+"Linn County",Kansas,9441,599,16
+"Logan County",Kansas,2784,1073,3
+"Lyon County",Kansas,33748,851,40
+"Marion County",Kansas,12347,943,13
+"Marshall County",Kansas,10022,903,11
+"McPherson County",Kansas,29356,900,33
+"Meade County",Kansas,4396,978,4
+"Miami County",Kansas,32612,577,57
+"Mitchell County",Kansas,6355,700,9
+"Montgomery County",Kansas,34459,645,53
+"Morris County",Kansas,5854,697,8
+"Morton County",Kansas,3169,730,4
+"Nemaha County",Kansas,10132,719,14
 "Neosho County",Kansas,16406,572,29
 "Ness County",Kansas,3068,1075,3
 "Norton County",Kansas,5612,878,6
-"Osage County",Missouri,13878,606,23
+"Osage County",Kansas,16142,704,23
 "Osborne County",Kansas,3806,893,4
-"Ottawa County",Michigan,263801,1632,162
-"Pawnee County",Oklahoma,16577,570,29
-"Pottawatomie County",Oklahoma,69442,788,88
+"Ottawa County",Kansas,6072,721,8
+"Pawnee County",Kansas,6928,754,9
+"Phillips County",Kansas,5519,886,6
+"Pottawatomie County",Kansas,22302,844,26
 "Pratt County",Kansas,9728,735,13
 "Rawlins County",Kansas,2560,1070,2
 "Reno County",Kansas,64438,1254,51
 "Republic County",Kansas,4858,716,7
-"Rice County",Minnesota,64142,497,129
+"Rice County",Kansas,9985,727,14
 "Riley County",Kansas,75508,610,124
 "Rooks County",Kansas,5223,888,6
-"Seward County",Nebraska,17089,575,30
+"Rush County",Kansas,3220,718,4
+"Russell County",Kansas,6946,885,8
+"Saline County",Kansas,55988,720,78
+"Scott County",Kansas,4937,718,7
+"Sedgwick County",Kansas,503889,1000,504
+"Seward County",Kansas,23547,640,37
 "Shawnee County",Kansas,178991,550,325
-"Sheridan County",Wyoming,29596,2523,12
-"Sherman County",Texas,3067,923,3
-"Smith County",Texas,227727,928,245
-"Stafford County",Virginia,142003,270,526
-"Stanton County",Nebraska,6133,430,14
-"Stevens County",Washington,45723,2478,18
-"Sumner County",Tennessee,160645,529,304
+"Sheridan County",Kansas,2538,896,3
+"Sherman County",Kansas,6113,1056,6
+"Smith County",Kansas,3765,896,4
+"Stafford County",Kansas,4358,792,6
+"Stanton County",Kansas,2175,680,3
+"Stevens County",Kansas,5756,728,8
+"Sumner County",Kansas,23674,1182,20
+"Thomas County",Kansas,7941,1075,7
 "Trego County",Kansas,2986,888,3
 "Wabaunsee County",Kansas,7039,798,9
 "Wallace County",Kansas,1517,914,2
-"Wichita County",Texas,132000,628,210
-"Wilson County",Texas,49304,807,61
+"Washington County",Kansas,5758,898,6
+"Wichita County",Kansas,2256,719,3
+"Wilson County",Kansas,9105,574,16
 "Woodson County",Kansas,3278,501,7
 "Wyandotte County",Kansas,159129,151,1054
+"Adair County",Kentucky,19204,407,47
+"Allen County",Kentucky,20384,346,59
+"Anderson County",Kentucky,21888,203,108
 "Ballard County",Kentucky,8240,251,33
 "Barren County",Kentucky,43148,491,88
-"Bath County",Virginia,4470,532,8
-"Bell County",Texas,347833,1059,328
-"Boyd County",Nebraska,2032,540,4
+"Bath County",Kentucky,12206,279,44
+"Bell County",Kentucky,27778,361,77
+"Boone County",Kentucky,126413,246,514
+"Bourbon County",Kentucky,19972,291,69
+"Boyd County",Kentucky,48832,160,305
 "Boyle County",Kentucky,29706,182,163
 "Bracken County",Kentucky,8406,203,41
 "Breathitt County",Kentucky,13409,495,27
 "Breckinridge County",Kentucky,19888,572,35
 "Bullitt County",Kentucky,77955,299,261
-"Caldwell County",Texas,42338,546,78
+"Butler County",Kentucky,12875,428,30
+"Caldwell County",Kentucky,12725,347,37
 "Calloway County",Kentucky,38282,386,99
-"Campbell County",Wyoming,47874,4797,10
+"Campbell County",Kentucky,91833,152,604
 "Carlisle County",Kentucky,4978,192,26
-"Carter County",Tennessee,57424,341,168
+"Carroll County",Kentucky,10815,130,83
+"Carter County",Kentucky,27223,411,66
 "Casey County",Kentucky,15891,446,36
+"Christian County",Kentucky,74250,721,103
+"Clark County",Kentucky,35758,254,141
+"Clay County",Kentucky,21147,471,45
+"Clinton County",Kentucky,10165,198,51
+"Crittenden County",Kentucky,9224,362,25
+"Cumberland County",Kentucky,6745,306,22
+"Daviess County",Kentucky,98275,462,213
 "Edmonson County",Kentucky,12013,303,40
 "Elliott County",Kentucky,7672,234,33
 "Estill County",Kentucky,14447,254,57
+"Fayette County",Kentucky,310797,284,1094
 "Fleming County",Kentucky,14545,351,41
+"Floyd County",Kentucky,38108,394,97
+"Franklin County",Kentucky,49880,210,238
+"Fulton County",Kentucky,6265,209,30
+"Gallatin County",Kentucky,8589,99,87
 "Garrard County",Kentucky,16858,231,73
+"Grant County",Kentucky,24875,260,96
 "Graves County",Kentucky,37618,556,68
-"Grayson County",Virginia,16012,443,36
-"Green County",Wisconsin,36842,583,63
+"Grayson County",Kentucky,26194,504,52
+"Green County",Kentucky,11043,289,38
 "Greenup County",Kentucky,36308,346,105
-"Harlan County",Nebraska,3513,553,6
-"Hickman County",Tennessee,24690,613,40
-"Hopkins County",Texas,36496,785,46
+"Hancock County",Kentucky,8753,189,46
+"Hardin County",Kentucky,108266,628,172
+"Harlan County",Kentucky,28163,467,60
+"Harrison County",Kentucky,18592,310,60
+"Hart County",Kentucky,18597,416,45
+"Henderson County",Kentucky,46467,440,106
+"Henry County",Kentucky,15572,289,54
+"Hickman County",Kentucky,4734,244,19
+"Hopkins County",Kentucky,46376,551,84
+"Jackson County",Kentucky,13289,346,38
+"Jefferson County",Kentucky,760026,385,1974
 "Jessamine County",Kentucky,50815,173,294
+"Johnson County",Kentucky,23262,262,89
 "Kenton County",Kentucky,163929,163,1006
 "Knott County",Kentucky,15892,352,45
+"Knox County",Kentucky,31798,388,82
 "LaRue County",Kentucky,14180,263,54
 "Laurel County",Kentucky,60015,436,138
+"Lawrence County",Kentucky,15804,419,38
+"Lee County",Kentucky,7594,210,36
 "Leslie County",Kentucky,10918,404,27
 "Letcher County",Kentucky,23359,339,69
+"Lewis County",Kentucky,13880,484,29
+"Lincoln County",Kentucky,24445,337,73
+"Livingston County",Kentucky,9359,316,30
+"Logan County",Kentucky,26867,556,48
+"Lyon County",Kentucky,8430,216,39
 "McCracken County",Kentucky,65316,251,260
 "McCreary County",Kentucky,17863,428,42
+"McLean County",Kentucky,9478,254,37
+"Madison County",Kentucky,87340,441,198
 "Magoffin County",Kentucky,12913,310,42
+"Marion County",Kentucky,20007,347,58
+"Marshall County",Kentucky,30953,305,101
+"Martin County",Kentucky,12537,231,54
+"Mason County",Kentucky,17166,241,71
+"Meade County",Kentucky,29139,308,95
 "Menifee County",Kentucky,6287,204,31
+"Mercer County",Kentucky,21319,251,85
 "Metcalfe County",Kentucky,9990,291,34
+"Monroe County",Kentucky,10704,331,32
+"Montgomery County",Kentucky,27474,199,138
+"Morgan County",Kentucky,13303,381,35
 "Muhlenberg County",Kentucky,31207,475,66
-"Nelson County",Virginia,14785,472,31
-"Nicholas County","West Virginia",26233,649,40
-"Oldham County",Texas,2114,1501,1
+"Nelson County",Kentucky,44812,423,106
+"Nicholas County",Kentucky,7041,197,36
+"Ohio County",Kentucky,23977,594,40
+"Oldham County",Kentucky,63490,189,336
+"Owen County",Kentucky,10645,352,30
 "Owsley County",Kentucky,4508,198,23
-"Pendleton County","West Virginia",7695,698,11
-"Powell County",Montana,6909,2326,3
-"Robertson County",Texas,17203,855,20
+"Pendleton County",Kentucky,14493,280,52
+"Perry County",Kentucky,27597,342,81
+"Pike County",Kentucky,63034,788,80
+"Powell County",Kentucky,12434,180,69
+"Pulaski County",Kentucky,63825,662,96
+"Robertson County",Kentucky,2197,100,22
 "Rockcastle County",Kentucky,16826,318,53
-"Rowan County","North Carolina",159,524,0
-"Simpson County",Mississippi,27503,589,47
-"Todd County","South Dakota",9612,1388,7
+"Rowan County",Kentucky,23655,281,84
+"Russell County",Kentucky,17774,254,70
+"Scott County",Kentucky,51284,285,180
+"Shelby County",Kentucky,44875,384,117
+"Simpson County",Kentucky,17826,236,76
+"Spencer County",Kentucky,17668,186,95
+"Taylor County",Kentucky,25257,270,94
+"Todd County",Kentucky,12520,376,33
 "Trigg County",Kentucky,14142,443,32
 "Trimble County",Kentucky,8786,149,59
+"Union County",Kentucky,15165,345,44
+"Warren County",Kentucky,120460,545,221
+"Washington County",Kentucky,11959,301,40
+"Wayne County",Kentucky,20486,459,45
+"Webster County",Kentucky,13236,335,40
+"Whitley County",Kentucky,35503,440,81
 "Wolfe County",Kentucky,7214,223,32
+"Woodford County",Kentucky,25563,191,134
 "Acadia Parish",Louisiana,61773,658,94
 "Allen Parish",Louisiana,25764,766,34
 "Ascension Parish",Louisiana,107215,303,354
@@ -803,404 +1168,704 @@ Yakutat,Alaska,540,7623,0
 "Winn Parish",Louisiana,15313,957,16
 "Androscoggin County",Maine,107233,497,216
 "Aroostook County",Maine,68628,6829,10
+"Cumberland County",Maine,289977,1217,238
+"Franklin County",Maine,29991,1744,17
+"Hancock County",Maine,54659,2351,23
 "Kennebec County",Maine,119980,951,126
+"Knox County",Maine,39855,1142,35
+"Lincoln County",Maine,33969,700,49
 "Oxford County",Maine,57202,2175,26
 "Penobscot County",Maine,152692,3556,43
 "Piscataquis County",Maine,16931,4377,4
 "Sagadahoc County",Maine,35149,370,95
-"Somerset County",Pennsylvania,77742,1081,72
+"Somerset County",Maine,51113,4095,12
 "Waldo County",Maine,39155,853,46
-"York County",Virginia,67837,106,640
+"Washington County",Maine,31625,3255,10
+"York County",Maine,201169,1271,158
 "Beaverhead County",Montana,9345,5543,2
-"Big Horn County",Wyoming,11794,3137,4
+"Big Horn County",Montana,13282,4995,3
+"Blaine County",Montana,6619,4226,2
 "Broadwater County",Montana,5667,1192,5
-"Carbon County",Wyoming,15666,7897,2
+"Carbon County",Montana,10399,2048,5
+"Carter County",Montana,1169,3340,0
 "Cascade County",Montana,82344,2698,31
 "Chouteau County",Montana,5894,3973,1
+"Custer County",Montana,12092,3783,3
 "Daniels County",Montana,1793,1426,1
+"Dawson County",Montana,9518,2373,4
 "Deer Lodge County",Montana,9150,737,12
 "Fallon County",Montana,3108,1620,2
 "Fergus County",Montana,11442,4339,3
 "Flathead County",Montana,94924,5099,19
+"Gallatin County",Montana,97308,2507,39
+"Garfield County",Montana,1309,4668,0
 "Glacier County",Montana,13696,2995,5
-"Golden Valley County","North Dakota",1680,1002,2
+"Golden Valley County",Montana,852,1175,1
 "Granite County",Montana,3209,1728,2
-"Hill County",Texas,35852,962,37
+"Hill County",Montana,16596,2896,6
+"Jefferson County",Montana,11558,1657,7
 "Judith Basin County",Montana,1991,1870,1
+"Lake County",Montana,29099,1494,19
 "Lewis and Clark County",Montana,65856,3461,19
+"Liberty County",Montana,2359,1430,2
+"Lincoln County",Montana,19125,3613,5
 "McCone County",Montana,1694,2643,1
+"Madison County",Montana,7820,3587,2
 "Meagher County",Montana,1853,2392,1
+"Mineral County",Montana,4257,1220,3
 "Missoula County",Montana,112684,2598,43
 "Musselshell County",Montana,4589,1867,2
+"Park County",Montana,15880,2656,6
 "Petroleum County",Montana,485,1654,0
+"Phillips County",Montana,4192,5140,1
 "Pondera County",Montana,6219,1625,4
 "Powder River County",Montana,1783,3297,1
+"Powell County",Montana,6909,2326,3
+"Prairie County",Montana,1148,1737,1
 "Ravalli County",Montana,41030,2394,17
-"Roosevelt County","New Mexico",41,2449,0
+"Richland County",Montana,11576,2084,6
+"Roosevelt County",Montana,11332,2356,5
 "Rosebud County",Montana,9326,5012,2
 "Sanders County",Montana,11364,2762,4
+"Sheridan County",Montana,3696,1677,2
 "Silver Bow County",Montana,34680,718,48
 "Stillwater County",Montana,9290,1795,5
 "Sweet Grass County",Montana,3665,1855,2
+"Teton County",Montana,6064,2273,3
 "Toole County",Montana,5150,1911,3
 "Treasure County",Montana,692,979,1
+"Valley County",Montana,7640,4921,2
 "Wheatland County",Montana,2102,1423,1
 "Wibaux County",Montana,1121,889,1
 "Yellowstone County",Montana,155634,2635,59
+"Adams County",Nebraska,31610,563,56
 "Antelope County",Nebraska,6456,857,8
 "Arthur County",Nebraska,458,715,1
 "Banner County",Nebraska,759,746,1
+"Blaine County",Nebraska,482,711,1
+"Boone County",Nebraska,5388,687,8
 "Box Butte County",Nebraska,11305,1075,11
-"Buffalo County",Wisconsin,13587,671,20
+"Boyd County",Nebraska,2032,540,4
+"Brown County",Nebraska,2926,1221,2
+"Buffalo County",Nebraska,47893,968,49
 "Burt County",Nebraska,6574,493,13
+"Butler County",Nebraska,8312,584,14
+"Cass County",Nebraska,25357,559,45
+"Cedar County",Nebraska,8711,740,12
+"Chase County",Nebraska,4000,894,4
 "Cherry County",Nebraska,5788,5961,1
-"Colfax County","New Mexico",7,3757,0
+"Cheyenne County",Nebraska,10091,1196,8
+"Clay County",Nebraska,6392,573,11
+"Colfax County",Nebraska,10425,413,25
 "Cuming County",Nebraska,8996,572,16
-"Dakota County",Minnesota,398552,569,700
+"Custer County",Nebraska,10792,2576,4
+"Dakota County",Nebraska,20947,264,79
 "Dawes County",Nebraska,9088,1396,7
-"Deuel County","South Dakota",4364,624,7
+"Dawson County",Nebraska,24207,1013,24
+"Deuel County",Nebraska,1937,440,4
 "Dixon County",Nebraska,5851,476,12
+"Dodge County",Nebraska,36515,534,68
+"Douglas County",Nebraska,537256,331,1623
 "Dundy County",Nebraska,1981,920,2
-"Fillmore County",Minnesota,20866,861,24
+"Fillmore County",Nebraska,5698,576,10
+"Franklin County",Nebraska,3085,576,5
 "Frontier County",Nebraska,2709,975,3
 "Furnas County",Nebraska,4865,718,7
 "Gage County",Nebraska,21864,855,26
 "Garden County",Nebraska,1902,1705,1
+"Garfield County",Nebraska,2035,570,4
 "Gosper County",Nebraska,1972,458,4
+"Grant County",Nebraska,633,776,1
+"Greeley County",Nebraska,2494,570,4
+"Hall County",Nebraska,60720,546,111
+"Hamilton County",Nebraska,9112,544,17
+"Harlan County",Nebraska,3513,553,6
 "Hayes County",Nebraska,976,713,1
 "Hitchcock County",Nebraska,2872,710,4
-"Holt County",Missouri,4912,462,11
+"Holt County",Nebraska,10449,2413,4
 "Hooker County",Nebraska,738,721,1
+"Howard County",Nebraska,6355,570,11
+"Jefferson County",Nebraska,7560,573,13
+"Johnson County",Nebraska,5144,376,14
 "Kearney County",Nebraska,6548,516,13
 "Keith County",Nebraska,8130,1061,8
 "Keya Paha County",Nebraska,790,773,1
 "Kimball County",Nebraska,3702,952,4
-"Lancaster County",Virginia,10965,133,82
+"Knox County",Nebraska,8565,1108,8
+"Lancaster County",Nebraska,297036,839,354
+"Lincoln County",Nebraska,36051,2564,14
+"Logan County",Nebraska,763,571,1
 "Loup County",Nebraska,576,570,1
+"Madison County",Nebraska,35278,573,62
+"McPherson County",Nebraska,526,859,1
 "Merrick County",Nebraska,7802,485,16
 "Morrill County",Nebraska,4908,1424,3
 "Nance County",Nebraska,3623,441,8
+"Nemaha County",Nebraska,7157,409,17
 "Nuckolls County",Nebraska,4413,575,8
 "Otoe County",Nebraska,15752,616,26
-"Perkins County","South Dakota",2982,2872,1
-"Phelps County",Missouri,45156,673,67
-"Platte County",Wyoming,8756,2085,4
+"Pawnee County",Nebraska,2709,432,6
+"Perkins County",Nebraska,2921,883,3
+"Phelps County",Nebraska,9213,540,17
+"Pierce County",Nebraska,7510,574,13
+"Platte County",Nebraska,32505,678,48
+"Polk County",Nebraska,5275,439,12
 "Red Willow County",Nebraska,11006,717,15
 "Richardson County",Nebraska,8125,554,15
-"Rock County",Wisconsin,160331,718,223
+"Rock County",Nebraska,1411,1008,1
+"Saline County",Nebraska,14416,575,25
 "Sarpy County",Nebraska,169331,241,703
 "Saunders County",Nebraska,20929,754,28
 "Scotts Bluff County",Nebraska,36848,739,50
+"Seward County",Nebraska,17089,575,30
+"Sheridan County",Nebraska,5251,2441,2
+"Sherman County",Nebraska,3106,566,5
+"Sioux County",Nebraska,1475,1313,1
+"Stanton County",Nebraska,6133,430,14
 "Thayer County",Nebraska,5189,575,9
-"Thurston County",Washington,290536,727,400
+"Thomas County",Nebraska,699,713,1
+"Thurston County",Nebraska,6895,394,18
+"Valley County",Nebraska,4193,568,7
+"Washington County",Nebraska,20223,390,52
+"Wayne County",Nebraska,9411,444,21
+"Webster County",Nebraska,3688,575,6
+"Wheeler County",Nebraska,759,575,1
+"York County",Nebraska,13883,576,24
 "Carson City",Nevada,55274,144,384
 "Churchill County",Nevada,24877,4929,5
+"Clark County",Nevada,2204079,7911,279
+"Douglas County",Nevada,46997,710,66
 "Elko County",Nevada,48818,17182,3
 "Esmeralda County",Nevada,783,3589,0
 "Eureka County",Nevada,1987,4176,0
+"Humboldt County",Nevada,16528,9658,2
 "Lander County",Nevada,5775,5494,1
+"Lincoln County",Nevada,5345,10635,1
+"Lyon County",Nevada,51980,1994,26
+"Mineral County",Nevada,4772,3757,1
 "Nye County",Nevada,43946,18147,2
 "Pershing County",Nevada,6753,6009,1
 "Storey County",Nevada,4010,264,15
 "Washoe County",Nevada,460587,6342,73
 "White Pine County",Nevada,10030,8877,1
 "Belknap County","New Hampshire",60641,401,151
+"Carroll County","New Hampshire",47285,934,51
 "Cheshire County","New Hampshire",75909,708,107
-"Coos County",Oregon,63190,1600,39
+"Coos County","New Hampshire",31212,1801,17
 "Grafton County","New Hampshire",89320,1714,52
+"Hillsborough County","New Hampshire",406678,876,464
 "Merrimack County","New Hampshire",147994,934,158
-"Rockingham County",Virginia,78593,851,92
+"Rockingham County","New Hampshire",301777,695,434
 "Strafford County","New Hampshire",126825,369,344
+"Sullivan County","New Hampshire",42967,537,80
 "Atlantic County","New Jersey",1,561,0
 "Bergen County","New Jersey",3,234,0
 "Burlington County","New Jersey",5,805,0
+"Camden County","New Jersey",7,222,0
 "Cape May County","New Jersey",9,255,0
-"Essex County",Virginia,11130,258,43
-"Gloucester County",Virginia,37143,217,171
+"Cumberland County","New Jersey",11,489,0
+"Essex County","New Jersey",13,126,0
+"Gloucester County","New Jersey",15,325,0
 "Hudson County","New Jersey",17,47,0
 "Hunterdon County","New Jersey",19,430,0
+"Mercer County","New Jersey",21,226,0
+"Middlesex County","New Jersey",23,311,0
 "Monmouth County","New Jersey",25,472,0
+"Morris County","New Jersey",27,469,0
 "Ocean County","New Jersey",29,636,0
 "Passaic County","New Jersey",31,185,0
 "Salem County","New Jersey",33,338,0
+"Somerset County","New Jersey",35,305,0
+"Sussex County","New Jersey",37,521,0
+"Union County","New Jersey",39,103,0
+"Warren County","New Jersey",41,358,0
 "Bernalillo County","New Mexico",1,1166,0
 "Catron County","New Mexico",3,6928,0
 "Chaves County","New Mexico",5,6071,0
 "Cibola County","New Mexico",6,4540,0
-"Curry County",Oregon,22600,1627,14
+"Colfax County","New Mexico",7,3757,0
+"Curry County","New Mexico",9,1406,0
 "De Baca County","New Mexico",11,2325,0
 "Doña Ana County","New Mexico",13,3807,0
-"Eddy County","North Dakota",2385,632,4
-"Guadalupe County",Texas,159659,711,225
-"Harding County","South Dakota",1255,2671,0
-"Hidalgo County",Texas,860661,1569,549
+"Eddy County","New Mexico",15,4182,0
+"Grant County","New Mexico",17,3966,0
+"Guadalupe County","New Mexico",19,3031,0
+"Harding County","New Mexico",21,2126,0
+"Hidalgo County","New Mexico",23,3446,0
 "Lea County","New Mexico",25,4393,0
+"Lincoln County","New Mexico",27,4831,0
 "Los Alamos County","New Mexico",28,109,0
 "Luna County","New Mexico",29,2965,0
 "McKinley County","New Mexico",31,5449,0
 "Mora County","New Mexico",33,1931,0
+"Otero County","New Mexico",35,6627,0
 "Quay County","New Mexico",37,2855,0
 "Rio Arriba County","New Mexico",39,5858,0
+"Roosevelt County","New Mexico",41,2449,0
 "Sandoval County","New Mexico",43,3710,0
+"San Juan County","New Mexico",45,5514,0
+"San Miguel County","New Mexico",47,4717,0
 "Santa Fe County","New Mexico",49,1909,0
+"Sierra County","New Mexico",51,4180,0
 "Socorro County","New Mexico",53,6647,0
 "Taos County","New Mexico",55,2203,0
 "Torrance County","New Mexico",57,3345,0
+"Union County","New Mexico",59,3830,0
 "Valencia County","New Mexico",61,1068,0
-"Albany County",Wyoming,37276,4274,9
-"Allegany County",Maryland,74012,430,172
+"Albany County","New York",1,533,0
+"Allegany County","New York",3,1034,0
 "Bronx County","New York",5,57,0
 "Broome County","New York",7,715,0
 "Cattaraugus County","New York",9,1310,0
 "Cayuga County","New York",11,864,0
+"Chautauqua County","New York",13,1500,0
 "Chemung County","New York",15,410,0
 "Chenango County","New York",17,898,0
+"Clinton County","New York",19,1118,0
+"Columbia County","New York",21,648,0
 "Cortland County","New York",23,502,0
+"Delaware County","New York",25,1468,0
 "Dutchess County","New York",27,825,0
-"Erie County",Pennsylvania,280566,799,351
-"Genesee County",Michigan,425790,649,656
+"Erie County","New York",29,1227,0
+"Essex County","New York",31,1916,0
+"Franklin County","New York",33,1697,0
+"Fulton County","New York",35,533,0
+"Genesee County","New York",37,495,0
+"Greene County","New York",39,658,0
+"Hamilton County","New York",41,1808,0
 "Herkimer County","New York",43,1458,0
+"Jefferson County","New York",45,1857,0
+"Kings County","New York",47,96,0
+"Lewis County","New York",49,1290,0
+"Livingston County","New York",51,640,0
+"Madison County","New York",53,662,0
+"Monroe County","New York",55,1366,0
+"Montgomery County","New York",57,410,0
+"Nassau County","New York",59,453,0
 "New York County","New York",61,33,2
 "Niagara County","New York",63,1140,0
+"Oneida County","New York",65,1213,0
 "Onondaga County","New York",67,806,0
 "Ontario County","New York",69,662,0
-"Orleans County",Vermont,27100,697,39
+"Orange County","New York",71,839,0
+"Orleans County","New York",73,817,0
 "Oswego County","New York",75,1312,0
-"Otsego County",Michigan,24164,526,46
+"Otsego County","New York",77,1003,0
+"Putnam County","New York",79,246,0
 "Queens County","New York",81,178,0
 "Rensselaer County","New York",83,665,0
+"Richmond County","New York",85,102,1
 "Rockland County","New York",87,199,0
 "St. Lawrence County","New York",89,2821,0
 "Saratoga County","New York",91,844,0
 "Schenectady County","New York",93,210,0
 "Schoharie County","New York",95,626,0
-"Seneca County",Ohio,56745,550,103
-"Suffolk County",Massachusetts,722023,58,12449
-"Tioga County",Pennsylvania,41981,1137,37
+"Schuyler County","New York",97,342,0
+"Seneca County","New York",99,325,0
+"Steuben County","New York",101,1404,0
+"Suffolk County","New York",103,2373,0
+"Sullivan County","New York",105,997,0
+"Tioga County","New York",107,523,0
 "Tompkins County","New York",109,476,0
 "Ulster County","New York",111,1161,0
+"Warren County","New York",113,870,0
+"Washington County","New York",115,846,0
+"Wayne County","New York",117,1384,0
 "Westchester County","New York",119,500,0
-"Wyoming County","West Virginia",23796,501,47
+"Wyoming County","New York",121,596,0
 "Yates County","New York",123,376,0
 "Alamance County","North Carolina",1,435,0
-"Alleghany County",Virginia,15677,446,35
+"Alexander County","North Carolina",3,263,0
+"Alleghany County","North Carolina",5,236,0
 "Anson County","North Carolina",7,537,0
 "Ashe County","North Carolina",9,427,0
 "Avery County","North Carolina",11,247,0
-"Beaufort County","South Carolina",183149,576,318
+"Beaufort County","North Carolina",13,959,0
 "Bertie County","North Carolina",15,741,0
 "Bladen County","North Carolina",17,887,0
-"Brunswick County",Virginia,16698,566,30
+"Brunswick County","North Carolina",19,860,0
 "Buncombe County","North Carolina",21,660,0
+"Burke County","North Carolina",23,515,0
 "Cabarrus County","North Carolina",25,365,0
+"Caldwell County","North Carolina",27,474,0
+"Camden County","North Carolina",29,306,0
 "Carteret County","North Carolina",31,1341,0
 "Caswell County","North Carolina",33,428,0
 "Catawba County","North Carolina",35,414,0
+"Chatham County","North Carolina",37,709,0
+"Cherokee County","North Carolina",39,497,0
 "Chowan County","North Carolina",41,233,0
+"Clay County","North Carolina",43,221,0
+"Cleveland County","North Carolina",45,469,0
 "Columbus County","North Carolina",47,954,0
 "Craven County","North Carolina",49,774,0
+"Cumberland County","North Carolina",51,658,0
 "Currituck County","North Carolina",53,526,0
 "Dare County","North Carolina",55,1562,0
-"Davidson County",Tennessee,626681,502,1248
+"Davidson County","North Carolina",57,567,0
 "Davie County","North Carolina",59,267,0
 "Duplin County","North Carolina",61,819,0
 "Durham County","North Carolina",63,298,0
 "Edgecombe County","North Carolina",65,507,0
+"Forsyth County","North Carolina",67,413,0
+"Franklin County","North Carolina",69,495,0
 "Gaston County","North Carolina",71,364,0
 "Gates County","North Carolina",73,346,0
+"Graham County","North Carolina",75,302,0
 "Granville County","North Carolina",77,537,0
+"Greene County","North Carolina",79,266,0
 "Guilford County","North Carolina",81,658,0
-"Halifax County",Virginia,35125,814,43
+"Halifax County","North Carolina",83,731,0
 "Harnett County","North Carolina",85,601,0
-"Haywood County",Tennessee,18787,533,35
+"Haywood County","North Carolina",87,555,0
+"Henderson County","North Carolina",89,375,0
 "Hertford County","North Carolina",91,360,0
 "Hoke County","North Carolina",93,392,0
-"Hyde County","South Dakota",1420,861,2
+"Hyde County","North Carolina",95,1424,0
 "Iredell County","North Carolina",97,597,0
-"Johnston County",Oklahoma,10957,645,17
+"Jackson County","North Carolina",99,494,0
+"Johnston County","North Carolina",101,796,0
+"Jones County","North Carolina",103,473,0
+"Lee County","North Carolina",105,259,0
 "Lenoir County","North Carolina",107,402,0
-"McDowell County","West Virginia",22113,535,41
-"Mecklenburg County",Virginia,31081,624,50
-"Moore County",Texas,22097,900,25
+"Lincoln County","North Carolina",109,307,0
+"McDowell County","North Carolina",111,446,0
+"Macon County","North Carolina",113,519,0
+"Madison County","North Carolina",115,452,0
+"Martin County","North Carolina",117,461,0
+"Mecklenburg County","North Carolina",119,546,0
+"Mitchell County","North Carolina",121,222,1
+"Montgomery County","North Carolina",123,502,0
+"Moore County","North Carolina",125,706,0
 "Nash County","North Carolina",127,543,0
 "New Hanover County","North Carolina",129,328,0
-"Northampton County",Virginia,12155,207,59
+"Northampton County","North Carolina",131,551,0
 "Onslow County","North Carolina",133,909,0
+"Orange County","North Carolina",135,401,0
 "Pamlico County","North Carolina",137,566,0
 "Pasquotank County","North Carolina",139,289,0
 "Pender County","North Carolina",141,933,0
 "Perquimans County","North Carolina",143,329,0
 "Person County","North Carolina",145,404,0
 "Pitt County","North Carolina",147,655,0
+"Polk County","North Carolina",149,239,1
+"Randolph County","North Carolina",151,790,0
+"Richmond County","North Carolina",153,480,0
 "Robeson County","North Carolina",155,951,0
-"Rutherford County",Tennessee,262604,619,424
+"Rockingham County","North Carolina",157,572,0
+"Rowan County","North Carolina",159,524,0
+"Rutherford County","North Carolina",161,566,0
 "Sampson County","North Carolina",163,947,0
-"Scotland County",Missouri,4843,438,11
+"Scotland County","North Carolina",165,321,1
 "Stanly County","North Carolina",167,404,0
 "Stokes County","North Carolina",169,456,0
-"Surry County",Virginia,6709,279,24
+"Surry County","North Carolina",171,538,0
 "Swain County","North Carolina",173,541,0
 "Transylvania County","North Carolina",175,381,0
 "Tyrrell County","North Carolina",177,600,0
+"Union County","North Carolina",179,640,0
 "Vance County","North Carolina",181,270,1
 "Wake County","North Carolina",183,857,0
+"Warren County","North Carolina",185,444,0
+"Washington County","North Carolina",187,424,0
 "Watauga County","North Carolina",189,313,1
+"Wayne County","North Carolina",191,557,0
+"Wilkes County","North Carolina",193,760,0
+"Wilson County","North Carolina",195,374,1
 "Yadkin County","North Carolina",197,337,1
 "Yancey County","North Carolina",199,313,1
+"Adams County","North Dakota",2343,988,2
 "Barnes County","North Dakota",11066,1492,7
 "Benson County","North Dakota",6660,1389,5
 "Billings County","North Dakota",783,1152,1
 "Bottineau County","North Dakota",6429,1669,4
 "Bowman County","North Dakota",3151,1162,3
+"Burke County","North Dakota",1968,1104,2
 "Burleigh County","North Dakota",81308,1633,50
+"Cass County","North Dakota",149778,1766,85
 "Cavalier County","North Dakota",3993,1489,3
 "Dickey County","North Dakota",5289,1131,5
 "Divide County","North Dakota",2071,1259,2
-"Dunn County",Wisconsin,43857,850,52
+"Dunn County","North Dakota",3536,2010,2
+"Eddy County","North Dakota",2385,632,4
 "Emmons County","North Dakota",3550,1510,2
 "Foster County","North Dakota",3343,635,5
+"Golden Valley County","North Dakota",1680,1002,2
 "Grand Forks County","North Dakota",66861,1438,46
+"Grant County","North Dakota",2394,1660,1
 "Griggs County","North Dakota",2420,708,3
 "Hettinger County","North Dakota",2477,1132,2
 "Kidder County","North Dakota",2435,1352,2
 "LaMoure County","North Dakota",4139,1147,4
+"Logan County","North Dakota",1990,993,2
+"McHenry County","North Dakota",5395,1874,3
+"McIntosh County","North Dakota",2809,975,3
 "McKenzie County","North Dakota",6360,2742,2
+"McLean County","North Dakota",8962,2110,4
+"Mercer County","North Dakota",8424,1045,8
+"Morton County","North Dakota",27471,1926,14
 "Mountrail County","North Dakota",7673,1824,4
+"Nelson County","North Dakota",3126,982,3
 "Oliver County","North Dakota",1846,724,3
 "Pembina County","North Dakota",7413,1119,7
-"Ramsey County",Minnesota,508640,155,3282
+"Pierce County","North Dakota",4357,1018,4
+"Ramsey County","North Dakota",11451,1186,10
 "Ransom County","North Dakota",5457,863,6
-"Renville County",Minnesota,15730,982,16
+"Renville County","North Dakota",2470,875,3
+"Richland County","North Dakota",16321,1437,11
 "Rolette County","North Dakota",13937,902,15
 "Sargent County","North Dakota",3829,859,4
+"Sheridan County","North Dakota",1321,972,1
+"Sioux County","North Dakota",4153,1094,4
 "Slope County","North Dakota",727,1218,1
-"Steele County",Minnesota,36576,429,85
+"Stark County","North Dakota",24199,1338,18
+"Steele County","North Dakota",1975,712,3
 "Stutsman County","North Dakota",21100,2222,9
 "Towner County","North Dakota",2246,1025,2
 "Traill County","North Dakota",8121,862,9
 "Walsh County","North Dakota",11119,1282,9
-"Ward County",Texas,11472,836,14
-"Williams County",Ohio,37642,421,89
-"Ashland County",Wisconsin,16157,1045,15
+"Ward County","North Dakota",61675,2013,31
+"Wells County","North Dakota",4207,1271,3
+"Williams County","North Dakota",22398,2071,11
+"Adams County",Ohio,28550,583,49
+"Allen County",Ohio,106331,404,263
+"Ashland County",Ohio,53139,424,125
 "Ashtabula County",Ohio,101497,702,145
 "Athens County",Ohio,64757,506,128
 "Auglaize County",Ohio,45949,401,115
 "Belmont County",Ohio,70400,537,131
+"Brown County",Ohio,44846,491,91
+"Butler County",Ohio,368130,467,788
+"Carroll County",Ohio,28836,394,73
+"Champaign County",Ohio,40097,428,94
+"Clark County",Ohio,138333,399,347
 "Clermont County",Ohio,197363,451,438
+"Clinton County",Ohio,42040,410,103
 "Columbiana County",Ohio,107841,532,203
 "Coshocton County",Ohio,36901,564,65
+"Crawford County",Ohio,43784,402,109
 "Cuyahoga County",Ohio,1249352,458,2728
 "Darke County",Ohio,52959,599,88
 "Defiance County",Ohio,39037,411,95
+"Delaware County",Ohio,174214,442,394
+"Erie County",Ohio,77079,254,303
+"Fairfield County",Ohio,146156,505,289
+"Fayette County",Ohio,29030,406,72
+"Franklin County",Ohio,1264518,539,2346
+"Fulton County",Ohio,42698,406,105
 "Gallia County",Ohio,30934,468,66
 "Geauga County",Ohio,93389,403,232
+"Greene County",Ohio,161573,414,390
 "Guernsey County",Ohio,40087,521,77
-"Highland County",Virginia,2214,416,5
+"Hamilton County",Ohio,802374,407,1971
+"Hancock County",Ohio,74782,531,141
+"Hardin County",Ohio,32058,470,68
+"Harrison County",Ohio,15864,403,39
+"Henry County",Ohio,28215,416,68
+"Highland County",Ohio,43589,553,79
 "Hocking County",Ohio,29380,422,70
-"Huron County",Michigan,33118,2136,16
+"Holmes County",Ohio,42366,422,100
+"Huron County",Ohio,59626,492,121
+"Jackson County",Ohio,33225,420,79
+"Jefferson County",Ohio,69709,409,170
+"Knox County",Ohio,60921,527,116
+"Lake County",Ohio,230041,228,1009
+"Lawrence County",Ohio,62450,454,138
 "Licking County",Ohio,166492,686,243
+"Logan County",Ohio,45858,458,100
 "Lorain County",Ohio,301356,492,613
+"Lucas County",Ohio,441815,340,1299
+"Madison County",Ohio,43435,465,93
 "Mahoning County",Ohio,238823,415,575
-"Medina County",Texas,50066,1328,38
-"Meigs County",Tennessee,11753,195,60
-"Morrow County",Oregon,11745,2033,6
+"Marion County",Ohio,66501,403,165
+"Medina County",Ohio,176395,423,417
+"Meigs County",Ohio,23770,429,55
+"Mercer County",Ohio,40814,463,88
+"Miami County",Ohio,102506,407,252
+"Monroe County",Ohio,14642,455,32
+"Montgomery County",Ohio,535153,461,1161
+"Morgan County",Ohio,15054,417,36
+"Morrow County",Ohio,34827,406,86
 "Muskingum County",Ohio,86074,664,130
+"Noble County",Ohio,14645,399,37
+"Ottawa County",Ohio,41428,254,163
+"Paulding County",Ohio,19614,416,47
+"Perry County",Ohio,36058,409,88
 "Pickaway County",Ohio,55698,501,111
-"Portage County",Wisconsin,70019,800,88
+"Pike County",Ohio,28709,441,65
+"Portage County",Ohio,161419,492,328
 "Preble County",Ohio,42270,424,100
+"Putnam County",Ohio,34499,483,71
+"Richland County",Ohio,124475,496,251
 "Ross County",Ohio,78064,688,113
 "Sandusky County",Ohio,60944,409,149
 "Scioto County",Ohio,79499,612,130
+"Seneca County",Ohio,56745,550,103
+"Shelby County",Ohio,49423,409,121
+"Stark County",Ohio,375586,576,652
+"Summit County",Ohio,541781,419,1293
 "Trumbull County",Ohio,210312,616,341
 "Tuscarawas County",Ohio,92582,567,163
+"Union County",Ohio,52300,436,120
 "Van Wert County",Ohio,28744,410,70
 "Vinton County",Ohio,13435,414,32
-"Wood County",Wisconsin,74749,793,94
+"Warren County",Ohio,212693,399,533
+"Washington County",Ohio,61778,635,97
+"Wayne County",Ohio,114520,555,206
+"Williams County",Ohio,37642,421,89
+"Wood County",Ohio,125488,617,203
 "Wyandot County",Ohio,22615,405,56
+"Adair County",Oklahoma,22683,576,39
 "Alfalfa County",Oklahoma,5642,867,7
 "Atoka County",Oklahoma,14182,978,15
-"Beaver County",Utah,6629,2590,3
+"Beaver County",Oklahoma,5636,1814,3
 "Beckham County",Oklahoma,22119,902,25
+"Blaine County",Oklahoma,11943,929,13
+"Bryan County",Oklahoma,42416,909,47
 "Caddo County",Oklahoma,29600,1278,23
 "Canadian County",Oklahoma,115541,900,128
+"Carter County",Oklahoma,47557,824,58
+"Cherokee County",Oklahoma,46987,751,63
+"Choctaw County",Oklahoma,15205,774,20
 "Cimarron County",Oklahoma,2475,1835,1
+"Cleveland County",Oklahoma,255755,536,477
 "Coal County",Oklahoma,5925,518,11
+"Comanche County",Oklahoma,124098,1069,116
 "Cotton County",Oklahoma,6193,637,10
-"Craig County",Virginia,5211,330,16
+"Craig County",Oklahoma,15029,761,20
 "Creek County",Oklahoma,69967,956,73
-"Dewey County","South Dakota",5301,2303,2
+"Custer County",Oklahoma,27469,987,28
+"Delaware County",Oklahoma,41487,741,56
+"Dewey County",Oklahoma,4810,1000,5
+"Ellis County",Oklahoma,4151,1229,3
+"Garfield County",Oklahoma,60580,1058,57
 "Garvin County",Oklahoma,27576,809,34
+"Grady County",Oklahoma,52431,1101,48
+"Grant County",Oklahoma,4527,1001,5
 "Greer County",Oklahoma,6239,639,10
 "Harmon County",Oklahoma,2922,538,5
-"Hughes County","South Dakota",17022,741,23
+"Harper County",Oklahoma,3685,1039,4
+"Haskell County",Oklahoma,12769,577,22
+"Hughes County",Oklahoma,14003,807,17
+"Jackson County",Oklahoma,26446,803,33
+"Jefferson County",Oklahoma,6472,759,9
+"Johnston County",Oklahoma,10957,645,17
 "Kay County",Oklahoma,46562,919,51
 "Kingfisher County",Oklahoma,15034,903,17
+"Kiowa County",Oklahoma,9446,1015,9
 "Latimer County",Oklahoma,11154,722,15
 "Le Flore County",Oklahoma,50384,1586,32
+"Lincoln County",Oklahoma,34273,959,36
+"Logan County",Oklahoma,41848,745,56
 "Love County",Oklahoma,9423,515,18
 "Major County",Oklahoma,7527,957,8
+"Marshall County",Oklahoma,15840,371,43
 "Mayes County",Oklahoma,41259,656,63
 "McClain County",Oklahoma,34506,570,61
 "McCurtain County",Oklahoma,33151,1852,18
+"McIntosh County",Oklahoma,20252,620,33
+"Murray County",Oklahoma,13488,418,32
 "Muskogee County",Oklahoma,70990,814,87
+"Noble County",Oklahoma,11561,732,16
 "Nowata County",Oklahoma,10536,565,19
 "Okfuskee County",Oklahoma,12191,625,20
 "Oklahoma County",Oklahoma,718633,709,1014
 "Okmulgee County",Oklahoma,40069,697,57
+"Osage County",Oklahoma,47472,2251,21
+"Ottawa County",Oklahoma,31848,471,68
+"Pawnee County",Oklahoma,16577,570,29
 "Payne County",Oklahoma,77350,686,113
 "Pittsburg County",Oklahoma,45837,1306,35
-"Pontotoc County",Mississippi,29957,497,60
+"Pontotoc County",Oklahoma,37492,720,52
+"Pottawatomie County",Oklahoma,69442,788,88
 "Pushmataha County",Oklahoma,11572,1397,8
 "Roger Mills County",Oklahoma,3647,1142,3
 "Rogers County",Oklahoma,86905,675,129
+"Seminole County",Oklahoma,25482,632,40
 "Sequoyah County",Oklahoma,42391,674,63
-"Texas County",Missouri,26008,1179,22
+"Stephens County",Oklahoma,45048,877,51
+"Texas County",Oklahoma,20640,2037,10
 "Tillman County",Oklahoma,7992,872,9
 "Tulsa County",Oklahoma,603403,570,1059
 "Wagoner County",Oklahoma,73085,563,130
+"Washington County",Oklahoma,50976,417,122
 "Washita County",Oklahoma,11629,1004,12
 "Woods County",Oklahoma,8878,1287,7
 "Woodward County",Oklahoma,20081,1242,16
+"Baker County",Oregon,16510,3068,5
+"Benton County",Oregon,91320,676,135
 "Clackamas County",Oregon,404980,1868,217
 "Clatsop County",Oregon,38225,827,46
-"Crook County",Wyoming,7155,2859,3
+"Columbia County",Oregon,50795,657,77
+"Coos County",Oregon,63190,1600,39
+"Crook County",Oregon,21580,2980,7
+"Curry County",Oregon,22600,1627,14
 "Deschutes County",Oregon,176635,3018,59
+"Douglas County",Oregon,110395,5037,22
 "Gilliam County",Oregon,1980,1204,2
+"Grant County",Oregon,7410,4529,2
 "Harney County",Oregon,7320,10135,1
 "Hood River County",Oregon,24735,522,47
+"Jackson County",Oregon,213765,2785,77
+"Jefferson County",Oregon,22790,1781,13
 "Josephine County",Oregon,84675,1640,52
 "Klamath County",Oregon,67410,5945,11
+"Lake County",Oregon,8015,7940,1
+"Lane County",Oregon,365940,4554,80
+"Lincoln County",Oregon,47735,980,49
+"Linn County",Oregon,122315,2291,53
 "Malheur County",Oregon,31705,9888,3
+"Marion County",Oregon,333950,1185,282
+"Morrow County",Oregon,11745,2033,6
 "Multnomah County",Oregon,790670,435,1818
+"Polk County",Oregon,79730,741,108
+"Sherman County",Oregon,1795,823,2
 "Tillamook County",Oregon,25920,1102,24
 "Umatilla County",Oregon,79880,3215,25
+"Union County",Oregon,26745,2037,13
 "Wallowa County",Oregon,7140,3145,2
 "Wasco County",Oregon,26700,2381,11
+"Washington County",Oregon,583595,724,806
+"Wheeler County",Oregon,1465,1715,1
 "Yamhill County",Oregon,104990,716,147
+"Allegany County",Maryland,74012,430,172
 "Anne Arundel County",Maryland,550488,588,936
 "Baltimore County",Maryland,817455,682,1199
 "Baltimore City",Maryland,621342,92,6754
 "Calvert County",Maryland,89628,345,260
-"Caroline County",Virginia,29984,533,56
+"Caroline County",Maryland,32718,326,100
+"Carroll County",Maryland,167217,452,370
 "Cecil County",Maryland,101696,418,243
 "Charles County",Maryland,150592,643,234
-"Dorchester County","South Carolina",153773,577,267
-"Frederick County",Virginia,83199,415,200
+"Dorchester County",Maryland,32551,540,60
+"Frederick County",Maryland,239582,667,359
 "Garrett County",Maryland,29854,656,46
 "Harford County",Maryland,248622,527,472
+"Howard County",Maryland,299430,254,1179
+"Kent County",Maryland,20191,414,49
+"Montgomery County",Maryland,1004709,507,1982
 "Prince George's County",Maryland,881138,498,1769
 "Queen Anne's County",Maryland,48595,510,95
+"Somerset County",Maryland,26253,611,43
 "St. Mary's County",Maryland,108987,611,178
+"Talbot County",Maryland,38098,477,80
+"Washington County",Maryland,149180,468,319
 "Wicomico County",Maryland,100647,400,252
-"Worcester County",Massachusetts,798552,1513,528
+"Worcester County",Maryland,51578,695,74
 "Barnstable County",Massachusetts,215888,396,545
 "Berkshire County",Massachusetts,131219,931,141
-"Bristol County","Rhode Island",49875,24,2078
+"Bristol County",Massachusetts,548285,556,986
 "Dukes County",Massachusetts,16535,104,159
+"Essex County",Massachusetts,743159,498,1492
+"Franklin County",Massachusetts,71372,702,102
 "Hampden County",Massachusetts,463490,618,750
-"Hampshire County","West Virginia",23964,642,37
+"Hampshire County",Massachusetts,158080,529,299
+"Middlesex County",Massachusetts,1503085,824,1824
 "Nantucket County",Massachusetts,10172,48,212
 "Norfolk County",Massachusetts,670850,400,1677
+"Plymouth County",Massachusetts,494919,661,749
+"Suffolk County",Massachusetts,722023,58,12449
+"Worcester County",Massachusetts,798552,1513,528
 "Alcona County",Michigan,10942,1791,6
 "Alger County",Michigan,9601,5049,2
 "Allegan County",Michigan,111408,1833,61
@@ -1208,40 +1873,57 @@ Yakutat,Alaska,540,7623,0
 "Antrim County",Michigan,23598,602,39
 "Arenac County",Michigan,15899,681,23
 "Baraga County",Michigan,8860,1069,8
-"Barry County",Missouri,35597,779,46
+"Barry County",Michigan,59173,577,103
+"Bay County",Michigan,107771,631,171
 "Benzie County",Michigan,17525,860,20
+"Berrien County",Michigan,156813,1581,99
 "Branch County",Michigan,45248,519,87
+"Calhoun County",Michigan,136146,718,190
+"Cass County",Michigan,52293,508,103
 "Charlevoix County",Michigan,25949,1391,19
 "Cheboygan County",Michigan,26152,885,30
-"Chippewa County",Wisconsin,62415,1008,62
+"Chippewa County",Michigan,38520,2698,14
 "Clare County",Michigan,30926,575,54
+"Clinton County",Michigan,75382,575,131
+"Crawford County",Michigan,14074,563,25
+"Delta County",Michigan,37069,1992,19
+"Dickinson County",Michigan,26168,777,34
 "Eaton County",Michigan,107759,579,186
+"Emmet County",Michigan,32694,882,37
+"Genesee County",Michigan,425790,649,656
 "Gladwin County",Michigan,25692,516,50
 "Gogebic County",Michigan,16427,1476,11
 "Grand Traverse County",Michigan,86986,601,145
 "Gratiot County",Michigan,42476,572,74
 "Hillsdale County",Michigan,46688,607,77
 "Houghton County",Michigan,36628,1502,24
+"Huron County",Michigan,33118,2136,16
 "Ingham County",Michigan,280895,561,501
 "Ionia County",Michigan,63905,580,110
 "Iosco County",Michigan,25887,1891,14
-"Iron County",Wisconsin,5916,758,8
+"Iron County",Michigan,11817,1211,10
 "Isabella County",Michigan,70311,578,122
+"Jackson County",Michigan,160248,724,221
 "Kalamazoo County",Michigan,250331,580,432
 "Kalkaska County",Michigan,17153,571,30
+"Kent County",Michigan,602622,872,691
 "Keweenaw County",Michigan,2156,5966,0
+"Lake County",Michigan,11539,575,20
 "Lapeer County",Michigan,88319,663,133
 "Leelanau County",Michigan,21708,2532,9
 "Lenawee County",Michigan,99892,761,131
+"Livingston County",Michigan,180967,585,309
 "Luce County",Michigan,6631,1912,3
 "Mackinac County",Michigan,11113,2101,5
 "Macomb County",Michigan,840978,570,1475
 "Manistee County",Michigan,24733,1281,19
-"Marquette County",Wisconsin,15404,455,34
+"Marquette County",Michigan,67077,3425,20
+"Mason County",Michigan,28705,1242,23
 "Mecosta County",Michigan,42798,571,75
-"Menominee County",Wisconsin,4232,357,12
-"Midland County",Texas,165049,900,183
+"Menominee County",Michigan,24029,1338,18
+"Midland County",Michigan,83629,528,158
 "Missaukee County",Michigan,14849,574,26
+"Monroe County",Michigan,152021,680,224
 "Montcalm County",Michigan,63342,721,88
 "Montmorency County",Michigan,9765,562,17
 "Muskegon County",Michigan,172188,1459,118
@@ -1250,273 +1932,592 @@ Yakutat,Alaska,540,7623,0
 "Oceana County",Michigan,26570,1307,20
 "Ogemaw County",Michigan,21699,575,38
 "Ontonagon County",Michigan,6780,3741,2
+"Osceola County",Michigan,23528,573,41
 "Oscoda County",Michigan,8640,572,15
+"Otsego County",Michigan,24164,526,46
+"Ottawa County",Michigan,263801,1632,162
 "Presque Isle County",Michigan,13376,2573,5
 "Roscommon County",Michigan,24449,580,42
 "Saginaw County",Michigan,200169,816,245
+"St. Clair County",Michigan,163040,837,195
+"St. Joseph County",Michigan,61295,521,118
 "Sanilac County",Michigan,43114,1590,27
 "Schoolcraft County",Michigan,8485,1884,5
 "Shiawassee County",Michigan,70648,541,131
 "Tuscola County",Michigan,55729,914,61
+"Van Buren County",Michigan,76258,1090,70
 "Washtenaw County",Michigan,344791,723,477
+"Wayne County",Michigan,1820584,672,2709
 "Wexford County",Michigan,32735,576,57
 "Aitkin County",Minnesota,16202,1819,9
 "Anoka County",Minnesota,330844,423,782
 "Becker County",Minnesota,32504,1310,25
 "Beltrami County",Minnesota,44442,2505,18
+"Benton County",Minnesota,38451,408,94
 "Big Stone County",Minnesota,5269,496,11
 "Blue Earth County",Minnesota,64013,752,85
+"Brown County",Minnesota,25893,610,42
 "Carlton County",Minnesota,35386,860,41
 "Carver County",Minnesota,91042,357,255
+"Cass County",Minnesota,28567,2017,14
+"Chippewa County",Minnesota,12441,582,21
 "Chisago County",Minnesota,53887,417,129
+"Clay County",Minnesota,58999,1045,56
+"Clearwater County",Minnesota,8695,994,9
+"Cook County",Minnesota,5176,1450,4
 "Cottonwood County",Minnesota,11687,639,18
 "Crow Wing County",Minnesota,62500,996,63
+"Dakota County",Minnesota,398552,569,700
+"Dodge County",Minnesota,20087,439,46
+"Douglas County",Minnesota,36009,634,57
 "Faribault County",Minnesota,14553,713,20
+"Fillmore County",Minnesota,20866,861,24
 "Freeborn County",Minnesota,31255,707,44
 "Goodhue County",Minnesota,46183,758,61
+"Grant County",Minnesota,6018,546,11
 "Hennepin County",Minnesota,1152425,556,2073
+"Houston County",Minnesota,19027,558,34
 "Hubbard County",Minnesota,20428,922,22
 "Isanti County",Minnesota,37816,439,86
 "Itasca County",Minnesota,45058,2665,17
+"Jackson County",Minnesota,10266,701,15
 "Kanabec County",Minnesota,16239,524,31
 "Kandiyohi County",Minnesota,42239,796,53
 "Kittson County",Minnesota,4552,1097,4
 "Koochiching County",Minnesota,13311,3102,4
 "Lac qui Parle County",Minnesota,7259,764,10
+"Lake County",Minnesota,10866,2099,5
 "Lake of the Woods County",Minnesota,4045,1296,3
 "Le Sueur County",Minnesota,27703,448,62
+"Lincoln County",Minnesota,5896,537,11
+"Lyon County",Minnesota,25857,714,36
 "McLeod County",Minnesota,36651,491,75
 "Mahnomen County",Minnesota,5413,556,10
+"Marshall County",Minnesota,9439,1772,5
+"Martin County",Minnesota,20840,709,29
 "Meeker County",Minnesota,23300,608,38
 "Mille Lacs County",Minnesota,26097,574,45
 "Morrison County",Minnesota,33198,1124,30
 "Mower County",Minnesota,39163,711,55
+"Murray County",Minnesota,8725,704,12
 "Nicollet County",Minnesota,32727,452,72
 "Nobles County",Minnesota,21378,715,30
 "Norman County",Minnesota,6852,876,8
 "Olmsted County",Minnesota,144248,653,221
 "Otter Tail County",Minnesota,57303,1979,29
-"Pennington County","South Dakota",100948,2776,36
+"Pennington County",Minnesota,13930,616,23
 "Pine County",Minnesota,29750,1411,21
 "Pipestone County",Minnesota,9596,465,21
+"Polk County",Minnesota,31600,1970,16
+"Pope County",Minnesota,10995,670,16
+"Ramsey County",Minnesota,508640,155,3282
 "Red Lake County",Minnesota,4089,432,9
 "Redwood County",Minnesota,16059,879,18
+"Renville County",Minnesota,15730,982,16
+"Rice County",Minnesota,64142,497,129
+"Rock County",Minnesota,9687,482,20
 "Roseau County",Minnesota,15629,1662,9
-"Saint Louis County",Missouri,1000438,508,1969
+"Saint Louis County",Minnesota,200226,6225,32
+"Scott County",Minnesota,129928,356,365
 "Sherburne County",Minnesota,88499,436,203
 "Sibley County",Minnesota,15226,588,26
 "Stearns County",Minnesota,150642,1344,112
+"Steele County",Minnesota,36576,429,85
+"Stevens County",Minnesota,9726,562,17
 "Swift County",Minnesota,9783,743,13
+"Todd County",Minnesota,24895,942,26
 "Traverse County",Minnesota,3558,574,6
 "Wabasha County",Minnesota,21676,525,41
 "Wadena County",Minnesota,13843,535,26
 "Waseca County",Minnesota,19136,423,45
+"Washington County",Minnesota,238136,391,609
 "Watonwan County",Minnesota,11211,434,26
 "Wilkin County",Minnesota,6576,751,9
 "Winona County",Minnesota,51461,626,82
+"Wright County",Minnesota,124700,660,189
 "Yellow Medicine County",Minnesota,10438,757,14
+"Adams County",Mississippi,32297,460,70
 "Alcorn County",Mississippi,37057,400,93
 "Amite County",Mississippi,13131,730,18
 "Attala County",Mississippi,19564,735,27
+"Benton County",Mississippi,8729,407,21
 "Bolivar County",Mississippi,34145,876,39
-"Claiborne County",Tennessee,32213,434,74
+"Calhoun County",Mississippi,14962,587,25
+"Carroll County",Mississippi,10597,628,17
+"Chickasaw County",Mississippi,17392,502,35
+"Choctaw County",Mississippi,8547,419,20
+"Claiborne County",Mississippi,9604,487,20
+"Clarke County",Mississippi,16732,691,24
+"Clay County",Mississippi,20634,409,50
 "Coahoma County",Mississippi,26151,554,47
 "Copiah County",Mississippi,29449,777,38
+"Covington County",Mississippi,19568,414,47
+"DeSoto County",Mississippi,161252,478,337
 "Forrest County",Mississippi,74934,467,160
+"Franklin County",Mississippi,8118,565,14
 "George County",Mississippi,22578,478,47
+"Greene County",Mississippi,14400,713,20
 "Grenada County",Mississippi,21906,422,52
+"Hancock County",Mississippi,43929,477,92
+"Harrison County",Mississippi,187105,581,322
 "Hinds County",Mississippi,245285,869,282
-"Humphreys County",Tennessee,18538,532,35
+"Holmes County",Mississippi,19198,756,25
+"Humphreys County",Mississippi,9375,418,22
 "Issaquena County",Mississippi,1406,413,3
 "Itawamba County",Mississippi,23401,532,44
+"Jackson County",Mississippi,139668,727,192
+"Jasper County",Mississippi,17062,676,25
+"Jefferson County",Mississippi,7726,519,15
 "Jefferson Davis County",Mississippi,12487,408,31
+"Jones County",Mississippi,67761,694,98
 "Kemper County",Mississippi,10456,766,14
+"Lafayette County",Mississippi,47351,631,75
+"Lamar County",Mississippi,55658,497,112
+"Lauderdale County",Mississippi,80261,704,114
+"Lawrence County",Mississippi,12929,431,30
 "Leake County",Mississippi,23805,583,41
+"Lee County",Mississippi,82910,450,184
 "Leflore County",Mississippi,32317,592,55
+"Lincoln County",Mississippi,34869,586,60
+"Lowndes County",Mississippi,59779,502,119
+"Madison County",Mississippi,95203,719,132
+"Marion County",Mississippi,27088,542,50
+"Marshall County",Mississippi,37144,706,53
+"Monroe County",Mississippi,36989,764,48
+"Montgomery County",Mississippi,10925,407,27
 "Neshoba County",Mississippi,29676,570,52
+"Newton County",Mississippi,21720,578,38
 "Noxubee County",Mississippi,11545,695,17
 "Oktibbeha County",Mississippi,47671,458,104
-"Panola County",Texas,23243,801,29
+"Panola County",Mississippi,34707,684,51
 "Pearl River County",Mississippi,55834,812,69
+"Perry County",Mississippi,12250,647,19
+"Pike County",Mississippi,40404,409,99
+"Pontotoc County",Mississippi,29957,497,60
 "Prentiss County",Mississippi,25276,415,61
+"Quitman County",Mississippi,8223,405,20
 "Rankin County",Mississippi,141617,775,183
+"Scott County",Mississippi,28264,609,46
 "Sharkey County",Mississippi,4916,428,11
+"Simpson County",Mississippi,27503,589,47
+"Smith County",Mississippi,16491,636,26
+"Stone County",Mississippi,17786,445,40
 "Sunflower County",Mississippi,29450,694,42
 "Tallahatchie County",Mississippi,15378,644,24
 "Tate County",Mississippi,28886,404,72
 "Tippah County",Mississippi,22232,458,49
 "Tishomingo County",Mississippi,19593,424,46
 "Tunica County",Mississippi,10778,455,24
+"Union County",Mississippi,27134,416,65
 "Walthall County",Mississippi,15443,404,38
+"Warren County",Mississippi,48773,587,83
+"Washington County",Mississippi,51137,724,71
+"Wayne County",Mississippi,20747,810,26
+"Webster County",Mississippi,10253,423,24
+"Wilkinson County",Mississippi,9878,677,15
+"Winston County",Mississippi,19198,607,32
 "Yalobusha County",Mississippi,12678,467,27
 "Yazoo County",Mississippi,28065,920,31
+"Adair County",Missouri,25607,568,45
 "Andrew County",Missouri,17291,435,40
+"Atchison County",Missouri,5685,545,10
 "Audrain County",Missouri,25529,693,37
+"Barry County",Missouri,35597,779,46
+"Barton County",Missouri,12402,594,21
 "Bates County",Missouri,17049,848,20
+"Benton County",Missouri,19056,706,27
 "Bollinger County",Missouri,12363,621,20
+"Boone County",Missouri,162642,685,237
+"Buchanan County",Missouri,89201,410,218
+"Butler County",Missouri,42794,698,61
+"Caldwell County",Missouri,9424,429,22
 "Callaway County",Missouri,44332,839,53
+"Camden County",Missouri,44002,655,67
 "Cape Girardeau County",Missouri,75674,579,131
+"Carroll County",Missouri,9295,695,13
+"Carter County",Missouri,6265,508,12
+"Cass County",Missouri,99478,699,142
+"Cedar County",Missouri,13982,476,29
 "Chariton County",Missouri,7831,756,10
+"Christian County",Missouri,77422,563,138
+"Clark County",Missouri,7139,507,14
+"Clay County",Missouri,221939,396,560
+"Clinton County",Missouri,20743,419,50
 "Cole County",Missouri,75990,392,194
 "Cooper County",Missouri,17601,565,31
+"Crawford County",Missouri,24696,743,33
+"Dade County",Missouri,7883,490,16
+"Dallas County",Missouri,16777,542,31
+"Daviess County",Missouri,8433,567,15
+"DeKalb County",Missouri,12892,424,30
 "Dent County",Missouri,15657,754,21
+"Douglas County",Missouri,13684,815,17
 "Dunklin County",Missouri,31953,546,59
+"Franklin County",Missouri,101492,922,110
 "Gasconade County",Missouri,15222,520,29
 "Gentry County",Missouri,6738,492,14
+"Greene County",Missouri,275174,675,408
+"Grundy County",Missouri,10261,436,24
+"Harrison County",Missouri,8957,725,12
+"Henry County",Missouri,22272,702,32
 "Hickory County",Missouri,9627,399,24
+"Holt County",Missouri,4912,462,11
+"Howard County",Missouri,10144,466,22
 "Howell County",Missouri,40400,928,44
+"Iron County",Missouri,10630,551,19
+"Jackson County",Missouri,674158,605,1114
+"Jasper County",Missouri,117404,640,183
+"Jefferson County",Missouri,218733,657,333
+"Johnson County",Missouri,52595,831,63
+"Knox County",Missouri,4131,506,8
 "Laclede County",Missouri,35571,766,46
+"Lafayette County",Missouri,33381,629,53
+"Lawrence County",Missouri,38634,613,63
+"Lewis County",Missouri,10211,505,20
+"Lincoln County",Missouri,52566,630,83
+"Linn County",Missouri,12761,620,21
+"Livingston County",Missouri,15195,535,28
+"Macon County",Missouri,15566,804,19
+"Madison County",Missouri,12226,497,25
 "Maries County",Missouri,9176,528,17
+"Marion County",Missouri,28781,438,66
 "McDonald County",Missouri,23083,540,43
+"Mercer County",Missouri,3785,454,8
+"Miller County",Missouri,24748,592,42
+"Mississippi County",Missouri,14358,413,35
 "Moniteau County",Missouri,15607,417,37
+"Monroe County",Missouri,8840,646,14
+"Montgomery County",Missouri,12236,539,23
+"Morgan County",Missouri,20565,598,34
 "New Madrid County",Missouri,18956,678,28
+"Newton County",Missouri,58114,626,93
 "Nodaway County",Missouri,23370,877,27
 "Oregon County",Missouri,10881,792,14
+"Osage County",Missouri,13878,606,23
 "Ozark County",Missouri,9723,747,13
 "Pemiscot County",Missouri,18296,493,37
+"Perry County",Missouri,18971,475,40
 "Pettis County",Missouri,42201,685,62
+"Phelps County",Missouri,45156,673,67
+"Pike County",Missouri,18516,673,28
+"Platte County",Missouri,89322,420,213
+"Polk County",Missouri,31137,637,49
+"Pulaski County",Missouri,52274,547,96
+"Putnam County",Missouri,4979,518,10
 "Ralls County",Missouri,10167,471,22
+"Randolph County",Missouri,25414,482,53
 "Ray County",Missouri,23494,570,41
 "Reynolds County",Missouri,6696,811,8
+"Ripley County",Missouri,14100,630,22
 "Saint Charles County",Missouri,360485,561,643
 "Saint Clair County",Missouri,9805,677,14
 "Saint Francois County",Missouri,65359,450,145
+"Saint Louis County",Missouri,1000438,508,1969
 "Saint Louis City",Missouri,319294,61,5234
 "Ste. Genevieve County",Missouri,18145,502,36
+"Saline County",Missouri,23370,756,31
+"Schuyler County",Missouri,4431,308,14
+"Scotland County",Missouri,4843,438,11
+"Scott County",Missouri,39191,421,93
 "Shannon County",Missouri,8441,1004,8
+"Shelby County",Missouri,6373,501,13
 "Stoddard County",Missouri,29968,827,36
+"Stone County",Missouri,32202,463,70
+"Sullivan County",Missouri,6714,651,10
 "Taney County",Missouri,51675,632,82
-"Vernon County",Wisconsin,29773,791,38
+"Texas County",Missouri,26008,1179,22
+"Vernon County",Missouri,21159,834,25
+"Warren County",Missouri,32513,432,75
+"Washington County",Missouri,25195,760,33
+"Wayne County",Missouri,13521,761,18
+"Webster County",Missouri,36202,593,61
+"Worth County",Missouri,2171,266,8
+"Wright County",Missouri,18815,682,28
+"Adams County",Pennsylvania,101407,522,194
 "Allegheny County",Pennsylvania,1223348,745,1642
-"Armstrong County",Texas,1879,914,2
-"Bedford County",Virginia,77724,755,103
+"Armstrong County",Pennsylvania,68941,664,104
+"Beaver County",Pennsylvania,170539,444,384
+"Bedford County",Pennsylvania,49762,1015,49
 "Berks County",Pennsylvania,411442,866,475
 "Blair County",Pennsylvania,127089,527,241
+"Bradford County",Pennsylvania,62622,1161,54
 "Bucks County",Pennsylvania,625249,622,1005
+"Butler County",Pennsylvania,183862,795,231
 "Cambria County",Pennsylvania,143679,693,207
-"Cameron County",Texas,423725,906,468
+"Cameron County",Pennsylvania,5085,399,13
+"Carbon County",Pennsylvania,65249,387,169
 "Centre County",Pennsylvania,153990,1112,138
-"Chester County",Tennessee,17131,289,59
+"Chester County",Pennsylvania,498886,760,656
 "Clarion County",Pennsylvania,39988,609,66
 "Clearfield County",Pennsylvania,81642,1154,71
+"Clinton County",Pennsylvania,39238,898,44
+"Columbia County",Pennsylvania,67295,490,137
+"Crawford County",Pennsylvania,88765,1038,86
+"Cumberland County",Pennsylvania,235406,551,427
 "Dauphin County",Pennsylvania,268100,558,480
-"Forest County",Wisconsin,9304,1014,9
+"Delaware County",Pennsylvania,558979,191,2927
+"Elk County",Pennsylvania,31946,832,38
+"Erie County",Pennsylvania,280566,799,351
+"Fayette County",Pennsylvania,136606,798,171
+"Forest County",Pennsylvania,7716,431,18
+"Franklin County",Pennsylvania,149618,771,194
+"Fulton County",Pennsylvania,14845,438,34
+"Greene County",Pennsylvania,38686,578,67
 "Huntingdon County",Pennsylvania,45913,889,52
 "Indiana County",Pennsylvania,88880,834,107
+"Jefferson County",Pennsylvania,45200,657,69
 "Juniata County",Pennsylvania,24636,394,63
 "Lackawanna County",Pennsylvania,214437,465,461
+"Lancaster County",Pennsylvania,519445,984,528
+"Lawrence County",Pennsylvania,91108,363,251
 "Lebanon County",Pennsylvania,133568,363,368
 "Lehigh County",Pennsylvania,349497,349,1001
 "Luzerne County",Pennsylvania,320918,907,354
 "Lycoming County",Pennsylvania,116111,1244,93
 "McKean County",Pennsylvania,43450,984,44
+"Mercer County",Pennsylvania,116638,683,171
 "Mifflin County",Pennsylvania,46682,415,112
+"Monroe County",Pennsylvania,169842,617,275
+"Montgomery County",Pennsylvania,799874,487,1642
 "Montour County",Pennsylvania,18267,132,138
-"Northumberland County",Virginia,12232,192,64
+"Northampton County",Pennsylvania,297735,377,790
+"Northumberland County",Pennsylvania,94528,477,198
+"Perry County",Pennsylvania,45969,556,83
 "Philadelphia County",Pennsylvania,1526006,143,10671
-"Potter County",Texas,120458,909,133
+"Pike County",Pennsylvania,57369,567,101
+"Potter County",Pennsylvania,17457,1081,16
 "Schuylkill County",Pennsylvania,148289,778,191
 "Snyder County",Pennsylvania,39702,332,120
+"Somerset County",Pennsylvania,77742,1081,72
+"Sullivan County",Pennsylvania,6428,452,14
 "Susquehanna County",Pennsylvania,43356,832,52
+"Tioga County",Pennsylvania,41981,1137,37
+"Union County",Pennsylvania,44947,317,142
 "Venango County",Pennsylvania,54984,683,81
-"Westmoreland County",Virginia,17629,229,77
+"Warren County",Pennsylvania,41815,898,47
+"Washington County",Pennsylvania,207820,861,241
+"Wayne County",Pennsylvania,52822,751,70
+"Westmoreland County",Pennsylvania,365169,1036,352
+"Wyoming County",Pennsylvania,28276,405,70
+"York County",Pennsylvania,434972,910,478
+"Bristol County","Rhode Island",49875,24,2078
+"Kent County","Rhode Island",166158,168,989
 "Newport County","Rhode Island",82888,102,813
 "Providence County","Rhode Island",626667,409,1532
+"Washington County","Rhode Island",126979,329,386
 "Abbeville County","South Carolina",24872,511,49
 "Aiken County","South Carolina",167458,1080,155
 "Allendale County","South Carolina",9045,413,22
+"Anderson County","South Carolina",196569,757,260
 "Bamberg County","South Carolina",14434,395,37
 "Barnwell County","South Carolina",21483,557,39
-"Berkeley County","West Virginia",104169,321,325
+"Beaufort County","South Carolina",183149,576,318
+"Berkeley County","South Carolina",210898,1228,172
+"Calhoun County","South Carolina",14796,392,38
 "Charleston County","South Carolina",396484,1358,292
-"Chesterfield County",Virginia,335687,426,788
+"Cherokee County","South Carolina",56646,397,143
+"Chester County","South Carolina",32181,586,55
+"Chesterfield County","South Carolina",46013,806,57
 "Clarendon County","South Carolina",33951,696,49
 "Colleton County","South Carolina",37923,1133,33
 "Darlington County","South Carolina",67234,567,119
 "Dillon County","South Carolina",30858,407,76
+"Dorchester County","South Carolina",153773,577,267
 "Edgefield County","South Carolina",26358,507,52
-"Florence County",Wisconsin,4423,488,9
+"Fairfield County","South Carolina",22653,710,32
+"Florence County","South Carolina",138742,804,173
 "Georgetown County","South Carolina",61399,813,76
 "Greenville County","South Carolina",498766,795,627
+"Greenwood County","South Carolina",70133,463,151
 "Hampton County","South Carolina",19922,563,35
 "Horry County","South Carolina",322342,1255,257
+"Jasper County","South Carolina",28465,700,41
 "Kershaw County","South Carolina",64097,740,87
+"Lancaster County","South Carolina",89594,555,161
+"Laurens County","South Carolina",66777,724,92
+"Lee County","South Carolina",17635,411,43
 "Lexington County","South Carolina",286196,758,378
+"Marion County","South Carolina",31726,494,64
 "Marlboro County","South Carolina",26945,485,56
 "McCormick County","South Carolina",9643,394,24
 "Newberry County","South Carolina",38079,647,59
+"Oconee County","South Carolina",76355,674,113
 "Orangeburg County","South Carolina",87903,1128,78
+"Pickens County","South Carolina",122863,512,240
+"Richland County","South Carolina",409549,772,531
 "Saluda County","South Carolina",20197,462,44
 "Spartanburg County","South Carolina",301463,819,368
+"Sumter County","South Carolina",107396,682,157
+"Union County","South Carolina",27673,516,54
 "Williamsburg County","South Carolina",31955,937,34
+"York County","South Carolina",258526,696,371
 "Aurora County","South Dakota",2710,708,4
 "Beadle County","South Dakota",17398,1259,14
 "Bennett County","South Dakota",3431,1185,3
 "Bon Homme County","South Dakota",7070,563,13
 "Brookings County","South Dakota",31965,794,40
+"Brown County","South Dakota",36531,1713,21
 "Brule County","South Dakota",5255,819,6
+"Buffalo County","South Dakota",1912,471,4
+"Butte County","South Dakota",10110,2249,4
+"Campbell County","South Dakota",1466,736,2
 "Charles Mix County","South Dakota",9129,1098,8
+"Clark County","South Dakota",3691,958,4
+"Clay County","South Dakota",13864,412,34
 "Codington County","South Dakota",27227,688,40
 "Corson County","South Dakota",4050,2473,2
+"Custer County","South Dakota",8216,1558,5
 "Davison County","South Dakota",19504,436,45
 "Day County","South Dakota",5710,1029,6
+"Deuel County","South Dakota",4364,624,7
+"Dewey County","South Dakota",5301,2303,2
+"Douglas County","South Dakota",3002,434,7
 "Edmunds County","South Dakota",4071,1146,4
 "Fall River County","South Dakota",7094,1740,4
 "Faulk County","South Dakota",2364,1000,2
+"Grant County","South Dakota",7356,682,11
 "Gregory County","South Dakota",4271,1016,4
 "Haakon County","South Dakota",1937,1813,1
 "Hamlin County","South Dakota",5903,511,12
 "Hand County","South Dakota",3431,1437,2
 "Hanson County","South Dakota",3331,435,8
-"Hutchinson County",Texas,21375,887,24
+"Harding County","South Dakota",1255,2671,0
+"Hughes County","South Dakota",17022,741,23
+"Hutchinson County","South Dakota",7343,813,9
+"Hyde County","South Dakota",1420,861,2
+"Jackson County","South Dakota",3031,1869,2
 "Jerauld County","South Dakota",2070,530,4
+"Jones County","South Dakota",1006,971,1
 "Kingsbury County","South Dakota",5148,838,6
+"Lake County","South Dakota",11200,563,20
+"Lawrence County","South Dakota",24097,800,30
+"Lincoln County","South Dakota",44828,578,78
 "Lyman County","South Dakota",3755,1640,2
+"Marshall County","South Dakota",4656,839,6
 "McCook County","South Dakota",5618,575,10
+"McPherson County","South Dakota",2459,1137,2
+"Meade County","South Dakota",25434,3471,7
 "Mellette County","South Dakota",2048,1307,2
 "Miner County","South Dakota",2389,570,4
 "Minnehaha County","South Dakota",169468,809,209
 "Moody County","South Dakota",6486,520,12
 "Oglala Lakota County","South Dakota",13586,2094,6
-"Roberts County",Texas,938,924,1
+"Pennington County","South Dakota",100948,2776,36
+"Perkins County","South Dakota",2982,2872,1
+"Potter County","South Dakota",2329,866,3
+"Roberts County","South Dakota",10149,1101,9
 "Sanborn County","South Dakota",2355,569,4
 "Spink County","South Dakota",6451,1504,4
 "Stanley County","South Dakota",2966,1443,2
 "Sully County","South Dakota",1373,1007,1
+"Todd County","South Dakota",9612,1388,7
 "Tripp County","South Dakota",5644,1614,3
-"Walworth County",Wisconsin,102228,555,184
+"Turner County","South Dakota",8347,617,14
+"Union County","South Dakota",14399,460,31
+"Walworth County","South Dakota",5438,708,8
 "Yankton County","South Dakota",22438,522,43
 "Ziebach County","South Dakota",2801,1962,1
+"Anderson County",Tennessee,75129,338,222
+"Bedford County",Tennessee,45058,474,95
+"Benton County",Tennessee,16489,394,42
 "Bledsoe County",Tennessee,12876,406,32
+"Blount County",Tennessee,123010,559,220
+"Bradley County",Tennessee,98963,329,301
+"Campbell County",Tennessee,40716,480,85
 "Cannon County",Tennessee,13801,266,52
+"Carroll County",Tennessee,28522,599,48
+"Carter County",Tennessee,57424,341,168
 "Cheatham County",Tennessee,39105,303,129
+"Chester County",Tennessee,17131,289,59
+"Claiborne County",Tennessee,32213,434,74
+"Clay County",Tennessee,7861,236,33
 "Cocke County",Tennessee,35662,434,82
-"Crockett County",Texas,3564,2808,1
+"Coffee County",Tennessee,52796,429,123
+"Crockett County",Tennessee,14586,265,55
+"Cumberland County",Tennessee,56053,682,82
+"Davidson County",Tennessee,626681,502,1248
+"Decatur County",Tennessee,11757,333,35
+"DeKalb County",Tennessee,18723,304,62
 "Dickson County",Tennessee,49666,490,101
 "Dyer County",Tennessee,38335,510,75
+"Fayette County",Tennessee,38412,705,54
 "Fentress County",Tennessee,17959,499,36
-"Giles County",Virginia,16708,358,47
+"Franklin County",Tennessee,41052,553,74
+"Gibson County",Tennessee,49683,603,82
+"Giles County",Tennessee,29485,611,48
 "Grainger County",Tennessee,22657,280,81
+"Greene County",Tennessee,68831,622,111
+"Grundy County",Tennessee,13703,361,38
 "Hamblen County",Tennessee,62544,161,388
-"Hardeman County",Texas,3994,695,6
+"Hamilton County",Tennessee,336463,543,620
+"Hancock County",Tennessee,6819,222,31
+"Hardeman County",Tennessee,27253,668,41
+"Hardin County",Tennessee,26026,578,45
 "Hawkins County",Tennessee,56833,487,117
+"Haywood County",Tennessee,18787,533,35
+"Henderson County",Tennessee,27769,520,53
+"Henry County",Tennessee,32330,562,58
+"Hickman County",Tennessee,24690,613,40
+"Houston County",Tennessee,8426,200,42
+"Humphreys County",Tennessee,18538,532,35
+"Jackson County",Tennessee,11638,309,38
+"Jefferson County",Tennessee,51407,274,188
+"Johnson County",Tennessee,18244,299,61
+"Knox County",Tennessee,432226,509,849
+"Lake County",Tennessee,7832,163,48
+"Lauderdale County",Tennessee,27815,470,59
+"Lawrence County",Tennessee,41869,617,68
+"Lewis County",Tennessee,12161,282,43
+"Lincoln County",Tennessee,33361,570,59
 "Loudon County",Tennessee,48556,229,212
+"Macon County",Tennessee,22248,307,72
+"Madison County",Tennessee,98294,557,176
+"Marion County",Tennessee,28237,500,56
+"Marshall County",Tennessee,30617,375,82
 "Maury County",Tennessee,80956,613,132
 "McMinn County",Tennessee,52266,430,122
 "McNairy County",Tennessee,26075,560,47
+"Meigs County",Tennessee,11753,195,60
+"Monroe County",Tennessee,44519,635,70
+"Montgomery County",Tennessee,172331,539,320
+"Moore County",Tennessee,6362,129,49
+"Morgan County",Tennessee,21987,522,42
 "Obion County",Tennessee,31807,545,58
 "Overton County",Tennessee,22083,433,51
+"Perry County",Tennessee,7915,415,19
 "Pickett County",Tennessee,5077,163,31
+"Polk County",Tennessee,16825,435,39
+"Putnam County",Tennessee,72321,401,180
 "Rhea County",Tennessee,31809,316,101
-"Roane County","West Virginia",14926,484,31
+"Roane County",Tennessee,54181,361,150
+"Robertson County",Tennessee,66283,477,139
+"Rutherford County",Tennessee,262604,619,424
+"Scott County",Tennessee,22228,532,42
 "Sequatchie County",Tennessee,14112,266,53
+"Sevier County",Tennessee,89889,592,152
+"Shelby County",Tennessee,927644,755,1229
+"Smith County",Tennessee,19166,314,61
+"Stewart County",Tennessee,13324,458,29
+"Sullivan County",Tennessee,156823,413,380
+"Sumner County",Tennessee,160645,529,304
+"Tipton County",Tennessee,61081,459,133
 "Trousdale County",Tennessee,7870,114,69
 "Unicoi County",Tennessee,18313,186,98
+"Union County",Tennessee,19109,224,85
+"Van Buren County",Tennessee,5548,247,22
+"Warren County",Tennessee,39839,433,92
+"Washington County",Tennessee,122979,326,377
+"Wayne County",Tennessee,17021,734,23
 "Weakley County",Tennessee,35021,580,60
+"White County",Tennessee,25841,377,69
+"Williamson County",Tennessee,202686,582,348
+"Wilson County",Tennessee,113993,571,200
+"Anderson County",Texas,57741,1071,54
 "Andrews County",Texas,17722,1501,12
 "Angelina County",Texas,87805,802,109
 "Aransas County",Texas,25572,252,101
 "Archer County",Texas,8809,910,10
+"Armstrong County",Texas,1879,914,2
 "Atascosa County",Texas,48981,1232,40
 "Austin County",Texas,29786,653,46
 "Bailey County",Texas,7077,827,9
@@ -1524,6 +2525,7 @@ Yakutat,Alaska,540,7623,0
 "Bastrop County",Texas,84761,888,95
 "Baylor County",Texas,3581,871,4
 "Bee County",Texas,32563,880,37
+"Bell County",Texas,347833,1059,328
 "Bexar County",Texas,1958578,1247,1571
 "Blanco County",Texas,11626,711,16
 "Borden County",Texas,673,899,1
@@ -1533,13 +2535,22 @@ Yakutat,Alaska,540,7623,0
 "Brazos County",Texas,222830,586,380
 "Brewster County",Texas,9337,6193,2
 "Briscoe County",Texas,1528,900,2
+"Brooks County",Texas,7235,943,8
+"Brown County",Texas,38053,944,40
 "Burleson County",Texas,18011,666,27
 "Burnet County",Texas,46804,995,47
+"Caldwell County",Texas,42338,546,78
+"Calhoun County",Texas,21744,512,42
 "Callahan County",Texas,13946,899,16
+"Cameron County",Texas,423725,906,468
 "Camp County",Texas,12855,198,65
 "Carson County",Texas,6032,923,7
+"Cass County",Texas,30012,938,32
 "Castro County",Texas,7843,898,9
+"Chambers County",Texas,41441,599,69
+"Cherokee County",Texas,52240,1052,50
 "Childress County",Texas,7067,710,10
+"Clay County",Texas,10421,1098,9
 "Cochran County",Texas,2851,775,4
 "Coke County",Texas,3306,899,4
 "Coleman County",Texas,8430,1273,7
@@ -1547,26 +2558,40 @@ Yakutat,Alaska,540,7623,0
 "Collingsworth County",Texas,2987,919,3
 "Colorado County",Texas,21232,963,22
 "Comal County",Texas,141009,562,251
+"Comanche County",Texas,13573,938,14
 "Concho County",Texas,2717,992,3
 "Cooke County",Texas,39895,874,46
 "Coryell County",Texas,74913,1052,71
 "Cottle County",Texas,1387,901,2
 "Crane County",Texas,4740,786,6
+"Crockett County",Texas,3564,2808,1
 "Crosby County",Texas,5899,900,7
 "Culberson County",Texas,2231,3813,1
 "Dallam County",Texas,7208,1505,5
+"Dallas County",Texas,2618148,880,2975
+"Dawson County",Texas,12813,902,14
 "Deaf Smith County",Texas,18836,1497,13
+"Delta County",Texas,5298,277,19
 "Denton County",Texas,836210,888,942
+"DeWitt County",Texas,20226,909,22
 "Dickens County",Texas,2209,904,2
 "Dimmit County",Texas,10418,1331,8
 "Donley County",Texas,3311,930,4
+"Duval County",Texas,11273,1793,6
 "Eastland County",Texas,18411,926,20
 "Ector County",Texas,157087,901,174
+"Edwards County",Texas,1953,2120,1
+"Ellis County",Texas,173620,940,185
+"El Paso County",Texas,840410,1013,830
 "Erath County",Texas,41969,1086,39
 "Falls County",Texas,17437,769,23
+"Fannin County",Texas,34446,892,39
+"Fayette County",Texas,25272,950,27
 "Fisher County",Texas,3880,901,4
+"Floyd County",Texas,5855,992,6
 "Foard County",Texas,1222,707,2
 "Fort Bend County",Texas,764828,875,874
+"Franklin County",Texas,10767,286,38
 "Freestone County",Texas,19625,885,22
 "Frio County",Texas,19600,1133,17
 "Gaines County",Texas,20638,1502,14
@@ -1576,32 +2601,64 @@ Yakutat,Alaska,540,7623,0
 "Glasscock County",Texas,1348,901,1
 "Goliad County",Texas,7562,854,9
 "Gonzales County",Texas,20893,1068,20
+"Gray County",Texas,22404,928,24
+"Grayson County",Texas,131140,934,140
 "Gregg County",Texas,123367,274,450
 "Grimes County",Texas,28032,794,35
+"Guadalupe County",Texas,159659,711,225
+"Hale County",Texas,34134,1005,34
+"Hall County",Texas,3071,903,3
+"Hamilton County",Texas,8422,836,10
 "Hansford County",Texas,5477,920,6
+"Hardeman County",Texas,3994,695,6
+"Hardin County",Texas,57139,894,64
+"Harris County",Texas,4652980,1729,2691
+"Harrison County",Texas,66661,899,74
 "Hartley County",Texas,5691,1462,4
+"Haskell County",Texas,5746,903,6
 "Hays County",Texas,214485,678,316
 "Hemphill County",Texas,4024,910,4
+"Henderson County",Texas,81064,874,93
+"Hidalgo County",Texas,860661,1569,549
+"Hill County",Texas,35852,962,37
 "Hockley County",Texas,23088,908,25
 "Hood County",Texas,58273,422,138
+"Hopkins County",Texas,36496,785,46
+"Houston County",Texas,23021,1231,19
+"Howard County",Texas,36040,903,40
 "Hudspeth County",Texas,4408,4571,1
 "Hunt County",Texas,93872,841,112
+"Hutchinson County",Texas,21375,887,24
 "Irion County",Texas,1516,1052,1
 "Jack County",Texas,8832,917,10
+"Jackson County",Texas,14805,830,18
+"Jasper County",Texas,35561,938,38
+"Jeff Davis County",Texas,2280,2265,1
+"Jefferson County",Texas,256299,904,284
 "Jim Hogg County",Texas,5202,1136,5
 "Jim Wells County",Texas,40871,865,47
+"Johnson County",Texas,167301,729,229
+"Jones County",Texas,19983,931,21
 "Karnes County",Texas,15187,750,20
 "Kaufman County",Texas,122883,786,156
+"Kendall County",Texas,44026,662,67
 "Kenedy County",Texas,417,1457,0
+"Kent County",Texas,763,902,1
 "Kerr County",Texas,51720,1106,47
 "Kimble County",Texas,4410,1251,4
-"King County",Washington,2252782,2126,1060
+"King County",Texas,296,912,0
 "Kinney County",Texas,3745,1364,3
 "Kleberg County",Texas,31088,871,36
+"Knox County",Texas,3710,854,4
+"Lamar County",Texas,49587,917,54
 "Lamb County",Texas,13210,1016,13
 "Lampasas County",Texas,21207,712,30
 "La Salle County",Texas,7584,1489,5
 "Lavaca County",Texas,20062,970,21
+"Lee County",Texas,17183,629,27
+"Leon County",Texas,17243,1072,16
+"Liberty County",Texas,83658,1160,72
+"Limestone County",Texas,23527,909,26
 "Lipscomb County",Texas,3378,932,4
 "Live Oak County",Texas,12174,1036,12
 "Llano County",Texas,21210,935,23
@@ -1611,20 +2668,38 @@ Yakutat,Alaska,540,7623,0
 "McCulloch County",Texas,7957,1069,7
 "McLennan County",Texas,251259,1042,241
 "McMullen County",Texas,778,1113,1
+"Madison County",Texas,14222,470,30
+"Marion County",Texas,10064,381,26
+"Martin County",Texas,5626,915,6
+"Mason County",Texas,4222,932,5
 "Matagorda County",Texas,36840,1114,33
 "Maverick County",Texas,58216,1280,45
+"Medina County",Texas,50066,1328,38
+"Menard County",Texas,2124,902,2
+"Midland County",Texas,165049,900,183
 "Milam County",Texas,25053,1017,25
+"Mills County",Texas,4921,748,7
+"Mitchell County",Texas,8468,910,9
 "Montague County",Texas,19539,931,21
+"Montgomery County",Texas,570934,1044,547
+"Moore County",Texas,22097,900,25
+"Morris County",Texas,12467,254,49
 "Motley County",Texas,1230,989,1
 "Nacogdoches County",Texas,65580,947,69
 "Navarro County",Texas,48701,1071,45
+"Newton County",Texas,13952,933,15
 "Nolan County",Texas,14770,912,16
 "Nueces County",Texas,361221,836,432
 "Ochiltree County",Texas,10073,918,11
+"Oldham County",Texas,2114,1501,1
+"Orange County",Texas,85047,356,239
 "Palo Pinto County",Texas,28570,953,30
+"Panola County",Texas,23243,801,29
 "Parker County",Texas,133463,904,148
 "Parmer County",Texas,9842,882,11
 "Pecos County",Texas,15634,4764,3
+"Polk County",Texas,49162,1057,47
+"Potter County",Texas,120458,909,133
 "Presidio County",Texas,7156,3856,2
 "Rains County",Texas,11762,232,51
 "Randall County",Texas,134442,914,147
@@ -1633,9 +2708,11 @@ Yakutat,Alaska,540,7623,0
 "Red River County",Texas,12229,1050,12
 "Reeves County",Texas,15281,2636,6
 "Refugio County",Texas,7224,770,9
+"Roberts County",Texas,938,924,1
+"Robertson County",Texas,17203,855,20
 "Rockwall County",Texas,96788,149,650
 "Runnels County",Texas,10266,1054,10
-"Rusk County",Wisconsin,14755,913,16
+"Rusk County",Texas,52833,924,57
 "Sabine County",Texas,10461,490,21
 "San Augustine County",Texas,8253,528,16
 "San Jacinto County",Texas,28270,571,50
@@ -1644,187 +2721,375 @@ Yakutat,Alaska,540,7623,0
 "Schleicher County",Texas,3001,1311,2
 "Scurry County",Texas,17050,903,19
 "Shackelford County",Texas,3328,914,4
+"Shelby County",Texas,25513,794,32
+"Sherman County",Texas,3067,923,3
+"Smith County",Texas,227727,928,245
 "Somervell County",Texas,8845,187,47
 "Starr County",Texas,64454,1223,53
+"Stephens County",Texas,9337,895,10
 "Sterling County",Texas,1295,923,1
 "Stonewall County",Texas,1388,919,2
 "Sutton County",Texas,3767,1454,3
 "Swisher County",Texas,7515,900,8
 "Tarrant County",Texas,2054475,864,2378
+"Taylor County",Texas,136290,916,149
+"Terrell County",Texas,810,2358,0
 "Terry County",Texas,12715,890,14
 "Throckmorton County",Texas,1527,912,2
 "Titus County",Texas,32904,411,80
 "Tom Green County",Texas,118019,1522,78
 "Travis County",Texas,1226698,989,1240
-"Tyler County","West Virginia",9208,258,36
-"Upshur County","West Virginia",24254,355,68
+"Trinity County",Texas,14667,693,21
+"Tyler County",Texas,21539,923,23
+"Upshur County",Texas,41281,588,70
 "Upton County",Texas,3663,1242,3
 "Uvalde County",Texas,27132,1557,17
 "Val Verde County",Texas,49205,3171,16
 "Van Zandt County",Texas,55182,849,65
 "Victoria County",Texas,92084,883,104
+"Walker County",Texas,72245,788,92
 "Waller County",Texas,51307,514,100
+"Ward County",Texas,11472,836,14
+"Washington County",Texas,35043,609,58
 "Webb County",Texas,274794,3357,82
 "Wharton County",Texas,41968,1090,39
+"Wheeler County",Texas,5358,914,6
+"Wichita County",Texas,132000,628,210
 "Wilbarger County",Texas,12764,971,13
 "Willacy County",Texas,21584,597,36
+"Williamson County",Texas,547545,1124,487
+"Wilson County",Texas,49304,807,61
 "Winkler County",Texas,7574,841,9
-"Wise County",Virginia,39718,403,99
+"Wise County",Texas,66181,905,73
+"Wood County",Texas,44314,650,68
 "Yoakum County",Texas,8568,800,11
 "Young County",Texas,17979,922,20
 "Zapata County",Texas,14322,997,14
 "Zavala County",Texas,11948,1299,9
+"Beaver County",Utah,6629,2590,3
 "Box Elder County",Utah,49975,5746,9
 "Cache County",Utah,112656,1165,97
+"Carbon County",Utah,21403,1478,14
 "Daggett County",Utah,1059,697,2
+"Davis County",Utah,306479,299,1025
 "Duchesne County",Utah,18607,3241,6
 "Emery County",Utah,10976,4462,2
+"Garfield County",Utah,5172,5175,1
+"Grand County",Utah,9225,3672,3
+"Iron County",Utah,46163,3297,14
 "Juab County",Utah,10246,3392,3
+"Kane County",Utah,7125,3990,2
 "Millard County",Utah,12503,6572,2
+"Morgan County",Utah,9469,609,16
 "Piute County",Utah,1556,758,2
 "Rich County",Utah,2264,1029,2
 "Salt Lake County",Utah,1029665,742,1388
+"San Juan County",Utah,14746,7820,2
 "Sanpete County",Utah,27882,1590,18
+"Sevier County",Utah,20802,1911,11
+"Summit County",Utah,36324,1872,19
 "Tooele County",Utah,58218,6941,8
 "Uintah County",Utah,32588,4480,7
 "Utah County",Utah,516564,2003,258
 "Wasatch County",Utah,23530,1176,20
+"Washington County",Utah,138115,2426,57
+"Wayne County",Utah,2589,2461,1
 "Weber County",Utah,231236,576,401
 "Addison County",Vermont,37035,770,48
 "Bennington County",Vermont,36317,676,54
 "Caledonia County",Vermont,30780,651,47
 "Chittenden County",Vermont,161382,539,299
+"Essex County",Vermont,6163,665,9
+"Franklin County",Vermont,48799,637,77
 "Grand Isle County",Vermont,6861,83,83
 "Lamoille County",Vermont,25235,461,55
+"Orange County",Vermont,28899,689,42
+"Orleans County",Vermont,27100,697,39
 "Rutland County",Vermont,59736,932,64
+"Washington County",Vermont,58612,690,85
+"Windham County",Vermont,43386,789,55
 "Windsor County",Vermont,55737,971,57
 "Accomack County",Virginia,32973,455,72
 "Albemarle County",Virginia,105703,723,146
+"Alleghany County",Virginia,15677,446,35
 "Amelia County",Virginia,12903,357,36
 "Amherst County",Virginia,31914,475,67
 "Appomattox County",Virginia,15414,334,46
 "Arlington County",Virginia,229164,26,8814
 "Augusta County",Virginia,74314,971,77
+"Bath County",Virginia,4470,532,8
+"Bedford County",Virginia,77724,755,103
 "Bland County",Virginia,6561,359,18
 "Botetourt County",Virginia,33347,543,61
+"Brunswick County",Virginia,16698,566,30
+"Buchanan County",Virginia,22776,504,45
 "Buckingham County",Virginia,17032,581,29
+"Campbell County",Virginia,55086,504,109
+"Caroline County",Virginia,29984,533,56
+"Carroll County",Virginia,29724,476,62
 "Charles City County",Virginia,7040,182,39
+"Charlotte County",Virginia,12201,475,26
+"Chesterfield County",Virginia,335687,426,788
+"Clarke County",Virginia,14363,177,81
+"Craig County",Virginia,5211,330,16
 "Culpeper County",Virginia,49432,381,130
+"Cumberland County",Virginia,9719,298,33
 "Dickenson County",Virginia,15115,333,45
 "Dinwiddie County",Virginia,27852,504,55
+"Essex County",Virginia,11130,258,43
 "Fairfax County",Virginia,1142234,396,2884
 "Fauquier County",Virginia,68782,650,106
+"Floyd County",Virginia,15651,382,41
 "Fluvanna County",Virginia,26235,287,91
+"Franklin County",Virginia,56264,692,81
+"Frederick County",Virginia,83199,415,200
+"Giles County",Virginia,16708,358,47
+"Gloucester County",Virginia,37143,217,171
 "Goochland County",Virginia,22253,284,78
+"Grayson County",Virginia,16012,443,36
+"Greene County",Virginia,19162,157,122
 "Greensville County",Virginia,11885,296,40
+"Halifax County",Virginia,35125,814,43
 "Hanover County",Virginia,103227,473,218
 "Henrico County",Virginia,325155,238,1366
+"Henry County",Virginia,51881,382,136
+"Highland County",Virginia,2214,416,5
 "Isle of Wight County",Virginia,36314,316,115
 "James City County",Virginia,73147,143,512
 "King and Queen County",Virginia,7158,316,23
 "King George County",Virginia,25515,180,142
 "King William County",Virginia,16269,275,59
+"Lancaster County",Virginia,10965,133,82
+"Lee County",Virginia,24742,437,57
 "Loudoun County",Virginia,375629,520,722
+"Louisa County",Virginia,34602,498,69
 "Lunenburg County",Virginia,12299,432,28
+"Madison County",Virginia,13134,322,41
 "Mathews County",Virginia,8862,86,103
+"Mecklenburg County",Virginia,31081,624,50
+"Middlesex County",Virginia,10606,130,82
+"Montgomery County",Virginia,97653,388,252
+"Nelson County",Virginia,14785,472,31
 "New Kent County",Virginia,20392,210,97
+"Northampton County",Virginia,12155,207,59
+"Northumberland County",Virginia,12232,192,64
 "Nottoway County",Virginia,15673,315,50
+"Orange County",Virginia,35385,342,103
+"Page County",Virginia,23726,311,76
 "Patrick County",Virginia,18045,483,37
 "Pittsylvania County",Virginia,62194,978,64
 "Powhatan County",Virginia,28031,261,107
 "Prince Edward County",Virginia,22952,353,65
 "Prince George County",Virginia,37862,266,142
 "Prince William County",Virginia,451721,338,1336
+"Pulaski County",Virginia,34332,321,107
 "Rappahannock County",Virginia,7378,267,28
+"Richmond County",Virginia,8908,192,46
 "Roanoke County",Virginia,94409,251,376
 "Rockbridge County",Virginia,22354,600,37
+"Rockingham County",Virginia,78593,851,92
+"Russell County",Virginia,27891,475,59
+"Scott County",Virginia,22126,537,41
 "Shenandoah County",Virginia,43190,512,84
 "Smyth County",Virginia,31470,452,70
 "Southampton County",Virginia,18109,600,30
 "Spotsylvania County",Virginia,130475,401,325
+"Stafford County",Virginia,142003,270,526
+"Surry County",Virginia,6709,279,24
+"Sussex County",Virginia,11715,491,24
+"Tazewell County",Virginia,42899,520,82
+"Warren County",Virginia,39083,214,183
+"Washington County",Virginia,54591,564,97
+"Westmoreland County",Virginia,17629,229,77
+"Wise County",Virginia,39718,403,99
 "Wythe County",Virginia,29119,463,63
+"York County",Virginia,67837,106,640
+"Adams County",Washington,19983,1925,10
 "Asotin County",Washington,22582,636,36
+"Benton County",Washington,204390,1703,120
 "Chelan County",Washington,77200,2922,26
 "Clallam County",Washington,77331,1745,44
+"Clark County",Washington,488241,628,777
+"Columbia County",Washington,3985,869,5
 "Cowlitz County",Washington,110593,1139,97
+"Douglas County",Washington,43429,1821,24
 "Ferry County",Washington,7627,2204,3
+"Franklin County",Washington,95222,1242,77
+"Garfield County",Washington,2225,710,3
+"Grant County",Washington,97733,2681,36
 "Grays Harbor County",Washington,75061,1917,39
 "Island County",Washington,85141,209,407
+"Jefferson County",Washington,32221,1809,18
+"King County",Washington,2252782,2126,1060
 "Kitsap County",Washington,271473,396,686
 "Kittitas County",Washington,47935,2297,21
 "Klickitat County",Washington,22425,1872,12
+"Lewis County",Washington,80707,2408,34
+"Lincoln County",Washington,10939,2311,5
+"Mason County",Washington,66768,961,69
 "Okanogan County",Washington,42243,5268,8
 "Pacific County",Washington,22036,975,23
 "Pend Oreille County",Washington,13724,1400,10
+"Pierce County",Washington,904980,1676,540
+"San Juan County",Washington,17582,175,100
 "Skagit County",Washington,129205,1735,74
 "Skamania County",Washington,12083,1656,7
 "Snohomish County",Washington,822083,2090,393
 "Spokane County",Washington,522798,1764,296
+"Stevens County",Washington,45723,2478,18
+"Thurston County",Washington,290536,727,400
 "Wahkiakum County",Washington,4488,264,17
 "Walla Walla County",Washington,60760,1270,48
 "Whatcom County",Washington,229247,2120,108
 "Whitman County",Washington,50104,2159,23
 "Yakima County",Washington,250873,4296,58
+"Barbour County","West Virginia",16589,341,49
+"Berkeley County","West Virginia",104169,321,325
+"Boone County","West Virginia",24629,503,49
 "Braxton County","West Virginia",14523,514,28
 "Brooke County","West Virginia",24069,89,270
 "Cabell County","West Virginia",96319,282,342
+"Calhoun County","West Virginia",7627,281,27
+"Clay County","West Virginia",9386,342,27
 "Doddridge County","West Virginia",8202,320,26
+"Fayette County","West Virginia",46039,664,69
+"Gilmer County","West Virginia",8693,340,26
+"Grant County","West Virginia",11937,477,25
 "Greenbrier County","West Virginia",35480,1021,35
+"Hampshire County","West Virginia",23964,642,37
+"Hancock County","West Virginia",30676,83,370
 "Hardy County","West Virginia",14025,583,24
+"Harrison County","West Virginia",69099,416,166
+"Jackson County","West Virginia",29211,466,63
+"Jefferson County","West Virginia",53498,210,255
 "Kanawha County","West Virginia",193063,903,214
+"Lewis County","West Virginia",16372,389,42
+"Lincoln County","West Virginia",21720,438,50
+"Logan County","West Virginia",36743,454,81
+"Marion County","West Virginia",56418,310,182
+"Marshall County","West Virginia",33107,307,108
+"Mason County","West Virginia",27324,432,63
+"McDowell County","West Virginia",22113,535,41
+"Mercer County","West Virginia",62264,420,148
+"Mineral County","West Virginia",28212,328,86
 "Mingo County","West Virginia",26839,423,63
 "Monongalia County","West Virginia",96189,361,266
+"Monroe County","West Virginia",13502,473,29
+"Morgan County","West Virginia",17541,229,77
+"Nicholas County","West Virginia",26233,649,40
+"Ohio County","West Virginia",44443,106,419
+"Pendleton County","West Virginia",7695,698,11
 "Pleasants County","West Virginia",7605,131,58
+"Pocahontas County","West Virginia",8719,940,9
 "Preston County","West Virginia",33520,648,52
+"Putnam County","West Virginia",55486,346,160
 "Raleigh County","West Virginia",78859,607,130
+"Randolph County","West Virginia",29405,1040,28
 "Ritchie County","West Virginia",10449,454,23
+"Roane County","West Virginia",14926,484,31
 "Summers County","West Virginia",13927,361,39
+"Taylor County","West Virginia",16895,173,98
 "Tucker County","West Virginia",7141,419,17
+"Tyler County","West Virginia",9208,258,36
+"Upshur County","West Virginia",24254,355,68
+"Wayne County","West Virginia",42481,506,84
+"Webster County","West Virginia",9154,556,16
 "Wetzel County","West Virginia",16583,359,46
 "Wirt County","West Virginia",5717,233,25
+"Wood County","West Virginia",86956,367,237
+"Wyoming County","West Virginia",23796,501,47
+"Adams County",Wisconsin,20875,645,32
+"Ashland County",Wisconsin,16157,1045,15
 "Barron County",Wisconsin,45870,862,53
 "Bayfield County",Wisconsin,15014,1477,10
+"Brown County",Wisconsin,248007,529,469
+"Buffalo County",Wisconsin,13587,671,20
 "Burnett County",Wisconsin,15457,821,19
 "Calumet County",Wisconsin,48971,318,154
+"Chippewa County",Wisconsin,62415,1008,62
+"Clark County",Wisconsin,34690,1209,29
+"Columbia County",Wisconsin,56833,765,74
+"Crawford County",Wisconsin,16644,570,29
 "Dane County",Wisconsin,488073,1197,408
+"Dodge County",Wisconsin,88759,875,101
 "Door County",Wisconsin,27785,481,58
+"Douglas County",Wisconsin,44159,1304,34
+"Dunn County",Wisconsin,43857,850,52
 "Eau Claire County",Wisconsin,98736,637,155
+"Florence County",Wisconsin,4423,488,9
 "Fond du Lac County",Wisconsin,101633,719,141
+"Forest County",Wisconsin,9304,1014,9
+"Grant County",Wisconsin,51208,1146,45
+"Green County",Wisconsin,36842,583,63
 "Green Lake County",Wisconsin,19051,349,55
+"Iowa County",Wisconsin,23687,762,31
+"Iron County",Wisconsin,5916,758,8
+"Jackson County",Wisconsin,20449,987,21
+"Jefferson County",Wisconsin,83686,556,151
 "Juneau County",Wisconsin,26664,766,35
 "Kenosha County",Wisconsin,166426,271,614
 "Kewaunee County",Wisconsin,20574,342,60
 "La Crosse County",Wisconsin,114638,451,254
+"Lafayette County",Wisconsin,16836,633,27
 "Langlade County",Wisconsin,19977,870,23
+"Lincoln County",Wisconsin,28743,878,33
 "Manitowoc County",Wisconsin,81442,589,138
 "Marathon County",Wisconsin,134063,1544,87
 "Marinette County",Wisconsin,41749,1399,30
+"Marquette County",Wisconsin,15404,455,34
+"Menominee County",Wisconsin,4232,357,12
 "Milwaukee County",Wisconsin,947735,241,3933
+"Monroe County",Wisconsin,44673,900,50
 "Oconto County",Wisconsin,37660,997,38
+"Oneida County",Wisconsin,35998,1112,32
 "Outagamie County",Wisconsin,176695,637,277
 "Ozaukee County",Wisconsin,86395,233,371
 "Pepin County",Wisconsin,7469,231,32
+"Pierce County",Wisconsin,41019,573,72
+"Polk County",Wisconsin,44205,913,48
+"Portage County",Wisconsin,70019,800,88
 "Price County",Wisconsin,14159,1254,11
 "Racine County",Wisconsin,195408,332,589
+"Richland County",Wisconsin,18021,586,31
+"Rock County",Wisconsin,160331,718,223
+"Rusk County",Wisconsin,14755,913,16
 "Sauk County",Wisconsin,61976,830,75
 "Sawyer County",Wisconsin,16557,1257,13
 "Shawano County",Wisconsin,41949,893,47
 "Sheboygan County",Wisconsin,115507,511,226
 "St. Croix County",Wisconsin,84345,722,117
+"Taylor County",Wisconsin,20689,974,21
 "Trempealeau County",Wisconsin,28816,732,39
+"Vernon County",Wisconsin,29773,791,38
 "Vilas County",Wisconsin,21430,856,25
+"Walworth County",Wisconsin,102228,555,184
 "Washburn County",Wisconsin,15911,797,20
+"Washington County",Wisconsin,131887,430,307
 "Waukesha County",Wisconsin,389891,549,710
 "Waupaca County",Wisconsin,52410,747,70
 "Waushara County",Wisconsin,24496,626,39
+"Winnebago County",Wisconsin,166994,434,385
+"Wood County",Wisconsin,74749,793,94
+"Albany County",Wyoming,37276,4274,9
+"Big Horn County",Wyoming,11794,3137,4
+"Campbell County",Wyoming,47874,4797,10
+"Carbon County",Wyoming,15666,7897,2
 "Converse County",Wyoming,14008,4255,3
+"Crook County",Wyoming,7155,2859,3
+"Fremont County",Wyoming,41110,9183,4
 "Goshen County",Wyoming,13636,2225,6
 "Hot Springs County",Wyoming,4822,2004,2
+"Johnson County",Wyoming,8615,4166,2
 "Laramie County",Wyoming,94483,2686,35
+"Lincoln County",Wyoming,17961,4069,4
 "Natrona County",Wyoming,78621,5340,15
 "Niobrara County",Wyoming,2456,2626,1
+"Park County",Wyoming,28702,6943,4
+"Platte County",Wyoming,8756,2085,4
+"Sheridan County",Wyoming,29596,2523,12
 "Sublette County",Wyoming,10368,4882,2
 "Sweetwater County",Wyoming,45267,10426,4
+"Teton County",Wyoming,21675,4008,5
 "Uinta County",Wyoming,21025,2082,10
 "Washakie County",Wyoming,8464,2240,4
 "Weston County",Wyoming,7082,2398,3

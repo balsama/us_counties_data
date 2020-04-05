@@ -48,7 +48,7 @@ class CountyScraper
                 $population = $this->formatPopulation($row->getElementsByTagName('td')->item($populationColumn)->nodeValue);
                 $area = $this->extractSqareMilesFromArea($row->getElementsByTagName('td')->item($areaColumn)->nodeValue);
                 $density = (int) number_format($population / $area, 0, '.', '');
-                $counties[$countyName] = [
+                $counties["$countyName, $state"] = [
                     'name' => $countyName,
                     'state' => $state,
                     'population' => $population,
