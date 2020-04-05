@@ -32,5 +32,3 @@ foreach ($allCounties as $county) {
     fputcsv($fp, $county);
 }
 fclose($fp);
-
-$foo = 21;

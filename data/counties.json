@@ -66,8 +66,8 @@
         "name": "Cherokee County",
         "state": "Texas",
         "population": 52240,
-        "area": 1,
-        "density": 52240
+        "area": 1052,
+        "density": 50
     },
     "Chilton County": {
         "name": "Chilton County",
@@ -178,8 +178,8 @@
         "name": "Elmore County",
         "state": "Idaho",
         "population": 27038,
-        "area": 3,
-        "density": 9013
+        "area": 3078,
+        "density": 9
     },
     "Escambia County": {
         "name": "Escambia County",
@@ -206,8 +206,8 @@
         "name": "Franklin County",
         "state": "Washington",
         "population": 95222,
-        "area": 1,
-        "density": 95222
+        "area": 1242,
+        "density": 77
     },
     "Geneva County": {
         "name": "Geneva County",
@@ -227,8 +227,8 @@
         "name": "Hale County",
         "state": "Texas",
         "population": 34134,
-        "area": 1,
-        "density": 34134
+        "area": 1005,
+        "density": 34
     },
     "Henry County": {
         "name": "Henry County",
@@ -241,8 +241,8 @@
         "name": "Houston County",
         "state": "Texas",
         "population": 23021,
-        "area": 1,
-        "density": 23021
+        "area": 1231,
+        "density": 19
     },
     "Jackson County": {
         "name": "Jackson County",
@@ -339,8 +339,8 @@
         "name": "Mobile County",
         "state": "Alabama",
         "population": 412992,
-        "area": 1,
-        "density": 412992
+        "area": 1229,
+        "density": 336
     },
     "Monroe County": {
         "name": "Monroe County",
@@ -388,8 +388,8 @@
         "name": "Randolph County",
         "state": "West Virginia",
         "population": 29405,
-        "area": 1,
-        "density": 29405
+        "area": 1040,
+        "density": 28
     },
     "Russell County": {
         "name": "Russell County",
@@ -437,8 +437,8 @@
         "name": "Tuscaloosa County",
         "state": "Alabama",
         "population": 194656,
-        "area": 1,
-        "density": 194656
+        "area": 1321,
+        "density": 147
     },
     "Walker County": {
         "name": "Walker County",
@@ -472,15 +472,15 @@
         "name": "Aleutians East Borough",
         "state": "Alaska",
         "population": 2938,
-        "area": 6,
-        "density": 490
+        "area": 6985,
+        "density": 0
     },
     "Anchorage": {
         "name": "Anchorage",
         "state": "Alaska",
         "population": 291845,
-        "area": 1,
-        "density": 291845
+        "area": 1707,
+        "density": 171
     },
     "Bristol Bay Borough": {
         "name": "Bristol Bay Borough",
@@ -493,92 +493,92 @@
         "name": "Denali Borough",
         "state": "Alaska",
         "population": 1860,
-        "area": 12,
-        "density": 155
+        "area": 12637,
+        "density": 0
     },
     "Fairbanks North Star Borough": {
         "name": "Fairbanks North Star Borough",
         "state": "Alaska",
         "population": 95898,
-        "area": 7,
-        "density": 13700
+        "area": 7335,
+        "density": 13
     },
     "Haines Borough": {
         "name": "Haines Borough",
         "state": "Alaska",
         "population": 2516,
-        "area": 2,
-        "density": 1258
+        "area": 2345,
+        "density": 1
     },
     "Juneau": {
         "name": "Juneau",
         "state": "Alaska",
         "population": 31986,
-        "area": 2,
-        "density": 15993
+        "area": 2704,
+        "density": 12
     },
     "Kenai Peninsula Borough": {
         "name": "Kenai Peninsula Borough",
         "state": "Alaska",
         "population": 58367,
-        "area": 16,
-        "density": 3648
+        "area": 16023,
+        "density": 4
     },
     "Ketchikan Gateway Borough": {
         "name": "Ketchikan Gateway Borough",
         "state": "Alaska",
         "population": 13739,
-        "area": 4,
-        "density": 3435
+        "area": 4857,
+        "density": 3
     },
     "Kodiak Island Borough": {
         "name": "Kodiak Island Borough",
         "state": "Alaska",
         "population": 13001,
-        "area": 6,
-        "density": 2167
+        "area": 6615,
+        "density": 2
     },
     "Lake and Peninsula Borough": {
         "name": "Lake and Peninsula Borough",
         "state": "Alaska",
         "population": 1622,
-        "area": 23,
-        "density": 71
+        "area": 23905,
+        "density": 0
     },
     "Matanuska-Susitna Borough": {
         "name": "Matanuska-Susitna Borough",
         "state": "Alaska",
         "population": 106438,
-        "area": 24,
-        "density": 4435
+        "area": 24715,
+        "density": 4
     },
     "North Slope Borough": {
         "name": "North Slope Borough",
         "state": "Alaska",
         "population": 9886,
-        "area": 88,
-        "density": 112
+        "area": 88824,
+        "density": 0
     },
     "Northwest Arctic Borough": {
         "name": "Northwest Arctic Borough",
         "state": "Alaska",
         "population": 7715,
-        "area": 35,
-        "density": 220
+        "area": 35664,
+        "density": 0
     },
     "Petersburg Borough": {
         "name": "Petersburg Borough",
         "state": "Alaska",
         "population": 3226,
-        "area": 2,
-        "density": 1613
+        "area": 2901,
+        "density": 1
     },
     "Sitka": {
         "name": "Sitka",
         "state": "Alaska",
         "population": 8532,
-        "area": 2,
-        "density": 4266
+        "area": 2870,
+        "density": 3
     },
     "Skagway": {
         "name": "Skagway",
@@ -591,50 +591,50 @@
         "name": "Unorganized Borough",
         "state": "Alaska",
         "population": 76534,
-        "area": 295,
-        "density": 259
+        "area": 295153,
+        "density": 0
     },
     "Wrangell": {
         "name": "Wrangell",
         "state": "Alaska",
         "population": 2400,
-        "area": 2,
-        "density": 1200
+        "area": 2556,
+        "density": 1
     },
     "Yakutat": {
         "name": "Yakutat",
         "state": "Alaska",
         "population": 540,
-        "area": 7,
-        "density": 77
+        "area": 7623,
+        "density": 0
     },
     "Apache County": {
         "name": "Apache County",
         "state": "Arizona",
         "population": 69980,
-        "area": 11,
-        "density": 6362
+        "area": 11218,
+        "density": 6
     },
     "Cochise County": {
         "name": "Cochise County",
         "state": "Arizona",
         "population": 127866,
-        "area": 6,
-        "density": 21311
+        "area": 6219,
+        "density": 21
     },
     "Coconino County": {
         "name": "Coconino County",
         "state": "Arizona",
         "population": 134421,
-        "area": 18,
-        "density": 7468
+        "area": 18661,
+        "density": 7
     },
     "Gila County": {
         "name": "Gila County",
         "state": "Arizona",
         "population": 51994,
-        "area": 4,
-        "density": 12999
+        "area": 4796,
+        "density": 11
     },
     "Graham County": {
         "name": "Graham County",
@@ -647,50 +647,50 @@
         "name": "Greenlee County",
         "state": "Arizona",
         "population": 7754,
-        "area": 1,
-        "density": 7754
+        "area": 1848,
+        "density": 4
     },
     "La Paz County": {
         "name": "La Paz County",
         "state": "Arizona",
         "population": 20172,
-        "area": 4,
-        "density": 5043
+        "area": 4513,
+        "density": 4
     },
     "Maricopa County": {
         "name": "Maricopa County",
         "state": "Arizona",
         "population": 3990181,
-        "area": 9,
-        "density": 443353
+        "area": 9224,
+        "density": 433
     },
     "Mohave County": {
         "name": "Mohave County",
         "state": "Arizona",
         "population": 194944,
-        "area": 13,
-        "density": 14996
+        "area": 13470,
+        "density": 14
     },
     "Navajo County": {
         "name": "Navajo County",
         "state": "Arizona",
         "population": 111273,
-        "area": 9,
-        "density": 12364
+        "area": 9959,
+        "density": 11
     },
     "Pima County": {
         "name": "Pima County",
         "state": "Arizona",
         "population": 1003235,
-        "area": 9,
-        "density": 111471
+        "area": 9189,
+        "density": 109
     },
     "Pinal County": {
         "name": "Pinal County",
         "state": "Arizona",
         "population": 324962,
-        "area": 5,
-        "density": 64992
+        "area": 5374,
+        "density": 60
     },
     "Santa Cruz County": {
         "name": "Santa Cruz County",
@@ -703,22 +703,22 @@
         "name": "Yavapai County",
         "state": "Arizona",
         "population": 212635,
-        "area": 8,
-        "density": 26579
+        "area": 8128,
+        "density": 26
     },
     "Yuma County": {
         "name": "Yuma County",
         "state": "Colorado",
         "population": 10043,
-        "area": 2,
-        "density": 5022
+        "area": 2369,
+        "density": 4
     },
     "Arkansas County": {
         "name": "Arkansas County",
         "state": "Arkansas",
         "population": 19019,
-        "area": 1,
-        "density": 19019
+        "area": 1033,
+        "density": 18
     },
     "Ashley County": {
         "name": "Ashley County",
@@ -738,8 +738,8 @@
         "name": "Benton County",
         "state": "Washington",
         "population": 204390,
-        "area": 1,
-        "density": 204390
+        "area": 1703,
+        "density": 120
     },
     "Boone County": {
         "name": "Boone County",
@@ -773,8 +773,8 @@
         "name": "Clark County",
         "state": "Wisconsin",
         "population": 34690,
-        "area": 1,
-        "density": 34690
+        "area": 1209,
+        "density": 29
     },
     "Cleveland County": {
         "name": "Cleveland County",
@@ -864,8 +864,8 @@
         "name": "Grant County",
         "state": "Wisconsin",
         "population": 51208,
-        "area": 1,
-        "density": 51208
+        "area": 1146,
+        "density": 45
     },
     "Hempstead County": {
         "name": "Hempstead County",
@@ -906,8 +906,8 @@
         "name": "Johnson County",
         "state": "Wyoming",
         "population": 8615,
-        "area": 4,
-        "density": 2154
+        "area": 4166,
+        "density": 2
     },
     "Lafayette County": {
         "name": "Lafayette County",
@@ -920,8 +920,8 @@
         "name": "Lincoln County",
         "state": "Wyoming",
         "population": 17961,
-        "area": 4,
-        "density": 4490
+        "area": 4069,
+        "density": 4
     },
     "Little River County": {
         "name": "Little River County",
@@ -983,8 +983,8 @@
         "name": "Phillips County",
         "state": "Montana",
         "population": 4192,
-        "area": 5,
-        "density": 838
+        "area": 5140,
+        "density": 1
     },
     "Poinsett County": {
         "name": "Poinsett County",
@@ -1011,8 +1011,8 @@
         "name": "Prairie County",
         "state": "Montana",
         "population": 1148,
-        "area": 1,
-        "density": 1148
+        "area": 1737,
+        "density": 1
     },
     "Pulaski County": {
         "name": "Pulaski County",
@@ -1060,8 +1060,8 @@
         "name": "Sevier County",
         "state": "Utah",
         "population": 20802,
-        "area": 1,
-        "density": 20802
+        "area": 1911,
+        "density": 11
     },
     "Sharp County": {
         "name": "Sharp County",
@@ -1137,22 +1137,22 @@
         "name": "Butte County",
         "state": "South Dakota",
         "population": 10110,
-        "area": 2,
-        "density": 5055
+        "area": 2249,
+        "density": 4
     },
     "Calaveras County": {
         "name": "Calaveras County",
         "state": "California",
         "population": 45670,
-        "area": 1,
-        "density": 45670
+        "area": 1020,
+        "density": 45
     },
     "Colusa County": {
         "name": "Colusa County",
         "state": "California",
         "population": 21805,
-        "area": 1,
-        "density": 21805
+        "area": 1151,
+        "density": 19
     },
     "Contra Costa County": {
         "name": "Contra Costa County",
@@ -1165,57 +1165,57 @@
         "name": "Del Norte County",
         "state": "California",
         "population": 27470,
-        "area": 1,
-        "density": 27470
+        "area": 1008,
+        "density": 27
     },
     "El Dorado County": {
         "name": "El Dorado County",
         "state": "California",
         "population": 188987,
-        "area": 1,
-        "density": 188987
+        "area": 1712,
+        "density": 110
     },
     "Fresno County": {
         "name": "Fresno County",
         "state": "California",
         "population": 989255,
-        "area": 5,
-        "density": 197851
+        "area": 5963,
+        "density": 166
     },
     "Glenn County": {
         "name": "Glenn County",
         "state": "California",
         "population": 28094,
-        "area": 1,
-        "density": 28094
+        "area": 1315,
+        "density": 21
     },
     "Humboldt County": {
         "name": "Humboldt County",
         "state": "Nevada",
         "population": 16528,
-        "area": 9,
-        "density": 1836
+        "area": 9658,
+        "density": 2
     },
     "Imperial County": {
         "name": "Imperial County",
         "state": "California",
         "population": 182830,
-        "area": 4,
-        "density": 45708
+        "area": 4175,
+        "density": 44
     },
     "Inyo County": {
         "name": "Inyo County",
         "state": "California",
         "population": 18026,
-        "area": 10,
-        "density": 1803
+        "area": 10192,
+        "density": 2
     },
     "Kern County": {
         "name": "Kern County",
         "state": "California",
         "population": 893119,
-        "area": 8,
-        "density": 111640
+        "area": 8142,
+        "density": 110
     },
     "Kings County": {
         "name": "Kings County",
@@ -1235,22 +1235,22 @@
         "name": "Lassen County",
         "state": "California",
         "population": 31163,
-        "area": 4,
-        "density": 7791
+        "area": 4558,
+        "density": 7
     },
     "Los Angeles County": {
         "name": "Los Angeles County",
         "state": "California",
         "population": 10163507,
-        "area": 4,
-        "density": 2540877
+        "area": 4060,
+        "density": 2503
     },
     "Madera County": {
         "name": "Madera County",
         "state": "California",
         "population": 156890,
-        "area": 2,
-        "density": 78445
+        "area": 2138,
+        "density": 73
     },
     "Marin County": {
         "name": "Marin County",
@@ -1263,43 +1263,43 @@
         "name": "Mariposa County",
         "state": "California",
         "population": 17569,
-        "area": 1,
-        "density": 17569
+        "area": 1451,
+        "density": 12
     },
     "Mendocino County": {
         "name": "Mendocino County",
         "state": "California",
         "population": 88018,
-        "area": 3,
-        "density": 29339
+        "area": 3509,
+        "density": 25
     },
     "Merced County": {
         "name": "Merced County",
         "state": "California",
         "population": 272673,
-        "area": 1,
-        "density": 272673
+        "area": 1929,
+        "density": 141
     },
     "Modoc County": {
         "name": "Modoc County",
         "state": "California",
         "population": 8859,
-        "area": 3,
-        "density": 2953
+        "area": 3944,
+        "density": 2
     },
     "Mono County": {
         "name": "Mono County",
         "state": "California",
         "population": 14168,
-        "area": 3,
-        "density": 4723
+        "area": 3044,
+        "density": 5
     },
     "Monterey County": {
         "name": "Monterey County",
         "state": "California",
         "population": 437907,
-        "area": 3,
-        "density": 145969
+        "area": 3322,
+        "density": 132
     },
     "Napa County": {
         "name": "Napa County",
@@ -1319,22 +1319,22 @@
         "name": "Placer County",
         "state": "California",
         "population": 386166,
-        "area": 1,
-        "density": 386166
+        "area": 1407,
+        "density": 274
     },
     "Plumas County": {
         "name": "Plumas County",
         "state": "California",
         "population": 18742,
-        "area": 2,
-        "density": 9371
+        "area": 2554,
+        "density": 7
     },
     "Riverside County": {
         "name": "Riverside County",
         "state": "California",
         "population": 2423266,
-        "area": 7,
-        "density": 346181
+        "area": 7208,
+        "density": 336
     },
     "Sacramento County": {
         "name": "Sacramento County",
@@ -1347,22 +1347,22 @@
         "name": "San Benito County",
         "state": "California",
         "population": 60310,
-        "area": 1,
-        "density": 60310
+        "area": 1389,
+        "density": 43
     },
     "San Bernardino County": {
         "name": "San Bernardino County",
         "state": "California",
         "population": 2157404,
-        "area": 20,
-        "density": 107870
+        "area": 20062,
+        "density": 108
     },
     "San Diego County": {
         "name": "San Diego County",
         "state": "California",
         "population": 3337685,
-        "area": 4,
-        "density": 834421
+        "area": 4204,
+        "density": 794
     },
     "San Francisco": {
         "name": "San Francisco",
@@ -1375,15 +1375,15 @@
         "name": "San Joaquin County",
         "state": "California",
         "population": 745424,
-        "area": 1,
-        "density": 745424
+        "area": 1399,
+        "density": 533
     },
     "San Luis Obispo County": {
         "name": "San Luis Obispo County",
         "state": "California",
         "population": 283405,
-        "area": 3,
-        "density": 94468
+        "area": 3304,
+        "density": 86
     },
     "San Mateo County": {
         "name": "San Mateo County",
@@ -1396,36 +1396,36 @@
         "name": "Santa Barbara County",
         "state": "California",
         "population": 448150,
-        "area": 2,
-        "density": 224075
+        "area": 2738,
+        "density": 164
     },
     "Santa Clara County": {
         "name": "Santa Clara County",
         "state": "California",
         "population": 1938153,
-        "area": 1,
-        "density": 1938153
+        "area": 1291,
+        "density": 1501
     },
     "Shasta County": {
         "name": "Shasta County",
         "state": "California",
         "population": 179921,
-        "area": 3,
-        "density": 59974
+        "area": 3786,
+        "density": 48
     },
     "Sierra County": {
         "name": "Sierra County",
         "state": "New Mexico",
         "population": 51,
-        "area": 4,
-        "density": 13
+        "area": 4180,
+        "density": 0
     },
     "Siskiyou County": {
         "name": "Siskiyou County",
         "state": "California",
         "population": 43853,
-        "area": 6,
-        "density": 7309
+        "area": 6287,
+        "density": 7
     },
     "Solano County": {
         "name": "Solano County",
@@ -1438,15 +1438,15 @@
         "name": "Sonoma County",
         "state": "California",
         "population": 504217,
-        "area": 1,
-        "density": 504217
+        "area": 1576,
+        "density": 320
     },
     "Stanislaus County": {
         "name": "Stanislaus County",
         "state": "California",
         "population": 547899,
-        "area": 1,
-        "density": 547899
+        "area": 1495,
+        "density": 366
     },
     "Sutter County": {
         "name": "Sutter County",
@@ -1459,8 +1459,8 @@
         "name": "Tehama County",
         "state": "California",
         "population": 63926,
-        "area": 2,
-        "density": 31963
+        "area": 2951,
+        "density": 22
     },
     "Trinity County": {
         "name": "Trinity County",
@@ -1473,29 +1473,29 @@
         "name": "Tulare County",
         "state": "California",
         "population": 464493,
-        "area": 4,
-        "density": 116123
+        "area": 4824,
+        "density": 96
     },
     "Tuolumne County": {
         "name": "Tuolumne County",
         "state": "California",
         "population": 54248,
-        "area": 2,
-        "density": 27124
+        "area": 2236,
+        "density": 24
     },
     "Ventura County": {
         "name": "Ventura County",
         "state": "California",
         "population": 854223,
-        "area": 1,
-        "density": 854223
+        "area": 1846,
+        "density": 463
     },
     "Yolo County": {
         "name": "Yolo County",
         "state": "California",
         "population": 219116,
-        "area": 1,
-        "density": 219116
+        "area": 1012,
+        "density": 217
     },
     "Yuba County": {
         "name": "Yuba County",
@@ -1529,22 +1529,22 @@
         "name": "Archuleta County",
         "state": "Colorado",
         "population": 12084,
-        "area": 1,
-        "density": 12084
+        "area": 1354,
+        "density": 9
     },
     "Baca County": {
         "name": "Baca County",
         "state": "Colorado",
         "population": 3788,
-        "area": 2,
-        "density": 1894
+        "area": 2558,
+        "density": 1
     },
     "Bent County": {
         "name": "Bent County",
         "state": "Colorado",
         "population": 6499,
-        "area": 1,
-        "density": 6499
+        "area": 1541,
+        "density": 4
     },
     "Boulder County": {
         "name": "Boulder County",
@@ -1564,15 +1564,15 @@
         "name": "Chaffee County",
         "state": "Colorado",
         "population": 17809,
-        "area": 1,
-        "density": 17809
+        "area": 1014,
+        "density": 18
     },
     "Cheyenne County": {
         "name": "Cheyenne County",
         "state": "Nebraska",
         "population": 10091,
-        "area": 1,
-        "density": 10091
+        "area": 1196,
+        "density": 8
     },
     "Clear Creek County": {
         "name": "Clear Creek County",
@@ -1585,15 +1585,15 @@
         "name": "Conejos County",
         "state": "Colorado",
         "population": 8256,
-        "area": 1,
-        "density": 8256
+        "area": 1290,
+        "density": 6
     },
     "Costilla County": {
         "name": "Costilla County",
         "state": "Colorado",
         "population": 3524,
-        "area": 1,
-        "density": 3524
+        "area": 1229,
+        "density": 3
     },
     "Crowley County": {
         "name": "Crowley County",
@@ -1606,8 +1606,8 @@
         "name": "Custer County",
         "state": "South Dakota",
         "population": 8216,
-        "area": 1,
-        "density": 8216
+        "area": 1558,
+        "density": 5
     },
     "Delta County": {
         "name": "Delta County",
@@ -1627,29 +1627,29 @@
         "name": "Dolores County",
         "state": "Colorado",
         "population": 2064,
-        "area": 1,
-        "density": 2064
+        "area": 1076,
+        "density": 2
     },
     "Douglas County": {
         "name": "Douglas County",
         "state": "Wisconsin",
         "population": 44159,
-        "area": 1,
-        "density": 44159
+        "area": 1304,
+        "density": 34
     },
     "Eagle County": {
         "name": "Eagle County",
         "state": "Colorado",
         "population": 52197,
-        "area": 1,
-        "density": 52197
+        "area": 1700,
+        "density": 31
     },
     "El Paso County": {
         "name": "El Paso County",
         "state": "Texas",
         "population": 840410,
-        "area": 1,
-        "density": 840410
+        "area": 1013,
+        "density": 830
     },
     "Elbert County": {
         "name": "Elbert County",
@@ -1662,8 +1662,8 @@
         "name": "Fremont County",
         "state": "Wyoming",
         "population": 41110,
-        "area": 9,
-        "density": 4568
+        "area": 9183,
+        "density": 4
     },
     "Garfield County": {
         "name": "Garfield County",
@@ -1683,71 +1683,71 @@
         "name": "Grand County",
         "state": "Utah",
         "population": 9225,
-        "area": 3,
-        "density": 3075
+        "area": 3672,
+        "density": 3
     },
     "Gunnison County": {
         "name": "Gunnison County",
         "state": "Colorado",
         "population": 15324,
-        "area": 3,
-        "density": 5108
+        "area": 3259,
+        "density": 5
     },
     "Hinsdale County": {
         "name": "Hinsdale County",
         "state": "Colorado",
         "population": 843,
-        "area": 1,
-        "density": 843
+        "area": 1123,
+        "density": 1
     },
     "Huerfano County": {
         "name": "Huerfano County",
         "state": "Colorado",
         "population": 6711,
-        "area": 1,
-        "density": 6711
+        "area": 1592,
+        "density": 4
     },
     "Kiowa County": {
         "name": "Kiowa County",
         "state": "Oklahoma",
         "population": 9446,
-        "area": 1,
-        "density": 9446
+        "area": 1015,
+        "density": 9
     },
     "Kit Carson County": {
         "name": "Kit Carson County",
         "state": "Colorado",
         "population": 8270,
-        "area": 2,
-        "density": 4135
+        "area": 2162,
+        "density": 4
     },
     "La Plata County": {
         "name": "La Plata County",
         "state": "Colorado",
         "population": 51334,
-        "area": 1,
-        "density": 51334
+        "area": 1700,
+        "density": 30
     },
     "Larimer County": {
         "name": "Larimer County",
         "state": "Colorado",
         "population": 299630,
-        "area": 2,
-        "density": 149815
+        "area": 2631,
+        "density": 114
     },
     "Las Animas County": {
         "name": "Las Animas County",
         "state": "Colorado",
         "population": 15507,
-        "area": 4,
-        "density": 3877
+        "area": 4773,
+        "density": 3
     },
     "Mesa County": {
         "name": "Mesa County",
         "state": "Colorado",
         "population": 146723,
-        "area": 3,
-        "density": 48908
+        "area": 3345,
+        "density": 44
     },
     "Mineral County": {
         "name": "Mineral County",
@@ -1760,29 +1760,29 @@
         "name": "Moffat County",
         "state": "Colorado",
         "population": 13795,
-        "area": 4,
-        "density": 3449
+        "area": 4755,
+        "density": 3
     },
     "Montezuma County": {
         "name": "Montezuma County",
         "state": "Colorado",
         "population": 25535,
-        "area": 2,
-        "density": 12768
+        "area": 2035,
+        "density": 13
     },
     "Montrose County": {
         "name": "Montrose County",
         "state": "Colorado",
         "population": 41276,
-        "area": 2,
-        "density": 20638
+        "area": 2246,
+        "density": 18
     },
     "Otero County": {
         "name": "Otero County",
         "state": "New Mexico",
         "population": 35,
-        "area": 6,
-        "density": 6
+        "area": 6627,
+        "density": 0
     },
     "Ouray County": {
         "name": "Ouray County",
@@ -1795,8 +1795,8 @@
         "name": "Park County",
         "state": "Wyoming",
         "population": 28702,
-        "area": 6,
-        "density": 4784
+        "area": 6943,
+        "density": 4
     },
     "Pitkin County": {
         "name": "Pitkin County",
@@ -1809,22 +1809,22 @@
         "name": "Prowers County",
         "state": "Colorado",
         "population": 12551,
-        "area": 1,
-        "density": 12551
+        "area": 1645,
+        "density": 8
     },
     "Pueblo County": {
         "name": "Pueblo County",
         "state": "Colorado",
         "population": 159063,
-        "area": 2,
-        "density": 79532
+        "area": 2396,
+        "density": 66
     },
     "Rio Blanco County": {
         "name": "Rio Blanco County",
         "state": "Colorado",
         "population": 6666,
-        "area": 3,
-        "density": 2222
+        "area": 3226,
+        "density": 2
     },
     "Rio Grande County": {
         "name": "Rio Grande County",
@@ -1837,15 +1837,15 @@
         "name": "Routt County",
         "state": "Colorado",
         "population": 23509,
-        "area": 2,
-        "density": 11755
+        "area": 2362,
+        "density": 10
     },
     "Saguache County": {
         "name": "Saguache County",
         "state": "Colorado",
         "population": 6108,
-        "area": 3,
-        "density": 2036
+        "area": 3168,
+        "density": 2
     },
     "San Juan County": {
         "name": "San Juan County",
@@ -1858,22 +1858,22 @@
         "name": "San Miguel County",
         "state": "New Mexico",
         "population": 47,
-        "area": 4,
-        "density": 12
+        "area": 4717,
+        "density": 0
     },
     "Sedgwick County": {
         "name": "Sedgwick County",
         "state": "Kansas",
         "population": 503889,
-        "area": 1,
-        "density": 503889
+        "area": 1000,
+        "density": 504
     },
     "Summit County": {
         "name": "Summit County",
         "state": "Utah",
         "population": 36324,
-        "area": 1,
-        "density": 36324
+        "area": 1872,
+        "density": 19
     },
     "Teller County": {
         "name": "Teller County",
@@ -1886,8 +1886,8 @@
         "name": "Weld County",
         "state": "Colorado",
         "population": 252825,
-        "area": 4,
-        "density": 63206
+        "area": 4013,
+        "density": 63
     },
     "Fairfield County": {
         "name": "Fairfield County",
@@ -1977,8 +1977,8 @@
         "name": "Baker County",
         "state": "Oregon",
         "population": 16510,
-        "area": 3,
-        "density": 5503
+        "area": 3068,
+        "density": 5
     },
     "Bay County": {
         "name": "Bay County",
@@ -1991,22 +1991,22 @@
         "name": "Bradford County",
         "state": "Pennsylvania",
         "population": 62622,
-        "area": 1,
-        "density": 62622
+        "area": 1161,
+        "density": 54
     },
     "Brevard County": {
         "name": "Brevard County",
         "state": "Florida",
         "population": 543566,
-        "area": 1,
-        "density": 543566
+        "area": 1018,
+        "density": 534
     },
     "Broward County": {
         "name": "Broward County",
         "state": "Florida",
         "population": 1780172,
-        "area": 1,
-        "density": 1780172
+        "area": 1209,
+        "density": 1472
     },
     "Charlotte County": {
         "name": "Charlotte County",
@@ -2026,8 +2026,8 @@
         "name": "Collier County",
         "state": "Florida",
         "population": 328134,
-        "area": 2,
-        "density": 164067
+        "area": 2026,
+        "density": 162
     },
     "DeSoto County": {
         "name": "DeSoto County",
@@ -2047,8 +2047,8 @@
         "name": "Duval County",
         "state": "Texas",
         "population": 11273,
-        "area": 1,
-        "density": 11273
+        "area": 1793,
+        "density": 6
     },
     "Flagler County": {
         "name": "Flagler County",
@@ -2103,8 +2103,8 @@
         "name": "Hendry County",
         "state": "Florida",
         "population": 39089,
-        "area": 1,
-        "density": 39089
+        "area": 1153,
+        "density": 34
     },
     "Hernando County": {
         "name": "Hernando County",
@@ -2117,8 +2117,8 @@
         "name": "Highlands County",
         "state": "Florida",
         "population": 98630,
-        "area": 1,
-        "density": 98630
+        "area": 1028,
+        "density": 96
     },
     "Hillsborough County": {
         "name": "Hillsborough County",
@@ -2145,22 +2145,22 @@
         "name": "Leon County",
         "state": "Texas",
         "population": 17243,
-        "area": 1,
-        "density": 17243
+        "area": 1072,
+        "density": 16
     },
     "Levy County": {
         "name": "Levy County",
         "state": "Florida",
         "population": 40156,
-        "area": 1,
-        "density": 40156
+        "area": 1118,
+        "density": 36
     },
     "Liberty County": {
         "name": "Liberty County",
         "state": "Texas",
         "population": 83658,
-        "area": 1,
-        "density": 83658
+        "area": 1160,
+        "density": 72
     },
     "Manatee County": {
         "name": "Manatee County",
@@ -2180,8 +2180,8 @@
         "name": "Miami-Dade County",
         "state": "Florida",
         "population": 2662874,
-        "area": 1,
-        "density": 2662874
+        "area": 1946,
+        "density": 1368
     },
     "Nassau County": {
         "name": "Nassau County",
@@ -2215,8 +2215,8 @@
         "name": "Palm Beach County",
         "state": "Florida",
         "population": 1335187,
-        "area": 2,
-        "density": 667594
+        "area": 2034,
+        "density": 656
     },
     "Pasco County": {
         "name": "Pasco County",
@@ -2257,8 +2257,8 @@
         "name": "Santa Rosa County",
         "state": "Florida",
         "population": 154104,
-        "area": 1,
-        "density": 154104
+        "area": 1016,
+        "density": 152
     },
     "Sarasota County": {
         "name": "Sarasota County",
@@ -2292,8 +2292,8 @@
         "name": "Volusia County",
         "state": "Florida",
         "population": 494804,
-        "area": 1,
-        "density": 494804
+        "area": 1106,
+        "density": 447
     },
     "Wakulla County": {
         "name": "Wakulla County",
@@ -2362,8 +2362,8 @@
         "name": "Berrien County",
         "state": "Michigan",
         "population": 156813,
-        "area": 1,
-        "density": 156813
+        "area": 1581,
+        "density": 99
     },
     "Bleckley County": {
         "name": "Bleckley County",
@@ -2404,8 +2404,8 @@
         "name": "Burke County",
         "state": "North Dakota",
         "population": 1968,
-        "area": 1,
-        "density": 1968
+        "area": 1104,
+        "density": 2
     },
     "Butts County": {
         "name": "Butts County",
@@ -2495,8 +2495,8 @@
         "name": "Cook County",
         "state": "Minnesota",
         "population": 5176,
-        "area": 1,
-        "density": 5176
+        "area": 1450,
+        "density": 4
     },
     "Coweta County": {
         "name": "Coweta County",
@@ -2642,8 +2642,8 @@
         "name": "Grady County",
         "state": "Oklahoma",
         "population": 52431,
-        "area": 1,
-        "density": 52431
+        "area": 1101,
+        "density": 48
     },
     "Gwinnett County": {
         "name": "Gwinnett County",
@@ -2684,8 +2684,8 @@
         "name": "Harris County",
         "state": "Texas",
         "population": 4652980,
-        "area": 1,
-        "density": 4652980
+        "area": 1729,
+        "density": 2691
     },
     "Hart County": {
         "name": "Hart County",
@@ -2719,8 +2719,8 @@
         "name": "Jeff Davis County",
         "state": "Texas",
         "population": 2280,
-        "area": 2,
-        "density": 1140
+        "area": 2265,
+        "density": 1
     },
     "Jenkins County": {
         "name": "Jenkins County",
@@ -2936,8 +2936,8 @@
         "name": "Terrell County",
         "state": "Texas",
         "population": 810,
-        "area": 2,
-        "density": 405
+        "area": 2358,
+        "density": 0
     },
     "Thomas County": {
         "name": "Thomas County",
@@ -3069,8 +3069,8 @@
         "name": "Hawaii County",
         "state": "Hawaii",
         "population": 185079,
-        "area": 4,
-        "density": 46270
+        "area": 4028,
+        "density": 46
     },
     "Honolulu County": {
         "name": "Honolulu County",
@@ -3097,22 +3097,22 @@
         "name": "Maui County",
         "state": "Hawaii",
         "population": 154834,
-        "area": 1,
-        "density": 154834
+        "area": 1120,
+        "density": 138
     },
     "Ada County": {
         "name": "Ada County",
         "state": "Idaho",
         "population": 392365,
-        "area": 1,
-        "density": 392365
+        "area": 1055,
+        "density": 372
     },
     "Bannock County": {
         "name": "Bannock County",
         "state": "Idaho",
         "population": 82839,
-        "area": 1,
-        "density": 82839
+        "area": 1113,
+        "density": 74
     },
     "Bear Lake County": {
         "name": "Bear Lake County",
@@ -3132,8 +3132,8 @@
         "name": "Bingham County",
         "state": "Idaho",
         "population": 45607,
-        "area": 2,
-        "density": 22804
+        "area": 2095,
+        "density": 22
     },
     "Blaine County": {
         "name": "Blaine County",
@@ -3146,36 +3146,36 @@
         "name": "Boise County",
         "state": "Idaho",
         "population": 7028,
-        "area": 1,
-        "density": 7028
+        "area": 1902,
+        "density": 4
     },
     "Bonner County": {
         "name": "Bonner County",
         "state": "Idaho",
         "population": 40877,
-        "area": 1,
-        "density": 40877
+        "area": 1738,
+        "density": 24
     },
     "Bonneville County": {
         "name": "Bonneville County",
         "state": "Idaho",
         "population": 104234,
-        "area": 1,
-        "density": 104234
+        "area": 1869,
+        "density": 56
     },
     "Boundary County": {
         "name": "Boundary County",
         "state": "Idaho",
         "population": 10972,
-        "area": 1,
-        "density": 10972
+        "area": 1269,
+        "density": 9
     },
     "Camas County": {
         "name": "Camas County",
         "state": "Idaho",
         "population": 1117,
-        "area": 1,
-        "density": 1117
+        "area": 1075,
+        "density": 1
     },
     "Canyon County": {
         "name": "Canyon County",
@@ -3188,15 +3188,15 @@
         "name": "Caribou County",
         "state": "Idaho",
         "population": 6963,
-        "area": 1,
-        "density": 6963
+        "area": 1766,
+        "density": 4
     },
     "Cassia County": {
         "name": "Cassia County",
         "state": "Idaho",
         "population": 22952,
-        "area": 2,
-        "density": 11476
+        "area": 2567,
+        "density": 9
     },
     "Clearwater County": {
         "name": "Clearwater County",
@@ -3223,8 +3223,8 @@
         "name": "Idaho County",
         "state": "Idaho",
         "population": 16267,
-        "area": 8,
-        "density": 2033
+        "area": 8485,
+        "density": 2
     },
     "Jerome County": {
         "name": "Jerome County",
@@ -3237,22 +3237,22 @@
         "name": "Kootenai County",
         "state": "Idaho",
         "population": 138494,
-        "area": 1,
-        "density": 138494
+        "area": 1245,
+        "density": 111
     },
     "Latah County": {
         "name": "Latah County",
         "state": "Idaho",
         "population": 37244,
-        "area": 1,
-        "density": 37244
+        "area": 1077,
+        "density": 35
     },
     "Lemhi County": {
         "name": "Lemhi County",
         "state": "Idaho",
         "population": 7936,
-        "area": 4,
-        "density": 1984
+        "area": 4564,
+        "density": 2
     },
     "Lewis County": {
         "name": "Lewis County",
@@ -3279,15 +3279,15 @@
         "name": "Oneida County",
         "state": "Wisconsin",
         "population": 35998,
-        "area": 1,
-        "density": 35998
+        "area": 1112,
+        "density": 32
     },
     "Owyhee County": {
         "name": "Owyhee County",
         "state": "Idaho",
         "population": 11526,
-        "area": 7,
-        "density": 1647
+        "area": 7678,
+        "density": 2
     },
     "Payette County": {
         "name": "Payette County",
@@ -3300,29 +3300,29 @@
         "name": "Power County",
         "state": "Idaho",
         "population": 7817,
-        "area": 1,
-        "density": 7817
+        "area": 1406,
+        "density": 6
     },
     "Shoshone County": {
         "name": "Shoshone County",
         "state": "Idaho",
         "population": 12765,
-        "area": 2,
-        "density": 6383
+        "area": 2634,
+        "density": 5
     },
     "Teton County": {
         "name": "Teton County",
         "state": "Wyoming",
         "population": 21675,
-        "area": 4,
-        "density": 5419
+        "area": 4008,
+        "density": 5
     },
     "Twin Falls County": {
         "name": "Twin Falls County",
         "state": "Idaho",
         "population": 77230,
-        "area": 1,
-        "density": 77230
+        "area": 1925,
+        "density": 40
     },
     "Valley County": {
         "name": "Valley County",
@@ -3426,22 +3426,22 @@
         "name": "Edwards County",
         "state": "Texas",
         "population": 1953,
-        "area": 2,
-        "density": 977
+        "area": 2120,
+        "density": 1
     },
     "Ford County": {
         "name": "Ford County",
         "state": "Kansas",
         "population": 34752,
-        "area": 1,
-        "density": 34752
+        "area": 1099,
+        "density": 32
     },
     "Gallatin County": {
         "name": "Gallatin County",
         "state": "Montana",
         "population": 97308,
-        "area": 2,
-        "density": 48654
+        "area": 2507,
+        "density": 39
     },
     "Grundy County": {
         "name": "Grundy County",
@@ -3468,8 +3468,8 @@
         "name": "Iroquois County",
         "state": "Illinois",
         "population": 29718,
-        "area": 1,
-        "density": 29718
+        "area": 1116,
+        "density": 27
     },
     "Jersey County": {
         "name": "Jersey County",
@@ -3489,8 +3489,8 @@
         "name": "Kane County",
         "state": "Utah",
         "population": 7125,
-        "area": 3,
-        "density": 2375
+        "area": 3990,
+        "density": 2
     },
     "Kankakee County": {
         "name": "Kankakee County",
@@ -3517,8 +3517,8 @@
         "name": "LaSalle County",
         "state": "Illinois",
         "population": 113924,
-        "area": 1,
-        "density": 113924
+        "area": 1135,
+        "density": 100
     },
     "Livingston County": {
         "name": "Livingston County",
@@ -3559,15 +3559,15 @@
         "name": "McHenry County",
         "state": "North Dakota",
         "population": 5395,
-        "area": 1,
-        "density": 5395
+        "area": 1874,
+        "density": 3
     },
     "McLean County": {
         "name": "McLean County",
         "state": "North Dakota",
         "population": 8962,
-        "area": 2,
-        "density": 4481
+        "area": 2110,
+        "density": 4
     },
     "Menard County": {
         "name": "Menard County",
@@ -3692,8 +3692,8 @@
         "name": "Williamson County",
         "state": "Texas",
         "population": 547545,
-        "area": 1,
-        "density": 547545
+        "area": 1124,
+        "density": 487
     },
     "Winnebago County": {
         "name": "Winnebago County",
@@ -3923,8 +3923,8 @@
         "name": "Steuben County",
         "state": "New York",
         "population": 101,
-        "area": 1,
-        "density": 101
+        "area": 1404,
+        "density": 0
     },
     "Sullivan County": {
         "name": "Sullivan County",
@@ -3986,8 +3986,8 @@
         "name": "Wells County",
         "state": "North Dakota",
         "population": 4207,
-        "area": 1,
-        "density": 4207
+        "area": 1271,
+        "density": 3
     },
     "Whitley County": {
         "name": "Whitley County",
@@ -4266,8 +4266,8 @@
         "name": "Sioux County",
         "state": "North Dakota",
         "population": 4153,
-        "area": 1,
-        "density": 4153
+        "area": 1094,
+        "density": 4
     },
     "Story County": {
         "name": "Story County",
@@ -4315,8 +4315,8 @@
         "name": "Anderson County",
         "state": "Texas",
         "population": 57741,
-        "area": 1,
-        "density": 57741
+        "area": 1071,
+        "density": 54
     },
     "Atchison County": {
         "name": "Atchison County",
@@ -4329,8 +4329,8 @@
         "name": "Barber County",
         "state": "Kansas",
         "population": 4861,
-        "area": 1,
-        "density": 4861
+        "area": 1134,
+        "density": 4
     },
     "Barton County": {
         "name": "Barton County",
@@ -4357,8 +4357,8 @@
         "name": "Chautauqua County",
         "state": "New York",
         "population": 13,
-        "area": 1,
-        "density": 13
+        "area": 1500,
+        "density": 0
     },
     "Cloud County": {
         "name": "Cloud County",
@@ -4385,8 +4385,8 @@
         "name": "Cowley County",
         "state": "Kansas",
         "population": 36288,
-        "area": 1,
-        "density": 36288
+        "area": 1126,
+        "density": 32
     },
     "Doniphan County": {
         "name": "Doniphan County",
@@ -4420,8 +4420,8 @@
         "name": "Finney County",
         "state": "Kansas",
         "population": 37200,
-        "area": 1,
-        "density": 37200
+        "area": 1300,
+        "density": 29
     },
     "Geary County": {
         "name": "Geary County",
@@ -4434,8 +4434,8 @@
         "name": "Gove County",
         "state": "Kansas",
         "population": 2729,
-        "area": 1,
-        "density": 2729
+        "area": 1072,
+        "density": 3
     },
     "Gray County": {
         "name": "Gray County",
@@ -4462,8 +4462,8 @@
         "name": "Harper County",
         "state": "Oklahoma",
         "population": 3685,
-        "area": 1,
-        "density": 3685
+        "area": 1039,
+        "density": 4
     },
     "Harvey County": {
         "name": "Harvey County",
@@ -4518,8 +4518,8 @@
         "name": "Lane County",
         "state": "Oregon",
         "population": 365940,
-        "area": 4,
-        "density": 91485
+        "area": 4554,
+        "density": 80
     },
     "Leavenworth County": {
         "name": "Leavenworth County",
@@ -4532,15 +4532,15 @@
         "name": "McPherson County",
         "state": "South Dakota",
         "population": 2459,
-        "area": 1,
-        "density": 2459
+        "area": 1137,
+        "density": 2
     },
     "Meade County": {
         "name": "Meade County",
         "state": "South Dakota",
         "population": 25434,
-        "area": 3,
-        "density": 8478
+        "area": 3471,
+        "density": 7
     },
     "Morris County": {
         "name": "Morris County",
@@ -4553,8 +4553,8 @@
         "name": "Morton County",
         "state": "North Dakota",
         "population": 27471,
-        "area": 1,
-        "density": 27471
+        "area": 1926,
+        "density": 14
     },
     "Nemaha County": {
         "name": "Nemaha County",
@@ -4574,8 +4574,8 @@
         "name": "Ness County",
         "state": "Kansas",
         "population": 3068,
-        "area": 1,
-        "density": 3068
+        "area": 1075,
+        "density": 3
     },
     "Norton County": {
         "name": "Norton County",
@@ -4602,8 +4602,8 @@
         "name": "Ottawa County",
         "state": "Michigan",
         "population": 263801,
-        "area": 1,
-        "density": 263801
+        "area": 1632,
+        "density": 162
     },
     "Pawnee County": {
         "name": "Pawnee County",
@@ -4630,15 +4630,15 @@
         "name": "Rawlins County",
         "state": "Kansas",
         "population": 2560,
-        "area": 1,
-        "density": 2560
+        "area": 1070,
+        "density": 2
     },
     "Reno County": {
         "name": "Reno County",
         "state": "Kansas",
         "population": 64438,
-        "area": 1,
-        "density": 64438
+        "area": 1254,
+        "density": 51
     },
     "Republic County": {
         "name": "Republic County",
@@ -4686,8 +4686,8 @@
         "name": "Sheridan County",
         "state": "Wyoming",
         "population": 29596,
-        "area": 2,
-        "density": 14798
+        "area": 2523,
+        "density": 12
     },
     "Sherman County": {
         "name": "Sherman County",
@@ -4721,8 +4721,8 @@
         "name": "Stevens County",
         "state": "Washington",
         "population": 45723,
-        "area": 2,
-        "density": 22862
+        "area": 2478,
+        "density": 18
     },
     "Sumner County": {
         "name": "Sumner County",
@@ -4805,8 +4805,8 @@
         "name": "Bell County",
         "state": "Texas",
         "population": 347833,
-        "area": 1,
-        "density": 347833
+        "area": 1059,
+        "density": 328
     },
     "Boyd County": {
         "name": "Boyd County",
@@ -4868,8 +4868,8 @@
         "name": "Campbell County",
         "state": "Wyoming",
         "population": 47874,
-        "area": 4,
-        "density": 11969
+        "area": 4797,
+        "density": 10
     },
     "Carlisle County": {
         "name": "Carlisle County",
@@ -5085,8 +5085,8 @@
         "name": "Oldham County",
         "state": "Texas",
         "population": 2114,
-        "area": 1,
-        "density": 2114
+        "area": 1501,
+        "density": 1
     },
     "Owsley County": {
         "name": "Owsley County",
@@ -5106,8 +5106,8 @@
         "name": "Powell County",
         "state": "Montana",
         "population": 6909,
-        "area": 2,
-        "density": 3455
+        "area": 2326,
+        "density": 3
     },
     "Robertson County": {
         "name": "Robertson County",
@@ -5141,8 +5141,8 @@
         "name": "Todd County",
         "state": "South Dakota",
         "population": 9612,
-        "area": 1,
-        "density": 9612
+        "area": 1388,
+        "density": 7
     },
     "Trigg County": {
         "name": "Trigg County",
@@ -5204,8 +5204,8 @@
         "name": "Beauregard Parish",
         "state": "Louisiana",
         "population": 35654,
-        "area": 1,
-        "density": 35654
+        "area": 1166,
+        "density": 31
     },
     "Bienville Parish": {
         "name": "Bienville Parish",
@@ -5232,8 +5232,8 @@
         "name": "Calcasieu Parish",
         "state": "Louisiana",
         "population": 192768,
-        "area": 1,
-        "density": 192768
+        "area": 1094,
+        "density": 176
     },
     "Caldwell Parish": {
         "name": "Caldwell Parish",
@@ -5246,8 +5246,8 @@
         "name": "Cameron Parish",
         "state": "Louisiana",
         "population": 6839,
-        "area": 1,
-        "density": 6839
+        "area": 1932,
+        "density": 4
     },
     "Catahoula Parish": {
         "name": "Catahoula Parish",
@@ -5323,8 +5323,8 @@
         "name": "Iberia Parish",
         "state": "Louisiana",
         "population": 73240,
-        "area": 1,
-        "density": 73240
+        "area": 1031,
+        "density": 71
     },
     "Iberville Parish": {
         "name": "Iberville Parish",
@@ -5365,8 +5365,8 @@
         "name": "Lafourche Parish",
         "state": "Louisiana",
         "population": 96318,
-        "area": 1,
-        "density": 96318
+        "area": 1472,
+        "density": 65
     },
     "LaSalle Parish": {
         "name": "LaSalle Parish",
@@ -5407,8 +5407,8 @@
         "name": "Natchitoches Parish",
         "state": "Louisiana",
         "population": 39566,
-        "area": 1,
-        "density": 39566
+        "area": 1299,
+        "density": 30
     },
     "Orleans Parish": {
         "name": "Orleans Parish",
@@ -5428,8 +5428,8 @@
         "name": "Plaquemines Parish",
         "state": "Louisiana",
         "population": 23042,
-        "area": 2,
-        "density": 11521
+        "area": 2429,
+        "density": 9
     },
     "Pointe Coupee Parish": {
         "name": "Pointe Coupee Parish",
@@ -5442,8 +5442,8 @@
         "name": "Rapides Parish",
         "state": "Louisiana",
         "population": 131613,
-        "area": 1,
-        "density": 131613
+        "area": 1362,
+        "density": 97
     },
     "Red River Parish": {
         "name": "Red River Parish",
@@ -5463,15 +5463,15 @@
         "name": "Sabine Parish",
         "state": "Louisiana",
         "population": 24233,
-        "area": 1,
-        "density": 24233
+        "area": 1012,
+        "density": 24
     },
     "St. Bernard Parish": {
         "name": "St. Bernard Parish",
         "state": "Louisiana",
         "population": 35897,
-        "area": 1,
-        "density": 35897
+        "area": 1794,
+        "density": 20
     },
     "St. Charles Parish": {
         "name": "St. Charles Parish",
@@ -5526,8 +5526,8 @@
         "name": "St. Tammany Parish",
         "state": "Louisiana",
         "population": 233740,
-        "area": 1,
-        "density": 233740
+        "area": 1124,
+        "density": 208
     },
     "Tangipahoa Parish": {
         "name": "Tangipahoa Parish",
@@ -5547,8 +5547,8 @@
         "name": "Terrebonne Parish",
         "state": "Louisiana",
         "population": 111860,
-        "area": 2,
-        "density": 55930
+        "area": 2080,
+        "density": 54
     },
     "Union Parish": {
         "name": "Union Parish",
@@ -5561,15 +5561,15 @@
         "name": "Vermilion Parish",
         "state": "Louisiana",
         "population": 57999,
-        "area": 1,
-        "density": 57999
+        "area": 1538,
+        "density": 38
     },
     "Vernon Parish": {
         "name": "Vernon Parish",
         "state": "Louisiana",
         "population": 52334,
-        "area": 1,
-        "density": 52334
+        "area": 1341,
+        "density": 39
     },
     "Washington Parish": {
         "name": "Washington Parish",
@@ -5624,8 +5624,8 @@
         "name": "Aroostook County",
         "state": "Maine",
         "population": 68628,
-        "area": 6,
-        "density": 11438
+        "area": 6829,
+        "density": 10
     },
     "Kennebec County": {
         "name": "Kennebec County",
@@ -5638,22 +5638,22 @@
         "name": "Oxford County",
         "state": "Maine",
         "population": 57202,
-        "area": 2,
-        "density": 28601
+        "area": 2175,
+        "density": 26
     },
     "Penobscot County": {
         "name": "Penobscot County",
         "state": "Maine",
         "population": 152692,
-        "area": 3,
-        "density": 50897
+        "area": 3556,
+        "density": 43
     },
     "Piscataquis County": {
         "name": "Piscataquis County",
         "state": "Maine",
         "population": 16931,
-        "area": 4,
-        "density": 4233
+        "area": 4377,
+        "density": 4
     },
     "Sagadahoc County": {
         "name": "Sagadahoc County",
@@ -5666,8 +5666,8 @@
         "name": "Somerset County",
         "state": "Pennsylvania",
         "population": 77742,
-        "area": 1,
-        "density": 77742
+        "area": 1081,
+        "density": 72
     },
     "Waldo County": {
         "name": "Waldo County",
@@ -5687,50 +5687,50 @@
         "name": "Beaverhead County",
         "state": "Montana",
         "population": 9345,
-        "area": 5,
-        "density": 1869
+        "area": 5543,
+        "density": 2
     },
     "Big Horn County": {
         "name": "Big Horn County",
         "state": "Wyoming",
         "population": 11794,
-        "area": 3,
-        "density": 3931
+        "area": 3137,
+        "density": 4
     },
     "Broadwater County": {
         "name": "Broadwater County",
         "state": "Montana",
         "population": 5667,
-        "area": 1,
-        "density": 5667
+        "area": 1192,
+        "density": 5
     },
     "Carbon County": {
         "name": "Carbon County",
         "state": "Wyoming",
         "population": 15666,
-        "area": 7,
-        "density": 2238
+        "area": 7897,
+        "density": 2
     },
     "Cascade County": {
         "name": "Cascade County",
         "state": "Montana",
         "population": 82344,
-        "area": 2,
-        "density": 41172
+        "area": 2698,
+        "density": 31
     },
     "Chouteau County": {
         "name": "Chouteau County",
         "state": "Montana",
         "population": 5894,
-        "area": 3,
-        "density": 1965
+        "area": 3973,
+        "density": 1
     },
     "Daniels County": {
         "name": "Daniels County",
         "state": "Montana",
         "population": 1793,
-        "area": 1,
-        "density": 1793
+        "area": 1426,
+        "density": 1
     },
     "Deer Lodge County": {
         "name": "Deer Lodge County",
@@ -5743,43 +5743,43 @@
         "name": "Fallon County",
         "state": "Montana",
         "population": 3108,
-        "area": 1,
-        "density": 3108
+        "area": 1620,
+        "density": 2
     },
     "Fergus County": {
         "name": "Fergus County",
         "state": "Montana",
         "population": 11442,
-        "area": 4,
-        "density": 2861
+        "area": 4339,
+        "density": 3
     },
     "Flathead County": {
         "name": "Flathead County",
         "state": "Montana",
         "population": 94924,
-        "area": 5,
-        "density": 18985
+        "area": 5099,
+        "density": 19
     },
     "Glacier County": {
         "name": "Glacier County",
         "state": "Montana",
         "population": 13696,
-        "area": 2,
-        "density": 6848
+        "area": 2995,
+        "density": 5
     },
     "Golden Valley County": {
         "name": "Golden Valley County",
         "state": "North Dakota",
         "population": 1680,
-        "area": 1,
-        "density": 1680
+        "area": 1002,
+        "density": 2
     },
     "Granite County": {
         "name": "Granite County",
         "state": "Montana",
         "population": 3209,
-        "area": 1,
-        "density": 3209
+        "area": 1728,
+        "density": 2
     },
     "Hill County": {
         "name": "Hill County",
@@ -5792,92 +5792,92 @@
         "name": "Judith Basin County",
         "state": "Montana",
         "population": 1991,
-        "area": 1,
-        "density": 1991
+        "area": 1870,
+        "density": 1
     },
     "Lewis and Clark County": {
         "name": "Lewis and Clark County",
         "state": "Montana",
         "population": 65856,
-        "area": 3,
-        "density": 21952
+        "area": 3461,
+        "density": 19
     },
     "McCone County": {
         "name": "McCone County",
         "state": "Montana",
         "population": 1694,
-        "area": 2,
-        "density": 847
+        "area": 2643,
+        "density": 1
     },
     "Meagher County": {
         "name": "Meagher County",
         "state": "Montana",
         "population": 1853,
-        "area": 2,
-        "density": 927
+        "area": 2392,
+        "density": 1
     },
     "Missoula County": {
         "name": "Missoula County",
         "state": "Montana",
         "population": 112684,
-        "area": 2,
-        "density": 56342
+        "area": 2598,
+        "density": 43
     },
     "Musselshell County": {
         "name": "Musselshell County",
         "state": "Montana",
         "population": 4589,
-        "area": 1,
-        "density": 4589
+        "area": 1867,
+        "density": 2
     },
     "Petroleum County": {
         "name": "Petroleum County",
         "state": "Montana",
         "population": 485,
-        "area": 1,
-        "density": 485
+        "area": 1654,
+        "density": 0
     },
     "Pondera County": {
         "name": "Pondera County",
         "state": "Montana",
         "population": 6219,
-        "area": 1,
-        "density": 6219
+        "area": 1625,
+        "density": 4
     },
     "Powder River County": {
         "name": "Powder River County",
         "state": "Montana",
         "population": 1783,
-        "area": 3,
-        "density": 594
+        "area": 3297,
+        "density": 1
     },
     "Ravalli County": {
         "name": "Ravalli County",
         "state": "Montana",
         "population": 41030,
-        "area": 2,
-        "density": 20515
+        "area": 2394,
+        "density": 17
     },
     "Roosevelt County": {
         "name": "Roosevelt County",
         "state": "New Mexico",
         "population": 41,
-        "area": 2,
-        "density": 21
+        "area": 2449,
+        "density": 0
     },
     "Rosebud County": {
         "name": "Rosebud County",
         "state": "Montana",
         "population": 9326,
-        "area": 5,
-        "density": 1865
+        "area": 5012,
+        "density": 2
     },
     "Sanders County": {
         "name": "Sanders County",
         "state": "Montana",
         "population": 11364,
-        "area": 2,
-        "density": 5682
+        "area": 2762,
+        "density": 4
     },
     "Silver Bow County": {
         "name": "Silver Bow County",
@@ -5890,22 +5890,22 @@
         "name": "Stillwater County",
         "state": "Montana",
         "population": 9290,
-        "area": 1,
-        "density": 9290
+        "area": 1795,
+        "density": 5
     },
     "Sweet Grass County": {
         "name": "Sweet Grass County",
         "state": "Montana",
         "population": 3665,
-        "area": 1,
-        "density": 3665
+        "area": 1855,
+        "density": 2
     },
     "Toole County": {
         "name": "Toole County",
         "state": "Montana",
         "population": 5150,
-        "area": 1,
-        "density": 5150
+        "area": 1911,
+        "density": 3
     },
     "Treasure County": {
         "name": "Treasure County",
@@ -5918,8 +5918,8 @@
         "name": "Wheatland County",
         "state": "Montana",
         "population": 2102,
-        "area": 1,
-        "density": 2102
+        "area": 1423,
+        "density": 1
     },
     "Wibaux County": {
         "name": "Wibaux County",
@@ -5932,8 +5932,8 @@
         "name": "Yellowstone County",
         "state": "Montana",
         "population": 155634,
-        "area": 2,
-        "density": 77817
+        "area": 2635,
+        "density": 59
     },
     "Antelope County": {
         "name": "Antelope County",
@@ -5960,8 +5960,8 @@
         "name": "Box Butte County",
         "state": "Nebraska",
         "population": 11305,
-        "area": 1,
-        "density": 11305
+        "area": 1075,
+        "density": 11
     },
     "Buffalo County": {
         "name": "Buffalo County",
@@ -5981,15 +5981,15 @@
         "name": "Cherry County",
         "state": "Nebraska",
         "population": 5788,
-        "area": 5,
-        "density": 1158
+        "area": 5961,
+        "density": 1
     },
     "Colfax County": {
         "name": "Colfax County",
         "state": "New Mexico",
         "population": 7,
-        "area": 3,
-        "density": 2
+        "area": 3757,
+        "density": 0
     },
     "Cuming County": {
         "name": "Cuming County",
@@ -6009,8 +6009,8 @@
         "name": "Dawes County",
         "state": "Nebraska",
         "population": 9088,
-        "area": 1,
-        "density": 9088
+        "area": 1396,
+        "density": 7
     },
     "Deuel County": {
         "name": "Deuel County",
@@ -6065,8 +6065,8 @@
         "name": "Garden County",
         "state": "Nebraska",
         "population": 1902,
-        "area": 1,
-        "density": 1902
+        "area": 1705,
+        "density": 1
     },
     "Gosper County": {
         "name": "Gosper County",
@@ -6114,8 +6114,8 @@
         "name": "Keith County",
         "state": "Nebraska",
         "population": 8130,
-        "area": 1,
-        "density": 8130
+        "area": 1061,
+        "density": 8
     },
     "Keya Paha County": {
         "name": "Keya Paha County",
@@ -6156,8 +6156,8 @@
         "name": "Morrill County",
         "state": "Nebraska",
         "population": 4908,
-        "area": 1,
-        "density": 4908
+        "area": 1424,
+        "density": 3
     },
     "Nance County": {
         "name": "Nance County",
@@ -6184,8 +6184,8 @@
         "name": "Perkins County",
         "state": "South Dakota",
         "population": 2982,
-        "area": 2,
-        "density": 1491
+        "area": 2872,
+        "density": 1
     },
     "Phelps County": {
         "name": "Phelps County",
@@ -6198,8 +6198,8 @@
         "name": "Platte County",
         "state": "Wyoming",
         "population": 8756,
-        "area": 2,
-        "density": 4378
+        "area": 2085,
+        "density": 4
     },
     "Red Willow County": {
         "name": "Red Willow County",
@@ -6268,50 +6268,50 @@
         "name": "Churchill County",
         "state": "Nevada",
         "population": 24877,
-        "area": 4,
-        "density": 6219
+        "area": 4929,
+        "density": 5
     },
     "Elko County": {
         "name": "Elko County",
         "state": "Nevada",
         "population": 48818,
-        "area": 17,
-        "density": 2872
+        "area": 17182,
+        "density": 3
     },
     "Esmeralda County": {
         "name": "Esmeralda County",
         "state": "Nevada",
         "population": 783,
-        "area": 3,
-        "density": 261
+        "area": 3589,
+        "density": 0
     },
     "Eureka County": {
         "name": "Eureka County",
         "state": "Nevada",
         "population": 1987,
-        "area": 4,
-        "density": 497
+        "area": 4176,
+        "density": 0
     },
     "Lander County": {
         "name": "Lander County",
         "state": "Nevada",
         "population": 5775,
-        "area": 5,
-        "density": 1155
+        "area": 5494,
+        "density": 1
     },
     "Nye County": {
         "name": "Nye County",
         "state": "Nevada",
         "population": 43946,
-        "area": 18,
-        "density": 2441
+        "area": 18147,
+        "density": 2
     },
     "Pershing County": {
         "name": "Pershing County",
         "state": "Nevada",
         "population": 6753,
-        "area": 6,
-        "density": 1126
+        "area": 6009,
+        "density": 1
     },
     "Storey County": {
         "name": "Storey County",
@@ -6324,15 +6324,15 @@
         "name": "Washoe County",
         "state": "Nevada",
         "population": 460587,
-        "area": 6,
-        "density": 76765
+        "area": 6342,
+        "density": 73
     },
     "White Pine County": {
         "name": "White Pine County",
         "state": "Nevada",
         "population": 10030,
-        "area": 8,
-        "density": 1254
+        "area": 8877,
+        "density": 1
     },
     "Belknap County": {
         "name": "Belknap County",
@@ -6352,15 +6352,15 @@
         "name": "Coos County",
         "state": "Oregon",
         "population": 63190,
-        "area": 1,
-        "density": 63190
+        "area": 1600,
+        "density": 39
     },
     "Grafton County": {
         "name": "Grafton County",
         "state": "New Hampshire",
         "population": 89320,
-        "area": 1,
-        "density": 89320
+        "area": 1714,
+        "density": 52
     },
     "Merrimack County": {
         "name": "Merrimack County",
@@ -6471,50 +6471,50 @@
         "name": "Bernalillo County",
         "state": "New Mexico",
         "population": 1,
-        "area": 1,
-        "density": 1
+        "area": 1166,
+        "density": 0
     },
     "Catron County": {
         "name": "Catron County",
         "state": "New Mexico",
         "population": 3,
-        "area": 6,
-        "density": 1
+        "area": 6928,
+        "density": 0
     },
     "Chaves County": {
         "name": "Chaves County",
         "state": "New Mexico",
         "population": 5,
-        "area": 6,
-        "density": 1
+        "area": 6071,
+        "density": 0
     },
     "Cibola County": {
         "name": "Cibola County",
         "state": "New Mexico",
         "population": 6,
-        "area": 4,
-        "density": 2
+        "area": 4540,
+        "density": 0
     },
     "Curry County": {
         "name": "Curry County",
         "state": "Oregon",
         "population": 22600,
-        "area": 1,
-        "density": 22600
+        "area": 1627,
+        "density": 14
     },
     "De Baca County": {
         "name": "De Baca County",
         "state": "New Mexico",
         "population": 11,
-        "area": 2,
-        "density": 6
+        "area": 2325,
+        "density": 0
     },
     "Do\u00f1a Ana County": {
         "name": "Do\u00f1a Ana County",
         "state": "New Mexico",
         "population": 13,
-        "area": 3,
-        "density": 4
+        "area": 3807,
+        "density": 0
     },
     "Eddy County": {
         "name": "Eddy County",
@@ -6534,22 +6534,22 @@
         "name": "Harding County",
         "state": "South Dakota",
         "population": 1255,
-        "area": 2,
-        "density": 628
+        "area": 2671,
+        "density": 0
     },
     "Hidalgo County": {
         "name": "Hidalgo County",
         "state": "Texas",
         "population": 860661,
-        "area": 1,
-        "density": 860661
+        "area": 1569,
+        "density": 549
     },
     "Lea County": {
         "name": "Lea County",
         "state": "New Mexico",
         "population": 25,
-        "area": 4,
-        "density": 6
+        "area": 4393,
+        "density": 0
     },
     "Los Alamos County": {
         "name": "Los Alamos County",
@@ -6562,85 +6562,85 @@
         "name": "Luna County",
         "state": "New Mexico",
         "population": 29,
-        "area": 2,
-        "density": 15
+        "area": 2965,
+        "density": 0
     },
     "McKinley County": {
         "name": "McKinley County",
         "state": "New Mexico",
         "population": 31,
-        "area": 5,
-        "density": 6
+        "area": 5449,
+        "density": 0
     },
     "Mora County": {
         "name": "Mora County",
         "state": "New Mexico",
         "population": 33,
-        "area": 1,
-        "density": 33
+        "area": 1931,
+        "density": 0
     },
     "Quay County": {
         "name": "Quay County",
         "state": "New Mexico",
         "population": 37,
-        "area": 2,
-        "density": 19
+        "area": 2855,
+        "density": 0
     },
     "Rio Arriba County": {
         "name": "Rio Arriba County",
         "state": "New Mexico",
         "population": 39,
-        "area": 5,
-        "density": 8
+        "area": 5858,
+        "density": 0
     },
     "Sandoval County": {
         "name": "Sandoval County",
         "state": "New Mexico",
         "population": 43,
-        "area": 3,
-        "density": 14
+        "area": 3710,
+        "density": 0
     },
     "Santa Fe County": {
         "name": "Santa Fe County",
         "state": "New Mexico",
         "population": 49,
-        "area": 1,
-        "density": 49
+        "area": 1909,
+        "density": 0
     },
     "Socorro County": {
         "name": "Socorro County",
         "state": "New Mexico",
         "population": 53,
-        "area": 6,
-        "density": 9
+        "area": 6647,
+        "density": 0
     },
     "Taos County": {
         "name": "Taos County",
         "state": "New Mexico",
         "population": 55,
-        "area": 2,
-        "density": 28
+        "area": 2203,
+        "density": 0
     },
     "Torrance County": {
         "name": "Torrance County",
         "state": "New Mexico",
         "population": 57,
-        "area": 3,
-        "density": 19
+        "area": 3345,
+        "density": 0
     },
     "Valencia County": {
         "name": "Valencia County",
         "state": "New Mexico",
         "population": 61,
-        "area": 1,
-        "density": 61
+        "area": 1068,
+        "density": 0
     },
     "Albany County": {
         "name": "Albany County",
         "state": "Wyoming",
         "population": 37276,
-        "area": 4,
-        "density": 9319
+        "area": 4274,
+        "density": 9
     },
     "Allegany County": {
         "name": "Allegany County",
@@ -6667,8 +6667,8 @@
         "name": "Cattaraugus County",
         "state": "New York",
         "population": 9,
-        "area": 1,
-        "density": 9
+        "area": 1310,
+        "density": 0
     },
     "Cayuga County": {
         "name": "Cayuga County",
@@ -6723,8 +6723,8 @@
         "name": "Herkimer County",
         "state": "New York",
         "population": 43,
-        "area": 1,
-        "density": 43
+        "area": 1458,
+        "density": 0
     },
     "New York County": {
         "name": "New York County",
@@ -6737,8 +6737,8 @@
         "name": "Niagara County",
         "state": "New York",
         "population": 63,
-        "area": 1,
-        "density": 63
+        "area": 1140,
+        "density": 0
     },
     "Onondaga County": {
         "name": "Onondaga County",
@@ -6765,8 +6765,8 @@
         "name": "Oswego County",
         "state": "New York",
         "population": 75,
-        "area": 1,
-        "density": 75
+        "area": 1312,
+        "density": 0
     },
     "Otsego County": {
         "name": "Otsego County",
@@ -6800,8 +6800,8 @@
         "name": "St. Lawrence County",
         "state": "New York",
         "population": 89,
-        "area": 2,
-        "density": 45
+        "area": 2821,
+        "density": 0
     },
     "Saratoga County": {
         "name": "Saratoga County",
@@ -6842,8 +6842,8 @@
         "name": "Tioga County",
         "state": "Pennsylvania",
         "population": 41981,
-        "area": 1,
-        "density": 41981
+        "area": 1137,
+        "density": 37
     },
     "Tompkins County": {
         "name": "Tompkins County",
@@ -6856,8 +6856,8 @@
         "name": "Ulster County",
         "state": "New York",
         "population": 111,
-        "area": 1,
-        "density": 111
+        "area": 1161,
+        "density": 0
     },
     "Westchester County": {
         "name": "Westchester County",
@@ -6961,8 +6961,8 @@
         "name": "Carteret County",
         "state": "North Carolina",
         "population": 31,
-        "area": 1,
-        "density": 31
+        "area": 1341,
+        "density": 0
     },
     "Caswell County": {
         "name": "Caswell County",
@@ -7010,8 +7010,8 @@
         "name": "Dare County",
         "state": "North Carolina",
         "population": 55,
-        "area": 1,
-        "density": 55
+        "area": 1562,
+        "density": 0
     },
     "Davidson County": {
         "name": "Davidson County",
@@ -7339,64 +7339,64 @@
         "name": "Barnes County",
         "state": "North Dakota",
         "population": 11066,
-        "area": 1,
-        "density": 11066
+        "area": 1492,
+        "density": 7
     },
     "Benson County": {
         "name": "Benson County",
         "state": "North Dakota",
         "population": 6660,
-        "area": 1,
-        "density": 6660
+        "area": 1389,
+        "density": 5
     },
     "Billings County": {
         "name": "Billings County",
         "state": "North Dakota",
         "population": 783,
-        "area": 1,
-        "density": 783
+        "area": 1152,
+        "density": 1
     },
     "Bottineau County": {
         "name": "Bottineau County",
         "state": "North Dakota",
         "population": 6429,
-        "area": 1,
-        "density": 6429
+        "area": 1669,
+        "density": 4
     },
     "Bowman County": {
         "name": "Bowman County",
         "state": "North Dakota",
         "population": 3151,
-        "area": 1,
-        "density": 3151
+        "area": 1162,
+        "density": 3
     },
     "Burleigh County": {
         "name": "Burleigh County",
         "state": "North Dakota",
         "population": 81308,
-        "area": 1,
-        "density": 81308
+        "area": 1633,
+        "density": 50
     },
     "Cavalier County": {
         "name": "Cavalier County",
         "state": "North Dakota",
         "population": 3993,
-        "area": 1,
-        "density": 3993
+        "area": 1489,
+        "density": 3
     },
     "Dickey County": {
         "name": "Dickey County",
         "state": "North Dakota",
         "population": 5289,
-        "area": 1,
-        "density": 5289
+        "area": 1131,
+        "density": 5
     },
     "Divide County": {
         "name": "Divide County",
         "state": "North Dakota",
         "population": 2071,
-        "area": 1,
-        "density": 2071
+        "area": 1259,
+        "density": 2
     },
     "Dunn County": {
         "name": "Dunn County",
@@ -7409,8 +7409,8 @@
         "name": "Emmons County",
         "state": "North Dakota",
         "population": 3550,
-        "area": 1,
-        "density": 3550
+        "area": 1510,
+        "density": 2
     },
     "Foster County": {
         "name": "Foster County",
@@ -7423,8 +7423,8 @@
         "name": "Grand Forks County",
         "state": "North Dakota",
         "population": 66861,
-        "area": 1,
-        "density": 66861
+        "area": 1438,
+        "density": 46
     },
     "Griggs County": {
         "name": "Griggs County",
@@ -7437,36 +7437,36 @@
         "name": "Hettinger County",
         "state": "North Dakota",
         "population": 2477,
-        "area": 1,
-        "density": 2477
+        "area": 1132,
+        "density": 2
     },
     "Kidder County": {
         "name": "Kidder County",
         "state": "North Dakota",
         "population": 2435,
-        "area": 1,
-        "density": 2435
+        "area": 1352,
+        "density": 2
     },
     "LaMoure County": {
         "name": "LaMoure County",
         "state": "North Dakota",
         "population": 4139,
-        "area": 1,
-        "density": 4139
+        "area": 1147,
+        "density": 4
     },
     "McKenzie County": {
         "name": "McKenzie County",
         "state": "North Dakota",
         "population": 6360,
-        "area": 2,
-        "density": 3180
+        "area": 2742,
+        "density": 2
     },
     "Mountrail County": {
         "name": "Mountrail County",
         "state": "North Dakota",
         "population": 7673,
-        "area": 1,
-        "density": 7673
+        "area": 1824,
+        "density": 4
     },
     "Oliver County": {
         "name": "Oliver County",
@@ -7479,8 +7479,8 @@
         "name": "Pembina County",
         "state": "North Dakota",
         "population": 7413,
-        "area": 1,
-        "density": 7413
+        "area": 1119,
+        "density": 7
     },
     "Ramsey County": {
         "name": "Ramsey County",
@@ -7521,8 +7521,8 @@
         "name": "Slope County",
         "state": "North Dakota",
         "population": 727,
-        "area": 1,
-        "density": 727
+        "area": 1218,
+        "density": 1
     },
     "Steele County": {
         "name": "Steele County",
@@ -7535,15 +7535,15 @@
         "name": "Stutsman County",
         "state": "North Dakota",
         "population": 21100,
-        "area": 2,
-        "density": 10550
+        "area": 2222,
+        "density": 9
     },
     "Towner County": {
         "name": "Towner County",
         "state": "North Dakota",
         "population": 2246,
-        "area": 1,
-        "density": 2246
+        "area": 1025,
+        "density": 2
     },
     "Traill County": {
         "name": "Traill County",
@@ -7556,8 +7556,8 @@
         "name": "Walsh County",
         "state": "North Dakota",
         "population": 11119,
-        "area": 1,
-        "density": 11119
+        "area": 1282,
+        "density": 9
     },
     "Ward County": {
         "name": "Ward County",
@@ -7577,8 +7577,8 @@
         "name": "Ashland County",
         "state": "Wisconsin",
         "population": 16157,
-        "area": 1,
-        "density": 16157
+        "area": 1045,
+        "density": 15
     },
     "Ashtabula County": {
         "name": "Ashtabula County",
@@ -7689,8 +7689,8 @@
         "name": "Huron County",
         "state": "Michigan",
         "population": 33118,
-        "area": 2,
-        "density": 16559
+        "area": 2136,
+        "density": 16
     },
     "Licking County": {
         "name": "Licking County",
@@ -7717,8 +7717,8 @@
         "name": "Medina County",
         "state": "Texas",
         "population": 50066,
-        "area": 1,
-        "density": 50066
+        "area": 1328,
+        "density": 38
     },
     "Meigs County": {
         "name": "Meigs County",
@@ -7731,8 +7731,8 @@
         "name": "Morrow County",
         "state": "Oregon",
         "population": 11745,
-        "area": 2,
-        "density": 5873
+        "area": 2033,
+        "density": 6
     },
     "Muskingum County": {
         "name": "Muskingum County",
@@ -7843,8 +7843,8 @@
         "name": "Beaver County",
         "state": "Utah",
         "population": 6629,
-        "area": 2,
-        "density": 3315
+        "area": 2590,
+        "density": 3
     },
     "Beckham County": {
         "name": "Beckham County",
@@ -7857,8 +7857,8 @@
         "name": "Caddo County",
         "state": "Oklahoma",
         "population": 29600,
-        "area": 1,
-        "density": 29600
+        "area": 1278,
+        "density": 23
     },
     "Canadian County": {
         "name": "Canadian County",
@@ -7871,8 +7871,8 @@
         "name": "Cimarron County",
         "state": "Oklahoma",
         "population": 2475,
-        "area": 1,
-        "density": 2475
+        "area": 1835,
+        "density": 1
     },
     "Coal County": {
         "name": "Coal County",
@@ -7906,8 +7906,8 @@
         "name": "Dewey County",
         "state": "South Dakota",
         "population": 5301,
-        "area": 2,
-        "density": 2651
+        "area": 2303,
+        "density": 2
     },
     "Garvin County": {
         "name": "Garvin County",
@@ -7962,8 +7962,8 @@
         "name": "Le Flore County",
         "state": "Oklahoma",
         "population": 50384,
-        "area": 1,
-        "density": 50384
+        "area": 1586,
+        "density": 32
     },
     "Love County": {
         "name": "Love County",
@@ -7997,8 +7997,8 @@
         "name": "McCurtain County",
         "state": "Oklahoma",
         "population": 33151,
-        "area": 1,
-        "density": 33151
+        "area": 1852,
+        "density": 18
     },
     "Muskogee County": {
         "name": "Muskogee County",
@@ -8046,8 +8046,8 @@
         "name": "Pittsburg County",
         "state": "Oklahoma",
         "population": 45837,
-        "area": 1,
-        "density": 45837
+        "area": 1306,
+        "density": 35
     },
     "Pontotoc County": {
         "name": "Pontotoc County",
@@ -8060,15 +8060,15 @@
         "name": "Pushmataha County",
         "state": "Oklahoma",
         "population": 11572,
-        "area": 1,
-        "density": 11572
+        "area": 1397,
+        "density": 8
     },
     "Roger Mills County": {
         "name": "Roger Mills County",
         "state": "Oklahoma",
         "population": 3647,
-        "area": 1,
-        "density": 3647
+        "area": 1142,
+        "density": 3
     },
     "Rogers County": {
         "name": "Rogers County",
@@ -8088,8 +8088,8 @@
         "name": "Texas County",
         "state": "Missouri",
         "population": 26008,
-        "area": 1,
-        "density": 26008
+        "area": 1179,
+        "density": 22
     },
     "Tillman County": {
         "name": "Tillman County",
@@ -8116,29 +8116,29 @@
         "name": "Washita County",
         "state": "Oklahoma",
         "population": 11629,
-        "area": 1,
-        "density": 11629
+        "area": 1004,
+        "density": 12
     },
     "Woods County": {
         "name": "Woods County",
         "state": "Oklahoma",
         "population": 8878,
-        "area": 1,
-        "density": 8878
+        "area": 1287,
+        "density": 7
     },
     "Woodward County": {
         "name": "Woodward County",
         "state": "Oklahoma",
         "population": 20081,
-        "area": 1,
-        "density": 20081
+        "area": 1242,
+        "density": 16
     },
     "Clackamas County": {
         "name": "Clackamas County",
         "state": "Oregon",
         "population": 404980,
-        "area": 1,
-        "density": 404980
+        "area": 1868,
+        "density": 217
     },
     "Clatsop County": {
         "name": "Clatsop County",
@@ -8151,29 +8151,29 @@
         "name": "Crook County",
         "state": "Wyoming",
         "population": 7155,
-        "area": 2,
-        "density": 3578
+        "area": 2859,
+        "density": 3
     },
     "Deschutes County": {
         "name": "Deschutes County",
         "state": "Oregon",
         "population": 176635,
-        "area": 3,
-        "density": 58878
+        "area": 3018,
+        "density": 59
     },
     "Gilliam County": {
         "name": "Gilliam County",
         "state": "Oregon",
         "population": 1980,
-        "area": 1,
-        "density": 1980
+        "area": 1204,
+        "density": 2
     },
     "Harney County": {
         "name": "Harney County",
         "state": "Oregon",
         "population": 7320,
-        "area": 10,
-        "density": 732
+        "area": 10135,
+        "density": 1
     },
     "Hood River County": {
         "name": "Hood River County",
@@ -8186,22 +8186,22 @@
         "name": "Josephine County",
         "state": "Oregon",
         "population": 84675,
-        "area": 1,
-        "density": 84675
+        "area": 1640,
+        "density": 52
     },
     "Klamath County": {
         "name": "Klamath County",
         "state": "Oregon",
         "population": 67410,
-        "area": 5,
-        "density": 13482
+        "area": 5945,
+        "density": 11
     },
     "Malheur County": {
         "name": "Malheur County",
         "state": "Oregon",
         "population": 31705,
-        "area": 9,
-        "density": 3523
+        "area": 9888,
+        "density": 3
     },
     "Multnomah County": {
         "name": "Multnomah County",
@@ -8214,29 +8214,29 @@
         "name": "Tillamook County",
         "state": "Oregon",
         "population": 25920,
-        "area": 1,
-        "density": 25920
+        "area": 1102,
+        "density": 24
     },
     "Umatilla County": {
         "name": "Umatilla County",
         "state": "Oregon",
         "population": 79880,
-        "area": 3,
-        "density": 26627
+        "area": 3215,
+        "density": 25
     },
     "Wallowa County": {
         "name": "Wallowa County",
         "state": "Oregon",
         "population": 7140,
-        "area": 3,
-        "density": 2380
+        "area": 3145,
+        "density": 2
     },
     "Wasco County": {
         "name": "Wasco County",
         "state": "Oregon",
         "population": 26700,
-        "area": 2,
-        "density": 13350
+        "area": 2381,
+        "density": 11
     },
     "Yamhill County": {
         "name": "Yamhill County",
@@ -8354,8 +8354,8 @@
         "name": "Worcester County",
         "state": "Massachusetts",
         "population": 798552,
-        "area": 1,
-        "density": 798552
+        "area": 1513,
+        "density": 528
     },
     "Barnstable County": {
         "name": "Barnstable County",
@@ -8417,29 +8417,29 @@
         "name": "Alcona County",
         "state": "Michigan",
         "population": 10942,
-        "area": 1,
-        "density": 10942
+        "area": 1791,
+        "density": 6
     },
     "Alger County": {
         "name": "Alger County",
         "state": "Michigan",
         "population": 9601,
-        "area": 5,
-        "density": 1920
+        "area": 5049,
+        "density": 2
     },
     "Allegan County": {
         "name": "Allegan County",
         "state": "Michigan",
         "population": 111408,
-        "area": 1,
-        "density": 111408
+        "area": 1833,
+        "density": 61
     },
     "Alpena County": {
         "name": "Alpena County",
         "state": "Michigan",
         "population": 30000,
-        "area": 1,
-        "density": 30000
+        "area": 1695,
+        "density": 18
     },
     "Antrim County": {
         "name": "Antrim County",
@@ -8459,8 +8459,8 @@
         "name": "Baraga County",
         "state": "Michigan",
         "population": 8860,
-        "area": 1,
-        "density": 8860
+        "area": 1069,
+        "density": 8
     },
     "Barry County": {
         "name": "Barry County",
@@ -8487,8 +8487,8 @@
         "name": "Charlevoix County",
         "state": "Michigan",
         "population": 25949,
-        "area": 1,
-        "density": 25949
+        "area": 1391,
+        "density": 19
     },
     "Cheboygan County": {
         "name": "Cheboygan County",
@@ -8501,8 +8501,8 @@
         "name": "Chippewa County",
         "state": "Wisconsin",
         "population": 62415,
-        "area": 1,
-        "density": 62415
+        "area": 1008,
+        "density": 62
     },
     "Clare County": {
         "name": "Clare County",
@@ -8529,8 +8529,8 @@
         "name": "Gogebic County",
         "state": "Michigan",
         "population": 16427,
-        "area": 1,
-        "density": 16427
+        "area": 1476,
+        "density": 11
     },
     "Grand Traverse County": {
         "name": "Grand Traverse County",
@@ -8557,8 +8557,8 @@
         "name": "Houghton County",
         "state": "Michigan",
         "population": 36628,
-        "area": 1,
-        "density": 36628
+        "area": 1502,
+        "density": 24
     },
     "Ingham County": {
         "name": "Ingham County",
@@ -8578,8 +8578,8 @@
         "name": "Iosco County",
         "state": "Michigan",
         "population": 25887,
-        "area": 1,
-        "density": 25887
+        "area": 1891,
+        "density": 14
     },
     "Iron County": {
         "name": "Iron County",
@@ -8613,8 +8613,8 @@
         "name": "Keweenaw County",
         "state": "Michigan",
         "population": 2156,
-        "area": 5,
-        "density": 431
+        "area": 5966,
+        "density": 0
     },
     "Lapeer County": {
         "name": "Lapeer County",
@@ -8627,8 +8627,8 @@
         "name": "Leelanau County",
         "state": "Michigan",
         "population": 21708,
-        "area": 2,
-        "density": 10854
+        "area": 2532,
+        "density": 9
     },
     "Lenawee County": {
         "name": "Lenawee County",
@@ -8641,15 +8641,15 @@
         "name": "Luce County",
         "state": "Michigan",
         "population": 6631,
-        "area": 1,
-        "density": 6631
+        "area": 1912,
+        "density": 3
     },
     "Mackinac County": {
         "name": "Mackinac County",
         "state": "Michigan",
         "population": 11113,
-        "area": 2,
-        "density": 5557
+        "area": 2101,
+        "density": 5
     },
     "Macomb County": {
         "name": "Macomb County",
@@ -8662,8 +8662,8 @@
         "name": "Manistee County",
         "state": "Michigan",
         "population": 24733,
-        "area": 1,
-        "density": 24733
+        "area": 1281,
+        "density": 19
     },
     "Marquette County": {
         "name": "Marquette County",
@@ -8718,8 +8718,8 @@
         "name": "Muskegon County",
         "state": "Michigan",
         "population": 172188,
-        "area": 1,
-        "density": 172188
+        "area": 1459,
+        "density": 118
     },
     "Newaygo County": {
         "name": "Newaygo County",
@@ -8739,8 +8739,8 @@
         "name": "Oceana County",
         "state": "Michigan",
         "population": 26570,
-        "area": 1,
-        "density": 26570
+        "area": 1307,
+        "density": 20
     },
     "Ogemaw County": {
         "name": "Ogemaw County",
@@ -8753,8 +8753,8 @@
         "name": "Ontonagon County",
         "state": "Michigan",
         "population": 6780,
-        "area": 3,
-        "density": 2260
+        "area": 3741,
+        "density": 2
     },
     "Oscoda County": {
         "name": "Oscoda County",
@@ -8767,8 +8767,8 @@
         "name": "Presque Isle County",
         "state": "Michigan",
         "population": 13376,
-        "area": 2,
-        "density": 6688
+        "area": 2573,
+        "density": 5
     },
     "Roscommon County": {
         "name": "Roscommon County",
@@ -8788,15 +8788,15 @@
         "name": "Sanilac County",
         "state": "Michigan",
         "population": 43114,
-        "area": 1,
-        "density": 43114
+        "area": 1590,
+        "density": 27
     },
     "Schoolcraft County": {
         "name": "Schoolcraft County",
         "state": "Michigan",
         "population": 8485,
-        "area": 1,
-        "density": 8485
+        "area": 1884,
+        "density": 5
     },
     "Shiawassee County": {
         "name": "Shiawassee County",
@@ -8830,8 +8830,8 @@
         "name": "Aitkin County",
         "state": "Minnesota",
         "population": 16202,
-        "area": 1,
-        "density": 16202
+        "area": 1819,
+        "density": 9
     },
     "Anoka County": {
         "name": "Anoka County",
@@ -8844,15 +8844,15 @@
         "name": "Becker County",
         "state": "Minnesota",
         "population": 32504,
-        "area": 1,
-        "density": 32504
+        "area": 1310,
+        "density": 25
     },
     "Beltrami County": {
         "name": "Beltrami County",
         "state": "Minnesota",
         "population": 44442,
-        "area": 2,
-        "density": 22221
+        "area": 2505,
+        "density": 18
     },
     "Big Stone County": {
         "name": "Big Stone County",
@@ -8949,8 +8949,8 @@
         "name": "Itasca County",
         "state": "Minnesota",
         "population": 45058,
-        "area": 2,
-        "density": 22529
+        "area": 2665,
+        "density": 17
     },
     "Kanabec County": {
         "name": "Kanabec County",
@@ -8970,15 +8970,15 @@
         "name": "Kittson County",
         "state": "Minnesota",
         "population": 4552,
-        "area": 1,
-        "density": 4552
+        "area": 1097,
+        "density": 4
     },
     "Koochiching County": {
         "name": "Koochiching County",
         "state": "Minnesota",
         "population": 13311,
-        "area": 3,
-        "density": 4437
+        "area": 3102,
+        "density": 4
     },
     "Lac qui Parle County": {
         "name": "Lac qui Parle County",
@@ -8991,8 +8991,8 @@
         "name": "Lake of the Woods County",
         "state": "Minnesota",
         "population": 4045,
-        "area": 1,
-        "density": 4045
+        "area": 1296,
+        "density": 3
     },
     "Le Sueur County": {
         "name": "Le Sueur County",
@@ -9033,8 +9033,8 @@
         "name": "Morrison County",
         "state": "Minnesota",
         "population": 33198,
-        "area": 1,
-        "density": 33198
+        "area": 1124,
+        "density": 30
     },
     "Mower County": {
         "name": "Mower County",
@@ -9075,22 +9075,22 @@
         "name": "Otter Tail County",
         "state": "Minnesota",
         "population": 57303,
-        "area": 1,
-        "density": 57303
+        "area": 1979,
+        "density": 29
     },
     "Pennington County": {
         "name": "Pennington County",
         "state": "South Dakota",
         "population": 100948,
-        "area": 2,
-        "density": 50474
+        "area": 2776,
+        "density": 36
     },
     "Pine County": {
         "name": "Pine County",
         "state": "Minnesota",
         "population": 29750,
-        "area": 1,
-        "density": 29750
+        "area": 1411,
+        "density": 21
     },
     "Pipestone County": {
         "name": "Pipestone County",
@@ -9117,8 +9117,8 @@
         "name": "Roseau County",
         "state": "Minnesota",
         "population": 15629,
-        "area": 1,
-        "density": 15629
+        "area": 1662,
+        "density": 9
     },
     "Saint Louis County": {
         "name": "Saint Louis County",
@@ -9145,8 +9145,8 @@
         "name": "Stearns County",
         "state": "Minnesota",
         "population": 150642,
-        "area": 1,
-        "density": 150642
+        "area": 1344,
+        "density": 112
     },
     "Swift County": {
         "name": "Swift County",
@@ -9691,8 +9691,8 @@
         "name": "Shannon County",
         "state": "Missouri",
         "population": 8441,
-        "area": 1,
-        "density": 8441
+        "area": 1004,
+        "density": 8
     },
     "Stoddard County": {
         "name": "Stoddard County",
@@ -9775,8 +9775,8 @@
         "name": "Centre County",
         "state": "Pennsylvania",
         "population": 153990,
-        "area": 1,
-        "density": 153990
+        "area": 1112,
+        "density": 138
     },
     "Chester County": {
         "name": "Chester County",
@@ -9796,8 +9796,8 @@
         "name": "Clearfield County",
         "state": "Pennsylvania",
         "population": 81642,
-        "area": 1,
-        "density": 81642
+        "area": 1154,
+        "density": 71
     },
     "Dauphin County": {
         "name": "Dauphin County",
@@ -9810,8 +9810,8 @@
         "name": "Forest County",
         "state": "Wisconsin",
         "population": 9304,
-        "area": 1,
-        "density": 9304
+        "area": 1014,
+        "density": 9
     },
     "Huntingdon County": {
         "name": "Huntingdon County",
@@ -9866,8 +9866,8 @@
         "name": "Lycoming County",
         "state": "Pennsylvania",
         "population": 116111,
-        "area": 1,
-        "density": 116111
+        "area": 1244,
+        "density": 93
     },
     "McKean County": {
         "name": "McKean County",
@@ -9971,8 +9971,8 @@
         "name": "Aiken County",
         "state": "South Carolina",
         "population": 167458,
-        "area": 1,
-        "density": 167458
+        "area": 1080,
+        "density": 155
     },
     "Allendale County": {
         "name": "Allendale County",
@@ -10006,8 +10006,8 @@
         "name": "Charleston County",
         "state": "South Carolina",
         "population": 396484,
-        "area": 1,
-        "density": 396484
+        "area": 1358,
+        "density": 292
     },
     "Chesterfield County": {
         "name": "Chesterfield County",
@@ -10027,8 +10027,8 @@
         "name": "Colleton County",
         "state": "South Carolina",
         "population": 37923,
-        "area": 1,
-        "density": 37923
+        "area": 1133,
+        "density": 33
     },
     "Darlington County": {
         "name": "Darlington County",
@@ -10083,8 +10083,8 @@
         "name": "Horry County",
         "state": "South Carolina",
         "population": 322342,
-        "area": 1,
-        "density": 322342
+        "area": 1255,
+        "density": 257
     },
     "Kershaw County": {
         "name": "Kershaw County",
@@ -10125,8 +10125,8 @@
         "name": "Orangeburg County",
         "state": "South Carolina",
         "population": 87903,
-        "area": 1,
-        "density": 87903
+        "area": 1128,
+        "density": 78
     },
     "Saluda County": {
         "name": "Saluda County",
@@ -10160,15 +10160,15 @@
         "name": "Beadle County",
         "state": "South Dakota",
         "population": 17398,
-        "area": 1,
-        "density": 17398
+        "area": 1259,
+        "density": 14
     },
     "Bennett County": {
         "name": "Bennett County",
         "state": "South Dakota",
         "population": 3431,
-        "area": 1,
-        "density": 3431
+        "area": 1185,
+        "density": 3
     },
     "Bon Homme County": {
         "name": "Bon Homme County",
@@ -10195,8 +10195,8 @@
         "name": "Charles Mix County",
         "state": "South Dakota",
         "population": 9129,
-        "area": 1,
-        "density": 9129
+        "area": 1098,
+        "density": 8
     },
     "Codington County": {
         "name": "Codington County",
@@ -10209,8 +10209,8 @@
         "name": "Corson County",
         "state": "South Dakota",
         "population": 4050,
-        "area": 2,
-        "density": 2025
+        "area": 2473,
+        "density": 2
     },
     "Davison County": {
         "name": "Davison County",
@@ -10223,43 +10223,43 @@
         "name": "Day County",
         "state": "South Dakota",
         "population": 5710,
-        "area": 1,
-        "density": 5710
+        "area": 1029,
+        "density": 6
     },
     "Edmunds County": {
         "name": "Edmunds County",
         "state": "South Dakota",
         "population": 4071,
-        "area": 1,
-        "density": 4071
+        "area": 1146,
+        "density": 4
     },
     "Fall River County": {
         "name": "Fall River County",
         "state": "South Dakota",
         "population": 7094,
-        "area": 1,
-        "density": 7094
+        "area": 1740,
+        "density": 4
     },
     "Faulk County": {
         "name": "Faulk County",
         "state": "South Dakota",
         "population": 2364,
-        "area": 1,
-        "density": 2364
+        "area": 1000,
+        "density": 2
     },
     "Gregory County": {
         "name": "Gregory County",
         "state": "South Dakota",
         "population": 4271,
-        "area": 1,
-        "density": 4271
+        "area": 1016,
+        "density": 4
     },
     "Haakon County": {
         "name": "Haakon County",
         "state": "South Dakota",
         "population": 1937,
-        "area": 1,
-        "density": 1937
+        "area": 1813,
+        "density": 1
     },
     "Hamlin County": {
         "name": "Hamlin County",
@@ -10272,8 +10272,8 @@
         "name": "Hand County",
         "state": "South Dakota",
         "population": 3431,
-        "area": 1,
-        "density": 3431
+        "area": 1437,
+        "density": 2
     },
     "Hanson County": {
         "name": "Hanson County",
@@ -10307,8 +10307,8 @@
         "name": "Lyman County",
         "state": "South Dakota",
         "population": 3755,
-        "area": 1,
-        "density": 3755
+        "area": 1640,
+        "density": 2
     },
     "McCook County": {
         "name": "McCook County",
@@ -10321,8 +10321,8 @@
         "name": "Mellette County",
         "state": "South Dakota",
         "population": 2048,
-        "area": 1,
-        "density": 2048
+        "area": 1307,
+        "density": 2
     },
     "Miner County": {
         "name": "Miner County",
@@ -10349,8 +10349,8 @@
         "name": "Oglala Lakota County",
         "state": "South Dakota",
         "population": 13586,
-        "area": 2,
-        "density": 6793
+        "area": 2094,
+        "density": 6
     },
     "Roberts County": {
         "name": "Roberts County",
@@ -10370,29 +10370,29 @@
         "name": "Spink County",
         "state": "South Dakota",
         "population": 6451,
-        "area": 1,
-        "density": 6451
+        "area": 1504,
+        "density": 4
     },
     "Stanley County": {
         "name": "Stanley County",
         "state": "South Dakota",
         "population": 2966,
-        "area": 1,
-        "density": 2966
+        "area": 1443,
+        "density": 2
     },
     "Sully County": {
         "name": "Sully County",
         "state": "South Dakota",
         "population": 1373,
-        "area": 1,
-        "density": 1373
+        "area": 1007,
+        "density": 1
     },
     "Tripp County": {
         "name": "Tripp County",
         "state": "South Dakota",
         "population": 5644,
-        "area": 1,
-        "density": 5644
+        "area": 1614,
+        "density": 3
     },
     "Walworth County": {
         "name": "Walworth County",
@@ -10412,8 +10412,8 @@
         "name": "Ziebach County",
         "state": "South Dakota",
         "population": 2801,
-        "area": 1,
-        "density": 2801
+        "area": 1962,
+        "density": 1
     },
     "Bledsoe County": {
         "name": "Bledsoe County",
@@ -10447,8 +10447,8 @@
         "name": "Crockett County",
         "state": "Texas",
         "population": 3564,
-        "area": 2,
-        "density": 1782
+        "area": 2808,
+        "density": 1
     },
     "Dickson County": {
         "name": "Dickson County",
@@ -10601,8 +10601,8 @@
         "name": "Andrews County",
         "state": "Texas",
         "population": 17722,
-        "area": 1,
-        "density": 17722
+        "area": 1501,
+        "density": 12
     },
     "Angelina County": {
         "name": "Angelina County",
@@ -10629,8 +10629,8 @@
         "name": "Atascosa County",
         "state": "Texas",
         "population": 48981,
-        "area": 1,
-        "density": 48981
+        "area": 1232,
+        "density": 40
     },
     "Austin County": {
         "name": "Austin County",
@@ -10678,8 +10678,8 @@
         "name": "Bexar County",
         "state": "Texas",
         "population": 1958578,
-        "area": 1,
-        "density": 1958578
+        "area": 1247,
+        "density": 1571
     },
     "Blanco County": {
         "name": "Blanco County",
@@ -10713,8 +10713,8 @@
         "name": "Brazoria County",
         "state": "Texas",
         "population": 362457,
-        "area": 1,
-        "density": 362457
+        "area": 1387,
+        "density": 261
     },
     "Brazos County": {
         "name": "Brazos County",
@@ -10727,8 +10727,8 @@
         "name": "Brewster County",
         "state": "Texas",
         "population": 9337,
-        "area": 6,
-        "density": 1556
+        "area": 6193,
+        "density": 2
     },
     "Briscoe County": {
         "name": "Briscoe County",
@@ -10804,8 +10804,8 @@
         "name": "Coleman County",
         "state": "Texas",
         "population": 8430,
-        "area": 1,
-        "density": 8430
+        "area": 1273,
+        "density": 7
     },
     "Collin County": {
         "name": "Collin County",
@@ -10853,8 +10853,8 @@
         "name": "Coryell County",
         "state": "Texas",
         "population": 74913,
-        "area": 1,
-        "density": 74913
+        "area": 1052,
+        "density": 71
     },
     "Cottle County": {
         "name": "Cottle County",
@@ -10881,22 +10881,22 @@
         "name": "Culberson County",
         "state": "Texas",
         "population": 2231,
-        "area": 3,
-        "density": 744
+        "area": 3813,
+        "density": 1
     },
     "Dallam County": {
         "name": "Dallam County",
         "state": "Texas",
         "population": 7208,
-        "area": 1,
-        "density": 7208
+        "area": 1505,
+        "density": 5
     },
     "Deaf Smith County": {
         "name": "Deaf Smith County",
         "state": "Texas",
         "population": 18836,
-        "area": 1,
-        "density": 18836
+        "area": 1497,
+        "density": 13
     },
     "Denton County": {
         "name": "Denton County",
@@ -10916,8 +10916,8 @@
         "name": "Dimmit County",
         "state": "Texas",
         "population": 10418,
-        "area": 1,
-        "density": 10418
+        "area": 1331,
+        "density": 8
     },
     "Donley County": {
         "name": "Donley County",
@@ -10944,8 +10944,8 @@
         "name": "Erath County",
         "state": "Texas",
         "population": 41969,
-        "area": 1,
-        "density": 41969
+        "area": 1086,
+        "density": 39
     },
     "Falls County": {
         "name": "Falls County",
@@ -10986,15 +10986,15 @@
         "name": "Frio County",
         "state": "Texas",
         "population": 19600,
-        "area": 1,
-        "density": 19600
+        "area": 1133,
+        "density": 17
     },
     "Gaines County": {
         "name": "Gaines County",
         "state": "Texas",
         "population": 20638,
-        "area": 1,
-        "density": 20638
+        "area": 1502,
+        "density": 14
     },
     "Galveston County": {
         "name": "Galveston County",
@@ -11014,8 +11014,8 @@
         "name": "Gillespie County",
         "state": "Texas",
         "population": 26646,
-        "area": 1,
-        "density": 26646
+        "area": 1061,
+        "density": 25
     },
     "Glasscock County": {
         "name": "Glasscock County",
@@ -11035,8 +11035,8 @@
         "name": "Gonzales County",
         "state": "Texas",
         "population": 20893,
-        "area": 1,
-        "density": 20893
+        "area": 1068,
+        "density": 20
     },
     "Gregg County": {
         "name": "Gregg County",
@@ -11063,8 +11063,8 @@
         "name": "Hartley County",
         "state": "Texas",
         "population": 5691,
-        "area": 1,
-        "density": 5691
+        "area": 1462,
+        "density": 4
     },
     "Hays County": {
         "name": "Hays County",
@@ -11098,8 +11098,8 @@
         "name": "Hudspeth County",
         "state": "Texas",
         "population": 4408,
-        "area": 4,
-        "density": 1102
+        "area": 4571,
+        "density": 1
     },
     "Hunt County": {
         "name": "Hunt County",
@@ -11112,8 +11112,8 @@
         "name": "Irion County",
         "state": "Texas",
         "population": 1516,
-        "area": 1,
-        "density": 1516
+        "area": 1052,
+        "density": 1
     },
     "Jack County": {
         "name": "Jack County",
@@ -11126,8 +11126,8 @@
         "name": "Jim Hogg County",
         "state": "Texas",
         "population": 5202,
-        "area": 1,
-        "density": 5202
+        "area": 1136,
+        "density": 5
     },
     "Jim Wells County": {
         "name": "Jim Wells County",
@@ -11154,36 +11154,36 @@
         "name": "Kenedy County",
         "state": "Texas",
         "population": 417,
-        "area": 1,
-        "density": 417
+        "area": 1457,
+        "density": 0
     },
     "Kerr County": {
         "name": "Kerr County",
         "state": "Texas",
         "population": 51720,
-        "area": 1,
-        "density": 51720
+        "area": 1106,
+        "density": 47
     },
     "Kimble County": {
         "name": "Kimble County",
         "state": "Texas",
         "population": 4410,
-        "area": 1,
-        "density": 4410
+        "area": 1251,
+        "density": 4
     },
     "King County": {
         "name": "King County",
         "state": "Washington",
         "population": 2252782,
-        "area": 2,
-        "density": 1126391
+        "area": 2126,
+        "density": 1060
     },
     "Kinney County": {
         "name": "Kinney County",
         "state": "Texas",
         "population": 3745,
-        "area": 1,
-        "density": 3745
+        "area": 1364,
+        "density": 3
     },
     "Kleberg County": {
         "name": "Kleberg County",
@@ -11196,8 +11196,8 @@
         "name": "Lamb County",
         "state": "Texas",
         "population": 13210,
-        "area": 1,
-        "density": 13210
+        "area": 1016,
+        "density": 13
     },
     "Lampasas County": {
         "name": "Lampasas County",
@@ -11210,8 +11210,8 @@
         "name": "La Salle County",
         "state": "Texas",
         "population": 7584,
-        "area": 1,
-        "density": 7584
+        "area": 1489,
+        "density": 5
     },
     "Lavaca County": {
         "name": "Lavaca County",
@@ -11231,8 +11231,8 @@
         "name": "Live Oak County",
         "state": "Texas",
         "population": 12174,
-        "area": 1,
-        "density": 12174
+        "area": 1036,
+        "density": 12
     },
     "Llano County": {
         "name": "Llano County",
@@ -11266,43 +11266,43 @@
         "name": "McCulloch County",
         "state": "Texas",
         "population": 7957,
-        "area": 1,
-        "density": 7957
+        "area": 1069,
+        "density": 7
     },
     "McLennan County": {
         "name": "McLennan County",
         "state": "Texas",
         "population": 251259,
-        "area": 1,
-        "density": 251259
+        "area": 1042,
+        "density": 241
     },
     "McMullen County": {
         "name": "McMullen County",
         "state": "Texas",
         "population": 778,
-        "area": 1,
-        "density": 778
+        "area": 1113,
+        "density": 1
     },
     "Matagorda County": {
         "name": "Matagorda County",
         "state": "Texas",
         "population": 36840,
-        "area": 1,
-        "density": 36840
+        "area": 1114,
+        "density": 33
     },
     "Maverick County": {
         "name": "Maverick County",
         "state": "Texas",
         "population": 58216,
-        "area": 1,
-        "density": 58216
+        "area": 1280,
+        "density": 45
     },
     "Milam County": {
         "name": "Milam County",
         "state": "Texas",
         "population": 25053,
-        "area": 1,
-        "density": 25053
+        "area": 1017,
+        "density": 25
     },
     "Montague County": {
         "name": "Montague County",
@@ -11329,8 +11329,8 @@
         "name": "Navarro County",
         "state": "Texas",
         "population": 48701,
-        "area": 1,
-        "density": 48701
+        "area": 1071,
+        "density": 45
     },
     "Nolan County": {
         "name": "Nolan County",
@@ -11378,15 +11378,15 @@
         "name": "Pecos County",
         "state": "Texas",
         "population": 15634,
-        "area": 4,
-        "density": 3909
+        "area": 4764,
+        "density": 3
     },
     "Presidio County": {
         "name": "Presidio County",
         "state": "Texas",
         "population": 7156,
-        "area": 3,
-        "density": 2385
+        "area": 3856,
+        "density": 2
     },
     "Rains County": {
         "name": "Rains County",
@@ -11406,8 +11406,8 @@
         "name": "Reagan County",
         "state": "Texas",
         "population": 3710,
-        "area": 1,
-        "density": 3710
+        "area": 1175,
+        "density": 3
     },
     "Real County": {
         "name": "Real County",
@@ -11420,15 +11420,15 @@
         "name": "Red River County",
         "state": "Texas",
         "population": 12229,
-        "area": 1,
-        "density": 12229
+        "area": 1050,
+        "density": 12
     },
     "Reeves County": {
         "name": "Reeves County",
         "state": "Texas",
         "population": 15281,
-        "area": 2,
-        "density": 7641
+        "area": 2636,
+        "density": 6
     },
     "Refugio County": {
         "name": "Refugio County",
@@ -11448,8 +11448,8 @@
         "name": "Runnels County",
         "state": "Texas",
         "population": 10266,
-        "area": 1,
-        "density": 10266
+        "area": 1054,
+        "density": 10
     },
     "Rusk County": {
         "name": "Rusk County",
@@ -11490,15 +11490,15 @@
         "name": "San Saba County",
         "state": "Texas",
         "population": 5959,
-        "area": 1,
-        "density": 5959
+        "area": 1134,
+        "density": 5
     },
     "Schleicher County": {
         "name": "Schleicher County",
         "state": "Texas",
         "population": 3001,
-        "area": 1,
-        "density": 3001
+        "area": 1311,
+        "density": 2
     },
     "Scurry County": {
         "name": "Scurry County",
@@ -11525,8 +11525,8 @@
         "name": "Starr County",
         "state": "Texas",
         "population": 64454,
-        "area": 1,
-        "density": 64454
+        "area": 1223,
+        "density": 53
     },
     "Sterling County": {
         "name": "Sterling County",
@@ -11546,8 +11546,8 @@
         "name": "Sutton County",
         "state": "Texas",
         "population": 3767,
-        "area": 1,
-        "density": 3767
+        "area": 1454,
+        "density": 3
     },
     "Swisher County": {
         "name": "Swisher County",
@@ -11588,8 +11588,8 @@
         "name": "Tom Green County",
         "state": "Texas",
         "population": 118019,
-        "area": 1,
-        "density": 118019
+        "area": 1522,
+        "density": 78
     },
     "Travis County": {
         "name": "Travis County",
@@ -11616,22 +11616,22 @@
         "name": "Upton County",
         "state": "Texas",
         "population": 3663,
-        "area": 1,
-        "density": 3663
+        "area": 1242,
+        "density": 3
     },
     "Uvalde County": {
         "name": "Uvalde County",
         "state": "Texas",
         "population": 27132,
-        "area": 1,
-        "density": 27132
+        "area": 1557,
+        "density": 17
     },
     "Val Verde County": {
         "name": "Val Verde County",
         "state": "Texas",
         "population": 49205,
-        "area": 3,
-        "density": 16402
+        "area": 3171,
+        "density": 16
     },
     "Van Zandt County": {
         "name": "Van Zandt County",
@@ -11658,15 +11658,15 @@
         "name": "Webb County",
         "state": "Texas",
         "population": 274794,
-        "area": 3,
-        "density": 91598
+        "area": 3357,
+        "density": 82
     },
     "Wharton County": {
         "name": "Wharton County",
         "state": "Texas",
         "population": 41968,
-        "area": 1,
-        "density": 41968
+        "area": 1090,
+        "density": 39
     },
     "Wilbarger County": {
         "name": "Wilbarger County",
@@ -11721,22 +11721,22 @@
         "name": "Zavala County",
         "state": "Texas",
         "population": 11948,
-        "area": 1,
-        "density": 11948
+        "area": 1299,
+        "density": 9
     },
     "Box Elder County": {
         "name": "Box Elder County",
         "state": "Utah",
         "population": 49975,
-        "area": 5,
-        "density": 9995
+        "area": 5746,
+        "density": 9
     },
     "Cache County": {
         "name": "Cache County",
         "state": "Utah",
         "population": 112656,
-        "area": 1,
-        "density": 112656
+        "area": 1165,
+        "density": 97
     },
     "Daggett County": {
         "name": "Daggett County",
@@ -11749,29 +11749,29 @@
         "name": "Duchesne County",
         "state": "Utah",
         "population": 18607,
-        "area": 3,
-        "density": 6202
+        "area": 3241,
+        "density": 6
     },
     "Emery County": {
         "name": "Emery County",
         "state": "Utah",
         "population": 10976,
-        "area": 4,
-        "density": 2744
+        "area": 4462,
+        "density": 2
     },
     "Juab County": {
         "name": "Juab County",
         "state": "Utah",
         "population": 10246,
-        "area": 3,
-        "density": 3415
+        "area": 3392,
+        "density": 3
     },
     "Millard County": {
         "name": "Millard County",
         "state": "Utah",
         "population": 12503,
-        "area": 6,
-        "density": 2084
+        "area": 6572,
+        "density": 2
     },
     "Piute County": {
         "name": "Piute County",
@@ -11784,8 +11784,8 @@
         "name": "Rich County",
         "state": "Utah",
         "population": 2264,
-        "area": 1,
-        "density": 2264
+        "area": 1029,
+        "density": 2
     },
     "Salt Lake County": {
         "name": "Salt Lake County",
@@ -11798,36 +11798,36 @@
         "name": "Sanpete County",
         "state": "Utah",
         "population": 27882,
-        "area": 1,
-        "density": 27882
+        "area": 1590,
+        "density": 18
     },
     "Tooele County": {
         "name": "Tooele County",
         "state": "Utah",
         "population": 58218,
-        "area": 6,
-        "density": 9703
+        "area": 6941,
+        "density": 8
     },
     "Uintah County": {
         "name": "Uintah County",
         "state": "Utah",
         "population": 32588,
-        "area": 4,
-        "density": 8147
+        "area": 4480,
+        "density": 7
     },
     "Utah County": {
         "name": "Utah County",
         "state": "Utah",
         "population": 516564,
-        "area": 2,
-        "density": 258282
+        "area": 2003,
+        "density": 258
     },
     "Wasatch County": {
         "name": "Wasatch County",
         "state": "Utah",
         "population": 23530,
-        "area": 1,
-        "density": 23530
+        "area": 1176,
+        "density": 20
     },
     "Weber County": {
         "name": "Weber County",
@@ -12218,36 +12218,36 @@
         "name": "Chelan County",
         "state": "Washington",
         "population": 77200,
-        "area": 2,
-        "density": 38600
+        "area": 2922,
+        "density": 26
     },
     "Clallam County": {
         "name": "Clallam County",
         "state": "Washington",
         "population": 77331,
-        "area": 1,
-        "density": 77331
+        "area": 1745,
+        "density": 44
     },
     "Cowlitz County": {
         "name": "Cowlitz County",
         "state": "Washington",
         "population": 110593,
-        "area": 1,
-        "density": 110593
+        "area": 1139,
+        "density": 97
     },
     "Ferry County": {
         "name": "Ferry County",
         "state": "Washington",
         "population": 7627,
-        "area": 2,
-        "density": 3814
+        "area": 2204,
+        "density": 3
     },
     "Grays Harbor County": {
         "name": "Grays Harbor County",
         "state": "Washington",
         "population": 75061,
-        "area": 1,
-        "density": 75061
+        "area": 1917,
+        "density": 39
     },
     "Island County": {
         "name": "Island County",
@@ -12267,22 +12267,22 @@
         "name": "Kittitas County",
         "state": "Washington",
         "population": 47935,
-        "area": 2,
-        "density": 23968
+        "area": 2297,
+        "density": 21
     },
     "Klickitat County": {
         "name": "Klickitat County",
         "state": "Washington",
         "population": 22425,
-        "area": 1,
-        "density": 22425
+        "area": 1872,
+        "density": 12
     },
     "Okanogan County": {
         "name": "Okanogan County",
         "state": "Washington",
         "population": 42243,
-        "area": 5,
-        "density": 8449
+        "area": 5268,
+        "density": 8
     },
     "Pacific County": {
         "name": "Pacific County",
@@ -12295,36 +12295,36 @@
         "name": "Pend Oreille County",
         "state": "Washington",
         "population": 13724,
-        "area": 1,
-        "density": 13724
+        "area": 1400,
+        "density": 10
     },
     "Skagit County": {
         "name": "Skagit County",
         "state": "Washington",
         "population": 129205,
-        "area": 1,
-        "density": 129205
+        "area": 1735,
+        "density": 74
     },
     "Skamania County": {
         "name": "Skamania County",
         "state": "Washington",
         "population": 12083,
-        "area": 1,
-        "density": 12083
+        "area": 1656,
+        "density": 7
     },
     "Snohomish County": {
         "name": "Snohomish County",
         "state": "Washington",
         "population": 822083,
-        "area": 2,
-        "density": 411042
+        "area": 2090,
+        "density": 393
     },
     "Spokane County": {
         "name": "Spokane County",
         "state": "Washington",
         "population": 522798,
-        "area": 1,
-        "density": 522798
+        "area": 1764,
+        "density": 296
     },
     "Wahkiakum County": {
         "name": "Wahkiakum County",
@@ -12337,29 +12337,29 @@
         "name": "Walla Walla County",
         "state": "Washington",
         "population": 60760,
-        "area": 1,
-        "density": 60760
+        "area": 1270,
+        "density": 48
     },
     "Whatcom County": {
         "name": "Whatcom County",
         "state": "Washington",
         "population": 229247,
-        "area": 2,
-        "density": 114624
+        "area": 2120,
+        "density": 108
     },
     "Whitman County": {
         "name": "Whitman County",
         "state": "Washington",
         "population": 50104,
-        "area": 2,
-        "density": 25052
+        "area": 2159,
+        "density": 23
     },
     "Yakima County": {
         "name": "Yakima County",
         "state": "Washington",
         "population": 250873,
-        "area": 4,
-        "density": 62718
+        "area": 4296,
+        "density": 58
     },
     "Braxton County": {
         "name": "Braxton County",
@@ -12393,8 +12393,8 @@
         "name": "Greenbrier County",
         "state": "West Virginia",
         "population": 35480,
-        "area": 1,
-        "density": 35480
+        "area": 1021,
+        "density": 35
     },
     "Hardy County": {
         "name": "Hardy County",
@@ -12491,8 +12491,8 @@
         "name": "Bayfield County",
         "state": "Wisconsin",
         "population": 15014,
-        "area": 1,
-        "density": 15014
+        "area": 1477,
+        "density": 10
     },
     "Burnett County": {
         "name": "Burnett County",
@@ -12512,8 +12512,8 @@
         "name": "Dane County",
         "state": "Wisconsin",
         "population": 488073,
-        "area": 1,
-        "density": 488073
+        "area": 1197,
+        "density": 408
     },
     "Door County": {
         "name": "Door County",
@@ -12589,15 +12589,15 @@
         "name": "Marathon County",
         "state": "Wisconsin",
         "population": 134063,
-        "area": 1,
-        "density": 134063
+        "area": 1544,
+        "density": 87
     },
     "Marinette County": {
         "name": "Marinette County",
         "state": "Wisconsin",
         "population": 41749,
-        "area": 1,
-        "density": 41749
+        "area": 1399,
+        "density": 30
     },
     "Milwaukee County": {
         "name": "Milwaukee County",
@@ -12638,8 +12638,8 @@
         "name": "Price County",
         "state": "Wisconsin",
         "population": 14159,
-        "area": 1,
-        "density": 14159
+        "area": 1254,
+        "density": 11
     },
     "Racine County": {
         "name": "Racine County",
@@ -12659,8 +12659,8 @@
         "name": "Sawyer County",
         "state": "Wisconsin",
         "population": 16557,
-        "area": 1,
-        "density": 16557
+        "area": 1257,
+        "density": 13
     },
     "Shawano County": {
         "name": "Shawano County",
@@ -12729,77 +12729,77 @@
         "name": "Converse County",
         "state": "Wyoming",
         "population": 14008,
-        "area": 4,
-        "density": 3502
+        "area": 4255,
+        "density": 3
     },
     "Goshen County": {
         "name": "Goshen County",
         "state": "Wyoming",
         "population": 13636,
-        "area": 2,
-        "density": 6818
+        "area": 2225,
+        "density": 6
     },
     "Hot Springs County": {
         "name": "Hot Springs County",
         "state": "Wyoming",
         "population": 4822,
-        "area": 2,
-        "density": 2411
+        "area": 2004,
+        "density": 2
     },
     "Laramie County": {
         "name": "Laramie County",
         "state": "Wyoming",
         "population": 94483,
-        "area": 2,
-        "density": 47242
+        "area": 2686,
+        "density": 35
     },
     "Natrona County": {
         "name": "Natrona County",
         "state": "Wyoming",
         "population": 78621,
-        "area": 5,
-        "density": 15724
+        "area": 5340,
+        "density": 15
     },
     "Niobrara County": {
         "name": "Niobrara County",
         "state": "Wyoming",
         "population": 2456,
-        "area": 2,
-        "density": 1228
+        "area": 2626,
+        "density": 1
     },
     "Sublette County": {
         "name": "Sublette County",
         "state": "Wyoming",
         "population": 10368,
-        "area": 4,
-        "density": 2592
+        "area": 4882,
+        "density": 2
     },
     "Sweetwater County": {
         "name": "Sweetwater County",
         "state": "Wyoming",
         "population": 45267,
-        "area": 10,
-        "density": 4527
+        "area": 10426,
+        "density": 4
     },
     "Uinta County": {
         "name": "Uinta County",
         "state": "Wyoming",
         "population": 21025,
-        "area": 2,
-        "density": 10513
+        "area": 2082,
+        "density": 10
     },
     "Washakie County": {
         "name": "Washakie County",
         "state": "Wyoming",
         "population": 8464,
-        "area": 2,
-        "density": 4232
+        "area": 2240,
+        "density": 4
     },
     "Weston County": {
         "name": "Weston County",
         "state": "Wyoming",
         "population": 7082,
-        "area": 2,
-        "density": 3541
+        "area": 2398,
+        "density": 3
     }
 }

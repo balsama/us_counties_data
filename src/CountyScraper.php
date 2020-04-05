@@ -87,6 +87,7 @@ class CountyScraper
 
     private function extractSqareMilesFromArea($area) {
         $sqm = strtok($area, 'sq');
+        $sqm = str_replace(',', '', $sqm);
         return (int) $sqm;
     }
 
