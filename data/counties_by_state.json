@@ -9562,1520 +9562,1520 @@
         "Atlantic County, New Jersey": {
             "name": "Atlantic County",
             "state": "New Jersey",
-            "population": 1,
+            "population": 265429,
             "area": 561,
-            "density": 0
+            "density": 473
         },
         "Bergen County, New Jersey": {
             "name": "Bergen County",
             "state": "New Jersey",
-            "population": 3,
+            "population": 936692,
             "area": 234,
-            "density": 0
+            "density": 4003
         },
         "Burlington County, New Jersey": {
             "name": "Burlington County",
             "state": "New Jersey",
-            "population": 5,
+            "population": 445384,
             "area": 805,
-            "density": 0
+            "density": 553
         },
         "Camden County, New Jersey": {
             "name": "Camden County",
             "state": "New Jersey",
-            "population": 7,
+            "population": 507078,
             "area": 222,
-            "density": 0
+            "density": 2284
         },
         "Cape May County, New Jersey": {
             "name": "Cape May County",
             "state": "New Jersey",
-            "population": 9,
+            "population": 92560,
             "area": 255,
-            "density": 0
+            "density": 363
         },
         "Cumberland County, New Jersey": {
             "name": "Cumberland County",
             "state": "New Jersey",
-            "population": 11,
+            "population": 150972,
             "area": 489,
-            "density": 0
+            "density": 309
         },
         "Essex County, New Jersey": {
             "name": "Essex County",
             "state": "New Jersey",
-            "population": 13,
+            "population": 799767,
             "area": 126,
-            "density": 0
+            "density": 6347
         },
         "Gloucester County, New Jersey": {
             "name": "Gloucester County",
             "state": "New Jersey",
-            "population": 15,
+            "population": 291408,
             "area": 325,
-            "density": 0
+            "density": 897
         },
         "Hudson County, New Jersey": {
             "name": "Hudson County",
             "state": "New Jersey",
-            "population": 17,
+            "population": 676061,
             "area": 47,
-            "density": 0
+            "density": 14384
         },
         "Hunterdon County, New Jersey": {
             "name": "Hunterdon County",
             "state": "New Jersey",
-            "population": 19,
+            "population": 124714,
             "area": 430,
-            "density": 0
+            "density": 290
         },
         "Mercer County, New Jersey": {
             "name": "Mercer County",
             "state": "New Jersey",
-            "population": 21,
+            "population": 369811,
             "area": 226,
-            "density": 0
+            "density": 1636
         },
         "Middlesex County, New Jersey": {
             "name": "Middlesex County",
             "state": "New Jersey",
-            "population": 23,
+            "population": 829685,
             "area": 311,
-            "density": 0
+            "density": 2668
         },
         "Monmouth County, New Jersey": {
             "name": "Monmouth County",
             "state": "New Jersey",
-            "population": 25,
+            "population": 621354,
             "area": 472,
-            "density": 0
+            "density": 1316
         },
         "Morris County, New Jersey": {
             "name": "Morris County",
             "state": "New Jersey",
-            "population": 27,
+            "population": 494228,
             "area": 469,
-            "density": 0
+            "density": 1054
         },
         "Ocean County, New Jersey": {
             "name": "Ocean County",
             "state": "New Jersey",
-            "population": 29,
+            "population": 601651,
             "area": 636,
-            "density": 0
+            "density": 946
         },
         "Passaic County, New Jersey": {
             "name": "Passaic County",
             "state": "New Jersey",
-            "population": 31,
+            "population": 503310,
             "area": 185,
-            "density": 0
+            "density": 2721
         },
         "Salem County, New Jersey": {
             "name": "Salem County",
             "state": "New Jersey",
-            "population": 33,
+            "population": 62607,
             "area": 338,
-            "density": 0
+            "density": 185
         },
         "Somerset County, New Jersey": {
             "name": "Somerset County",
             "state": "New Jersey",
-            "population": 35,
+            "population": 331164,
             "area": 305,
-            "density": 0
+            "density": 1086
         },
         "Sussex County, New Jersey": {
             "name": "Sussex County",
             "state": "New Jersey",
-            "population": 37,
+            "population": 140799,
             "area": 521,
-            "density": 0
+            "density": 270
         },
         "Union County, New Jersey": {
             "name": "Union County",
             "state": "New Jersey",
-            "population": 39,
+            "population": 558067,
             "area": 103,
-            "density": 0
+            "density": 5418
         },
         "Warren County, New Jersey": {
             "name": "Warren County",
             "state": "New Jersey",
-            "population": 41,
+            "population": 105779,
             "area": 358,
-            "density": 0
+            "density": 295
         }
     },
     "New Mexico": {
         "Bernalillo County, New Mexico": {
             "name": "Bernalillo County",
             "state": "New Mexico",
-            "population": 1,
+            "population": 670968,
             "area": 1166,
-            "density": 0
+            "density": 575
         },
         "Catron County, New Mexico": {
             "name": "Catron County",
             "state": "New Mexico",
-            "population": 3,
+            "population": 3733,
             "area": 6928,
-            "density": 0
+            "density": 1
         },
         "Chaves County, New Mexico": {
             "name": "Chaves County",
             "state": "New Mexico",
-            "population": 5,
+            "population": 65890,
             "area": 6071,
-            "density": 0
+            "density": 11
         },
         "Cibola County, New Mexico": {
             "name": "Cibola County",
             "state": "New Mexico",
-            "population": 6,
+            "population": 27658,
             "area": 4540,
-            "density": 0
+            "density": 6
         },
         "Colfax County, New Mexico": {
             "name": "Colfax County",
             "state": "New Mexico",
-            "population": 7,
+            "population": 13640,
             "area": 3757,
-            "density": 0
+            "density": 4
         },
         "Curry County, New Mexico": {
             "name": "Curry County",
             "state": "New Mexico",
-            "population": 9,
+            "population": 49649,
             "area": 1406,
-            "density": 0
+            "density": 35
         },
         "De Baca County, New Mexico": {
             "name": "De Baca County",
             "state": "New Mexico",
-            "population": 11,
+            "population": 1945,
             "area": 2325,
-            "density": 0
+            "density": 1
         },
         "Do\u00f1a Ana County, New Mexico": {
             "name": "Do\u00f1a Ana County",
             "state": "New Mexico",
-            "population": 13,
+            "population": 213598,
             "area": 3807,
-            "density": 0
+            "density": 56
         },
         "Eddy County, New Mexico": {
             "name": "Eddy County",
             "state": "New Mexico",
-            "population": 15,
+            "population": 54152,
             "area": 4182,
-            "density": 0
+            "density": 13
         },
         "Grant County, New Mexico": {
             "name": "Grant County",
             "state": "New Mexico",
-            "population": 17,
+            "population": 29380,
             "area": 3966,
-            "density": 0
+            "density": 7
         },
         "Guadalupe County, New Mexico": {
             "name": "Guadalupe County",
             "state": "New Mexico",
-            "population": 19,
+            "population": 4619,
             "area": 3031,
-            "density": 0
+            "density": 2
         },
         "Harding County, New Mexico": {
             "name": "Harding County",
             "state": "New Mexico",
-            "population": 21,
+            "population": 740,
             "area": 2126,
             "density": 0
         },
         "Hidalgo County, New Mexico": {
             "name": "Hidalgo County",
             "state": "New Mexico",
-            "population": 23,
+            "population": 4861,
             "area": 3446,
-            "density": 0
+            "density": 1
         },
         "Lea County, New Mexico": {
             "name": "Lea County",
             "state": "New Mexico",
-            "population": 25,
+            "population": 65423,
             "area": 4393,
-            "density": 0
+            "density": 15
         },
         "Lincoln County, New Mexico": {
             "name": "Lincoln County",
             "state": "New Mexico",
-            "population": 27,
+            "population": 20454,
             "area": 4831,
-            "density": 0
+            "density": 4
         },
         "Los Alamos County, New Mexico": {
             "name": "Los Alamos County",
             "state": "New Mexico",
-            "population": 28,
+            "population": 18222,
             "area": 109,
-            "density": 0
+            "density": 167
         },
         "Luna County, New Mexico": {
             "name": "Luna County",
             "state": "New Mexico",
-            "population": 29,
+            "population": 25281,
             "area": 2965,
-            "density": 0
+            "density": 9
         },
         "McKinley County, New Mexico": {
             "name": "McKinley County",
             "state": "New Mexico",
-            "population": 31,
+            "population": 73664,
             "area": 5449,
-            "density": 0
+            "density": 14
         },
         "Mora County, New Mexico": {
             "name": "Mora County",
             "state": "New Mexico",
-            "population": 33,
+            "population": 4773,
             "area": 1931,
-            "density": 0
+            "density": 2
         },
         "Otero County, New Mexico": {
             "name": "Otero County",
             "state": "New Mexico",
-            "population": 35,
+            "population": 65703,
             "area": 6627,
-            "density": 0
+            "density": 10
         },
         "Quay County, New Mexico": {
             "name": "Quay County",
             "state": "New Mexico",
-            "population": 37,
+            "population": 9026,
             "area": 2855,
-            "density": 0
+            "density": 3
         },
         "Rio Arriba County, New Mexico": {
             "name": "Rio Arriba County",
             "state": "New Mexico",
-            "population": 39,
+            "population": 40446,
             "area": 5858,
-            "density": 0
+            "density": 7
         },
         "Roosevelt County, New Mexico": {
             "name": "Roosevelt County",
             "state": "New Mexico",
-            "population": 41,
+            "population": 20446,
             "area": 2449,
-            "density": 0
+            "density": 8
         },
         "Sandoval County, New Mexico": {
             "name": "Sandoval County",
             "state": "New Mexico",
-            "population": 43,
+            "population": 134259,
             "area": 3710,
-            "density": 0
+            "density": 36
         },
         "San Juan County, New Mexico": {
             "name": "San Juan County",
             "state": "New Mexico",
-            "population": 45,
+            "population": 128200,
             "area": 5514,
-            "density": 0
+            "density": 23
         },
         "San Miguel County, New Mexico": {
             "name": "San Miguel County",
             "state": "New Mexico",
-            "population": 47,
+            "population": 29301,
             "area": 4717,
-            "density": 0
+            "density": 6
         },
         "Santa Fe County, New Mexico": {
             "name": "Santa Fe County",
             "state": "New Mexico",
-            "population": 49,
+            "population": 145648,
             "area": 1909,
-            "density": 0
+            "density": 76
         },
         "Sierra County, New Mexico": {
             "name": "Sierra County",
             "state": "New Mexico",
-            "population": 51,
+            "population": 11943,
             "area": 4180,
-            "density": 0
+            "density": 3
         },
         "Socorro County, New Mexico": {
             "name": "Socorro County",
             "state": "New Mexico",
-            "population": 53,
+            "population": 17873,
             "area": 6647,
-            "density": 0
+            "density": 3
         },
         "Taos County, New Mexico": {
             "name": "Taos County",
             "state": "New Mexico",
-            "population": 55,
+            "population": 32917,
             "area": 2203,
-            "density": 0
+            "density": 15
         },
         "Torrance County, New Mexico": {
             "name": "Torrance County",
             "state": "New Mexico",
-            "population": 57,
+            "population": 16345,
             "area": 3345,
-            "density": 0
+            "density": 5
         },
         "Union County, New Mexico": {
             "name": "Union County",
             "state": "New Mexico",
-            "population": 59,
+            "population": 4433,
             "area": 3830,
-            "density": 0
+            "density": 1
         },
         "Valencia County, New Mexico": {
             "name": "Valencia County",
             "state": "New Mexico",
-            "population": 61,
+            "population": 77070,
             "area": 1068,
-            "density": 0
+            "density": 72
         }
     },
     "New York": {
         "Albany County, New York": {
             "name": "Albany County",
             "state": "New York",
-            "population": 1,
+            "population": 304204,
             "area": 533,
-            "density": 0
+            "density": 571
         },
         "Allegany County, New York": {
             "name": "Allegany County",
             "state": "New York",
-            "population": 3,
+            "population": 48946,
             "area": 1034,
-            "density": 0
+            "density": 47
         },
         "Bronx County, New York": {
             "name": "Bronx County",
             "state": "New York",
-            "population": 5,
+            "population": 1385108,
             "area": 57,
-            "density": 0
+            "density": 24300
         },
         "Broome County, New York": {
             "name": "Broome County",
             "state": "New York",
-            "population": 7,
+            "population": 200600,
             "area": 715,
-            "density": 0
+            "density": 281
         },
         "Cattaraugus County, New York": {
             "name": "Cattaraugus County",
             "state": "New York",
-            "population": 9,
+            "population": 80317,
             "area": 1310,
-            "density": 0
+            "density": 61
         },
         "Cayuga County, New York": {
             "name": "Cayuga County",
             "state": "New York",
-            "population": 11,
+            "population": 80026,
             "area": 864,
-            "density": 0
+            "density": 93
         },
         "Chautauqua County, New York": {
             "name": "Chautauqua County",
             "state": "New York",
-            "population": 13,
+            "population": 134905,
             "area": 1500,
-            "density": 0
+            "density": 90
         },
         "Chemung County, New York": {
             "name": "Chemung County",
             "state": "New York",
-            "population": 15,
+            "population": 88830,
             "area": 410,
-            "density": 0
+            "density": 217
         },
         "Chenango County, New York": {
             "name": "Chenango County",
             "state": "New York",
-            "population": 17,
+            "population": 50477,
             "area": 898,
-            "density": 0
+            "density": 56
         },
         "Clinton County, New York": {
             "name": "Clinton County",
             "state": "New York",
-            "population": 19,
+            "population": 82128,
             "area": 1118,
-            "density": 0
+            "density": 73
         },
         "Columbia County, New York": {
             "name": "Columbia County",
             "state": "New York",
-            "population": 21,
+            "population": 63096,
             "area": 648,
-            "density": 0
+            "density": 97
         },
         "Cortland County, New York": {
             "name": "Cortland County",
             "state": "New York",
-            "population": 23,
+            "population": 49336,
             "area": 502,
-            "density": 0
+            "density": 98
         },
         "Delaware County, New York": {
             "name": "Delaware County",
             "state": "New York",
-            "population": 25,
+            "population": 47980,
             "area": 1468,
-            "density": 0
+            "density": 33
         },
         "Dutchess County, New York": {
             "name": "Dutchess County",
             "state": "New York",
-            "population": 27,
+            "population": 297488,
             "area": 825,
-            "density": 0
+            "density": 361
         },
         "Erie County, New York": {
             "name": "Erie County",
             "state": "New York",
-            "population": 29,
+            "population": 919040,
             "area": 1227,
-            "density": 0
+            "density": 749
         },
         "Essex County, New York": {
             "name": "Essex County",
             "state": "New York",
-            "population": 31,
+            "population": 39370,
             "area": 1916,
-            "density": 0
+            "density": 21
         },
         "Franklin County, New York": {
             "name": "Franklin County",
             "state": "New York",
-            "population": 33,
+            "population": 51599,
             "area": 1697,
-            "density": 0
+            "density": 30
         },
         "Fulton County, New York": {
             "name": "Fulton County",
             "state": "New York",
-            "population": 35,
+            "population": 55531,
             "area": 533,
-            "density": 0
+            "density": 104
         },
         "Genesee County, New York": {
             "name": "Genesee County",
             "state": "New York",
-            "population": 37,
+            "population": 60079,
             "area": 495,
-            "density": 0
+            "density": 121
         },
         "Greene County, New York": {
             "name": "Greene County",
             "state": "New York",
-            "population": 39,
+            "population": 49221,
             "area": 658,
-            "density": 0
+            "density": 75
         },
         "Hamilton County, New York": {
             "name": "Hamilton County",
             "state": "New York",
-            "population": 41,
+            "population": 4836,
             "area": 1808,
-            "density": 0
+            "density": 3
         },
         "Herkimer County, New York": {
             "name": "Herkimer County",
             "state": "New York",
-            "population": 43,
+            "population": 64519,
             "area": 1458,
-            "density": 0
+            "density": 44
         },
         "Jefferson County, New York": {
             "name": "Jefferson County",
             "state": "New York",
-            "population": 45,
+            "population": 116229,
             "area": 1857,
-            "density": 0
+            "density": 63
         },
         "Kings County, New York": {
             "name": "Kings County",
             "state": "New York",
-            "population": 47,
+            "population": 2504700,
             "area": 96,
-            "density": 0
+            "density": 26091
         },
         "Lewis County, New York": {
             "name": "Lewis County",
             "state": "New York",
-            "population": 49,
+            "population": 27087,
             "area": 1290,
-            "density": 0
+            "density": 21
         },
         "Livingston County, New York": {
             "name": "Livingston County",
             "state": "New York",
-            "population": 51,
+            "population": 65393,
             "area": 640,
-            "density": 0
+            "density": 102
         },
         "Madison County, New York": {
             "name": "Madison County",
             "state": "New York",
-            "population": 53,
+            "population": 73442,
             "area": 662,
-            "density": 0
+            "density": 111
         },
         "Monroe County, New York": {
             "name": "Monroe County",
             "state": "New York",
-            "population": 55,
+            "population": 744344,
             "area": 1366,
-            "density": 0
+            "density": 545
         },
         "Montgomery County, New York": {
             "name": "Montgomery County",
             "state": "New York",
-            "population": 57,
+            "population": 50219,
             "area": 410,
-            "density": 0
+            "density": 122
         },
         "Nassau County, New York": {
             "name": "Nassau County",
             "state": "New York",
-            "population": 59,
+            "population": 1339532,
             "area": 453,
-            "density": 0
+            "density": 2957
         },
         "New York County, New York": {
             "name": "New York County",
             "state": "New York",
-            "population": 61,
+            "population": 1585873,
             "area": 33,
-            "density": 2
+            "density": 48057
         },
         "Niagara County, New York": {
             "name": "Niagara County",
             "state": "New York",
-            "population": 63,
+            "population": 216469,
             "area": 1140,
-            "density": 0
+            "density": 190
         },
         "Oneida County, New York": {
             "name": "Oneida County",
             "state": "New York",
-            "population": 65,
+            "population": 234878,
             "area": 1213,
-            "density": 0
+            "density": 194
         },
         "Onondaga County, New York": {
             "name": "Onondaga County",
             "state": "New York",
-            "population": 67,
+            "population": 467026,
             "area": 806,
-            "density": 0
+            "density": 579
         },
         "Ontario County, New York": {
             "name": "Ontario County",
             "state": "New York",
-            "population": 69,
+            "population": 107931,
             "area": 662,
-            "density": 0
+            "density": 163
         },
         "Orange County, New York": {
             "name": "Orange County",
             "state": "New York",
-            "population": 71,
+            "population": 372813,
             "area": 839,
-            "density": 0
+            "density": 444
         },
         "Orleans County, New York": {
             "name": "Orleans County",
             "state": "New York",
-            "population": 73,
+            "population": 42883,
             "area": 817,
-            "density": 0
+            "density": 52
         },
         "Oswego County, New York": {
             "name": "Oswego County",
             "state": "New York",
-            "population": 75,
+            "population": 122109,
             "area": 1312,
-            "density": 0
+            "density": 93
         },
         "Otsego County, New York": {
             "name": "Otsego County",
             "state": "New York",
-            "population": 77,
+            "population": 62259,
             "area": 1003,
-            "density": 0
+            "density": 62
         },
         "Putnam County, New York": {
             "name": "Putnam County",
             "state": "New York",
-            "population": 79,
+            "population": 99710,
             "area": 246,
-            "density": 0
+            "density": 405
         },
         "Queens County, New York": {
             "name": "Queens County",
             "state": "New York",
-            "population": 81,
+            "population": 2230722,
             "area": 178,
-            "density": 0
+            "density": 12532
         },
         "Rensselaer County, New York": {
             "name": "Rensselaer County",
             "state": "New York",
-            "population": 83,
+            "population": 159429,
             "area": 665,
-            "density": 0
+            "density": 240
         },
         "Richmond County, New York": {
             "name": "Richmond County",
             "state": "New York",
-            "population": 85,
+            "population": 468730,
             "area": 102,
-            "density": 1
+            "density": 4595
         },
         "Rockland County, New York": {
             "name": "Rockland County",
             "state": "New York",
-            "population": 87,
+            "population": 311687,
             "area": 199,
-            "density": 0
+            "density": 1566
         },
         "St. Lawrence County, New York": {
             "name": "St. Lawrence County",
             "state": "New York",
-            "population": 89,
+            "population": 111944,
             "area": 2821,
-            "density": 0
+            "density": 40
         },
         "Saratoga County, New York": {
             "name": "Saratoga County",
             "state": "New York",
-            "population": 91,
+            "population": 219607,
             "area": 844,
-            "density": 0
+            "density": 260
         },
         "Schenectady County, New York": {
             "name": "Schenectady County",
             "state": "New York",
-            "population": 93,
+            "population": 154727,
             "area": 210,
-            "density": 0
+            "density": 737
         },
         "Schoharie County, New York": {
             "name": "Schoharie County",
             "state": "New York",
-            "population": 95,
+            "population": 32749,
             "area": 626,
-            "density": 0
+            "density": 52
         },
         "Schuyler County, New York": {
             "name": "Schuyler County",
             "state": "New York",
-            "population": 97,
+            "population": 18343,
             "area": 342,
-            "density": 0
+            "density": 54
         },
         "Seneca County, New York": {
             "name": "Seneca County",
             "state": "New York",
-            "population": 99,
+            "population": 35251,
             "area": 325,
-            "density": 0
+            "density": 108
         },
         "Steuben County, New York": {
             "name": "Steuben County",
             "state": "New York",
-            "population": 101,
+            "population": 98990,
             "area": 1404,
-            "density": 0
+            "density": 71
         },
         "Suffolk County, New York": {
             "name": "Suffolk County",
             "state": "New York",
-            "population": 103,
+            "population": 1493350,
             "area": 2373,
-            "density": 0
+            "density": 629
         },
         "Sullivan County, New York": {
             "name": "Sullivan County",
             "state": "New York",
-            "population": 105,
+            "population": 77547,
             "area": 997,
-            "density": 0
+            "density": 78
         },
         "Tioga County, New York": {
             "name": "Tioga County",
             "state": "New York",
-            "population": 107,
+            "population": 51125,
             "area": 523,
-            "density": 0
+            "density": 98
         },
         "Tompkins County, New York": {
             "name": "Tompkins County",
             "state": "New York",
-            "population": 109,
+            "population": 101564,
             "area": 476,
-            "density": 0
+            "density": 213
         },
         "Ulster County, New York": {
             "name": "Ulster County",
             "state": "New York",
-            "population": 111,
+            "population": 182493,
             "area": 1161,
-            "density": 0
+            "density": 157
         },
         "Warren County, New York": {
             "name": "Warren County",
             "state": "New York",
-            "population": 113,
+            "population": 65707,
             "area": 870,
-            "density": 0
+            "density": 76
         },
         "Washington County, New York": {
             "name": "Washington County",
             "state": "New York",
-            "population": 115,
+            "population": 63216,
             "area": 846,
-            "density": 0
+            "density": 75
         },
         "Wayne County, New York": {
             "name": "Wayne County",
             "state": "New York",
-            "population": 117,
+            "population": 93772,
             "area": 1384,
-            "density": 0
+            "density": 68
         },
         "Westchester County, New York": {
             "name": "Westchester County",
             "state": "New York",
-            "population": 119,
+            "population": 949113,
             "area": 500,
-            "density": 0
+            "density": 1898
         },
         "Wyoming County, New York": {
             "name": "Wyoming County",
             "state": "New York",
-            "population": 121,
+            "population": 42155,
             "area": 596,
-            "density": 0
+            "density": 71
         },
         "Yates County, New York": {
             "name": "Yates County",
             "state": "New York",
-            "population": 123,
+            "population": 25348,
             "area": 376,
-            "density": 0
+            "density": 67
         }
     },
     "North Carolina": {
         "Alamance County, North Carolina": {
             "name": "Alamance County",
             "state": "North Carolina",
-            "population": 1,
+            "population": 157844,
             "area": 435,
-            "density": 0
+            "density": 363
         },
         "Alexander County, North Carolina": {
             "name": "Alexander County",
             "state": "North Carolina",
-            "population": 3,
+            "population": 37159,
             "area": 263,
-            "density": 0
+            "density": 141
         },
         "Alleghany County, North Carolina": {
             "name": "Alleghany County",
             "state": "North Carolina",
-            "population": 5,
+            "population": 10935,
             "area": 236,
-            "density": 0
+            "density": 46
         },
         "Anson County, North Carolina": {
             "name": "Anson County",
             "state": "North Carolina",
-            "population": 7,
+            "population": 25531,
             "area": 537,
-            "density": 0
+            "density": 48
         },
         "Ashe County, North Carolina": {
             "name": "Ashe County",
             "state": "North Carolina",
-            "population": 9,
+            "population": 26833,
             "area": 427,
-            "density": 0
+            "density": 63
         },
         "Avery County, North Carolina": {
             "name": "Avery County",
             "state": "North Carolina",
-            "population": 11,
+            "population": 17535,
             "area": 247,
-            "density": 0
+            "density": 71
         },
         "Beaufort County, North Carolina": {
             "name": "Beaufort County",
             "state": "North Carolina",
-            "population": 13,
+            "population": 47316,
             "area": 959,
-            "density": 0
+            "density": 49
         },
         "Bertie County, North Carolina": {
             "name": "Bertie County",
             "state": "North Carolina",
-            "population": 15,
+            "population": 19913,
             "area": 741,
-            "density": 0
+            "density": 27
         },
         "Bladen County, North Carolina": {
             "name": "Bladen County",
             "state": "North Carolina",
-            "population": 17,
+            "population": 34130,
             "area": 887,
-            "density": 0
+            "density": 38
         },
         "Brunswick County, North Carolina": {
             "name": "Brunswick County",
             "state": "North Carolina",
-            "population": 19,
+            "population": 122586,
             "area": 860,
-            "density": 0
+            "density": 143
         },
         "Buncombe County, North Carolina": {
             "name": "Buncombe County",
             "state": "North Carolina",
-            "population": 21,
+            "population": 252268,
             "area": 660,
-            "density": 0
+            "density": 382
         },
         "Burke County, North Carolina": {
             "name": "Burke County",
             "state": "North Carolina",
-            "population": 23,
+            "population": 88898,
             "area": 515,
-            "density": 0
+            "density": 173
         },
         "Cabarrus County, North Carolina": {
             "name": "Cabarrus County",
             "state": "North Carolina",
-            "population": 25,
+            "population": 196716,
             "area": 365,
-            "density": 0
+            "density": 539
         },
         "Caldwell County, North Carolina": {
             "name": "Caldwell County",
             "state": "North Carolina",
-            "population": 27,
+            "population": 81805,
             "area": 474,
-            "density": 0
+            "density": 173
         },
         "Camden County, North Carolina": {
             "name": "Camden County",
             "state": "North Carolina",
-            "population": 29,
+            "population": 10336,
             "area": 306,
-            "density": 0
+            "density": 34
         },
         "Carteret County, North Carolina": {
             "name": "Carteret County",
             "state": "North Carolina",
-            "population": 31,
+            "population": 68699,
             "area": 1341,
-            "density": 0
+            "density": 51
         },
         "Caswell County, North Carolina": {
             "name": "Caswell County",
             "state": "North Carolina",
-            "population": 33,
+            "population": 22833,
             "area": 428,
-            "density": 0
+            "density": 53
         },
         "Catawba County, North Carolina": {
             "name": "Catawba County",
             "state": "North Carolina",
-            "population": 35,
+            "population": 156182,
             "area": 414,
-            "density": 0
+            "density": 377
         },
         "Chatham County, North Carolina": {
             "name": "Chatham County",
             "state": "North Carolina",
-            "population": 37,
+            "population": 68364,
             "area": 709,
-            "density": 0
+            "density": 96
         },
         "Cherokee County, North Carolina": {
             "name": "Cherokee County",
             "state": "North Carolina",
-            "population": 39,
+            "population": 27463,
             "area": 497,
-            "density": 0
+            "density": 55
         },
         "Chowan County, North Carolina": {
             "name": "Chowan County",
             "state": "North Carolina",
-            "population": 41,
+            "population": 14370,
             "area": 233,
-            "density": 0
+            "density": 62
         },
         "Clay County, North Carolina": {
             "name": "Clay County",
             "state": "North Carolina",
-            "population": 43,
+            "population": 10753,
             "area": 221,
-            "density": 0
+            "density": 49
         },
         "Cleveland County, North Carolina": {
             "name": "Cleveland County",
             "state": "North Carolina",
-            "population": 45,
+            "population": 97038,
             "area": 469,
-            "density": 0
+            "density": 207
         },
         "Columbus County, North Carolina": {
             "name": "Columbus County",
             "state": "North Carolina",
-            "population": 47,
+            "population": 56589,
             "area": 954,
-            "density": 0
+            "density": 59
         },
         "Craven County, North Carolina": {
             "name": "Craven County",
             "state": "North Carolina",
-            "population": 49,
+            "population": 103374,
             "area": 774,
-            "density": 0
+            "density": 134
         },
         "Cumberland County, North Carolina": {
             "name": "Cumberland County",
             "state": "North Carolina",
-            "population": 51,
+            "population": 332766,
             "area": 658,
-            "density": 0
+            "density": 506
         },
         "Currituck County, North Carolina": {
             "name": "Currituck County",
             "state": "North Carolina",
-            "population": 53,
+            "population": 25247,
             "area": 526,
-            "density": 0
+            "density": 48
         },
         "Dare County, North Carolina": {
             "name": "Dare County",
             "state": "North Carolina",
-            "population": 55,
+            "population": 35412,
             "area": 1562,
-            "density": 0
+            "density": 23
         },
         "Davidson County, North Carolina": {
             "name": "Davidson County",
             "state": "North Carolina",
-            "population": 57,
+            "population": 164118,
             "area": 567,
-            "density": 0
+            "density": 289
         },
         "Davie County, North Carolina": {
             "name": "Davie County",
             "state": "North Carolina",
-            "population": 59,
+            "population": 41766,
             "area": 267,
-            "density": 0
+            "density": 156
         },
         "Duplin County, North Carolina": {
             "name": "Duplin County",
             "state": "North Carolina",
-            "population": 61,
+            "population": 59350,
             "area": 819,
-            "density": 0
+            "density": 72
         },
         "Durham County, North Carolina": {
             "name": "Durham County",
             "state": "North Carolina",
-            "population": 63,
+            "population": 300865,
             "area": 298,
-            "density": 0
+            "density": 1010
         },
         "Edgecombe County, North Carolina": {
             "name": "Edgecombe County",
             "state": "North Carolina",
-            "population": 65,
+            "population": 54032,
             "area": 507,
-            "density": 0
+            "density": 107
         },
         "Forsyth County, North Carolina": {
             "name": "Forsyth County",
             "state": "North Carolina",
-            "population": 67,
+            "population": 368362,
             "area": 413,
-            "density": 0
+            "density": 892
         },
         "Franklin County, North Carolina": {
             "name": "Franklin County",
             "state": "North Carolina",
-            "population": 69,
+            "population": 63866,
             "area": 495,
-            "density": 0
+            "density": 129
         },
         "Gaston County, North Carolina": {
             "name": "Gaston County",
             "state": "North Carolina",
-            "population": 71,
+            "population": 214049,
             "area": 364,
-            "density": 0
+            "density": 588
         },
         "Gates County, North Carolina": {
             "name": "Gates County",
             "state": "North Carolina",
-            "population": 73,
+            "population": 11601,
             "area": 346,
-            "density": 0
+            "density": 34
         },
         "Graham County, North Carolina": {
             "name": "Graham County",
             "state": "North Carolina",
-            "population": 75,
+            "population": 8607,
             "area": 302,
-            "density": 0
+            "density": 29
         },
         "Granville County, North Carolina": {
             "name": "Granville County",
             "state": "North Carolina",
-            "population": 77,
+            "population": 58503,
             "area": 537,
-            "density": 0
+            "density": 109
         },
         "Greene County, North Carolina": {
             "name": "Greene County",
             "state": "North Carolina",
-            "population": 79,
+            "population": 21059,
             "area": 266,
-            "density": 0
+            "density": 79
         },
         "Guilford County, North Carolina": {
             "name": "Guilford County",
             "state": "North Carolina",
-            "population": 81,
+            "population": 517197,
             "area": 658,
-            "density": 0
+            "density": 786
         },
         "Halifax County, North Carolina": {
             "name": "Halifax County",
             "state": "North Carolina",
-            "population": 83,
+            "population": 52300,
             "area": 731,
-            "density": 0
+            "density": 72
         },
         "Harnett County, North Carolina": {
             "name": "Harnett County",
             "state": "North Carolina",
-            "population": 85,
+            "population": 128753,
             "area": 601,
-            "density": 0
+            "density": 214
         },
         "Haywood County, North Carolina": {
             "name": "Haywood County",
             "state": "North Carolina",
-            "population": 87,
+            "population": 59854,
             "area": 555,
-            "density": 0
+            "density": 108
         },
         "Henderson County, North Carolina": {
             "name": "Henderson County",
             "state": "North Carolina",
-            "population": 89,
+            "population": 112156,
             "area": 375,
-            "density": 0
+            "density": 299
         },
         "Hertford County, North Carolina": {
             "name": "Hertford County",
             "state": "North Carolina",
-            "population": 91,
+            "population": 24262,
             "area": 360,
-            "density": 0
+            "density": 67
         },
         "Hoke County, North Carolina": {
             "name": "Hoke County",
             "state": "North Carolina",
-            "population": 93,
+            "population": 52571,
             "area": 392,
-            "density": 0
+            "density": 134
         },
         "Hyde County, North Carolina": {
             "name": "Hyde County",
             "state": "North Carolina",
-            "population": 95,
+            "population": 5507,
             "area": 1424,
-            "density": 0
+            "density": 4
         },
         "Iredell County, North Carolina": {
             "name": "Iredell County",
             "state": "North Carolina",
-            "population": 97,
+            "population": 169798,
             "area": 597,
-            "density": 0
+            "density": 284
         },
         "Jackson County, North Carolina": {
             "name": "Jackson County",
             "state": "North Carolina",
-            "population": 99,
+            "population": 41725,
             "area": 494,
-            "density": 0
+            "density": 84
         },
         "Johnston County, North Carolina": {
             "name": "Johnston County",
             "state": "North Carolina",
-            "population": 101,
+            "population": 186308,
             "area": 796,
-            "density": 0
+            "density": 234
         },
         "Jones County, North Carolina": {
             "name": "Jones County",
             "state": "North Carolina",
-            "population": 103,
+            "population": 9776,
             "area": 473,
-            "density": 0
+            "density": 21
         },
         "Lee County, North Carolina": {
             "name": "Lee County",
             "state": "North Carolina",
-            "population": 105,
+            "population": 59805,
             "area": 259,
-            "density": 0
+            "density": 231
         },
         "Lenoir County, North Carolina": {
             "name": "Lenoir County",
             "state": "North Carolina",
-            "population": 107,
+            "population": 57934,
             "area": 402,
-            "density": 0
+            "density": 144
         },
         "Lincoln County, North Carolina": {
             "name": "Lincoln County",
             "state": "North Carolina",
-            "population": 109,
+            "population": 80504,
             "area": 307,
-            "density": 0
+            "density": 262
         },
         "McDowell County, North Carolina": {
             "name": "McDowell County",
             "state": "North Carolina",
-            "population": 111,
+            "population": 34160,
             "area": 446,
-            "density": 0
+            "density": 77
         },
         "Macon County, North Carolina": {
             "name": "Macon County",
             "state": "North Carolina",
-            "population": 113,
+            "population": 21347,
             "area": 519,
-            "density": 0
+            "density": 41
         },
         "Madison County, North Carolina": {
             "name": "Madison County",
             "state": "North Carolina",
-            "population": 115,
+            "population": 23227,
             "area": 452,
-            "density": 0
+            "density": 51
         },
         "Martin County, North Carolina": {
             "name": "Martin County",
             "state": "North Carolina",
-            "population": 117,
+            "population": 45069,
             "area": 461,
-            "density": 0
+            "density": 98
         },
         "Mecklenburg County, North Carolina": {
             "name": "Mecklenburg County",
             "state": "North Carolina",
-            "population": 119,
+            "population": 1034290,
             "area": 546,
-            "density": 0
+            "density": 1894
         },
         "Mitchell County, North Carolina": {
             "name": "Mitchell County",
             "state": "North Carolina",
-            "population": 121,
+            "population": 15155,
             "area": 222,
-            "density": 1
+            "density": 68
         },
         "Montgomery County, North Carolina": {
             "name": "Montgomery County",
             "state": "North Carolina",
-            "population": 123,
+            "population": 27445,
             "area": 502,
-            "density": 0
+            "density": 55
         },
         "Moore County, North Carolina": {
             "name": "Moore County",
             "state": "North Carolina",
-            "population": 125,
+            "population": 94191,
             "area": 706,
-            "density": 0
+            "density": 133
         },
         "Nash County, North Carolina": {
             "name": "Nash County",
             "state": "North Carolina",
-            "population": 127,
+            "population": 94125,
             "area": 543,
-            "density": 0
+            "density": 173
         },
         "New Hanover County, North Carolina": {
             "name": "New Hanover County",
             "state": "North Carolina",
-            "population": 129,
+            "population": 219866,
             "area": 328,
-            "density": 0
+            "density": 670
         },
         "Northampton County, North Carolina": {
             "name": "Northampton County",
             "state": "North Carolina",
-            "population": 131,
+            "population": 20426,
             "area": 551,
-            "density": 0
+            "density": 37
         },
         "Onslow County, North Carolina": {
             "name": "Onslow County",
             "state": "North Carolina",
-            "population": 133,
+            "population": 192685,
             "area": 909,
-            "density": 0
+            "density": 212
         },
         "Orange County, North Carolina": {
             "name": "Orange County",
             "state": "North Carolina",
-            "population": 135,
+            "population": 141812,
             "area": 401,
-            "density": 0
+            "density": 354
         },
         "Pamlico County, North Carolina": {
             "name": "Pamlico County",
             "state": "North Carolina",
-            "population": 137,
+            "population": 12803,
             "area": 566,
-            "density": 0
+            "density": 23
         },
         "Pasquotank County, North Carolina": {
             "name": "Pasquotank County",
             "state": "North Carolina",
-            "population": 139,
+            "population": 39546,
             "area": 289,
-            "density": 0
+            "density": 137
         },
         "Pender County, North Carolina": {
             "name": "Pender County",
             "state": "North Carolina",
-            "population": 141,
+            "population": 57630,
             "area": 933,
-            "density": 0
+            "density": 62
         },
         "Perquimans County, North Carolina": {
             "name": "Perquimans County",
             "state": "North Carolina",
-            "population": 143,
+            "population": 13506,
             "area": 329,
-            "density": 0
+            "density": 41
         },
         "Person County, North Carolina": {
             "name": "Person County",
             "state": "North Carolina",
-            "population": 145,
+            "population": 39240,
             "area": 404,
-            "density": 0
+            "density": 97
         },
         "Pitt County, North Carolina": {
             "name": "Pitt County",
             "state": "North Carolina",
-            "population": 147,
+            "population": 176484,
             "area": 655,
-            "density": 0
+            "density": 269
         },
         "Polk County, North Carolina": {
             "name": "Polk County",
             "state": "North Carolina",
-            "population": 149,
+            "population": 20434,
             "area": 239,
-            "density": 1
+            "density": 85
         },
         "Randolph County, North Carolina": {
             "name": "Randolph County",
             "state": "North Carolina",
-            "population": 151,
+            "population": 142827,
             "area": 790,
-            "density": 0
+            "density": 181
         },
         "Richmond County, North Carolina": {
             "name": "Richmond County",
             "state": "North Carolina",
-            "population": 153,
+            "population": 45447,
             "area": 480,
-            "density": 0
+            "density": 95
         },
         "Robeson County, North Carolina": {
             "name": "Robeson County",
             "state": "North Carolina",
-            "population": 155,
+            "population": 134187,
             "area": 951,
-            "density": 0
+            "density": 141
         },
         "Rockingham County, North Carolina": {
             "name": "Rockingham County",
             "state": "North Carolina",
-            "population": 157,
+            "population": 91566,
             "area": 572,
-            "density": 0
+            "density": 160
         },
         "Rowan County, North Carolina": {
             "name": "Rowan County",
             "state": "North Carolina",
-            "population": 159,
+            "population": 138940,
             "area": 524,
-            "density": 0
+            "density": 265
         },
         "Rutherford County, North Carolina": {
             "name": "Rutherford County",
             "state": "North Carolina",
-            "population": 161,
+            "population": 66523,
             "area": 566,
-            "density": 0
+            "density": 118
         },
         "Sampson County, North Carolina": {
             "name": "Sampson County",
             "state": "North Carolina",
-            "population": 163,
+            "population": 63664,
             "area": 947,
-            "density": 0
+            "density": 67
         },
         "Scotland County, North Carolina": {
             "name": "Scotland County",
             "state": "North Carolina",
-            "population": 165,
+            "population": 35445,
             "area": 321,
-            "density": 1
+            "density": 110
         },
         "Stanly County, North Carolina": {
             "name": "Stanly County",
             "state": "North Carolina",
-            "population": 167,
+            "population": 60875,
             "area": 404,
-            "density": 0
+            "density": 151
         },
         "Stokes County, North Carolina": {
             "name": "Stokes County",
             "state": "North Carolina",
-            "population": 169,
+            "population": 46124,
             "area": 456,
-            "density": 0
+            "density": 101
         },
         "Surry County, North Carolina": {
             "name": "Surry County",
             "state": "North Carolina",
-            "population": 171,
+            "population": 72315,
             "area": 538,
-            "density": 0
+            "density": 134
         },
         "Swain County, North Carolina": {
             "name": "Swain County",
             "state": "North Carolina",
-            "population": 173,
+            "population": 14208,
             "area": 541,
-            "density": 0
+            "density": 26
         },
         "Transylvania County, North Carolina": {
             "name": "Transylvania County",
             "state": "North Carolina",
-            "population": 175,
+            "population": 33291,
             "area": 381,
-            "density": 0
+            "density": 87
         },
         "Tyrrell County, North Carolina": {
             "name": "Tyrrell County",
             "state": "North Carolina",
-            "population": 177,
+            "population": 4090,
             "area": 600,
-            "density": 0
+            "density": 7
         },
         "Union County, North Carolina": {
             "name": "Union County",
             "state": "North Carolina",
-            "population": 179,
+            "population": 222095,
             "area": 640,
-            "density": 0
+            "density": 347
         },
         "Vance County, North Carolina": {
             "name": "Vance County",
             "state": "North Carolina",
-            "population": 181,
+            "population": 44420,
             "area": 270,
-            "density": 1
+            "density": 165
         },
         "Wake County, North Carolina": {
             "name": "Wake County",
             "state": "North Carolina",
-            "population": 183,
+            "population": 1023811,
             "area": 857,
-            "density": 0
+            "density": 1195
         },
         "Warren County, North Carolina": {
             "name": "Warren County",
             "state": "North Carolina",
-            "population": 185,
+            "population": 20190,
             "area": 444,
-            "density": 0
+            "density": 45
         },
         "Washington County, North Carolina": {
             "name": "Washington County",
             "state": "North Carolina",
-            "population": 187,
+            "population": 12331,
             "area": 424,
-            "density": 0
+            "density": 29
         },
         "Watauga County, North Carolina": {
             "name": "Watauga County",
             "state": "North Carolina",
-            "population": 189,
+            "population": 53421,
             "area": 313,
-            "density": 1
+            "density": 171
         },
         "Wayne County, North Carolina": {
             "name": "Wayne County",
             "state": "North Carolina",
-            "population": 191,
+            "population": 124496,
             "area": 557,
-            "density": 0
+            "density": 224
         },
         "Wilkes County, North Carolina": {
             "name": "Wilkes County",
             "state": "North Carolina",
-            "population": 193,
+            "population": 68525,
             "area": 760,
-            "density": 0
+            "density": 90
         },
         "Wilson County, North Carolina": {
             "name": "Wilson County",
             "state": "North Carolina",
-            "population": 195,
+            "population": 81379,
             "area": 374,
-            "density": 1
+            "density": 218
         },
         "Yadkin County, North Carolina": {
             "name": "Yadkin County",
             "state": "North Carolina",
-            "population": 197,
+            "population": 37825,
             "area": 337,
-            "density": 1
+            "density": 112
         },
         "Yancey County, North Carolina": {
             "name": "Yancey County",
             "state": "North Carolina",
-            "population": 199,
+            "population": 17605,
             "area": 313,
-            "density": 1
+            "density": 56
         }
     },
     "North Dakota": {

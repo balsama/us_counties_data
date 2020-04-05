@@ -39,7 +39,7 @@ class CountyScraper
                 //    strengthened.
                 $headings  = $row->getElementsByTagName('th');
                 $areaColumn = $this->findColumns($headings, 'Area');
-                $populationColumn = $this->findColumns($headings, 'Population');
+                $populationColumn = $this->findColumns($headings, 'Pop');
             }
             if (is_object($row->getElementsByTagName('td')->item(6))) {
                 // @todo Assuming that if the row has at least 7 cells, it holds a county. A better way would be
