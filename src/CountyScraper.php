@@ -24,13 +24,13 @@ class CountyScraper
     }
 
     private function scrapeCountyData() {
-        foreach($this->states as $state) {
-            $data = $this->scrape($state);
+        foreach($this->states as $stateFipsCode => $state) {
+            $data = $this->scrape($state, $stateFipsCode);
             $this->counties[$state] = $data;
         }
     }
 
-    private function scrape($state) {
+    private function scrape($state, $statFipsCode) {
         $counties = [];
         $rows = $this->getRows($state);
         foreach ($rows as $row) {
@@ -40,17 +40,20 @@ class CountyScraper
                 $headings  = $row->getElementsByTagName('th');
                 $areaColumn = $this->findColumns($headings, 'Area');
                 $populationColumn = $this->findColumns($headings, 'Pop');
+                $fipsColumn = $this->findColumns($headings, 'FIPS');
             }
             if (is_object($row->getElementsByTagName('td')->item(6))) {
                 // @todo Assuming that if the row has at least 7 cells, it holds a county. A better way would be
                 //   to check the first cell (a th) has the word county in it.
                 $countyName = $this->removeNewLines($row->getElementsByTagName('th')->item(0)->nodeValue);
+                $fipsCode = (string) $statFipsCode . $this->removeNewLines($row->getElementsByTagName('td')->item($fipsColumn)->nodeValue);
                 $population = $this->formatPopulation($row->getElementsByTagName('td')->item($populationColumn)->nodeValue);
                 $area = $this->extractSqareMilesFromArea($row->getElementsByTagName('td')->item($areaColumn)->nodeValue);
                 $density = (int) number_format($population / $area, 0, '.', '');
                 $counties["$countyName, $state"] = [
                     'name' => $countyName,
                     'state' => $state,
+                    'fips' => $fipsCode,
                     'population' => $population,
                     'area' => $area,
                     'density' => $density,
@@ -121,56 +124,56 @@ class CountyScraper
     }
 
     private $states = [
-        "Alabama",
-        "Alaska",
-        "Arizona",
-        "Arkansas",
-        "California",
-        "Colorado",
-        "Connecticut",
-        "Delaware",
-        "Florida",
-        "Georgia",
-        "Hawaii",
-        "Idaho",
-        "Illinois",
-        "Indiana",
-        "Iowa",
-        "Kansas",
-        "Kentucky",
-        "Louisiana",
-        "Maine",
-        "Montana",
-        "Nebraska",
-        "Nevada",
-        "New Hampshire",
-        "New Jersey",
-        "New Mexico",
-        "New York",
-        "North Carolina",
-        "North Dakota",
-        "Ohio",
-        "Oklahoma",
-        "Oregon",
-        "Maryland",
-        "Massachusetts",
-        "Michigan",
-        "Minnesota",
-        "Mississippi",
-        "Missouri",
-        "Pennsylvania",
-        "Rhode Island",
-        "South Carolina",
-        "South Dakota",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin",
-        "Wyoming",
+        "01" => "Alabama",
+        "02" => "Alaska",
+        "04" => "Arizona",
+        "05" => "Arkansas",
+        "06" => "California",
+        "08" => "Colorado",
+        "09" => "Connecticut",
+        "10" => "Delaware",
+        "12" => "Florida",
+        "13" => "Georgia",
+        "15" => "Hawaii",
+        "16" => "Idaho",
+        "17" => "Illinois",
+        "18" => "Indiana",
+        "19" => "Iowa",
+        "20" => "Kansas",
+        "21" => "Kentucky",
+        "22" => "Louisiana",
+        "23" => "Maine",
+        "24" => "Maryland",
+        "25" => "Massachusetts",
+        "26" => "Michigan",
+        "27" => "Minnesota",
+        "28" => "Mississippi",
+        "29" => "Missouri",
+        "30" => "Montana",
+        "31" => "Nebraska",
+        "32" => "Nevada",
+        "33" => "New Hampshire",
+        "34" => "New Jersey",
+        "35" => "New Mexico",
+        "36" => "New York",
+        "37" => "North Carolina",
+        "38" => "North Dakota",
+        "39" => "Ohio",
+        "40" => "Oklahoma",
+        "41" => "Oregon",
+        "42" => "Pennsylvania",
+        "44" => "Rhode Island",
+        "45" => "South Carolina",
+        "46" => "South Dakota",
+        "47" => "Tennessee",
+        "48" => "Texas",
+        "49" => "Utah",
+        "50" => "Vermont",
+        "51" => "Virginia",
+        "53" => "Washington",
+        "54" => "West Virginia",
+        "55" => "Wisconsin",
+        "56" => "Wyoming",
     ];
 
 }

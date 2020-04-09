@@ -14,6 +14,7 @@ file_put_contents('data/counties_by_state.json', $countiesJson);
 $headers = [
     'County',
     'State',
+    'FIPS Code',
     'Population',
     'Area',
     'Density',
