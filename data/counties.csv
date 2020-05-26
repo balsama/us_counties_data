@@ -86,21 +86,21 @@ Skagway,Alaska,02230,1095,434,3
 "Unorganized Borough",Alaska,02-,76534,295153,0
 Wrangell,Alaska,02275,2400,2556,1
 Yakutat,Alaska,02282,540,7623,0
-"Apache County",Arizona,04001,69980,11218,6
-"Cochise County",Arizona,04003,127866,6219,21
-"Coconino County",Arizona,04005,134421,18661,7
-"Gila County",Arizona,04007,51994,4796,11
-"Graham County",Arizona,04009,34769,4641,7
-"Greenlee County",Arizona,04011,7754,1848,4
-"La Paz County",Arizona,04012,20172,4513,4
-"Maricopa County",Arizona,04013,3990181,9224,433
-"Mohave County",Arizona,04015,194944,13470,14
-"Navajo County",Arizona,04017,111273,9959,11
-"Pima County",Arizona,04019,1003235,9189,109
-"Pinal County",Arizona,04021,324962,5374,60
-"Santa Cruz County",Arizona,04023,42845,1238,35
-"Yavapai County",Arizona,04025,212635,8128,26
-"Yuma County",Arizona,04027,190557,5519,35
+"Apache County",Arizona,04001,71887,11218,6
+"Cochise County",Arizona,04003,125922,6219,20
+"Coconino County",Arizona,04005,143476,18661,8
+"Gila County",Arizona,04007,54018,4796,11
+"Graham County",Arizona,04009,38837,4641,8
+"Greenlee County",Arizona,04011,9498,1848,5
+"La Paz County",Arizona,04012,21108,4513,5
+"Maricopa County",Arizona,04013,4485414,9224,486
+"Mohave County",Arizona,04015,212181,13470,16
+"Navajo County",Arizona,04017,110924,9959,11
+"Pima County",Arizona,04019,1047279,9189,114
+"Pinal County",Arizona,04021,462789,5374,86
+"Santa Cruz County",Arizona,04023,46498,1238,38
+"Yavapai County",Arizona,04025,235099,8128,29
+"Yuma County",Arizona,04027,213787,5519,39
 "Arkansas County",Arkansas,05001,19019,1033,18
 "Ashley County",Arkansas,05003,21853,939,23
 "Baxter County",Arkansas,05005,41513,586,71
@@ -176,64 +176,64 @@ Yakutat,Alaska,02282,540,7623,0
 "White County",Arkansas,05145,77076,1042,74
 "Woodruff County",Arkansas,05147,7260,594,12
 "Yell County",Arkansas,05149,22185,948,23
-"Alameda County",California,06001,1663190,738,2254
-"Alpine County",California,06003,1120,739,2
-"Amador County",California,06005,38626,606,64
-"Butte County",California,06007,229294,1640,140
-"Calaveras County",California,06009,45670,1020,45
-"Colusa County",California,06011,21805,1151,19
-"Contra Costa County",California,06013,1147439,720,1594
-"Del Norte County",California,06015,27470,1008,27
-"El Dorado County",California,06017,188987,1712,110
-"Fresno County",California,06019,989255,5963,166
-"Glenn County",California,06021,28094,1315,21
-"Humboldt County",California,06023,136754,3573,38
-"Imperial County",California,06025,182830,4175,44
-"Inyo County",California,06027,18026,10192,2
-"Kern County",California,06029,893119,8142,110
-"Kings County",California,06031,150101,1390,108
-"Lake County",California,06033,64246,1258,51
-"Lassen County",California,06035,31163,4558,7
-"Los Angeles County",California,06037,10163507,4060,2503
-"Madera County",California,06039,156890,2138,73
-"Marin County",California,06041,260955,520,502
-"Mariposa County",California,06043,17569,1451,12
-"Mendocino County",California,06045,88018,3509,25
-"Merced County",California,06047,272673,1929,141
-"Modoc County",California,06049,8859,3944,2
-"Mono County",California,06051,14168,3044,5
-"Monterey County",California,06053,437907,3322,132
-"Napa County",California,06055,140973,754,187
-"Nevada County",California,06057,99814,958,104
-"Orange County",California,06059,3190400,948,3365
-"Placer County",California,06061,386166,1407,274
-"Plumas County",California,06063,18742,2554,7
-"Riverside County",California,06065,2423266,7208,336
-"Sacramento County",California,06067,1530615,966,1584
-"San Benito County",California,06069,60310,1389,43
-"San Bernardino County",California,06071,2157404,20062,108
-"San Diego County",California,06073,3337685,4204,794
-"San Francisco",California,06075,884363,47,18816
-"San Joaquin County",California,06077,745424,1399,533
-"San Luis Obispo County",California,06079,283405,3304,86
-"San Mateo County",California,06081,771410,449,1718
-"Santa Barbara County",California,06083,448150,2738,164
-"Santa Clara County",California,06085,1938153,1291,1501
-"Santa Cruz County",California,06087,275897,446,619
-"Shasta County",California,06089,179921,3786,48
-"Sierra County",California,06091,2999,953,3
-"Siskiyou County",California,06093,43853,6287,7
-"Solano County",California,06095,445458,828,538
-"Sonoma County",California,06097,504217,1576,320
-"Stanislaus County",California,06099,547899,1495,366
-"Sutter County",California,06101,96648,603,160
-"Tehama County",California,06103,63926,2951,22
-"Trinity County",California,06105,12709,3179,4
-"Tulare County",California,06107,464493,4824,96
-"Tuolumne County",California,06109,54248,2236,24
-"Ventura County",California,06111,854223,1846,463
-"Yolo County",California,06113,219116,1012,217
-"Yuba County",California,06115,77031,630,122
+"Alameda County",California,06001,1671329,738,2265
+"Alpine County",California,06003,1129,739,2
+"Amador County",California,06005,39752,606,66
+"Butte County",California,06007,219186,1640,134
+"Calaveras County",California,06009,45905,1020,45
+"Colusa County",California,06011,21547,1151,19
+"Contra Costa County",California,06013,1153526,720,1602
+"Del Norte County",California,06015,27812,1008,28
+"El Dorado County",California,06017,192843,1712,113
+"Fresno County",California,06019,999101,5963,168
+"Glenn County",California,06021,28393,1315,22
+"Humboldt County",California,06023,135558,3573,38
+"Imperial County",California,06025,181215,4175,43
+"Inyo County",California,06027,18039,10192,2
+"Kern County",California,06029,900202,8142,111
+"Kings County",California,06031,152940,1390,110
+"Lake County",California,06033,64386,1258,51
+"Lassen County",California,06035,30573,4558,7
+"Los Angeles County",California,06037,10039107,4060,2473
+"Madera County",California,06039,157327,2138,74
+"Marin County",California,06041,258826,520,498
+"Mariposa County",California,06043,17203,1451,12
+"Mendocino County",California,06045,86749,3509,25
+"Merced County",California,06047,277680,1929,144
+"Modoc County",California,06049,8841,3944,2
+"Mono County",California,06051,14444,3044,5
+"Monterey County",California,06053,434061,3322,131
+"Napa County",California,06055,137744,754,183
+"Nevada County",California,06057,99755,958,104
+"Orange County",California,06059,3175692,948,3350
+"Placer County",California,06061,398329,1407,283
+"Plumas County",California,06063,18807,2554,7
+"Riverside County",California,06065,2470546,7208,343
+"Sacramento County",California,06067,1552058,966,1607
+"San Benito County",California,06069,62808,1389,45
+"San Bernardino County",California,06071,2180085,20062,109
+"San Diego County",California,06073,3338330,4204,794
+"San Francisco",California,06075,881549,47,18756
+"San Joaquin County",California,06077,762148,1399,545
+"San Luis Obispo County",California,06079,283111,3304,86
+"San Mateo County",California,06081,766573,449,1707
+"Santa Barbara County",California,06083,446499,2738,163
+"Santa Clara County",California,06085,1927852,1291,1493
+"Santa Cruz County",California,06087,273213,446,613
+"Shasta County",California,06089,180080,3786,48
+"Sierra County",California,06091,3005,953,3
+"Siskiyou County",California,06093,43539,6287,7
+"Solano County",California,06095,447643,828,541
+"Sonoma County",California,06097,494336,1576,314
+"Stanislaus County",California,06099,550660,1495,368
+"Sutter County",California,06101,96971,603,161
+"Tehama County",California,06103,65084,2951,22
+"Trinity County",California,06105,12285,3179,4
+"Tulare County",California,06107,466195,4824,97
+"Tuolumne County",California,06109,54478,2236,24
+"Ventura County",California,06111,846006,1846,458
+"Yolo County",California,06113,220500,1012,218
+"Yuba County",California,06115,78668,630,125
 "Adams County",Colorado,08001,441603,1182,374
 "Alamosa County",Colorado,08003,15445,723,21
 "Arapahoe County",Colorado,08005,572003,804,711
@@ -535,11 +535,11 @@ Yakutat,Alaska,02282,540,7623,0
 "Wilkes County",Georgia,13317,10076,471,21
 "Wilkinson County",Georgia,13319,9577,447,21
 "Worth County",Georgia,13321,21741,570,38
-"Hawaii County",Hawaii,15001,185079,4028,46
-"Honolulu County",Hawaii,15003,953207,597,1597
-"Kalawao County",Hawaii,15005,88,5,18
-"Kauai County",Hawaii,15007,67091,622,108
-"Maui County",Hawaii,15009,154834,1120,138
+"Hawaii County",Hawaii,15001,201513,4028,50
+"Honolulu County",Hawaii,15003,974563,597,1632
+"Kalawao County",Hawaii,15005,86,5,17
+"Kauai County",Hawaii,15007,72293,622,116
+"Maui County",Hawaii,15009,167417,1120,149
 "Ada County",Idaho,16001,392365,1055,372
 "Adams County",Idaho,16003,3976,1365,3
 "Bannock County",Idaho,16005,82839,1113,74
@@ -1102,70 +1102,70 @@ Yakutat,Alaska,02282,540,7623,0
 "Whitley County",Kentucky,21235,35503,440,81
 "Wolfe County",Kentucky,21237,7214,223,32
 "Woodford County",Kentucky,21239,25563,191,134
-"Acadia Parish",Louisiana,22001,61773,658,94
-"Allen Parish",Louisiana,22003,25764,766,34
-"Ascension Parish",Louisiana,22005,107215,303,354
-"Assumption Parish",Louisiana,22007,23421,364,64
-"Avoyelles Parish",Louisiana,22009,42073,866,49
-"Beauregard Parish",Louisiana,22011,35654,1166,31
-"Bienville Parish",Louisiana,22013,14353,822,17
-"Bossier Parish",Louisiana,22015,116979,867,135
-"Caddo Parish",Louisiana,22017,254969,937,272
-"Calcasieu Parish",Louisiana,22019,192768,1094,176
-"Caldwell Parish",Louisiana,22021,10132,541,19
-"Cameron Parish",Louisiana,22023,6839,1932,4
-"Catahoula Parish",Louisiana,22025,10407,739,14
-"Claiborne Parish",Louisiana,22027,17195,768,22
-"Concordia Parish",Louisiana,22029,20822,749,28
-"DeSoto Parish",Louisiana,22031,26656,895,30
-"East Baton Rouge Parish",Louisiana,22033,440171,471,935
-"East Carroll Parish",Louisiana,22035,7759,442,18
-"East Feliciana Parish",Louisiana,22037,20267,456,44
-"Evangeline Parish",Louisiana,22039,33984,680,50
-"Franklin Parish",Louisiana,22041,20767,636,33
-"Grant Parish",Louisiana,22043,22309,664,34
-"Iberia Parish",Louisiana,22045,73240,1031,71
-"Iberville Parish",Louisiana,22047,33387,653,51
-"Jackson Parish",Louisiana,22049,16274,580,28
-"Jefferson Parish",Louisiana,22051,432552,642,674
-"Jefferson Davis Parish",Louisiana,22053,31594,659,48
-"Lafayette Parish",Louisiana,22055,221578,270,821
-"Lafourche Parish",Louisiana,22057,96318,1472,65
-"LaSalle Parish",Louisiana,22059,14890,663,22
-"Lincoln Parish",Louisiana,22061,46735,472,99
-"Livingston Parish",Louisiana,22063,128026,703,182
-"Madison Parish",Louisiana,22065,12093,651,19
-"Morehouse Parish",Louisiana,22067,27979,805,35
-"Natchitoches Parish",Louisiana,22069,39566,1299,30
-"Orleans Parish",Louisiana,22071,343829,350,982
-"Ouachita Parish",Louisiana,22073,153720,633,243
-"Plaquemines Parish",Louisiana,22075,23042,2429,9
-"Pointe Coupee Parish",Louisiana,22077,22802,591,39
-"Rapides Parish",Louisiana,22079,131613,1362,97
-"Red River Parish",Louisiana,22081,9091,402,23
-"Richland Parish",Louisiana,22083,20725,564,37
-"Sabine Parish",Louisiana,22085,24233,1012,24
-"St. Bernard Parish",Louisiana,22087,35897,1794,20
-"St. Charles Parish",Louisiana,22089,52780,410,129
-"St. Helena Parish",Louisiana,22091,11203,409,27
-"St. James Parish",Louisiana,22093,22102,258,86
-"St. John the Baptist Parish",Louisiana,22095,45924,348,132
-"St. Landry Parish",Louisiana,22097,83384,939,89
-"St. Martin Parish",Louisiana,22099,52160,817,64
-"St. Mary Parish",Louisiana,22101,54650,612,89
-"St. Tammany Parish",Louisiana,22103,233740,1124,208
-"Tangipahoa Parish",Louisiana,22105,121097,823,147
-"Tensas Parish",Louisiana,22107,5066,641,8
-"Terrebonne Parish",Louisiana,22109,111860,2080,54
-"Union Parish",Louisiana,22111,22721,905,25
-"Vermilion Parish",Louisiana,22113,57999,1538,38
-"Vernon Parish",Louisiana,22115,52334,1341,39
-"Washington Parish",Louisiana,22117,47168,676,70
-"Webster Parish",Louisiana,22119,41207,615,67
-"West Baton Rouge Parish",Louisiana,22121,23788,203,117
-"West Carroll Parish",Louisiana,22123,11604,360,32
-"West Feliciana Parish",Louisiana,22125,15625,426,37
-"Winn Parish",Louisiana,22127,15313,957,16
+"Acadia Parish",Louisiana,22001,62045,658,94
+"Allen Parish",Louisiana,22003,25627,766,33
+"Ascension Parish",Louisiana,22005,126604,303,418
+"Assumption Parish",Louisiana,22007,21891,364,60
+"Avoyelles Parish",Louisiana,22009,40144,866,46
+"Beauregard Parish",Louisiana,22011,37497,1166,32
+"Bienville Parish",Louisiana,22013,13241,822,16
+"Bossier Parish",Louisiana,22015,127039,867,147
+"Caddo Parish",Louisiana,22017,240204,937,256
+"Calcasieu Parish",Louisiana,22019,203436,1094,186
+"Caldwell Parish",Louisiana,22021,9918,541,18
+"Cameron Parish",Louisiana,22023,6973,1932,4
+"Catahoula Parish",Louisiana,22025,9494,739,13
+"Claiborne Parish",Louisiana,22027,15670,768,20
+"Concordia Parish",Louisiana,22029,19259,749,26
+"DeSoto Parish",Louisiana,22031,27463,895,31
+"East Baton Rouge Parish",Louisiana,22033,440059,471,934
+"East Carroll Parish",Louisiana,22035,6861,442,16
+"East Feliciana Parish",Louisiana,22037,19135,456,42
+"Evangeline Parish",Louisiana,22039,33395,680,49
+"Franklin Parish",Louisiana,22041,20015,636,31
+"Grant Parish",Louisiana,22043,22389,664,34
+"Iberia Parish",Louisiana,22045,69830,1031,68
+"Iberville Parish",Louisiana,22047,32511,653,50
+"Jackson Parish",Louisiana,22049,15744,580,27
+"Jefferson Parish",Louisiana,22051,432493,642,674
+"Jefferson Davis Parish",Louisiana,22053,31368,659,48
+"Lafayette Parish",Louisiana,22055,244390,270,905
+"Lafourche Parish",Louisiana,22057,97614,1472,66
+"LaSalle Parish",Louisiana,22059,14892,663,22
+"Lincoln Parish",Louisiana,22061,46742,472,99
+"Livingston Parish",Louisiana,22063,140789,703,200
+"Madison Parish",Louisiana,22065,10951,651,17
+"Morehouse Parish",Louisiana,22067,24874,805,31
+"Natchitoches Parish",Louisiana,22069,38158,1299,29
+"Orleans Parish",Louisiana,22071,390144,350,1115
+"Ouachita Parish",Louisiana,22073,153279,633,242
+"Plaquemines Parish",Louisiana,22075,23197,2429,10
+"Pointe Coupee Parish",Louisiana,22077,21730,591,37
+"Rapides Parish",Louisiana,22079,129648,1362,95
+"Red River Parish",Louisiana,22081,8442,402,21
+"Richland Parish",Louisiana,22083,20122,564,36
+"Sabine Parish",Louisiana,22085,23884,1012,24
+"St. Bernard Parish",Louisiana,22087,47244,1794,26
+"St. Charles Parish",Louisiana,22089,53100,410,130
+"St. Helena Parish",Louisiana,22091,10132,409,25
+"St. James Parish",Louisiana,22093,21096,258,82
+"St. John the Baptist Parish",Louisiana,22095,42837,348,123
+"St. Landry Parish",Louisiana,22097,82124,939,87
+"St. Martin Parish",Louisiana,22099,53431,817,65
+"St. Mary Parish",Louisiana,22101,49348,612,81
+"St. Tammany Parish",Louisiana,22103,260419,1124,232
+"Tangipahoa Parish",Louisiana,22105,134758,823,164
+"Tensas Parish",Louisiana,22107,4334,641,7
+"Terrebonne Parish",Louisiana,22109,110461,2080,53
+"Union Parish",Louisiana,22111,22108,905,24
+"Vermilion Parish",Louisiana,22113,59511,1538,39
+"Vernon Parish",Louisiana,22115,47429,1341,35
+"Washington Parish",Louisiana,22117,46194,676,68
+"Webster Parish",Louisiana,22119,38340,615,62
+"West Baton Rouge Parish",Louisiana,22121,26465,203,130
+"West Carroll Parish",Louisiana,22123,10830,360,30
+"West Feliciana Parish",Louisiana,22125,15568,426,37
+"Winn Parish",Louisiana,22127,13904,957,15
 "Androscoggin County",Maine,23001,107233,497,216
 "Aroostook County",Maine,23003,68628,6829,10
 "Cumberland County",Maine,23005,289977,1217,238

@@ -699,7 +699,7 @@
         "name": "Apache County",
         "state": "Arizona",
         "fips": "04001",
-        "population": 69980,
+        "population": 71887,
         "area": 11218,
         "density": 6
     },
@@ -707,23 +707,23 @@
         "name": "Cochise County",
         "state": "Arizona",
         "fips": "04003",
-        "population": 127866,
+        "population": 125922,
         "area": 6219,
-        "density": 21
+        "density": 20
     },
     "Coconino County, Arizona": {
         "name": "Coconino County",
         "state": "Arizona",
         "fips": "04005",
-        "population": 134421,
+        "population": 143476,
         "area": 18661,
-        "density": 7
+        "density": 8
     },
     "Gila County, Arizona": {
         "name": "Gila County",
         "state": "Arizona",
         "fips": "04007",
-        "population": 51994,
+        "population": 54018,
         "area": 4796,
         "density": 11
     },
@@ -731,47 +731,47 @@
         "name": "Graham County",
         "state": "Arizona",
         "fips": "04009",
-        "population": 34769,
+        "population": 38837,
         "area": 4641,
-        "density": 7
+        "density": 8
     },
     "Greenlee County, Arizona": {
         "name": "Greenlee County",
         "state": "Arizona",
         "fips": "04011",
-        "population": 7754,
+        "population": 9498,
         "area": 1848,
-        "density": 4
+        "density": 5
     },
     "La Paz County, Arizona": {
         "name": "La Paz County",
         "state": "Arizona",
         "fips": "04012",
-        "population": 20172,
+        "population": 21108,
         "area": 4513,
-        "density": 4
+        "density": 5
     },
     "Maricopa County, Arizona": {
         "name": "Maricopa County",
         "state": "Arizona",
         "fips": "04013",
-        "population": 3990181,
+        "population": 4485414,
         "area": 9224,
-        "density": 433
+        "density": 486
     },
     "Mohave County, Arizona": {
         "name": "Mohave County",
         "state": "Arizona",
         "fips": "04015",
-        "population": 194944,
+        "population": 212181,
         "area": 13470,
-        "density": 14
+        "density": 16
     },
     "Navajo County, Arizona": {
         "name": "Navajo County",
         "state": "Arizona",
         "fips": "04017",
-        "population": 111273,
+        "population": 110924,
         "area": 9959,
         "density": 11
     },
@@ -779,41 +779,41 @@
         "name": "Pima County",
         "state": "Arizona",
         "fips": "04019",
-        "population": 1003235,
+        "population": 1047279,
         "area": 9189,
-        "density": 109
+        "density": 114
     },
     "Pinal County, Arizona": {
         "name": "Pinal County",
         "state": "Arizona",
         "fips": "04021",
-        "population": 324962,
+        "population": 462789,
         "area": 5374,
-        "density": 60
+        "density": 86
     },
     "Santa Cruz County, Arizona": {
         "name": "Santa Cruz County",
         "state": "Arizona",
         "fips": "04023",
-        "population": 42845,
+        "population": 46498,
         "area": 1238,
-        "density": 35
+        "density": 38
     },
     "Yavapai County, Arizona": {
         "name": "Yavapai County",
         "state": "Arizona",
         "fips": "04025",
-        "population": 212635,
+        "population": 235099,
         "area": 8128,
-        "density": 26
+        "density": 29
     },
     "Yuma County, Arizona": {
         "name": "Yuma County",
         "state": "Arizona",
         "fips": "04027",
-        "population": 190557,
+        "population": 213787,
         "area": 5519,
-        "density": 35
+        "density": 39
     },
     "Arkansas County, Arkansas": {
         "name": "Arkansas County",
@@ -1419,15 +1419,15 @@
         "name": "Alameda County",
         "state": "California",
         "fips": "06001",
-        "population": 1663190,
+        "population": 1671329,
         "area": 738,
-        "density": 2254
+        "density": 2265
     },
     "Alpine County, California": {
         "name": "Alpine County",
         "state": "California",
         "fips": "06003",
-        "population": 1120,
+        "population": 1129,
         "area": 739,
         "density": 2
     },
@@ -1435,23 +1435,23 @@
         "name": "Amador County",
         "state": "California",
         "fips": "06005",
-        "population": 38626,
+        "population": 39752,
         "area": 606,
-        "density": 64
+        "density": 66
     },
     "Butte County, California": {
         "name": "Butte County",
         "state": "California",
         "fips": "06007",
-        "population": 229294,
+        "population": 219186,
         "area": 1640,
-        "density": 140
+        "density": 134
     },
     "Calaveras County, California": {
         "name": "Calaveras County",
         "state": "California",
         "fips": "06009",
-        "population": 45670,
+        "population": 45905,
         "area": 1020,
         "density": 45
     },
@@ -1459,7 +1459,7 @@
         "name": "Colusa County",
         "state": "California",
         "fips": "06011",
-        "population": 21805,
+        "population": 21547,
         "area": 1151,
         "density": 19
     },
@@ -1467,47 +1467,47 @@
         "name": "Contra Costa County",
         "state": "California",
         "fips": "06013",
-        "population": 1147439,
+        "population": 1153526,
         "area": 720,
-        "density": 1594
+        "density": 1602
     },
     "Del Norte County, California": {
         "name": "Del Norte County",
         "state": "California",
         "fips": "06015",
-        "population": 27470,
+        "population": 27812,
         "area": 1008,
-        "density": 27
+        "density": 28
     },
     "El Dorado County, California": {
         "name": "El Dorado County",
         "state": "California",
         "fips": "06017",
-        "population": 188987,
+        "population": 192843,
         "area": 1712,
-        "density": 110
+        "density": 113
     },
     "Fresno County, California": {
         "name": "Fresno County",
         "state": "California",
         "fips": "06019",
-        "population": 989255,
+        "population": 999101,
         "area": 5963,
-        "density": 166
+        "density": 168
     },
     "Glenn County, California": {
         "name": "Glenn County",
         "state": "California",
         "fips": "06021",
-        "population": 28094,
+        "population": 28393,
         "area": 1315,
-        "density": 21
+        "density": 22
     },
     "Humboldt County, California": {
         "name": "Humboldt County",
         "state": "California",
         "fips": "06023",
-        "population": 136754,
+        "population": 135558,
         "area": 3573,
         "density": 38
     },
@@ -1515,15 +1515,15 @@
         "name": "Imperial County",
         "state": "California",
         "fips": "06025",
-        "population": 182830,
+        "population": 181215,
         "area": 4175,
-        "density": 44
+        "density": 43
     },
     "Inyo County, California": {
         "name": "Inyo County",
         "state": "California",
         "fips": "06027",
-        "population": 18026,
+        "population": 18039,
         "area": 10192,
         "density": 2
     },
@@ -1531,23 +1531,23 @@
         "name": "Kern County",
         "state": "California",
         "fips": "06029",
-        "population": 893119,
+        "population": 900202,
         "area": 8142,
-        "density": 110
+        "density": 111
     },
     "Kings County, California": {
         "name": "Kings County",
         "state": "California",
         "fips": "06031",
-        "population": 150101,
+        "population": 152940,
         "area": 1390,
-        "density": 108
+        "density": 110
     },
     "Lake County, California": {
         "name": "Lake County",
         "state": "California",
         "fips": "06033",
-        "population": 64246,
+        "population": 64386,
         "area": 1258,
         "density": 51
     },
@@ -1555,7 +1555,7 @@
         "name": "Lassen County",
         "state": "California",
         "fips": "06035",
-        "population": 31163,
+        "population": 30573,
         "area": 4558,
         "density": 7
     },
@@ -1563,31 +1563,31 @@
         "name": "Los Angeles County",
         "state": "California",
         "fips": "06037",
-        "population": 10163507,
+        "population": 10039107,
         "area": 4060,
-        "density": 2503
+        "density": 2473
     },
     "Madera County, California": {
         "name": "Madera County",
         "state": "California",
         "fips": "06039",
-        "population": 156890,
+        "population": 157327,
         "area": 2138,
-        "density": 73
+        "density": 74
     },
     "Marin County, California": {
         "name": "Marin County",
         "state": "California",
         "fips": "06041",
-        "population": 260955,
+        "population": 258826,
         "area": 520,
-        "density": 502
+        "density": 498
     },
     "Mariposa County, California": {
         "name": "Mariposa County",
         "state": "California",
         "fips": "06043",
-        "population": 17569,
+        "population": 17203,
         "area": 1451,
         "density": 12
     },
@@ -1595,7 +1595,7 @@
         "name": "Mendocino County",
         "state": "California",
         "fips": "06045",
-        "population": 88018,
+        "population": 86749,
         "area": 3509,
         "density": 25
     },
@@ -1603,15 +1603,15 @@
         "name": "Merced County",
         "state": "California",
         "fips": "06047",
-        "population": 272673,
+        "population": 277680,
         "area": 1929,
-        "density": 141
+        "density": 144
     },
     "Modoc County, California": {
         "name": "Modoc County",
         "state": "California",
         "fips": "06049",
-        "population": 8859,
+        "population": 8841,
         "area": 3944,
         "density": 2
     },
@@ -1619,7 +1619,7 @@
         "name": "Mono County",
         "state": "California",
         "fips": "06051",
-        "population": 14168,
+        "population": 14444,
         "area": 3044,
         "density": 5
     },
@@ -1627,23 +1627,23 @@
         "name": "Monterey County",
         "state": "California",
         "fips": "06053",
-        "population": 437907,
+        "population": 434061,
         "area": 3322,
-        "density": 132
+        "density": 131
     },
     "Napa County, California": {
         "name": "Napa County",
         "state": "California",
         "fips": "06055",
-        "population": 140973,
+        "population": 137744,
         "area": 754,
-        "density": 187
+        "density": 183
     },
     "Nevada County, California": {
         "name": "Nevada County",
         "state": "California",
         "fips": "06057",
-        "population": 99814,
+        "population": 99755,
         "area": 958,
         "density": 104
     },
@@ -1651,23 +1651,23 @@
         "name": "Orange County",
         "state": "California",
         "fips": "06059",
-        "population": 3190400,
+        "population": 3175692,
         "area": 948,
-        "density": 3365
+        "density": 3350
     },
     "Placer County, California": {
         "name": "Placer County",
         "state": "California",
         "fips": "06061",
-        "population": 386166,
+        "population": 398329,
         "area": 1407,
-        "density": 274
+        "density": 283
     },
     "Plumas County, California": {
         "name": "Plumas County",
         "state": "California",
         "fips": "06063",
-        "population": 18742,
+        "population": 18807,
         "area": 2554,
         "density": 7
     },
@@ -1675,39 +1675,39 @@
         "name": "Riverside County",
         "state": "California",
         "fips": "06065",
-        "population": 2423266,
+        "population": 2470546,
         "area": 7208,
-        "density": 336
+        "density": 343
     },
     "Sacramento County, California": {
         "name": "Sacramento County",
         "state": "California",
         "fips": "06067",
-        "population": 1530615,
+        "population": 1552058,
         "area": 966,
-        "density": 1584
+        "density": 1607
     },
     "San Benito County, California": {
         "name": "San Benito County",
         "state": "California",
         "fips": "06069",
-        "population": 60310,
+        "population": 62808,
         "area": 1389,
-        "density": 43
+        "density": 45
     },
     "San Bernardino County, California": {
         "name": "San Bernardino County",
         "state": "California",
         "fips": "06071",
-        "population": 2157404,
+        "population": 2180085,
         "area": 20062,
-        "density": 108
+        "density": 109
     },
     "San Diego County, California": {
         "name": "San Diego County",
         "state": "California",
         "fips": "06073",
-        "population": 3337685,
+        "population": 3338330,
         "area": 4204,
         "density": 794
     },
@@ -1715,23 +1715,23 @@
         "name": "San Francisco",
         "state": "California",
         "fips": "06075",
-        "population": 884363,
+        "population": 881549,
         "area": 47,
-        "density": 18816
+        "density": 18756
     },
     "San Joaquin County, California": {
         "name": "San Joaquin County",
         "state": "California",
         "fips": "06077",
-        "population": 745424,
+        "population": 762148,
         "area": 1399,
-        "density": 533
+        "density": 545
     },
     "San Luis Obispo County, California": {
         "name": "San Luis Obispo County",
         "state": "California",
         "fips": "06079",
-        "population": 283405,
+        "population": 283111,
         "area": 3304,
         "density": 86
     },
@@ -1739,39 +1739,39 @@
         "name": "San Mateo County",
         "state": "California",
         "fips": "06081",
-        "population": 771410,
+        "population": 766573,
         "area": 449,
-        "density": 1718
+        "density": 1707
     },
     "Santa Barbara County, California": {
         "name": "Santa Barbara County",
         "state": "California",
         "fips": "06083",
-        "population": 448150,
+        "population": 446499,
         "area": 2738,
-        "density": 164
+        "density": 163
     },
     "Santa Clara County, California": {
         "name": "Santa Clara County",
         "state": "California",
         "fips": "06085",
-        "population": 1938153,
+        "population": 1927852,
         "area": 1291,
-        "density": 1501
+        "density": 1493
     },
     "Santa Cruz County, California": {
         "name": "Santa Cruz County",
         "state": "California",
         "fips": "06087",
-        "population": 275897,
+        "population": 273213,
         "area": 446,
-        "density": 619
+        "density": 613
     },
     "Shasta County, California": {
         "name": "Shasta County",
         "state": "California",
         "fips": "06089",
-        "population": 179921,
+        "population": 180080,
         "area": 3786,
         "density": 48
     },
@@ -1779,7 +1779,7 @@
         "name": "Sierra County",
         "state": "California",
         "fips": "06091",
-        "population": 2999,
+        "population": 3005,
         "area": 953,
         "density": 3
     },
@@ -1787,7 +1787,7 @@
         "name": "Siskiyou County",
         "state": "California",
         "fips": "06093",
-        "population": 43853,
+        "population": 43539,
         "area": 6287,
         "density": 7
     },
@@ -1795,39 +1795,39 @@
         "name": "Solano County",
         "state": "California",
         "fips": "06095",
-        "population": 445458,
+        "population": 447643,
         "area": 828,
-        "density": 538
+        "density": 541
     },
     "Sonoma County, California": {
         "name": "Sonoma County",
         "state": "California",
         "fips": "06097",
-        "population": 504217,
+        "population": 494336,
         "area": 1576,
-        "density": 320
+        "density": 314
     },
     "Stanislaus County, California": {
         "name": "Stanislaus County",
         "state": "California",
         "fips": "06099",
-        "population": 547899,
+        "population": 550660,
         "area": 1495,
-        "density": 366
+        "density": 368
     },
     "Sutter County, California": {
         "name": "Sutter County",
         "state": "California",
         "fips": "06101",
-        "population": 96648,
+        "population": 96971,
         "area": 603,
-        "density": 160
+        "density": 161
     },
     "Tehama County, California": {
         "name": "Tehama County",
         "state": "California",
         "fips": "06103",
-        "population": 63926,
+        "population": 65084,
         "area": 2951,
         "density": 22
     },
@@ -1835,7 +1835,7 @@
         "name": "Trinity County",
         "state": "California",
         "fips": "06105",
-        "population": 12709,
+        "population": 12285,
         "area": 3179,
         "density": 4
     },
@@ -1843,15 +1843,15 @@
         "name": "Tulare County",
         "state": "California",
         "fips": "06107",
-        "population": 464493,
+        "population": 466195,
         "area": 4824,
-        "density": 96
+        "density": 97
     },
     "Tuolumne County, California": {
         "name": "Tuolumne County",
         "state": "California",
         "fips": "06109",
-        "population": 54248,
+        "population": 54478,
         "area": 2236,
         "density": 24
     },
@@ -1859,25 +1859,25 @@
         "name": "Ventura County",
         "state": "California",
         "fips": "06111",
-        "population": 854223,
+        "population": 846006,
         "area": 1846,
-        "density": 463
+        "density": 458
     },
     "Yolo County, California": {
         "name": "Yolo County",
         "state": "California",
         "fips": "06113",
-        "population": 219116,
+        "population": 220500,
         "area": 1012,
-        "density": 217
+        "density": 218
     },
     "Yuba County, California": {
         "name": "Yuba County",
         "state": "California",
         "fips": "06115",
-        "population": 77031,
+        "population": 78668,
         "area": 630,
-        "density": 122
+        "density": 125
     },
     "Adams County, Colorado": {
         "name": "Adams County",
@@ -4291,41 +4291,41 @@
         "name": "Hawaii County",
         "state": "Hawaii",
         "fips": "15001",
-        "population": 185079,
+        "population": 201513,
         "area": 4028,
-        "density": 46
+        "density": 50
     },
     "Honolulu County, Hawaii": {
         "name": "Honolulu County",
         "state": "Hawaii",
         "fips": "15003",
-        "population": 953207,
+        "population": 974563,
         "area": 597,
-        "density": 1597
+        "density": 1632
     },
     "Kalawao County, Hawaii": {
         "name": "Kalawao County",
         "state": "Hawaii",
         "fips": "15005",
-        "population": 88,
+        "population": 86,
         "area": 5,
-        "density": 18
+        "density": 17
     },
     "Kauai County, Hawaii": {
         "name": "Kauai County",
         "state": "Hawaii",
         "fips": "15007",
-        "population": 67091,
+        "population": 72293,
         "area": 622,
-        "density": 108
+        "density": 116
     },
     "Maui County, Hawaii": {
         "name": "Maui County",
         "state": "Hawaii",
         "fips": "15009",
-        "population": 154834,
+        "population": 167417,
         "area": 1120,
-        "density": 138
+        "density": 149
     },
     "Ada County, Idaho": {
         "name": "Ada County",
@@ -8827,7 +8827,7 @@
         "name": "Acadia Parish",
         "state": "Louisiana",
         "fips": "22001",
-        "population": 61773,
+        "population": 62045,
         "area": 658,
         "density": 94
     },
@@ -8835,87 +8835,87 @@
         "name": "Allen Parish",
         "state": "Louisiana",
         "fips": "22003",
-        "population": 25764,
+        "population": 25627,
         "area": 766,
-        "density": 34
+        "density": 33
     },
     "Ascension Parish, Louisiana": {
         "name": "Ascension Parish",
         "state": "Louisiana",
         "fips": "22005",
-        "population": 107215,
+        "population": 126604,
         "area": 303,
-        "density": 354
+        "density": 418
     },
     "Assumption Parish, Louisiana": {
         "name": "Assumption Parish",
         "state": "Louisiana",
         "fips": "22007",
-        "population": 23421,
+        "population": 21891,
         "area": 364,
-        "density": 64
+        "density": 60
     },
     "Avoyelles Parish, Louisiana": {
         "name": "Avoyelles Parish",
         "state": "Louisiana",
         "fips": "22009",
-        "population": 42073,
+        "population": 40144,
         "area": 866,
-        "density": 49
+        "density": 46
     },
     "Beauregard Parish, Louisiana": {
         "name": "Beauregard Parish",
         "state": "Louisiana",
         "fips": "22011",
-        "population": 35654,
+        "population": 37497,
         "area": 1166,
-        "density": 31
+        "density": 32
     },
     "Bienville Parish, Louisiana": {
         "name": "Bienville Parish",
         "state": "Louisiana",
         "fips": "22013",
-        "population": 14353,
+        "population": 13241,
         "area": 822,
-        "density": 17
+        "density": 16
     },
     "Bossier Parish, Louisiana": {
         "name": "Bossier Parish",
         "state": "Louisiana",
         "fips": "22015",
-        "population": 116979,
+        "population": 127039,
         "area": 867,
-        "density": 135
+        "density": 147
     },
     "Caddo Parish, Louisiana": {
         "name": "Caddo Parish",
         "state": "Louisiana",
         "fips": "22017",
-        "population": 254969,
+        "population": 240204,
         "area": 937,
-        "density": 272
+        "density": 256
     },
     "Calcasieu Parish, Louisiana": {
         "name": "Calcasieu Parish",
         "state": "Louisiana",
         "fips": "22019",
-        "population": 192768,
+        "population": 203436,
         "area": 1094,
-        "density": 176
+        "density": 186
     },
     "Caldwell Parish, Louisiana": {
         "name": "Caldwell Parish",
         "state": "Louisiana",
         "fips": "22021",
-        "population": 10132,
+        "population": 9918,
         "area": 541,
-        "density": 19
+        "density": 18
     },
     "Cameron Parish, Louisiana": {
         "name": "Cameron Parish",
         "state": "Louisiana",
         "fips": "22023",
-        "population": 6839,
+        "population": 6973,
         "area": 1932,
         "density": 4
     },
@@ -8923,79 +8923,79 @@
         "name": "Catahoula Parish",
         "state": "Louisiana",
         "fips": "22025",
-        "population": 10407,
+        "population": 9494,
         "area": 739,
-        "density": 14
+        "density": 13
     },
     "Claiborne Parish, Louisiana": {
         "name": "Claiborne Parish",
         "state": "Louisiana",
         "fips": "22027",
-        "population": 17195,
+        "population": 15670,
         "area": 768,
-        "density": 22
+        "density": 20
     },
     "Concordia Parish, Louisiana": {
         "name": "Concordia Parish",
         "state": "Louisiana",
         "fips": "22029",
-        "population": 20822,
+        "population": 19259,
         "area": 749,
-        "density": 28
+        "density": 26
     },
     "DeSoto Parish, Louisiana": {
         "name": "DeSoto Parish",
         "state": "Louisiana",
         "fips": "22031",
-        "population": 26656,
+        "population": 27463,
         "area": 895,
-        "density": 30
+        "density": 31
     },
     "East Baton Rouge Parish, Louisiana": {
         "name": "East Baton Rouge Parish",
         "state": "Louisiana",
         "fips": "22033",
-        "population": 440171,
+        "population": 440059,
         "area": 471,
-        "density": 935
+        "density": 934
     },
     "East Carroll Parish, Louisiana": {
         "name": "East Carroll Parish",
         "state": "Louisiana",
         "fips": "22035",
-        "population": 7759,
+        "population": 6861,
         "area": 442,
-        "density": 18
+        "density": 16
     },
     "East Feliciana Parish, Louisiana": {
         "name": "East Feliciana Parish",
         "state": "Louisiana",
         "fips": "22037",
-        "population": 20267,
+        "population": 19135,
         "area": 456,
-        "density": 44
+        "density": 42
     },
     "Evangeline Parish, Louisiana": {
         "name": "Evangeline Parish",
         "state": "Louisiana",
         "fips": "22039",
-        "population": 33984,
+        "population": 33395,
         "area": 680,
-        "density": 50
+        "density": 49
     },
     "Franklin Parish, Louisiana": {
         "name": "Franklin Parish",
         "state": "Louisiana",
         "fips": "22041",
-        "population": 20767,
+        "population": 20015,
         "area": 636,
-        "density": 33
+        "density": 31
     },
     "Grant Parish, Louisiana": {
         "name": "Grant Parish",
         "state": "Louisiana",
         "fips": "22043",
-        "population": 22309,
+        "population": 22389,
         "area": 664,
         "density": 34
     },
@@ -9003,31 +9003,31 @@
         "name": "Iberia Parish",
         "state": "Louisiana",
         "fips": "22045",
-        "population": 73240,
+        "population": 69830,
         "area": 1031,
-        "density": 71
+        "density": 68
     },
     "Iberville Parish, Louisiana": {
         "name": "Iberville Parish",
         "state": "Louisiana",
         "fips": "22047",
-        "population": 33387,
+        "population": 32511,
         "area": 653,
-        "density": 51
+        "density": 50
     },
     "Jackson Parish, Louisiana": {
         "name": "Jackson Parish",
         "state": "Louisiana",
         "fips": "22049",
-        "population": 16274,
+        "population": 15744,
         "area": 580,
-        "density": 28
+        "density": 27
     },
     "Jefferson Parish, Louisiana": {
         "name": "Jefferson Parish",
         "state": "Louisiana",
         "fips": "22051",
-        "population": 432552,
+        "population": 432493,
         "area": 642,
         "density": 674
     },
@@ -9035,7 +9035,7 @@
         "name": "Jefferson Davis Parish",
         "state": "Louisiana",
         "fips": "22053",
-        "population": 31594,
+        "population": 31368,
         "area": 659,
         "density": 48
     },
@@ -9043,23 +9043,23 @@
         "name": "Lafayette Parish",
         "state": "Louisiana",
         "fips": "22055",
-        "population": 221578,
+        "population": 244390,
         "area": 270,
-        "density": 821
+        "density": 905
     },
     "Lafourche Parish, Louisiana": {
         "name": "Lafourche Parish",
         "state": "Louisiana",
         "fips": "22057",
-        "population": 96318,
+        "population": 97614,
         "area": 1472,
-        "density": 65
+        "density": 66
     },
     "LaSalle Parish, Louisiana": {
         "name": "LaSalle Parish",
         "state": "Louisiana",
         "fips": "22059",
-        "population": 14890,
+        "population": 14892,
         "area": 663,
         "density": 22
     },
@@ -9067,7 +9067,7 @@
         "name": "Lincoln Parish",
         "state": "Louisiana",
         "fips": "22061",
-        "population": 46735,
+        "population": 46742,
         "area": 472,
         "density": 99
     },
@@ -9075,95 +9075,95 @@
         "name": "Livingston Parish",
         "state": "Louisiana",
         "fips": "22063",
-        "population": 128026,
+        "population": 140789,
         "area": 703,
-        "density": 182
+        "density": 200
     },
     "Madison Parish, Louisiana": {
         "name": "Madison Parish",
         "state": "Louisiana",
         "fips": "22065",
-        "population": 12093,
+        "population": 10951,
         "area": 651,
-        "density": 19
+        "density": 17
     },
     "Morehouse Parish, Louisiana": {
         "name": "Morehouse Parish",
         "state": "Louisiana",
         "fips": "22067",
-        "population": 27979,
+        "population": 24874,
         "area": 805,
-        "density": 35
+        "density": 31
     },
     "Natchitoches Parish, Louisiana": {
         "name": "Natchitoches Parish",
         "state": "Louisiana",
         "fips": "22069",
-        "population": 39566,
+        "population": 38158,
         "area": 1299,
-        "density": 30
+        "density": 29
     },
     "Orleans Parish, Louisiana": {
         "name": "Orleans Parish",
         "state": "Louisiana",
         "fips": "22071",
-        "population": 343829,
+        "population": 390144,
         "area": 350,
-        "density": 982
+        "density": 1115
     },
     "Ouachita Parish, Louisiana": {
         "name": "Ouachita Parish",
         "state": "Louisiana",
         "fips": "22073",
-        "population": 153720,
+        "population": 153279,
         "area": 633,
-        "density": 243
+        "density": 242
     },
     "Plaquemines Parish, Louisiana": {
         "name": "Plaquemines Parish",
         "state": "Louisiana",
         "fips": "22075",
-        "population": 23042,
+        "population": 23197,
         "area": 2429,
-        "density": 9
+        "density": 10
     },
     "Pointe Coupee Parish, Louisiana": {
         "name": "Pointe Coupee Parish",
         "state": "Louisiana",
         "fips": "22077",
-        "population": 22802,
+        "population": 21730,
         "area": 591,
-        "density": 39
+        "density": 37
     },
     "Rapides Parish, Louisiana": {
         "name": "Rapides Parish",
         "state": "Louisiana",
         "fips": "22079",
-        "population": 131613,
+        "population": 129648,
         "area": 1362,
-        "density": 97
+        "density": 95
     },
     "Red River Parish, Louisiana": {
         "name": "Red River Parish",
         "state": "Louisiana",
         "fips": "22081",
-        "population": 9091,
+        "population": 8442,
         "area": 402,
-        "density": 23
+        "density": 21
     },
     "Richland Parish, Louisiana": {
         "name": "Richland Parish",
         "state": "Louisiana",
         "fips": "22083",
-        "population": 20725,
+        "population": 20122,
         "area": 564,
-        "density": 37
+        "density": 36
     },
     "Sabine Parish, Louisiana": {
         "name": "Sabine Parish",
         "state": "Louisiana",
         "fips": "22085",
-        "population": 24233,
+        "population": 23884,
         "area": 1012,
         "density": 24
     },
@@ -9171,159 +9171,159 @@
         "name": "St. Bernard Parish",
         "state": "Louisiana",
         "fips": "22087",
-        "population": 35897,
+        "population": 47244,
         "area": 1794,
-        "density": 20
+        "density": 26
     },
     "St. Charles Parish, Louisiana": {
         "name": "St. Charles Parish",
         "state": "Louisiana",
         "fips": "22089",
-        "population": 52780,
+        "population": 53100,
         "area": 410,
-        "density": 129
+        "density": 130
     },
     "St. Helena Parish, Louisiana": {
         "name": "St. Helena Parish",
         "state": "Louisiana",
         "fips": "22091",
-        "population": 11203,
+        "population": 10132,
         "area": 409,
-        "density": 27
+        "density": 25
     },
     "St. James Parish, Louisiana": {
         "name": "St. James Parish",
         "state": "Louisiana",
         "fips": "22093",
-        "population": 22102,
+        "population": 21096,
         "area": 258,
-        "density": 86
+        "density": 82
     },
     "St. John the Baptist Parish, Louisiana": {
         "name": "St. John the Baptist Parish",
         "state": "Louisiana",
         "fips": "22095",
-        "population": 45924,
+        "population": 42837,
         "area": 348,
-        "density": 132
+        "density": 123
     },
     "St. Landry Parish, Louisiana": {
         "name": "St. Landry Parish",
         "state": "Louisiana",
         "fips": "22097",
-        "population": 83384,
+        "population": 82124,
         "area": 939,
-        "density": 89
+        "density": 87
     },
     "St. Martin Parish, Louisiana": {
         "name": "St. Martin Parish",
         "state": "Louisiana",
         "fips": "22099",
-        "population": 52160,
+        "population": 53431,
         "area": 817,
-        "density": 64
+        "density": 65
     },
     "St. Mary Parish, Louisiana": {
         "name": "St. Mary Parish",
         "state": "Louisiana",
         "fips": "22101",
-        "population": 54650,
+        "population": 49348,
         "area": 612,
-        "density": 89
+        "density": 81
     },
     "St. Tammany Parish, Louisiana": {
         "name": "St. Tammany Parish",
         "state": "Louisiana",
         "fips": "22103",
-        "population": 233740,
+        "population": 260419,
         "area": 1124,
-        "density": 208
+        "density": 232
     },
     "Tangipahoa Parish, Louisiana": {
         "name": "Tangipahoa Parish",
         "state": "Louisiana",
         "fips": "22105",
-        "population": 121097,
+        "population": 134758,
         "area": 823,
-        "density": 147
+        "density": 164
     },
     "Tensas Parish, Louisiana": {
         "name": "Tensas Parish",
         "state": "Louisiana",
         "fips": "22107",
-        "population": 5066,
+        "population": 4334,
         "area": 641,
-        "density": 8
+        "density": 7
     },
     "Terrebonne Parish, Louisiana": {
         "name": "Terrebonne Parish",
         "state": "Louisiana",
         "fips": "22109",
-        "population": 111860,
+        "population": 110461,
         "area": 2080,
-        "density": 54
+        "density": 53
     },
     "Union Parish, Louisiana": {
         "name": "Union Parish",
         "state": "Louisiana",
         "fips": "22111",
-        "population": 22721,
+        "population": 22108,
         "area": 905,
-        "density": 25
+        "density": 24
     },
     "Vermilion Parish, Louisiana": {
         "name": "Vermilion Parish",
         "state": "Louisiana",
         "fips": "22113",
-        "population": 57999,
+        "population": 59511,
         "area": 1538,
-        "density": 38
+        "density": 39
     },
     "Vernon Parish, Louisiana": {
         "name": "Vernon Parish",
         "state": "Louisiana",
         "fips": "22115",
-        "population": 52334,
+        "population": 47429,
         "area": 1341,
-        "density": 39
+        "density": 35
     },
     "Washington Parish, Louisiana": {
         "name": "Washington Parish",
         "state": "Louisiana",
         "fips": "22117",
-        "population": 47168,
+        "population": 46194,
         "area": 676,
-        "density": 70
+        "density": 68
     },
     "Webster Parish, Louisiana": {
         "name": "Webster Parish",
         "state": "Louisiana",
         "fips": "22119",
-        "population": 41207,
+        "population": 38340,
         "area": 615,
-        "density": 67
+        "density": 62
     },
     "West Baton Rouge Parish, Louisiana": {
         "name": "West Baton Rouge Parish",
         "state": "Louisiana",
         "fips": "22121",
-        "population": 23788,
+        "population": 26465,
         "area": 203,
-        "density": 117
+        "density": 130
     },
     "West Carroll Parish, Louisiana": {
         "name": "West Carroll Parish",
         "state": "Louisiana",
         "fips": "22123",
-        "population": 11604,
+        "population": 10830,
         "area": 360,
-        "density": 32
+        "density": 30
     },
     "West Feliciana Parish, Louisiana": {
         "name": "West Feliciana Parish",
         "state": "Louisiana",
         "fips": "22125",
-        "population": 15625,
+        "population": 15568,
         "area": 426,
         "density": 37
     },
@@ -9331,9 +9331,9 @@
         "name": "Winn Parish",
         "state": "Louisiana",
         "fips": "22127",
-        "population": 15313,
+        "population": 13904,
         "area": 957,
-        "density": 16
+        "density": 15
     },
     "Androscoggin County, Maine": {
         "name": "Androscoggin County",
