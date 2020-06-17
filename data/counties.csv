@@ -1736,23 +1736,23 @@ Yakutat,Alaska,02282,540,7623,0
 "Webster County",Nebraska,31181,3688,575,6
 "Wheeler County",Nebraska,31183,759,575,1
 "York County",Nebraska,31185,13883,576,24
-"Carson City",Nevada,32510,55274,144,384
-"Churchill County",Nevada,32001,24877,4929,5
-"Clark County",Nevada,32003,2204079,7911,279
-"Douglas County",Nevada,32005,46997,710,66
-"Elko County",Nevada,32007,48818,17182,3
-"Esmeralda County",Nevada,32009,783,3589,0
-"Eureka County",Nevada,32011,1987,4176,0
-"Humboldt County",Nevada,32013,16528,9658,2
-"Lander County",Nevada,32015,5775,5494,1
-"Lincoln County",Nevada,32017,5345,10635,1
-"Lyon County",Nevada,32019,51980,1994,26
-"Mineral County",Nevada,32021,4772,3757,1
-"Nye County",Nevada,32023,43946,18147,2
-"Pershing County",Nevada,32027,6753,6009,1
-"Storey County",Nevada,32029,4010,264,15
-"Washoe County",Nevada,32031,460587,6342,73
-"White Pine County",Nevada,32033,10030,8877,1
+"Carson City",Nevada,32510,55916,144,388
+"Churchill County",Nevada,32001,24909,4929,5
+"Clark County",Nevada,32003,2266715,7911,287
+"Douglas County",Nevada,32005,48905,710,69
+"Elko County",Nevada,32007,52778,17182,3
+"Esmeralda County",Nevada,32009,873,3589,0
+"Eureka County",Nevada,32011,2029,4176,0
+"Humboldt County",Nevada,32013,16831,9658,2
+"Lander County",Nevada,32015,5532,5494,1
+"Lincoln County",Nevada,32017,5183,10635,0
+"Lyon County",Nevada,32019,57510,1994,29
+"Mineral County",Nevada,32021,4505,3757,1
+"Nye County",Nevada,32023,46523,18147,3
+"Pershing County",Nevada,32027,6725,6009,1
+"Storey County",Nevada,32029,4123,264,16
+"Washoe County",Nevada,32031,471519,6342,74
+"White Pine County",Nevada,32033,9580,8877,1
 "Belknap County","New Hampshire",33001,60641,401,151
 "Carroll County","New Hampshire",33003,47285,934,51
 "Cheshire County","New Hampshire",33005,75909,708,107
@@ -1784,101 +1784,101 @@ Yakutat,Alaska,02282,540,7623,0
 "Sussex County","New Jersey",34037,140799,521,270
 "Union County","New Jersey",34039,558067,103,5418
 "Warren County","New Jersey",34041,105779,358,295
-"Bernalillo County","New Mexico",35001,670968,1166,575
-"Catron County","New Mexico",35003,3733,6928,1
-"Chaves County","New Mexico",35005,65890,6071,11
-"Cibola County","New Mexico",35006,27658,4540,6
-"Colfax County","New Mexico",35007,13640,3757,4
-"Curry County","New Mexico",35009,49649,1406,35
-"De Baca County","New Mexico",35011,1945,2325,1
-"Doña Ana County","New Mexico",35013,213598,3807,56
-"Eddy County","New Mexico",35015,54152,4182,13
-"Grant County","New Mexico",35017,29380,3966,7
-"Guadalupe County","New Mexico",35019,4619,3031,2
-"Harding County","New Mexico",35021,740,2126,0
-"Hidalgo County","New Mexico",35023,4861,3446,1
-"Lea County","New Mexico",35025,65423,4393,15
-"Lincoln County","New Mexico",35027,20454,4831,4
-"Los Alamos County","New Mexico",35028,18222,109,167
-"Luna County","New Mexico",35029,25281,2965,9
-"McKinley County","New Mexico",35031,73664,5449,14
-"Mora County","New Mexico",35033,4773,1931,2
-"Otero County","New Mexico",35035,65703,6627,10
-"Quay County","New Mexico",35037,9026,2855,3
-"Rio Arriba County","New Mexico",35039,40446,5858,7
-"Roosevelt County","New Mexico",35041,20446,2449,8
-"Sandoval County","New Mexico",35043,134259,3710,36
-"San Juan County","New Mexico",35045,128200,5514,23
-"San Miguel County","New Mexico",35047,29301,4717,6
-"Santa Fe County","New Mexico",35049,145648,1909,76
-"Sierra County","New Mexico",35051,11943,4180,3
-"Socorro County","New Mexico",35053,17873,6647,3
-"Taos County","New Mexico",35055,32917,2203,15
-"Torrance County","New Mexico",35057,16345,3345,5
-"Union County","New Mexico",35059,4433,3830,1
-"Valencia County","New Mexico",35061,77070,1068,72
-"Albany County","New York",36001,304204,533,571
-"Allegany County","New York",36003,48946,1034,47
-"Bronx County","New York",36005,1385108,57,24300
-"Broome County","New York",36007,200600,715,281
-"Cattaraugus County","New York",36009,80317,1310,61
-"Cayuga County","New York",36011,80026,864,93
-"Chautauqua County","New York",36013,134905,1500,90
-"Chemung County","New York",36015,88830,410,217
-"Chenango County","New York",36017,50477,898,56
-"Clinton County","New York",36019,82128,1118,73
-"Columbia County","New York",36021,63096,648,97
-"Cortland County","New York",36023,49336,502,98
-"Delaware County","New York",36025,47980,1468,33
-"Dutchess County","New York",36027,297488,825,361
-"Erie County","New York",36029,919040,1227,749
-"Essex County","New York",36031,39370,1916,21
-"Franklin County","New York",36033,51599,1697,30
-"Fulton County","New York",36035,55531,533,104
-"Genesee County","New York",36037,60079,495,121
-"Greene County","New York",36039,49221,658,75
-"Hamilton County","New York",36041,4836,1808,3
-"Herkimer County","New York",36043,64519,1458,44
-"Jefferson County","New York",36045,116229,1857,63
-"Kings County","New York",36047,2504700,96,26091
-"Lewis County","New York",36049,27087,1290,21
-"Livingston County","New York",36051,65393,640,102
-"Madison County","New York",36053,73442,662,111
-"Monroe County","New York",36055,744344,1366,545
-"Montgomery County","New York",36057,50219,410,122
-"Nassau County","New York",36059,1339532,453,2957
-"New York County","New York",36061,1585873,33,48057
-"Niagara County","New York",36063,216469,1140,190
-"Oneida County","New York",36065,234878,1213,194
-"Onondaga County","New York",36067,467026,806,579
-"Ontario County","New York",36069,107931,662,163
-"Orange County","New York",36071,372813,839,444
-"Orleans County","New York",36073,42883,817,52
-"Oswego County","New York",36075,122109,1312,93
-"Otsego County","New York",36077,62259,1003,62
-"Putnam County","New York",36079,99710,246,405
-"Queens County","New York",36081,2230722,178,12532
-"Rensselaer County","New York",36083,159429,665,240
-"Richmond County","New York",36085,468730,102,4595
-"Rockland County","New York",36087,311687,199,1566
-"St. Lawrence County","New York",36089,111944,2821,40
-"Saratoga County","New York",36091,219607,844,260
-"Schenectady County","New York",36093,154727,210,737
-"Schoharie County","New York",36095,32749,626,52
-"Schuyler County","New York",36097,18343,342,54
-"Seneca County","New York",36099,35251,325,108
-"Steuben County","New York",36101,98990,1404,71
-"Suffolk County","New York",36103,1493350,2373,629
-"Sullivan County","New York",36105,77547,997,78
-"Tioga County","New York",36107,51125,523,98
-"Tompkins County","New York",36109,101564,476,213
-"Ulster County","New York",36111,182493,1161,157
-"Warren County","New York",36113,65707,870,76
-"Washington County","New York",36115,63216,846,75
-"Wayne County","New York",36117,93772,1384,68
-"Westchester County","New York",36119,949113,500,1898
-"Wyoming County","New York",36121,42155,596,71
-"Yates County","New York",36123,25348,376,67
+"Bernalillo County","New Mexico",35001,679121,1166,582
+"Catron County","New Mexico",35003,3527,6928,1
+"Chaves County","New Mexico",35005,64615,6071,11
+"Cibola County","New Mexico",35006,26675,4540,6
+"Colfax County","New Mexico",35007,11941,3757,3
+"Curry County","New Mexico",35009,48954,1406,35
+"De Baca County","New Mexico",35011,1748,2325,1
+"Doña Ana County","New Mexico",35013,218195,3807,57
+"Eddy County","New Mexico",35015,58460,4182,14
+"Grant County","New Mexico",35017,26998,3966,7
+"Guadalupe County","New Mexico",35019,4300,3031,1
+"Harding County","New Mexico",35021,625,2126,0
+"Hidalgo County","New Mexico",35023,4198,3446,1
+"Lea County","New Mexico",35025,71070,4393,16
+"Lincoln County","New Mexico",35027,19572,4831,4
+"Los Alamos County","New Mexico",35028,19369,109,178
+"Luna County","New Mexico",35029,23709,2965,8
+"McKinley County","New Mexico",35031,71367,5449,13
+"Mora County","New Mexico",35033,4521,1931,2
+"Otero County","New Mexico",35035,67490,6627,10
+"Quay County","New Mexico",35037,8253,2855,3
+"Rio Arriba County","New Mexico",35039,38921,5858,7
+"Roosevelt County","New Mexico",35041,18500,2449,8
+"Sandoval County","New Mexico",35043,146748,3710,40
+"San Juan County","New Mexico",35045,123958,5514,22
+"San Miguel County","New Mexico",35047,27277,4717,6
+"Santa Fe County","New Mexico",35049,150358,1909,79
+"Sierra County","New Mexico",35051,10791,4180,3
+"Socorro County","New Mexico",35053,16637,6647,3
+"Taos County","New Mexico",35055,32723,2203,15
+"Torrance County","New Mexico",35057,15461,3345,5
+"Union County","New Mexico",35059,4059,3830,1
+"Valencia County","New Mexico",35061,76688,1068,72
+"Albany County","New York",36001,570,533,1
+"Allegany County","New York",36003,47,1034,0
+"Bronx County","New York",36005,24118,57,423
+"Broome County","New York",36007,280,715,0
+"Cattaraugus County","New York",36009,61,1310,0
+"Cayuga County","New York",36011,92,864,0
+"Chautauqua County","New York",36013,89,1500,0
+"Chemung County","New York",36015,216,410,1
+"Chenango County","New York",36017,56,898,0
+"Clinton County","New York",36019,73,1118,0
+"Columbia County","New York",36021,97,648,0
+"Cortland County","New York",36023,98,502,0
+"Delaware County","New York",36025,32,1468,0
+"Dutchess County","New York",36027,360,825,0
+"Erie County","New York",36029,749,1227,1
+"Essex County","New York",36031,20,1916,0
+"Franklin County","New York",36033,30,1697,0
+"Fulton County","New York",36035,104,533,0
+"Genesee County","New York",36037,121,495,0
+"Greene County","New York",36039,74,658,0
+"Hamilton County","New York",36041,2,1808,0
+"Herkimer County","New York",36043,44,1458,0
+"Jefferson County","New York",36045,62,1857,0
+"Kings County","New York",36047,25848,96,269
+"Lewis County","New York",36049,21,1290,0
+"Livingston County","New York",36051,102,640,0
+"Madison County","New York",36053,110,662,0
+"Monroe County","New York",36055,544,1366,0
+"Montgomery County","New York",36057,122,410,0
+"Nassau County","New York",36059,2957,453,7
+"New York County","New York",36061,46961,33,1423
+"Niagara County","New York",36063,189,1140,0
+"Oneida County","New York",36065,193,1213,0
+"Onondaga County","New York",36067,579,806,1
+"Ontario County","New York",36069,163,662,0
+"Orange County","New York",36071,444,839,1
+"Orleans County","New York",36073,52,817,0
+"Oswego County","New York",36075,93,1312,0
+"Otsego County","New York",36077,62,1003,0
+"Putnam County","New York",36079,405,246,2
+"Queens County","New York",36081,12512,178,70
+"Rensselaer County","New York",36083,239,665,0
+"Richmond County","New York",36085,4572,102,45
+"Rockland County","New York",36087,1566,199,8
+"St. Lawrence County","New York",36089,39,2821,0
+"Saratoga County","New York",36091,260,844,0
+"Schenectady County","New York",36093,736,210,4
+"Schoharie County","New York",36095,51,626,0
+"Schuyler County","New York",36097,53,342,0
+"Seneca County","New York",36099,108,325,0
+"Steuben County","New York",36101,70,1404,0
+"Suffolk County","New York",36103,629,2373,0
+"Sullivan County","New York",36105,77,997,0
+"Tioga County","New York",36107,97,523,0
+"Tompkins County","New York",36109,213,476,0
+"Ulster County","New York",36111,157,1161,0
+"Warren County","New York",36113,75,870,0
+"Washington County","New York",36115,74,846,0
+"Wayne County","New York",36117,67,1384,0
+"Westchester County","New York",36119,1898,500,4
+"Wyoming County","New York",36121,70,596,0
+"Yates County","New York",36123,67,376,0
 "Alamance County","North Carolina",37001,157844,435,363
 "Alexander County","North Carolina",37003,37159,263,141
 "Alleghany County","North Carolina",37005,10935,236,46
@@ -2701,7 +2701,7 @@ Yakutat,Alaska,02282,540,7623,0
 "Polk County",Texas,48373,49162,1057,47
 "Potter County",Texas,48375,120458,909,133
 "Presidio County",Texas,48377,7156,3856,2
-"Rains County",Texas,48379,11762,232,51
+"Rains County",Texas,48379,11762,259,45
 "Randall County",Texas,48381,134442,914,147
 "Reagan County",Texas,48383,3710,1175,3
 "Real County",Texas,48385,3429,700,5
@@ -2766,35 +2766,35 @@ Yakutat,Alaska,02282,540,7623,0
 "Young County",Texas,48503,17979,922,20
 "Zapata County",Texas,48505,14322,997,14
 "Zavala County",Texas,48507,11948,1299,9
-"Beaver County",Utah,49001,6629,2590,3
-"Box Elder County",Utah,49003,49975,5746,9
-"Cache County",Utah,49005,112656,1165,97
-"Carbon County",Utah,49007,21403,1478,14
-"Daggett County",Utah,49009,1059,697,2
-"Davis County",Utah,49011,306479,299,1025
-"Duchesne County",Utah,49013,18607,3241,6
-"Emery County",Utah,49015,10976,4462,2
-"Garfield County",Utah,49017,5172,5175,1
-"Grand County",Utah,49019,9225,3672,3
-"Iron County",Utah,49021,46163,3297,14
-"Juab County",Utah,49023,10246,3392,3
-"Kane County",Utah,49025,7125,3990,2
-"Millard County",Utah,49027,12503,6572,2
-"Morgan County",Utah,49029,9469,609,16
-"Piute County",Utah,49031,1556,758,2
-"Rich County",Utah,49033,2264,1029,2
-"Salt Lake County",Utah,49035,1029665,742,1388
-"San Juan County",Utah,49037,14746,7820,2
-"Sanpete County",Utah,49039,27882,1590,18
-"Sevier County",Utah,49041,20802,1911,11
-"Summit County",Utah,49043,36324,1872,19
-"Tooele County",Utah,49045,58218,6941,8
-"Uintah County",Utah,49047,32588,4480,7
-"Utah County",Utah,49049,516564,2003,258
-"Wasatch County",Utah,49051,23530,1176,20
-"Washington County",Utah,49053,138115,2426,57
-"Wayne County",Utah,49055,2589,2461,1
-"Weber County",Utah,49057,231236,576,401
+"Beaver County",Utah,49001,6710,2590,3
+"Box Elder County",Utah,49003,56046,5746,10
+"Cache County",Utah,49005,128289,1165,110
+"Carbon County",Utah,49007,20463,1478,14
+"Daggett County",Utah,49009,950,697,1
+"Davis County",Utah,49011,355481,299,1189
+"Duchesne County",Utah,49013,19938,3241,6
+"Emery County",Utah,49015,10012,4462,2
+"Garfield County",Utah,49017,5051,5175,1
+"Grand County",Utah,49019,9754,3672,3
+"Iron County",Utah,49021,54839,3297,17
+"Juab County",Utah,49023,12017,3392,4
+"Kane County",Utah,49025,7886,3990,2
+"Millard County",Utah,49027,13188,6572,2
+"Morgan County",Utah,49029,12124,609,20
+"Piute County",Utah,49031,1479,758,2
+"Rich County",Utah,49033,2483,1029,2
+"Salt Lake County",Utah,49035,1160437,742,1564
+"San Juan County",Utah,49037,15308,7820,2
+"Sanpete County",Utah,49039,30939,1590,19
+"Sevier County",Utah,49041,21620,1911,11
+"Summit County",Utah,49043,42145,1872,23
+"Tooele County",Utah,49045,72259,6941,10
+"Uintah County",Utah,49047,35734,4480,8
+"Utah County",Utah,49049,636235,2003,318
+"Wasatch County",Utah,49051,34091,1176,29
+"Washington County",Utah,49053,177556,2426,73
+"Wayne County",Utah,49055,2711,2461,1
+"Weber County",Utah,49057,260213,576,452
 "Addison County",Vermont,50001,37035,770,48
 "Bennington County",Vermont,50003,36317,676,54
 "Caledonia County",Vermont,50005,30780,651,47

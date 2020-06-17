@@ -13954,15 +13954,15 @@
             "name": "Carson City",
             "state": "Nevada",
             "fips": "32510",
-            "population": 55274,
+            "population": 55916,
             "area": 144,
-            "density": 384
+            "density": 388
         },
         "Churchill County, Nevada": {
             "name": "Churchill County",
             "state": "Nevada",
             "fips": "32001",
-            "population": 24877,
+            "population": 24909,
             "area": 4929,
             "density": 5
         },
@@ -13970,23 +13970,23 @@
             "name": "Clark County",
             "state": "Nevada",
             "fips": "32003",
-            "population": 2204079,
+            "population": 2266715,
             "area": 7911,
-            "density": 279
+            "density": 287
         },
         "Douglas County, Nevada": {
             "name": "Douglas County",
             "state": "Nevada",
             "fips": "32005",
-            "population": 46997,
+            "population": 48905,
             "area": 710,
-            "density": 66
+            "density": 69
         },
         "Elko County, Nevada": {
             "name": "Elko County",
             "state": "Nevada",
             "fips": "32007",
-            "population": 48818,
+            "population": 52778,
             "area": 17182,
             "density": 3
         },
@@ -13994,7 +13994,7 @@
             "name": "Esmeralda County",
             "state": "Nevada",
             "fips": "32009",
-            "population": 783,
+            "population": 873,
             "area": 3589,
             "density": 0
         },
@@ -14002,7 +14002,7 @@
             "name": "Eureka County",
             "state": "Nevada",
             "fips": "32011",
-            "population": 1987,
+            "population": 2029,
             "area": 4176,
             "density": 0
         },
@@ -14010,7 +14010,7 @@
             "name": "Humboldt County",
             "state": "Nevada",
             "fips": "32013",
-            "population": 16528,
+            "population": 16831,
             "area": 9658,
             "density": 2
         },
@@ -14018,7 +14018,7 @@
             "name": "Lander County",
             "state": "Nevada",
             "fips": "32015",
-            "population": 5775,
+            "population": 5532,
             "area": 5494,
             "density": 1
         },
@@ -14026,23 +14026,23 @@
             "name": "Lincoln County",
             "state": "Nevada",
             "fips": "32017",
-            "population": 5345,
+            "population": 5183,
             "area": 10635,
-            "density": 1
+            "density": 0
         },
         "Lyon County, Nevada": {
             "name": "Lyon County",
             "state": "Nevada",
             "fips": "32019",
-            "population": 51980,
+            "population": 57510,
             "area": 1994,
-            "density": 26
+            "density": 29
         },
         "Mineral County, Nevada": {
             "name": "Mineral County",
             "state": "Nevada",
             "fips": "32021",
-            "population": 4772,
+            "population": 4505,
             "area": 3757,
             "density": 1
         },
@@ -14050,15 +14050,15 @@
             "name": "Nye County",
             "state": "Nevada",
             "fips": "32023",
-            "population": 43946,
+            "population": 46523,
             "area": 18147,
-            "density": 2
+            "density": 3
         },
         "Pershing County, Nevada": {
             "name": "Pershing County",
             "state": "Nevada",
             "fips": "32027",
-            "population": 6753,
+            "population": 6725,
             "area": 6009,
             "density": 1
         },
@@ -14066,23 +14066,23 @@
             "name": "Storey County",
             "state": "Nevada",
             "fips": "32029",
-            "population": 4010,
+            "population": 4123,
             "area": 264,
-            "density": 15
+            "density": 16
         },
         "Washoe County, Nevada": {
             "name": "Washoe County",
             "state": "Nevada",
             "fips": "32031",
-            "population": 460587,
+            "population": 471519,
             "area": 6342,
-            "density": 73
+            "density": 74
         },
         "White Pine County, Nevada": {
             "name": "White Pine County",
             "state": "Nevada",
             "fips": "32033",
-            "population": 10030,
+            "population": 9580,
             "area": 8877,
             "density": 1
         }
@@ -14344,15 +14344,15 @@
             "name": "Bernalillo County",
             "state": "New Mexico",
             "fips": "35001",
-            "population": 670968,
+            "population": 679121,
             "area": 1166,
-            "density": 575
+            "density": 582
         },
         "Catron County, New Mexico": {
             "name": "Catron County",
             "state": "New Mexico",
             "fips": "35003",
-            "population": 3733,
+            "population": 3527,
             "area": 6928,
             "density": 1
         },
@@ -14360,7 +14360,7 @@
             "name": "Chaves County",
             "state": "New Mexico",
             "fips": "35005",
-            "population": 65890,
+            "population": 64615,
             "area": 6071,
             "density": 11
         },
@@ -14368,7 +14368,7 @@
             "name": "Cibola County",
             "state": "New Mexico",
             "fips": "35006",
-            "population": 27658,
+            "population": 26675,
             "area": 4540,
             "density": 6
         },
@@ -14376,15 +14376,15 @@
             "name": "Colfax County",
             "state": "New Mexico",
             "fips": "35007",
-            "population": 13640,
+            "population": 11941,
             "area": 3757,
-            "density": 4
+            "density": 3
         },
         "Curry County, New Mexico": {
             "name": "Curry County",
             "state": "New Mexico",
             "fips": "35009",
-            "population": 49649,
+            "population": 48954,
             "area": 1406,
             "density": 35
         },
@@ -14392,7 +14392,7 @@
             "name": "De Baca County",
             "state": "New Mexico",
             "fips": "35011",
-            "population": 1945,
+            "population": 1748,
             "area": 2325,
             "density": 1
         },
@@ -14400,23 +14400,23 @@
             "name": "Do\u00f1a Ana County",
             "state": "New Mexico",
             "fips": "35013",
-            "population": 213598,
+            "population": 218195,
             "area": 3807,
-            "density": 56
+            "density": 57
         },
         "Eddy County, New Mexico": {
             "name": "Eddy County",
             "state": "New Mexico",
             "fips": "35015",
-            "population": 54152,
+            "population": 58460,
             "area": 4182,
-            "density": 13
+            "density": 14
         },
         "Grant County, New Mexico": {
             "name": "Grant County",
             "state": "New Mexico",
             "fips": "35017",
-            "population": 29380,
+            "population": 26998,
             "area": 3966,
             "density": 7
         },
@@ -14424,15 +14424,15 @@
             "name": "Guadalupe County",
             "state": "New Mexico",
             "fips": "35019",
-            "population": 4619,
+            "population": 4300,
             "area": 3031,
-            "density": 2
+            "density": 1
         },
         "Harding County, New Mexico": {
             "name": "Harding County",
             "state": "New Mexico",
             "fips": "35021",
-            "population": 740,
+            "population": 625,
             "area": 2126,
             "density": 0
         },
@@ -14440,7 +14440,7 @@
             "name": "Hidalgo County",
             "state": "New Mexico",
             "fips": "35023",
-            "population": 4861,
+            "population": 4198,
             "area": 3446,
             "density": 1
         },
@@ -14448,15 +14448,15 @@
             "name": "Lea County",
             "state": "New Mexico",
             "fips": "35025",
-            "population": 65423,
+            "population": 71070,
             "area": 4393,
-            "density": 15
+            "density": 16
         },
         "Lincoln County, New Mexico": {
             "name": "Lincoln County",
             "state": "New Mexico",
             "fips": "35027",
-            "population": 20454,
+            "population": 19572,
             "area": 4831,
             "density": 4
         },
@@ -14464,31 +14464,31 @@
             "name": "Los Alamos County",
             "state": "New Mexico",
             "fips": "35028",
-            "population": 18222,
+            "population": 19369,
             "area": 109,
-            "density": 167
+            "density": 178
         },
         "Luna County, New Mexico": {
             "name": "Luna County",
             "state": "New Mexico",
             "fips": "35029",
-            "population": 25281,
+            "population": 23709,
             "area": 2965,
-            "density": 9
+            "density": 8
         },
         "McKinley County, New Mexico": {
             "name": "McKinley County",
             "state": "New Mexico",
             "fips": "35031",
-            "population": 73664,
+            "population": 71367,
             "area": 5449,
-            "density": 14
+            "density": 13
         },
         "Mora County, New Mexico": {
             "name": "Mora County",
             "state": "New Mexico",
             "fips": "35033",
-            "population": 4773,
+            "population": 4521,
             "area": 1931,
             "density": 2
         },
@@ -14496,7 +14496,7 @@
             "name": "Otero County",
             "state": "New Mexico",
             "fips": "35035",
-            "population": 65703,
+            "population": 67490,
             "area": 6627,
             "density": 10
         },
@@ -14504,7 +14504,7 @@
             "name": "Quay County",
             "state": "New Mexico",
             "fips": "35037",
-            "population": 9026,
+            "population": 8253,
             "area": 2855,
             "density": 3
         },
@@ -14512,7 +14512,7 @@
             "name": "Rio Arriba County",
             "state": "New Mexico",
             "fips": "35039",
-            "population": 40446,
+            "population": 38921,
             "area": 5858,
             "density": 7
         },
@@ -14520,7 +14520,7 @@
             "name": "Roosevelt County",
             "state": "New Mexico",
             "fips": "35041",
-            "population": 20446,
+            "population": 18500,
             "area": 2449,
             "density": 8
         },
@@ -14528,23 +14528,23 @@
             "name": "Sandoval County",
             "state": "New Mexico",
             "fips": "35043",
-            "population": 134259,
+            "population": 146748,
             "area": 3710,
-            "density": 36
+            "density": 40
         },
         "San Juan County, New Mexico": {
             "name": "San Juan County",
             "state": "New Mexico",
             "fips": "35045",
-            "population": 128200,
+            "population": 123958,
             "area": 5514,
-            "density": 23
+            "density": 22
         },
         "San Miguel County, New Mexico": {
             "name": "San Miguel County",
             "state": "New Mexico",
             "fips": "35047",
-            "population": 29301,
+            "population": 27277,
             "area": 4717,
             "density": 6
         },
@@ -14552,15 +14552,15 @@
             "name": "Santa Fe County",
             "state": "New Mexico",
             "fips": "35049",
-            "population": 145648,
+            "population": 150358,
             "area": 1909,
-            "density": 76
+            "density": 79
         },
         "Sierra County, New Mexico": {
             "name": "Sierra County",
             "state": "New Mexico",
             "fips": "35051",
-            "population": 11943,
+            "population": 10791,
             "area": 4180,
             "density": 3
         },
@@ -14568,7 +14568,7 @@
             "name": "Socorro County",
             "state": "New Mexico",
             "fips": "35053",
-            "population": 17873,
+            "population": 16637,
             "area": 6647,
             "density": 3
         },
@@ -14576,7 +14576,7 @@
             "name": "Taos County",
             "state": "New Mexico",
             "fips": "35055",
-            "population": 32917,
+            "population": 32723,
             "area": 2203,
             "density": 15
         },
@@ -14584,7 +14584,7 @@
             "name": "Torrance County",
             "state": "New Mexico",
             "fips": "35057",
-            "population": 16345,
+            "population": 15461,
             "area": 3345,
             "density": 5
         },
@@ -14592,7 +14592,7 @@
             "name": "Union County",
             "state": "New Mexico",
             "fips": "35059",
-            "population": 4433,
+            "population": 4059,
             "area": 3830,
             "density": 1
         },
@@ -14600,7 +14600,7 @@
             "name": "Valencia County",
             "state": "New Mexico",
             "fips": "35061",
-            "population": 77070,
+            "population": 76688,
             "area": 1068,
             "density": 72
         }
@@ -14610,497 +14610,497 @@
             "name": "Albany County",
             "state": "New York",
             "fips": "36001",
-            "population": 304204,
+            "population": 570,
             "area": 533,
-            "density": 571
+            "density": 1
         },
         "Allegany County, New York": {
             "name": "Allegany County",
             "state": "New York",
             "fips": "36003",
-            "population": 48946,
+            "population": 47,
             "area": 1034,
-            "density": 47
+            "density": 0
         },
         "Bronx County, New York": {
             "name": "Bronx County",
             "state": "New York",
             "fips": "36005",
-            "population": 1385108,
+            "population": 24118,
             "area": 57,
-            "density": 24300
+            "density": 423
         },
         "Broome County, New York": {
             "name": "Broome County",
             "state": "New York",
             "fips": "36007",
-            "population": 200600,
+            "population": 280,
             "area": 715,
-            "density": 281
+            "density": 0
         },
         "Cattaraugus County, New York": {
             "name": "Cattaraugus County",
             "state": "New York",
             "fips": "36009",
-            "population": 80317,
+            "population": 61,
             "area": 1310,
-            "density": 61
+            "density": 0
         },
         "Cayuga County, New York": {
             "name": "Cayuga County",
             "state": "New York",
             "fips": "36011",
-            "population": 80026,
+            "population": 92,
             "area": 864,
-            "density": 93
+            "density": 0
         },
         "Chautauqua County, New York": {
             "name": "Chautauqua County",
             "state": "New York",
             "fips": "36013",
-            "population": 134905,
+            "population": 89,
             "area": 1500,
-            "density": 90
+            "density": 0
         },
         "Chemung County, New York": {
             "name": "Chemung County",
             "state": "New York",
             "fips": "36015",
-            "population": 88830,
+            "population": 216,
             "area": 410,
-            "density": 217
+            "density": 1
         },
         "Chenango County, New York": {
             "name": "Chenango County",
             "state": "New York",
             "fips": "36017",
-            "population": 50477,
+            "population": 56,
             "area": 898,
-            "density": 56
+            "density": 0
         },
         "Clinton County, New York": {
             "name": "Clinton County",
             "state": "New York",
             "fips": "36019",
-            "population": 82128,
+            "population": 73,
             "area": 1118,
-            "density": 73
+            "density": 0
         },
         "Columbia County, New York": {
             "name": "Columbia County",
             "state": "New York",
             "fips": "36021",
-            "population": 63096,
+            "population": 97,
             "area": 648,
-            "density": 97
+            "density": 0
         },
         "Cortland County, New York": {
             "name": "Cortland County",
             "state": "New York",
             "fips": "36023",
-            "population": 49336,
+            "population": 98,
             "area": 502,
-            "density": 98
+            "density": 0
         },
         "Delaware County, New York": {
             "name": "Delaware County",
             "state": "New York",
             "fips": "36025",
-            "population": 47980,
+            "population": 32,
             "area": 1468,
-            "density": 33
+            "density": 0
         },
         "Dutchess County, New York": {
             "name": "Dutchess County",
             "state": "New York",
             "fips": "36027",
-            "population": 297488,
+            "population": 360,
             "area": 825,
-            "density": 361
+            "density": 0
         },
         "Erie County, New York": {
             "name": "Erie County",
             "state": "New York",
             "fips": "36029",
-            "population": 919040,
+            "population": 749,
             "area": 1227,
-            "density": 749
+            "density": 1
         },
         "Essex County, New York": {
             "name": "Essex County",
             "state": "New York",
             "fips": "36031",
-            "population": 39370,
+            "population": 20,
             "area": 1916,
-            "density": 21
+            "density": 0
         },
         "Franklin County, New York": {
             "name": "Franklin County",
             "state": "New York",
             "fips": "36033",
-            "population": 51599,
+            "population": 30,
             "area": 1697,
-            "density": 30
+            "density": 0
         },
         "Fulton County, New York": {
             "name": "Fulton County",
             "state": "New York",
             "fips": "36035",
-            "population": 55531,
+            "population": 104,
             "area": 533,
-            "density": 104
+            "density": 0
         },
         "Genesee County, New York": {
             "name": "Genesee County",
             "state": "New York",
             "fips": "36037",
-            "population": 60079,
+            "population": 121,
             "area": 495,
-            "density": 121
+            "density": 0
         },
         "Greene County, New York": {
             "name": "Greene County",
             "state": "New York",
             "fips": "36039",
-            "population": 49221,
+            "population": 74,
             "area": 658,
-            "density": 75
+            "density": 0
         },
         "Hamilton County, New York": {
             "name": "Hamilton County",
             "state": "New York",
             "fips": "36041",
-            "population": 4836,
+            "population": 2,
             "area": 1808,
-            "density": 3
+            "density": 0
         },
         "Herkimer County, New York": {
             "name": "Herkimer County",
             "state": "New York",
             "fips": "36043",
-            "population": 64519,
+            "population": 44,
             "area": 1458,
-            "density": 44
+            "density": 0
         },
         "Jefferson County, New York": {
             "name": "Jefferson County",
             "state": "New York",
             "fips": "36045",
-            "population": 116229,
+            "population": 62,
             "area": 1857,
-            "density": 63
+            "density": 0
         },
         "Kings County, New York": {
             "name": "Kings County",
             "state": "New York",
             "fips": "36047",
-            "population": 2504700,
+            "population": 25848,
             "area": 96,
-            "density": 26091
+            "density": 269
         },
         "Lewis County, New York": {
             "name": "Lewis County",
             "state": "New York",
             "fips": "36049",
-            "population": 27087,
+            "population": 21,
             "area": 1290,
-            "density": 21
+            "density": 0
         },
         "Livingston County, New York": {
             "name": "Livingston County",
             "state": "New York",
             "fips": "36051",
-            "population": 65393,
+            "population": 102,
             "area": 640,
-            "density": 102
+            "density": 0
         },
         "Madison County, New York": {
             "name": "Madison County",
             "state": "New York",
             "fips": "36053",
-            "population": 73442,
+            "population": 110,
             "area": 662,
-            "density": 111
+            "density": 0
         },
         "Monroe County, New York": {
             "name": "Monroe County",
             "state": "New York",
             "fips": "36055",
-            "population": 744344,
+            "population": 544,
             "area": 1366,
-            "density": 545
+            "density": 0
         },
         "Montgomery County, New York": {
             "name": "Montgomery County",
             "state": "New York",
             "fips": "36057",
-            "population": 50219,
+            "population": 122,
             "area": 410,
-            "density": 122
+            "density": 0
         },
         "Nassau County, New York": {
             "name": "Nassau County",
             "state": "New York",
             "fips": "36059",
-            "population": 1339532,
+            "population": 2957,
             "area": 453,
-            "density": 2957
+            "density": 7
         },
         "New York County, New York": {
             "name": "New York County",
             "state": "New York",
             "fips": "36061",
-            "population": 1585873,
+            "population": 46961,
             "area": 33,
-            "density": 48057
+            "density": 1423
         },
         "Niagara County, New York": {
             "name": "Niagara County",
             "state": "New York",
             "fips": "36063",
-            "population": 216469,
+            "population": 189,
             "area": 1140,
-            "density": 190
+            "density": 0
         },
         "Oneida County, New York": {
             "name": "Oneida County",
             "state": "New York",
             "fips": "36065",
-            "population": 234878,
+            "population": 193,
             "area": 1213,
-            "density": 194
+            "density": 0
         },
         "Onondaga County, New York": {
             "name": "Onondaga County",
             "state": "New York",
             "fips": "36067",
-            "population": 467026,
+            "population": 579,
             "area": 806,
-            "density": 579
+            "density": 1
         },
         "Ontario County, New York": {
             "name": "Ontario County",
             "state": "New York",
             "fips": "36069",
-            "population": 107931,
+            "population": 163,
             "area": 662,
-            "density": 163
+            "density": 0
         },
         "Orange County, New York": {
             "name": "Orange County",
             "state": "New York",
             "fips": "36071",
-            "population": 372813,
+            "population": 444,
             "area": 839,
-            "density": 444
+            "density": 1
         },
         "Orleans County, New York": {
             "name": "Orleans County",
             "state": "New York",
             "fips": "36073",
-            "population": 42883,
+            "population": 52,
             "area": 817,
-            "density": 52
+            "density": 0
         },
         "Oswego County, New York": {
             "name": "Oswego County",
             "state": "New York",
             "fips": "36075",
-            "population": 122109,
+            "population": 93,
             "area": 1312,
-            "density": 93
+            "density": 0
         },
         "Otsego County, New York": {
             "name": "Otsego County",
             "state": "New York",
             "fips": "36077",
-            "population": 62259,
+            "population": 62,
             "area": 1003,
-            "density": 62
+            "density": 0
         },
         "Putnam County, New York": {
             "name": "Putnam County",
             "state": "New York",
             "fips": "36079",
-            "population": 99710,
+            "population": 405,
             "area": 246,
-            "density": 405
+            "density": 2
         },
         "Queens County, New York": {
             "name": "Queens County",
             "state": "New York",
             "fips": "36081",
-            "population": 2230722,
+            "population": 12512,
             "area": 178,
-            "density": 12532
+            "density": 70
         },
         "Rensselaer County, New York": {
             "name": "Rensselaer County",
             "state": "New York",
             "fips": "36083",
-            "population": 159429,
+            "population": 239,
             "area": 665,
-            "density": 240
+            "density": 0
         },
         "Richmond County, New York": {
             "name": "Richmond County",
             "state": "New York",
             "fips": "36085",
-            "population": 468730,
+            "population": 4572,
             "area": 102,
-            "density": 4595
+            "density": 45
         },
         "Rockland County, New York": {
             "name": "Rockland County",
             "state": "New York",
             "fips": "36087",
-            "population": 311687,
+            "population": 1566,
             "area": 199,
-            "density": 1566
+            "density": 8
         },
         "St. Lawrence County, New York": {
             "name": "St. Lawrence County",
             "state": "New York",
             "fips": "36089",
-            "population": 111944,
+            "population": 39,
             "area": 2821,
-            "density": 40
+            "density": 0
         },
         "Saratoga County, New York": {
             "name": "Saratoga County",
             "state": "New York",
             "fips": "36091",
-            "population": 219607,
+            "population": 260,
             "area": 844,
-            "density": 260
+            "density": 0
         },
         "Schenectady County, New York": {
             "name": "Schenectady County",
             "state": "New York",
             "fips": "36093",
-            "population": 154727,
+            "population": 736,
             "area": 210,
-            "density": 737
+            "density": 4
         },
         "Schoharie County, New York": {
             "name": "Schoharie County",
             "state": "New York",
             "fips": "36095",
-            "population": 32749,
+            "population": 51,
             "area": 626,
-            "density": 52
+            "density": 0
         },
         "Schuyler County, New York": {
             "name": "Schuyler County",
             "state": "New York",
             "fips": "36097",
-            "population": 18343,
+            "population": 53,
             "area": 342,
-            "density": 54
+            "density": 0
         },
         "Seneca County, New York": {
             "name": "Seneca County",
             "state": "New York",
             "fips": "36099",
-            "population": 35251,
+            "population": 108,
             "area": 325,
-            "density": 108
+            "density": 0
         },
         "Steuben County, New York": {
             "name": "Steuben County",
             "state": "New York",
             "fips": "36101",
-            "population": 98990,
+            "population": 70,
             "area": 1404,
-            "density": 71
+            "density": 0
         },
         "Suffolk County, New York": {
             "name": "Suffolk County",
             "state": "New York",
             "fips": "36103",
-            "population": 1493350,
+            "population": 629,
             "area": 2373,
-            "density": 629
+            "density": 0
         },
         "Sullivan County, New York": {
             "name": "Sullivan County",
             "state": "New York",
             "fips": "36105",
-            "population": 77547,
+            "population": 77,
             "area": 997,
-            "density": 78
+            "density": 0
         },
         "Tioga County, New York": {
             "name": "Tioga County",
             "state": "New York",
             "fips": "36107",
-            "population": 51125,
+            "population": 97,
             "area": 523,
-            "density": 98
+            "density": 0
         },
         "Tompkins County, New York": {
             "name": "Tompkins County",
             "state": "New York",
             "fips": "36109",
-            "population": 101564,
+            "population": 213,
             "area": 476,
-            "density": 213
+            "density": 0
         },
         "Ulster County, New York": {
             "name": "Ulster County",
             "state": "New York",
             "fips": "36111",
-            "population": 182493,
+            "population": 157,
             "area": 1161,
-            "density": 157
+            "density": 0
         },
         "Warren County, New York": {
             "name": "Warren County",
             "state": "New York",
             "fips": "36113",
-            "population": 65707,
+            "population": 75,
             "area": 870,
-            "density": 76
+            "density": 0
         },
         "Washington County, New York": {
             "name": "Washington County",
             "state": "New York",
             "fips": "36115",
-            "population": 63216,
+            "population": 74,
             "area": 846,
-            "density": 75
+            "density": 0
         },
         "Wayne County, New York": {
             "name": "Wayne County",
             "state": "New York",
             "fips": "36117",
-            "population": 93772,
+            "population": 67,
             "area": 1384,
-            "density": 68
+            "density": 0
         },
         "Westchester County, New York": {
             "name": "Westchester County",
             "state": "New York",
             "fips": "36119",
-            "population": 949113,
+            "population": 1898,
             "area": 500,
-            "density": 1898
+            "density": 4
         },
         "Wyoming County, New York": {
             "name": "Wyoming County",
             "state": "New York",
             "fips": "36121",
-            "population": 42155,
+            "population": 70,
             "area": 596,
-            "density": 71
+            "density": 0
         },
         "Yates County, New York": {
             "name": "Yates County",
             "state": "New York",
             "fips": "36123",
-            "population": 25348,
+            "population": 67,
             "area": 376,
-            "density": 67
+            "density": 0
         }
     },
     "North Carolina": {
@@ -21705,8 +21705,8 @@
             "state": "Texas",
             "fips": "48379",
             "population": 11762,
-            "area": 232,
-            "density": 51
+            "area": 259,
+            "density": 45
         },
         "Randall County, Texas": {
             "name": "Randall County",
@@ -22226,7 +22226,7 @@
             "name": "Beaver County",
             "state": "Utah",
             "fips": "49001",
-            "population": 6629,
+            "population": 6710,
             "area": 2590,
             "density": 3
         },
@@ -22234,23 +22234,23 @@
             "name": "Box Elder County",
             "state": "Utah",
             "fips": "49003",
-            "population": 49975,
+            "population": 56046,
             "area": 5746,
-            "density": 9
+            "density": 10
         },
         "Cache County, Utah": {
             "name": "Cache County",
             "state": "Utah",
             "fips": "49005",
-            "population": 112656,
+            "population": 128289,
             "area": 1165,
-            "density": 97
+            "density": 110
         },
         "Carbon County, Utah": {
             "name": "Carbon County",
             "state": "Utah",
             "fips": "49007",
-            "population": 21403,
+            "population": 20463,
             "area": 1478,
             "density": 14
         },
@@ -22258,23 +22258,23 @@
             "name": "Daggett County",
             "state": "Utah",
             "fips": "49009",
-            "population": 1059,
+            "population": 950,
             "area": 697,
-            "density": 2
+            "density": 1
         },
         "Davis County, Utah": {
             "name": "Davis County",
             "state": "Utah",
             "fips": "49011",
-            "population": 306479,
+            "population": 355481,
             "area": 299,
-            "density": 1025
+            "density": 1189
         },
         "Duchesne County, Utah": {
             "name": "Duchesne County",
             "state": "Utah",
             "fips": "49013",
-            "population": 18607,
+            "population": 19938,
             "area": 3241,
             "density": 6
         },
@@ -22282,7 +22282,7 @@
             "name": "Emery County",
             "state": "Utah",
             "fips": "49015",
-            "population": 10976,
+            "population": 10012,
             "area": 4462,
             "density": 2
         },
@@ -22290,7 +22290,7 @@
             "name": "Garfield County",
             "state": "Utah",
             "fips": "49017",
-            "population": 5172,
+            "population": 5051,
             "area": 5175,
             "density": 1
         },
@@ -22298,7 +22298,7 @@
             "name": "Grand County",
             "state": "Utah",
             "fips": "49019",
-            "population": 9225,
+            "population": 9754,
             "area": 3672,
             "density": 3
         },
@@ -22306,23 +22306,23 @@
             "name": "Iron County",
             "state": "Utah",
             "fips": "49021",
-            "population": 46163,
+            "population": 54839,
             "area": 3297,
-            "density": 14
+            "density": 17
         },
         "Juab County, Utah": {
             "name": "Juab County",
             "state": "Utah",
             "fips": "49023",
-            "population": 10246,
+            "population": 12017,
             "area": 3392,
-            "density": 3
+            "density": 4
         },
         "Kane County, Utah": {
             "name": "Kane County",
             "state": "Utah",
             "fips": "49025",
-            "population": 7125,
+            "population": 7886,
             "area": 3990,
             "density": 2
         },
@@ -22330,7 +22330,7 @@
             "name": "Millard County",
             "state": "Utah",
             "fips": "49027",
-            "population": 12503,
+            "population": 13188,
             "area": 6572,
             "density": 2
         },
@@ -22338,15 +22338,15 @@
             "name": "Morgan County",
             "state": "Utah",
             "fips": "49029",
-            "population": 9469,
+            "population": 12124,
             "area": 609,
-            "density": 16
+            "density": 20
         },
         "Piute County, Utah": {
             "name": "Piute County",
             "state": "Utah",
             "fips": "49031",
-            "population": 1556,
+            "population": 1479,
             "area": 758,
             "density": 2
         },
@@ -22354,7 +22354,7 @@
             "name": "Rich County",
             "state": "Utah",
             "fips": "49033",
-            "population": 2264,
+            "population": 2483,
             "area": 1029,
             "density": 2
         },
@@ -22362,15 +22362,15 @@
             "name": "Salt Lake County",
             "state": "Utah",
             "fips": "49035",
-            "population": 1029665,
+            "population": 1160437,
             "area": 742,
-            "density": 1388
+            "density": 1564
         },
         "San Juan County, Utah": {
             "name": "San Juan County",
             "state": "Utah",
             "fips": "49037",
-            "population": 14746,
+            "population": 15308,
             "area": 7820,
             "density": 2
         },
@@ -22378,15 +22378,15 @@
             "name": "Sanpete County",
             "state": "Utah",
             "fips": "49039",
-            "population": 27882,
+            "population": 30939,
             "area": 1590,
-            "density": 18
+            "density": 19
         },
         "Sevier County, Utah": {
             "name": "Sevier County",
             "state": "Utah",
             "fips": "49041",
-            "population": 20802,
+            "population": 21620,
             "area": 1911,
             "density": 11
         },
@@ -22394,55 +22394,55 @@
             "name": "Summit County",
             "state": "Utah",
             "fips": "49043",
-            "population": 36324,
+            "population": 42145,
             "area": 1872,
-            "density": 19
+            "density": 23
         },
         "Tooele County, Utah": {
             "name": "Tooele County",
             "state": "Utah",
             "fips": "49045",
-            "population": 58218,
+            "population": 72259,
             "area": 6941,
-            "density": 8
+            "density": 10
         },
         "Uintah County, Utah": {
             "name": "Uintah County",
             "state": "Utah",
             "fips": "49047",
-            "population": 32588,
+            "population": 35734,
             "area": 4480,
-            "density": 7
+            "density": 8
         },
         "Utah County, Utah": {
             "name": "Utah County",
             "state": "Utah",
             "fips": "49049",
-            "population": 516564,
+            "population": 636235,
             "area": 2003,
-            "density": 258
+            "density": 318
         },
         "Wasatch County, Utah": {
             "name": "Wasatch County",
             "state": "Utah",
             "fips": "49051",
-            "population": 23530,
+            "population": 34091,
             "area": 1176,
-            "density": 20
+            "density": 29
         },
         "Washington County, Utah": {
             "name": "Washington County",
             "state": "Utah",
             "fips": "49053",
-            "population": 138115,
+            "population": 177556,
             "area": 2426,
-            "density": 57
+            "density": 73
         },
         "Wayne County, Utah": {
             "name": "Wayne County",
             "state": "Utah",
             "fips": "49055",
-            "population": 2589,
+            "population": 2711,
             "area": 2461,
             "density": 1
         },
@@ -22450,9 +22450,9 @@
             "name": "Weber County",
             "state": "Utah",
             "fips": "49057",
-            "population": 231236,
+            "population": 260213,
             "area": 576,
-            "density": 401
+            "density": 452
         }
     },
     "Vermont": {
