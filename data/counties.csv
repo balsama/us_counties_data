@@ -1613,7 +1613,7 @@ Yakutat,Alaska,02282,540,7623,0
 "Lake County",Montana,30047,29099,1494,19
 "Lewis and Clark County",Montana,30049,65856,3461,19
 "Liberty County",Montana,30051,2359,1430,2
-"Lincoln County",Montana,30056,19125,3613,5
+"Lincoln County",Montana,30053,19125,3613,5
 "McCone County",Montana,30055,1694,2643,1
 "Madison County",Montana,30057,7820,3587,2
 "Meagher County",Montana,30059,1853,2392,1
@@ -2904,45 +2904,45 @@ Yakutat,Alaska,02282,540,7623,0
 "Wise County",Virginia,51195,39718,403,99
 "Wythe County",Virginia,51197,29119,463,63
 "York County",Virginia,51199,67837,106,640
-"Adams County",Washington,53001,19983,1925,10
-"Asotin County",Washington,53003,22582,636,36
-"Benton County",Washington,53005,204390,1703,120
-"Chelan County",Washington,53007,77200,2922,26
-"Clallam County",Washington,53009,77331,1745,44
-"Clark County",Washington,53011,488241,628,777
-"Columbia County",Washington,53013,3985,869,5
-"Cowlitz County",Washington,53015,110593,1139,97
-"Douglas County",Washington,53017,43429,1821,24
-"Ferry County",Washington,53019,7627,2204,3
-"Franklin County",Washington,53021,95222,1242,77
-"Garfield County",Washington,53023,2225,710,3
-"Grant County",Washington,53025,97733,2681,36
-"Grays Harbor County",Washington,53027,75061,1917,39
-"Island County",Washington,53029,85141,209,407
-"Jefferson County",Washington,53031,32221,1809,18
-"King County",Washington,53033,2252782,2126,1060
-"Kitsap County",Washington,53035,271473,396,686
-"Kittitas County",Washington,53037,47935,2297,21
-"Klickitat County",Washington,53039,22425,1872,12
-"Lewis County",Washington,53041,80707,2408,34
-"Lincoln County",Washington,53043,10939,2311,5
-"Mason County",Washington,53045,66768,961,69
-"Okanogan County",Washington,53047,42243,5268,8
-"Pacific County",Washington,53049,22036,975,23
-"Pend Oreille County",Washington,53051,13724,1400,10
-"Pierce County",Washington,53053,904980,1676,540
-"San Juan County",Washington,53055,17582,175,100
-"Skagit County",Washington,53057,129205,1735,74
-"Skamania County",Washington,53059,12083,1656,7
-"Snohomish County",Washington,53061,822083,2090,393
-"Spokane County",Washington,53063,522798,1764,296
-"Stevens County",Washington,53065,45723,2478,18
-"Thurston County",Washington,53067,290536,727,400
-"Wahkiakum County",Washington,53069,4488,264,17
-"Walla Walla County",Washington,53071,60760,1270,48
-"Whatcom County",Washington,53073,229247,2120,108
-"Whitman County",Washington,53075,50104,2159,23
-"Yakima County",Washington,53077,250873,4296,58
+"Adams County",Washington,53001,19983,1,19983
+"Asotin County",Washington,53003,22582,3,7527
+"Benton County",Washington,53005,204390,5,40878
+"Chelan County",Washington,53007,77200,7,11029
+"Clallam County",Washington,53009,77331,9,8592
+"Clark County",Washington,53011,488241,11,44386
+"Columbia County",Washington,53013,3985,13,307
+"Cowlitz County",Washington,53015,110593,15,7373
+"Douglas County",Washington,53017,43429,17,2555
+"Ferry County",Washington,53019,7627,19,401
+"Franklin County",Washington,53021,95222,21,4534
+"Garfield County",Washington,53023,2225,23,97
+"Grant County",Washington,53025,97733,25,3909
+"Grays Harbor County",Washington,53027,75061,27,2780
+"Island County",Washington,53029,85141,29,2936
+"Jefferson County",Washington,53031,32221,31,1039
+"King County",Washington,53033,2252782,33,68266
+"Kitsap County",Washington,53035,271473,35,7756
+"Kittitas County",Washington,53037,47935,37,1296
+"Klickitat County",Washington,53039,22425,39,575
+"Lewis County",Washington,53041,80707,41,1968
+"Lincoln County",Washington,53043,10939,43,254
+"Mason County",Washington,53045,66768,45,1484
+"Okanogan County",Washington,53047,42243,47,899
+"Pacific County",Washington,53049,22471,49,459
+"Pend Oreille County",Washington,53051,13724,51,269
+"Pierce County",Washington,53053,904980,53,17075
+"San Juan County",Washington,53055,17582,55,320
+"Skagit County",Washington,53057,129205,57,2267
+"Skamania County",Washington,53059,12083,59,205
+"Snohomish County",Washington,53061,822083,61,13477
+"Spokane County",Washington,53063,522798,63,8298
+"Stevens County",Washington,53065,45723,65,703
+"Thurston County",Washington,53067,290536,67,4336
+"Wahkiakum County",Washington,53069,4488,69,65
+"Walla Walla County",Washington,53071,60760,71,856
+"Whatcom County",Washington,53073,229247,73,3140
+"Whitman County",Washington,53075,50104,75,668
+"Yakima County",Washington,53077,250873,77,3258
 "Barbour County","West Virginia",54001,16589,341,49
 "Berkeley County","West Virginia",54003,104169,321,325
 "Boone County","West Virginia",54005,24629,503,49

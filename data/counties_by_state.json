@@ -12965,7 +12965,7 @@
         "Lincoln County, Montana": {
             "name": "Lincoln County",
             "state": "Montana",
-            "fips": "30056",
+            "fips": "30053",
             "population": 19125,
             "area": 3613,
             "density": 5
@@ -23337,312 +23337,312 @@
             "state": "Washington",
             "fips": "53001",
             "population": 19983,
-            "area": 1925,
-            "density": 10
+            "area": 1,
+            "density": 19983
         },
         "Asotin County, Washington": {
             "name": "Asotin County",
             "state": "Washington",
             "fips": "53003",
             "population": 22582,
-            "area": 636,
-            "density": 36
+            "area": 3,
+            "density": 7527
         },
         "Benton County, Washington": {
             "name": "Benton County",
             "state": "Washington",
             "fips": "53005",
             "population": 204390,
-            "area": 1703,
-            "density": 120
+            "area": 5,
+            "density": 40878
         },
         "Chelan County, Washington": {
             "name": "Chelan County",
             "state": "Washington",
             "fips": "53007",
             "population": 77200,
-            "area": 2922,
-            "density": 26
+            "area": 7,
+            "density": 11029
         },
         "Clallam County, Washington": {
             "name": "Clallam County",
             "state": "Washington",
             "fips": "53009",
             "population": 77331,
-            "area": 1745,
-            "density": 44
+            "area": 9,
+            "density": 8592
         },
         "Clark County, Washington": {
             "name": "Clark County",
             "state": "Washington",
             "fips": "53011",
             "population": 488241,
-            "area": 628,
-            "density": 777
+            "area": 11,
+            "density": 44386
         },
         "Columbia County, Washington": {
             "name": "Columbia County",
             "state": "Washington",
             "fips": "53013",
             "population": 3985,
-            "area": 869,
-            "density": 5
+            "area": 13,
+            "density": 307
         },
         "Cowlitz County, Washington": {
             "name": "Cowlitz County",
             "state": "Washington",
             "fips": "53015",
             "population": 110593,
-            "area": 1139,
-            "density": 97
+            "area": 15,
+            "density": 7373
         },
         "Douglas County, Washington": {
             "name": "Douglas County",
             "state": "Washington",
             "fips": "53017",
             "population": 43429,
-            "area": 1821,
-            "density": 24
+            "area": 17,
+            "density": 2555
         },
         "Ferry County, Washington": {
             "name": "Ferry County",
             "state": "Washington",
             "fips": "53019",
             "population": 7627,
-            "area": 2204,
-            "density": 3
+            "area": 19,
+            "density": 401
         },
         "Franklin County, Washington": {
             "name": "Franklin County",
             "state": "Washington",
             "fips": "53021",
             "population": 95222,
-            "area": 1242,
-            "density": 77
+            "area": 21,
+            "density": 4534
         },
         "Garfield County, Washington": {
             "name": "Garfield County",
             "state": "Washington",
             "fips": "53023",
             "population": 2225,
-            "area": 710,
-            "density": 3
+            "area": 23,
+            "density": 97
         },
         "Grant County, Washington": {
             "name": "Grant County",
             "state": "Washington",
             "fips": "53025",
             "population": 97733,
-            "area": 2681,
-            "density": 36
+            "area": 25,
+            "density": 3909
         },
         "Grays Harbor County, Washington": {
             "name": "Grays Harbor County",
             "state": "Washington",
             "fips": "53027",
             "population": 75061,
-            "area": 1917,
-            "density": 39
+            "area": 27,
+            "density": 2780
         },
         "Island County, Washington": {
             "name": "Island County",
             "state": "Washington",
             "fips": "53029",
             "population": 85141,
-            "area": 209,
-            "density": 407
+            "area": 29,
+            "density": 2936
         },
         "Jefferson County, Washington": {
             "name": "Jefferson County",
             "state": "Washington",
             "fips": "53031",
             "population": 32221,
-            "area": 1809,
-            "density": 18
+            "area": 31,
+            "density": 1039
         },
         "King County, Washington": {
             "name": "King County",
             "state": "Washington",
             "fips": "53033",
             "population": 2252782,
-            "area": 2126,
-            "density": 1060
+            "area": 33,
+            "density": 68266
         },
         "Kitsap County, Washington": {
             "name": "Kitsap County",
             "state": "Washington",
             "fips": "53035",
             "population": 271473,
-            "area": 396,
-            "density": 686
+            "area": 35,
+            "density": 7756
         },
         "Kittitas County, Washington": {
             "name": "Kittitas County",
             "state": "Washington",
             "fips": "53037",
             "population": 47935,
-            "area": 2297,
-            "density": 21
+            "area": 37,
+            "density": 1296
         },
         "Klickitat County, Washington": {
             "name": "Klickitat County",
             "state": "Washington",
             "fips": "53039",
             "population": 22425,
-            "area": 1872,
-            "density": 12
+            "area": 39,
+            "density": 575
         },
         "Lewis County, Washington": {
             "name": "Lewis County",
             "state": "Washington",
             "fips": "53041",
             "population": 80707,
-            "area": 2408,
-            "density": 34
+            "area": 41,
+            "density": 1968
         },
         "Lincoln County, Washington": {
             "name": "Lincoln County",
             "state": "Washington",
             "fips": "53043",
             "population": 10939,
-            "area": 2311,
-            "density": 5
+            "area": 43,
+            "density": 254
         },
         "Mason County, Washington": {
             "name": "Mason County",
             "state": "Washington",
             "fips": "53045",
             "population": 66768,
-            "area": 961,
-            "density": 69
+            "area": 45,
+            "density": 1484
         },
         "Okanogan County, Washington": {
             "name": "Okanogan County",
             "state": "Washington",
             "fips": "53047",
             "population": 42243,
-            "area": 5268,
-            "density": 8
+            "area": 47,
+            "density": 899
         },
         "Pacific County, Washington": {
             "name": "Pacific County",
             "state": "Washington",
             "fips": "53049",
-            "population": 22036,
-            "area": 975,
-            "density": 23
+            "population": 22471,
+            "area": 49,
+            "density": 459
         },
         "Pend Oreille County, Washington": {
             "name": "Pend Oreille County",
             "state": "Washington",
             "fips": "53051",
             "population": 13724,
-            "area": 1400,
-            "density": 10
+            "area": 51,
+            "density": 269
         },
         "Pierce County, Washington": {
             "name": "Pierce County",
             "state": "Washington",
             "fips": "53053",
             "population": 904980,
-            "area": 1676,
-            "density": 540
+            "area": 53,
+            "density": 17075
         },
         "San Juan County, Washington": {
             "name": "San Juan County",
             "state": "Washington",
             "fips": "53055",
             "population": 17582,
-            "area": 175,
-            "density": 100
+            "area": 55,
+            "density": 320
         },
         "Skagit County, Washington": {
             "name": "Skagit County",
             "state": "Washington",
             "fips": "53057",
             "population": 129205,
-            "area": 1735,
-            "density": 74
+            "area": 57,
+            "density": 2267
         },
         "Skamania County, Washington": {
             "name": "Skamania County",
             "state": "Washington",
             "fips": "53059",
             "population": 12083,
-            "area": 1656,
-            "density": 7
+            "area": 59,
+            "density": 205
         },
         "Snohomish County, Washington": {
             "name": "Snohomish County",
             "state": "Washington",
             "fips": "53061",
             "population": 822083,
-            "area": 2090,
-            "density": 393
+            "area": 61,
+            "density": 13477
         },
         "Spokane County, Washington": {
             "name": "Spokane County",
             "state": "Washington",
             "fips": "53063",
             "population": 522798,
-            "area": 1764,
-            "density": 296
+            "area": 63,
+            "density": 8298
         },
         "Stevens County, Washington": {
             "name": "Stevens County",
             "state": "Washington",
             "fips": "53065",
             "population": 45723,
-            "area": 2478,
-            "density": 18
+            "area": 65,
+            "density": 703
         },
         "Thurston County, Washington": {
             "name": "Thurston County",
             "state": "Washington",
             "fips": "53067",
             "population": 290536,
-            "area": 727,
-            "density": 400
+            "area": 67,
+            "density": 4336
         },
         "Wahkiakum County, Washington": {
             "name": "Wahkiakum County",
             "state": "Washington",
             "fips": "53069",
             "population": 4488,
-            "area": 264,
-            "density": 17
+            "area": 69,
+            "density": 65
         },
         "Walla Walla County, Washington": {
             "name": "Walla Walla County",
             "state": "Washington",
             "fips": "53071",
             "population": 60760,
-            "area": 1270,
-            "density": 48
+            "area": 71,
+            "density": 856
         },
         "Whatcom County, Washington": {
             "name": "Whatcom County",
             "state": "Washington",
             "fips": "53073",
             "population": 229247,
-            "area": 2120,
-            "density": 108
+            "area": 73,
+            "density": 3140
         },
         "Whitman County, Washington": {
             "name": "Whitman County",
             "state": "Washington",
             "fips": "53075",
             "population": 50104,
-            "area": 2159,
-            "density": 23
+            "area": 75,
+            "density": 668
         },
         "Yakima County, Washington": {
             "name": "Yakima County",
             "state": "Washington",
             "fips": "53077",
             "population": 250873,
-            "area": 4296,
-            "density": 58
+            "area": 77,
+            "density": 3258
         }
     },
     "West Virginia": {
