@@ -4554,7 +4554,7 @@
             "name": "Jefferson County",
             "state": "Idaho",
             "fips": "16051",
-            "population": 26140,
+            "population": 26139,
             "area": 1095,
             "density": 24
         },
@@ -4740,7 +4740,7 @@
             "name": "Brown County",
             "state": "Illinois",
             "fips": "17009",
-            "population": 6937,
+            "population": 6936,
             "area": 306,
             "density": 23
         },
@@ -9700,113 +9700,113 @@
             "name": "Barnstable County",
             "state": "Massachusetts",
             "fips": "25001",
-            "population": 215888,
+            "population": 212990,
             "area": 396,
-            "density": 545
+            "density": 538
         },
         "Berkshire County, Massachusetts": {
             "name": "Berkshire County",
             "state": "Massachusetts",
             "fips": "25003",
-            "population": 131219,
+            "population": 124944,
             "area": 931,
-            "density": 141
+            "density": 134
         },
         "Bristol County, Massachusetts": {
             "name": "Bristol County",
             "state": "Massachusetts",
             "fips": "25005",
-            "population": 548285,
+            "population": 565217,
             "area": 556,
-            "density": 986
+            "density": 1017
         },
         "Dukes County, Massachusetts": {
             "name": "Dukes County",
             "state": "Massachusetts",
             "fips": "25007",
-            "population": 16535,
+            "population": 17332,
             "area": 104,
-            "density": 159
+            "density": 167
         },
         "Essex County, Massachusetts": {
             "name": "Essex County",
             "state": "Massachusetts",
             "fips": "25009",
-            "population": 743159,
+            "population": 789034,
             "area": 498,
-            "density": 1492
+            "density": 1584
         },
         "Franklin County, Massachusetts": {
             "name": "Franklin County",
             "state": "Massachusetts",
             "fips": "25011",
-            "population": 71372,
+            "population": 70180,
             "area": 702,
-            "density": 102
+            "density": 100
         },
         "Hampden County, Massachusetts": {
             "name": "Hampden County",
             "state": "Massachusetts",
             "fips": "25013",
-            "population": 463490,
+            "population": 466372,
             "area": 618,
-            "density": 750
+            "density": 755
         },
         "Hampshire County, Massachusetts": {
             "name": "Hampshire County",
             "state": "Massachusetts",
             "fips": "25015",
-            "population": 158080,
+            "population": 160830,
             "area": 529,
-            "density": 299
+            "density": 304
         },
         "Middlesex County, Massachusetts": {
             "name": "Middlesex County",
             "state": "Massachusetts",
             "fips": "25017",
-            "population": 1503085,
+            "population": 1611699,
             "area": 824,
-            "density": 1824
+            "density": 1956
         },
         "Nantucket County, Massachusetts": {
             "name": "Nantucket County",
             "state": "Massachusetts",
             "fips": "25019",
-            "population": 10172,
+            "population": 11399,
             "area": 48,
-            "density": 212
+            "density": 237
         },
         "Norfolk County, Massachusetts": {
             "name": "Norfolk County",
             "state": "Massachusetts",
             "fips": "25021",
-            "population": 670850,
+            "population": 706775,
             "area": 400,
-            "density": 1677
+            "density": 1767
         },
         "Plymouth County, Massachusetts": {
             "name": "Plymouth County",
             "state": "Massachusetts",
             "fips": "25023",
-            "population": 494919,
+            "population": 521202,
             "area": 661,
-            "density": 749
+            "density": 789
         },
         "Suffolk County, Massachusetts": {
             "name": "Suffolk County",
             "state": "Massachusetts",
             "fips": "25025",
-            "population": 722023,
+            "population": 803907,
             "area": 58,
-            "density": 12449
+            "density": 13860
         },
         "Worcester County, Massachusetts": {
             "name": "Worcester County",
             "state": "Massachusetts",
             "fips": "25027",
-            "population": 798552,
+            "population": 830622,
             "area": 1513,
-            "density": 528
+            "density": 549
         }
     },
     "Michigan": {
