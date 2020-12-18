@@ -1593,7 +1593,7 @@ Yakutat,Alaska,02282,540,7623,0
 "Broadwater County",Montana,30007,5667,1192,5
 "Carbon County",Montana,30009,10399,2048,5
 "Carter County",Montana,30011,1169,3340,0
-"Cascade County",Montana,30013,82344,2698,31
+"Cascade County",Montana,30013,81366,2698,30
 "Chouteau County",Montana,30015,5894,3973,1
 "Custer County",Montana,30017,12092,3783,3
 "Daniels County",Montana,30019,1793,1426,1
@@ -1601,8 +1601,8 @@ Yakutat,Alaska,02282,540,7623,0
 "Deer Lodge County",Montana,30023,9150,737,12
 "Fallon County",Montana,30025,3108,1620,2
 "Fergus County",Montana,30027,11442,4339,3
-"Flathead County",Montana,30029,94924,5099,19
-"Gallatin County",Montana,30031,97308,2507,39
+"Flathead County",Montana,30029,103806,5099,20
+"Gallatin County",Montana,30031,114434,2507,46
 "Garfield County",Montana,30033,1309,4668,0
 "Glacier County",Montana,30035,13696,2995,5
 "Golden Valley County",Montana,30037,852,1175,1
@@ -1611,38 +1611,38 @@ Yakutat,Alaska,02282,540,7623,0
 "Jefferson County",Montana,30043,11558,1657,7
 "Judith Basin County",Montana,30045,1991,1870,1
 "Lake County",Montana,30047,29099,1494,19
-"Lewis and Clark County",Montana,30049,65856,3461,19
+"Lewis and Clark County",Montana,30049,69432,3461,20
 "Liberty County",Montana,30051,2359,1430,2
 "Lincoln County",Montana,30053,19125,3613,5
 "McCone County",Montana,30055,1694,2643,1
 "Madison County",Montana,30057,7820,3587,2
 "Meagher County",Montana,30059,1853,2392,1
-"Mineral County",Montana,30061,4257,1220,3
-"Missoula County",Montana,30063,112684,2598,43
-"Musselshell County",Montana,30065,4589,1867,2
-"Park County",Montana,30067,15880,2656,6
-"Petroleum County",Montana,30069,485,1654,0
-"Phillips County",Montana,30071,4192,5140,1
-"Pondera County",Montana,30073,6219,1625,4
-"Powder River County",Montana,30075,1783,3297,1
-"Powell County",Montana,30077,6909,2326,3
-"Prairie County",Montana,30079,1148,1737,1
-"Ravalli County",Montana,30081,41030,2394,17
-"Richland County",Montana,30083,11576,2084,6
-"Roosevelt County",Montana,30085,11332,2356,5
-"Rosebud County",Montana,30087,9326,5012,2
-"Sanders County",Montana,30089,11364,2762,4
-"Sheridan County",Montana,30091,3696,1677,2
-"Silver Bow County",Montana,30093,34680,718,48
-"Stillwater County",Montana,30095,9290,1795,5
-"Sweet Grass County",Montana,30097,3665,1855,2
-"Teton County",Montana,30099,6064,2273,3
-"Toole County",Montana,30101,5150,1911,3
-"Treasure County",Montana,30103,692,979,1
-"Valley County",Montana,30105,7640,4921,2
-"Wheatland County",Montana,30107,2102,1423,1
-"Wibaux County",Montana,30109,1121,889,1
-"Yellowstone County",Montana,30111,155634,2635,59
+"Mineral County",Montana,30061,4316,1220,4
+"Missoula County",Montana,30063,119600,2598,46
+"Musselshell County",Montana,30065,4651,1867,2
+"Park County",Montana,30067,16606,2656,6
+"Petroleum County",Montana,30069,513,1654,0
+"Phillips County",Montana,30071,4074,5140,1
+"Pondera County",Montana,30073,5972,1625,4
+"Powder River County",Montana,30075,1716,3297,1
+"Powell County",Montana,30077,6968,2326,3
+"Prairie County",Montana,30079,1087,1737,1
+"Ravalli County",Montana,30081,43806,2394,18
+"Richland County",Montana,30083,10913,2084,5
+"Roosevelt County",Montana,30085,11059,2356,5
+"Rosebud County",Montana,30087,9063,5012,2
+"Sanders County",Montana,30089,11844,2762,4
+"Sheridan County",Montana,30091,3424,1677,2
+"Silver Bow County",Montana,30093,34915,718,49
+"Stillwater County",Montana,30095,9534,1795,5
+"Sweet Grass County",Montana,30097,3710,1855,2
+"Teton County",Montana,30099,6162,2273,3
+"Toole County",Montana,30101,4853,1911,3
+"Treasure County",Montana,30103,679,979,1
+"Valley County",Montana,30105,7437,4921,2
+"Wheatland County",Montana,30107,2236,1423,2
+"Wibaux County",Montana,30109,1034,889,1
+"Yellowstone County",Montana,30111,161300,2635,61
 "Adams County",Nebraska,31001,31610,563,56
 "Antelope County",Nebraska,31003,6456,857,8
 "Arthur County",Nebraska,31005,458,715,1
@@ -1763,27 +1763,27 @@ Yakutat,Alaska,02282,540,7623,0
 "Rockingham County","New Hampshire",33015,301777,695,434
 "Strafford County","New Hampshire",33017,126825,369,344
 "Sullivan County","New Hampshire",33019,42967,537,80
-"Atlantic County","New Jersey",34001,265429,561,473
-"Bergen County","New Jersey",34003,936692,234,4003
-"Burlington County","New Jersey",34005,445384,805,553
-"Camden County","New Jersey",34007,507078,222,2284
-"Cape May County","New Jersey",34009,92560,255,363
-"Cumberland County","New Jersey",34011,150972,489,309
-"Essex County","New Jersey",34013,799767,126,6347
-"Gloucester County","New Jersey",34015,291408,325,897
-"Hudson County","New Jersey",34017,676061,47,14384
-"Hunterdon County","New Jersey",34019,124714,430,290
-"Mercer County","New Jersey",34021,369811,226,1636
-"Middlesex County","New Jersey",34023,829685,311,2668
-"Monmouth County","New Jersey",34025,621354,472,1316
-"Morris County","New Jersey",34027,494228,469,1054
-"Ocean County","New Jersey",34029,601651,636,946
-"Passaic County","New Jersey",34031,503310,185,2721
-"Salem County","New Jersey",34033,62607,338,185
-"Somerset County","New Jersey",34035,331164,305,1086
-"Sussex County","New Jersey",34037,140799,521,270
-"Union County","New Jersey",34039,558067,103,5418
-"Warren County","New Jersey",34041,105779,358,295
+"Atlantic County","New Jersey",34001,263670,561,470
+"Bergen County","New Jersey",34003,932202,234,3984
+"Burlington County","New Jersey",34005,445349,805,553
+"Camden County","New Jersey",34007,506471,222,2281
+"Cape May County","New Jersey",34009,92039,255,361
+"Cumberland County","New Jersey",34011,149527,489,306
+"Essex County","New Jersey",34013,798975,126,6341
+"Gloucester County","New Jersey",34015,291636,325,897
+"Hudson County","New Jersey",34017,672391,47,14306
+"Hunterdon County","New Jersey",34019,124371,430,289
+"Mercer County","New Jersey",34021,367430,226,1626
+"Middlesex County","New Jersey",34023,825062,311,2653
+"Monmouth County","New Jersey",34025,618795,472,1311
+"Morris County","New Jersey",34027,491845,469,1049
+"Ocean County","New Jersey",34029,607186,636,955
+"Passaic County","New Jersey",34031,501826,185,2713
+"Salem County","New Jersey",34033,62385,338,185
+"Somerset County","New Jersey",34035,328934,305,1078
+"Sussex County","New Jersey",34037,140488,521,270
+"Union County","New Jersey",34039,556341,103,5401
+"Warren County","New Jersey",34041,105267,358,294
 "Bernalillo County","New Mexico",35001,679121,1166,582
 "Catron County","New Mexico",35003,3527,6928,1
 "Chaves County","New Mexico",35005,64615,6071,11
@@ -2619,7 +2619,7 @@ Yakutat,Alaska,02282,540,7623,0
 "Hays County",Texas,48209,214485,678,316
 "Hemphill County",Texas,48211,4024,910,4
 "Henderson County",Texas,48213,81064,874,93
-"Hidalgo County",Texas,48215,860661,1569,549
+"Hidalgo County",Texas,48215,774769,1569,494
 "Hill County",Texas,48217,35852,962,37
 "Hockley County",Texas,48219,23088,908,25
 "Hood County",Texas,48221,58273,422,138
@@ -2791,7 +2791,7 @@ Yakutat,Alaska,02282,540,7623,0
 "Tooele County",Utah,49045,72259,6941,10
 "Uintah County",Utah,49047,35734,4480,8
 "Utah County",Utah,49049,636235,2003,318
-"Wasatch County",Utah,49051,34091,1176,29
+"Wasatch County",Utah,49051,23530,1176,20
 "Washington County",Utah,49053,177556,2426,73
 "Wayne County",Utah,49055,2711,2461,1
 "Weber County",Utah,49057,260213,576,452

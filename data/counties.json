@@ -12755,9 +12755,9 @@
         "name": "Cascade County",
         "state": "Montana",
         "fips": "30013",
-        "population": 82344,
+        "population": 81366,
         "area": 2698,
-        "density": 31
+        "density": 30
     },
     "Chouteau County, Montana": {
         "name": "Chouteau County",
@@ -12819,17 +12819,17 @@
         "name": "Flathead County",
         "state": "Montana",
         "fips": "30029",
-        "population": 94924,
+        "population": 103806,
         "area": 5099,
-        "density": 19
+        "density": 20
     },
     "Gallatin County, Montana": {
         "name": "Gallatin County",
         "state": "Montana",
         "fips": "30031",
-        "population": 97308,
+        "population": 114434,
         "area": 2507,
-        "density": 39
+        "density": 46
     },
     "Garfield County, Montana": {
         "name": "Garfield County",
@@ -12899,9 +12899,9 @@
         "name": "Lewis and Clark County",
         "state": "Montana",
         "fips": "30049",
-        "population": 65856,
+        "population": 69432,
         "area": 3461,
-        "density": 19
+        "density": 20
     },
     "Liberty County, Montana": {
         "name": "Liberty County",
@@ -12947,23 +12947,23 @@
         "name": "Mineral County",
         "state": "Montana",
         "fips": "30061",
-        "population": 4257,
+        "population": 4316,
         "area": 1220,
-        "density": 3
+        "density": 4
     },
     "Missoula County, Montana": {
         "name": "Missoula County",
         "state": "Montana",
         "fips": "30063",
-        "population": 112684,
+        "population": 119600,
         "area": 2598,
-        "density": 43
+        "density": 46
     },
     "Musselshell County, Montana": {
         "name": "Musselshell County",
         "state": "Montana",
         "fips": "30065",
-        "population": 4589,
+        "population": 4651,
         "area": 1867,
         "density": 2
     },
@@ -12971,7 +12971,7 @@
         "name": "Park County",
         "state": "Montana",
         "fips": "30067",
-        "population": 15880,
+        "population": 16606,
         "area": 2656,
         "density": 6
     },
@@ -12979,7 +12979,7 @@
         "name": "Petroleum County",
         "state": "Montana",
         "fips": "30069",
-        "population": 485,
+        "population": 513,
         "area": 1654,
         "density": 0
     },
@@ -12987,7 +12987,7 @@
         "name": "Phillips County",
         "state": "Montana",
         "fips": "30071",
-        "population": 4192,
+        "population": 4074,
         "area": 5140,
         "density": 1
     },
@@ -12995,7 +12995,7 @@
         "name": "Pondera County",
         "state": "Montana",
         "fips": "30073",
-        "population": 6219,
+        "population": 5972,
         "area": 1625,
         "density": 4
     },
@@ -13003,7 +13003,7 @@
         "name": "Powder River County",
         "state": "Montana",
         "fips": "30075",
-        "population": 1783,
+        "population": 1716,
         "area": 3297,
         "density": 1
     },
@@ -13011,7 +13011,7 @@
         "name": "Powell County",
         "state": "Montana",
         "fips": "30077",
-        "population": 6909,
+        "population": 6968,
         "area": 2326,
         "density": 3
     },
@@ -13019,7 +13019,7 @@
         "name": "Prairie County",
         "state": "Montana",
         "fips": "30079",
-        "population": 1148,
+        "population": 1087,
         "area": 1737,
         "density": 1
     },
@@ -13027,23 +13027,23 @@
         "name": "Ravalli County",
         "state": "Montana",
         "fips": "30081",
-        "population": 41030,
+        "population": 43806,
         "area": 2394,
-        "density": 17
+        "density": 18
     },
     "Richland County, Montana": {
         "name": "Richland County",
         "state": "Montana",
         "fips": "30083",
-        "population": 11576,
+        "population": 10913,
         "area": 2084,
-        "density": 6
+        "density": 5
     },
     "Roosevelt County, Montana": {
         "name": "Roosevelt County",
         "state": "Montana",
         "fips": "30085",
-        "population": 11332,
+        "population": 11059,
         "area": 2356,
         "density": 5
     },
@@ -13051,7 +13051,7 @@
         "name": "Rosebud County",
         "state": "Montana",
         "fips": "30087",
-        "population": 9326,
+        "population": 9063,
         "area": 5012,
         "density": 2
     },
@@ -13059,7 +13059,7 @@
         "name": "Sanders County",
         "state": "Montana",
         "fips": "30089",
-        "population": 11364,
+        "population": 11844,
         "area": 2762,
         "density": 4
     },
@@ -13067,7 +13067,7 @@
         "name": "Sheridan County",
         "state": "Montana",
         "fips": "30091",
-        "population": 3696,
+        "population": 3424,
         "area": 1677,
         "density": 2
     },
@@ -13075,15 +13075,15 @@
         "name": "Silver Bow County",
         "state": "Montana",
         "fips": "30093",
-        "population": 34680,
+        "population": 34915,
         "area": 718,
-        "density": 48
+        "density": 49
     },
     "Stillwater County, Montana": {
         "name": "Stillwater County",
         "state": "Montana",
         "fips": "30095",
-        "population": 9290,
+        "population": 9534,
         "area": 1795,
         "density": 5
     },
@@ -13091,7 +13091,7 @@
         "name": "Sweet Grass County",
         "state": "Montana",
         "fips": "30097",
-        "population": 3665,
+        "population": 3710,
         "area": 1855,
         "density": 2
     },
@@ -13099,7 +13099,7 @@
         "name": "Teton County",
         "state": "Montana",
         "fips": "30099",
-        "population": 6064,
+        "population": 6162,
         "area": 2273,
         "density": 3
     },
@@ -13107,7 +13107,7 @@
         "name": "Toole County",
         "state": "Montana",
         "fips": "30101",
-        "population": 5150,
+        "population": 4853,
         "area": 1911,
         "density": 3
     },
@@ -13115,7 +13115,7 @@
         "name": "Treasure County",
         "state": "Montana",
         "fips": "30103",
-        "population": 692,
+        "population": 679,
         "area": 979,
         "density": 1
     },
@@ -13123,7 +13123,7 @@
         "name": "Valley County",
         "state": "Montana",
         "fips": "30105",
-        "population": 7640,
+        "population": 7437,
         "area": 4921,
         "density": 2
     },
@@ -13131,15 +13131,15 @@
         "name": "Wheatland County",
         "state": "Montana",
         "fips": "30107",
-        "population": 2102,
+        "population": 2236,
         "area": 1423,
-        "density": 1
+        "density": 2
     },
     "Wibaux County, Montana": {
         "name": "Wibaux County",
         "state": "Montana",
         "fips": "30109",
-        "population": 1121,
+        "population": 1034,
         "area": 889,
         "density": 1
     },
@@ -13147,9 +13147,9 @@
         "name": "Yellowstone County",
         "state": "Montana",
         "fips": "30111",
-        "population": 155634,
+        "population": 161300,
         "area": 2635,
-        "density": 59
+        "density": 61
     },
     "Adams County, Nebraska": {
         "name": "Adams County",
@@ -14115,23 +14115,23 @@
         "name": "Atlantic County",
         "state": "New Jersey",
         "fips": "34001",
-        "population": 265429,
+        "population": 263670,
         "area": 561,
-        "density": 473
+        "density": 470
     },
     "Bergen County, New Jersey": {
         "name": "Bergen County",
         "state": "New Jersey",
         "fips": "34003",
-        "population": 936692,
+        "population": 932202,
         "area": 234,
-        "density": 4003
+        "density": 3984
     },
     "Burlington County, New Jersey": {
         "name": "Burlington County",
         "state": "New Jersey",
         "fips": "34005",
-        "population": 445384,
+        "population": 445349,
         "area": 805,
         "density": 553
     },
@@ -14139,39 +14139,39 @@
         "name": "Camden County",
         "state": "New Jersey",
         "fips": "34007",
-        "population": 507078,
+        "population": 506471,
         "area": 222,
-        "density": 2284
+        "density": 2281
     },
     "Cape May County, New Jersey": {
         "name": "Cape May County",
         "state": "New Jersey",
         "fips": "34009",
-        "population": 92560,
+        "population": 92039,
         "area": 255,
-        "density": 363
+        "density": 361
     },
     "Cumberland County, New Jersey": {
         "name": "Cumberland County",
         "state": "New Jersey",
         "fips": "34011",
-        "population": 150972,
+        "population": 149527,
         "area": 489,
-        "density": 309
+        "density": 306
     },
     "Essex County, New Jersey": {
         "name": "Essex County",
         "state": "New Jersey",
         "fips": "34013",
-        "population": 799767,
+        "population": 798975,
         "area": 126,
-        "density": 6347
+        "density": 6341
     },
     "Gloucester County, New Jersey": {
         "name": "Gloucester County",
         "state": "New Jersey",
         "fips": "34015",
-        "population": 291408,
+        "population": 291636,
         "area": 325,
         "density": 897
     },
@@ -14179,71 +14179,71 @@
         "name": "Hudson County",
         "state": "New Jersey",
         "fips": "34017",
-        "population": 676061,
+        "population": 672391,
         "area": 47,
-        "density": 14384
+        "density": 14306
     },
     "Hunterdon County, New Jersey": {
         "name": "Hunterdon County",
         "state": "New Jersey",
         "fips": "34019",
-        "population": 124714,
+        "population": 124371,
         "area": 430,
-        "density": 290
+        "density": 289
     },
     "Mercer County, New Jersey": {
         "name": "Mercer County",
         "state": "New Jersey",
         "fips": "34021",
-        "population": 369811,
+        "population": 367430,
         "area": 226,
-        "density": 1636
+        "density": 1626
     },
     "Middlesex County, New Jersey": {
         "name": "Middlesex County",
         "state": "New Jersey",
         "fips": "34023",
-        "population": 829685,
+        "population": 825062,
         "area": 311,
-        "density": 2668
+        "density": 2653
     },
     "Monmouth County, New Jersey": {
         "name": "Monmouth County",
         "state": "New Jersey",
         "fips": "34025",
-        "population": 621354,
+        "population": 618795,
         "area": 472,
-        "density": 1316
+        "density": 1311
     },
     "Morris County, New Jersey": {
         "name": "Morris County",
         "state": "New Jersey",
         "fips": "34027",
-        "population": 494228,
+        "population": 491845,
         "area": 469,
-        "density": 1054
+        "density": 1049
     },
     "Ocean County, New Jersey": {
         "name": "Ocean County",
         "state": "New Jersey",
         "fips": "34029",
-        "population": 601651,
+        "population": 607186,
         "area": 636,
-        "density": 946
+        "density": 955
     },
     "Passaic County, New Jersey": {
         "name": "Passaic County",
         "state": "New Jersey",
         "fips": "34031",
-        "population": 503310,
+        "population": 501826,
         "area": 185,
-        "density": 2721
+        "density": 2713
     },
     "Salem County, New Jersey": {
         "name": "Salem County",
         "state": "New Jersey",
         "fips": "34033",
-        "population": 62607,
+        "population": 62385,
         "area": 338,
         "density": 185
     },
@@ -14251,15 +14251,15 @@
         "name": "Somerset County",
         "state": "New Jersey",
         "fips": "34035",
-        "population": 331164,
+        "population": 328934,
         "area": 305,
-        "density": 1086
+        "density": 1078
     },
     "Sussex County, New Jersey": {
         "name": "Sussex County",
         "state": "New Jersey",
         "fips": "34037",
-        "population": 140799,
+        "population": 140488,
         "area": 521,
         "density": 270
     },
@@ -14267,17 +14267,17 @@
         "name": "Union County",
         "state": "New Jersey",
         "fips": "34039",
-        "population": 558067,
+        "population": 556341,
         "area": 103,
-        "density": 5418
+        "density": 5401
     },
     "Warren County, New Jersey": {
         "name": "Warren County",
         "state": "New Jersey",
         "fips": "34041",
-        "population": 105779,
+        "population": 105267,
         "area": 358,
-        "density": 295
+        "density": 294
     },
     "Bernalillo County, New Mexico": {
         "name": "Bernalillo County",
@@ -20963,9 +20963,9 @@
         "name": "Hidalgo County",
         "state": "Texas",
         "fips": "48215",
-        "population": 860661,
+        "population": 774769,
         "area": 1569,
-        "density": 549
+        "density": 494
     },
     "Hill County, Texas": {
         "name": "Hill County",
@@ -22339,9 +22339,9 @@
         "name": "Wasatch County",
         "state": "Utah",
         "fips": "49051",
-        "population": 34091,
+        "population": 23530,
         "area": 1176,
-        "density": 29
+        "density": 20
     },
     "Washington County, Utah": {
         "name": "Washington County",
