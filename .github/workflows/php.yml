@@ -39,5 +39,5 @@ jobs:
       with:
         commit-message: update authors
         title: Update County data
-          body: Update Counties with data scraped from Wikipedia.
-          branch: update-county-data
+        body: Update Counties with data scraped from Wikipedia.
+        branch: update-county-data
