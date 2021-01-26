@@ -2,7 +2,7 @@ name: PHP Composer
 
 on:
   schedule:
-    - cron:  '0 * * * *'
+    - cron:  '*/30 * * * *'
 
 jobs:
   build:

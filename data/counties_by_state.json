@@ -3038,7 +3038,7 @@
             "name": "Appling County",
             "state": "Georgia",
             "fips": "13001",
-            "population": 18368,
+            "population": 18386,
             "area": 509,
             "density": 36
         },
@@ -3046,15 +3046,15 @@
             "name": "Atkinson County",
             "state": "Georgia",
             "fips": "13003",
-            "population": 8284,
+            "population": 8165,
             "area": 338,
-            "density": 25
+            "density": 24
         },
         "Bacon County, Georgia": {
             "name": "Bacon County",
             "state": "Georgia",
             "fips": "13005",
-            "population": 11198,
+            "population": 11164,
             "area": 285,
             "density": 39
         },
@@ -3062,87 +3062,87 @@
             "name": "Baker County",
             "state": "Georgia",
             "fips": "13007",
-            "population": 3366,
+            "population": 3038,
             "area": 343,
-            "density": 10
+            "density": 9
         },
         "Baldwin County, Georgia": {
             "name": "Baldwin County",
             "state": "Georgia",
             "fips": "13009",
-            "population": 46367,
+            "population": 44890,
             "area": 258,
-            "density": 180
+            "density": 174
         },
         "Banks County, Georgia": {
             "name": "Banks County",
             "state": "Georgia",
             "fips": "13011",
-            "population": 18316,
+            "population": 19234,
             "area": 234,
-            "density": 78
+            "density": 82
         },
         "Barrow County, Georgia": {
             "name": "Barrow County",
             "state": "Georgia",
             "fips": "13013",
-            "population": 70169,
+            "population": 83240,
             "area": 162,
-            "density": 433
+            "density": 514
         },
         "Bartow County, Georgia": {
             "name": "Bartow County",
             "state": "Georgia",
             "fips": "13015",
-            "population": 100661,
+            "population": 107738,
             "area": 460,
-            "density": 219
+            "density": 234
         },
         "Ben Hill County, Georgia": {
             "name": "Ben Hill County",
             "state": "Georgia",
             "fips": "13017",
-            "population": 17538,
+            "population": 16700,
             "area": 252,
-            "density": 70
+            "density": 66
         },
         "Berrien County, Georgia": {
             "name": "Berrien County",
             "state": "Georgia",
             "fips": "13019",
-            "population": 19041,
+            "population": 19397,
             "area": 452,
-            "density": 42
+            "density": 43
         },
         "Bibb County, Georgia": {
             "name": "Bibb County",
             "state": "Georgia",
             "fips": "13021",
-            "population": 156462,
+            "population": 153159,
             "area": 250,
-            "density": 626
+            "density": 613
         },
         "Bleckley County, Georgia": {
             "name": "Bleckley County",
             "state": "Georgia",
             "fips": "13023",
-            "population": 12913,
+            "population": 12873,
             "area": 217,
-            "density": 60
+            "density": 59
         },
         "Brantley County, Georgia": {
             "name": "Brantley County",
             "state": "Georgia",
             "fips": "13025",
-            "population": 18587,
+            "population": 19109,
             "area": 444,
-            "density": 42
+            "density": 43
         },
         "Brooks County, Georgia": {
             "name": "Brooks County",
             "state": "Georgia",
             "fips": "13027",
-            "population": 15403,
+            "population": 15457,
             "area": 494,
             "density": 31
         },
@@ -3150,79 +3150,79 @@
             "name": "Bryan County",
             "state": "Georgia",
             "fips": "13029",
-            "population": 32214,
+            "population": 39627,
             "area": 442,
-            "density": 73
+            "density": 90
         },
         "Bulloch County, Georgia": {
             "name": "Bulloch County",
             "state": "Georgia",
             "fips": "13031",
-            "population": 72694,
+            "population": 79608,
             "area": 683,
-            "density": 106
+            "density": 117
         },
         "Burke County, Georgia": {
             "name": "Burke County",
             "state": "Georgia",
             "fips": "13033",
-            "population": 23125,
+            "population": 22383,
             "area": 831,
-            "density": 28
+            "density": 27
         },
         "Butts County, Georgia": {
             "name": "Butts County",
             "state": "Georgia",
             "fips": "13035",
-            "population": 23524,
+            "population": 24936,
             "area": 187,
-            "density": 126
+            "density": 133
         },
         "Calhoun County, Georgia": {
             "name": "Calhoun County",
             "state": "Georgia",
             "fips": "13037",
-            "population": 6504,
+            "population": 6189,
             "area": 280,
-            "density": 23
+            "density": 22
         },
         "Camden County, Georgia": {
             "name": "Camden County",
             "state": "Georgia",
             "fips": "13039",
-            "population": 51402,
+            "population": 54666,
             "area": 630,
-            "density": 82
+            "density": 87
         },
         "Candler County, Georgia": {
             "name": "Candler County",
             "state": "Georgia",
             "fips": "13043",
-            "population": 11117,
+            "population": 10803,
             "area": 247,
-            "density": 45
+            "density": 44
         },
         "Carroll County, Georgia": {
             "name": "Carroll County",
             "state": "Georgia",
             "fips": "13045",
-            "population": 111580,
+            "population": 119992,
             "area": 499,
-            "density": 224
+            "density": 240
         },
         "Catoosa County, Georgia": {
             "name": "Catoosa County",
             "state": "Georgia",
             "fips": "13047",
-            "population": 65046,
+            "population": 67580,
             "area": 162,
-            "density": 402
+            "density": 417
         },
         "Charlton County, Georgia": {
             "name": "Charlton County",
             "state": "Georgia",
             "fips": "13049",
-            "population": 13295,
+            "population": 13392,
             "area": 781,
             "density": 17
         },
@@ -3230,63 +3230,63 @@
             "name": "Chatham County",
             "state": "Georgia",
             "fips": "13051",
-            "population": 276434,
+            "population": 289430,
             "area": 440,
-            "density": 628
+            "density": 658
         },
         "Chattahoochee County, Georgia": {
             "name": "Chattahoochee County",
             "state": "Georgia",
             "fips": "13053",
-            "population": 13037,
+            "population": 10907,
             "area": 249,
-            "density": 52
+            "density": 44
         },
         "Chattooga County, Georgia": {
             "name": "Chattooga County",
             "state": "Georgia",
             "fips": "13055",
-            "population": 25725,
+            "population": 24789,
             "area": 314,
-            "density": 82
+            "density": 79
         },
         "Cherokee County, Georgia": {
             "name": "Cherokee County",
             "state": "Georgia",
             "fips": "13057",
-            "population": 221315,
+            "population": 258773,
             "area": 424,
-            "density": 522
+            "density": 610
         },
         "Clarke County, Georgia": {
             "name": "Clarke County",
             "state": "Georgia",
             "fips": "13059",
-            "population": 120266,
+            "population": 128331,
             "area": 121,
-            "density": 994
+            "density": 1061
         },
         "Clay County, Georgia": {
             "name": "Clay County",
             "state": "Georgia",
             "fips": "13061",
-            "population": 3116,
+            "population": 2834,
             "area": 195,
-            "density": 16
+            "density": 15
         },
         "Clayton County, Georgia": {
             "name": "Clayton County",
             "state": "Georgia",
             "fips": "13063",
-            "population": 265888,
+            "population": 292256,
             "area": 143,
-            "density": 1859
+            "density": 2044
         },
         "Clinch County, Georgia": {
             "name": "Clinch County",
             "state": "Georgia",
             "fips": "13065",
-            "population": 6718,
+            "population": 6618,
             "area": 809,
             "density": 8
         },
@@ -3294,15 +3294,15 @@
             "name": "Cobb County",
             "state": "Georgia",
             "fips": "13067",
-            "population": 707442,
+            "population": 760141,
             "area": 340,
-            "density": 2081
+            "density": 2236
         },
         "Coffee County, Georgia": {
             "name": "Coffee County",
             "state": "Georgia",
             "fips": "13069",
-            "population": 43170,
+            "population": 43273,
             "area": 599,
             "density": 72
         },
@@ -3310,127 +3310,127 @@
             "name": "Colquitt County",
             "state": "Georgia",
             "fips": "13071",
-            "population": 46137,
+            "population": 45600,
             "area": 552,
-            "density": 84
+            "density": 83
         },
         "Columbia County, Georgia": {
             "name": "Columbia County",
             "state": "Georgia",
             "fips": "13073",
-            "population": 131627,
+            "population": 156714,
             "area": 290,
-            "density": 454
+            "density": 540
         },
         "Cook County, Georgia": {
             "name": "Cook County",
             "state": "Georgia",
             "fips": "13075",
-            "population": 16923,
+            "population": 17270,
             "area": 229,
-            "density": 74
+            "density": 75
         },
         "Coweta County, Georgia": {
             "name": "Coweta County",
             "state": "Georgia",
             "fips": "13077",
-            "population": 130929,
+            "population": 148509,
             "area": 443,
-            "density": 296
+            "density": 335
         },
         "Crawford County, Georgia": {
             "name": "Crawford County",
             "state": "Georgia",
             "fips": "13079",
-            "population": 12600,
+            "population": 12404,
             "area": 325,
-            "density": 39
+            "density": 38
         },
         "Crisp County, Georgia": {
             "name": "Crisp County",
             "state": "Georgia",
             "fips": "13081",
-            "population": 23606,
+            "population": 22372,
             "area": 274,
-            "density": 86
+            "density": 82
         },
         "Dade County, Georgia": {
             "name": "Dade County",
             "state": "Georgia",
             "fips": "13083",
-            "population": 16490,
+            "population": 16116,
             "area": 174,
-            "density": 95
+            "density": 93
         },
         "Dawson County, Georgia": {
             "name": "Dawson County",
             "state": "Georgia",
             "fips": "13085",
-            "population": 22422,
+            "population": 26108,
             "area": 211,
-            "density": 106
+            "density": 124
         },
         "Decatur County, Georgia": {
             "name": "Decatur County",
             "state": "Georgia",
             "fips": "13087",
-            "population": 27509,
+            "population": 26404,
             "area": 597,
-            "density": 46
+            "density": 44
         },
         "DeKalb County, Georgia": {
             "name": "DeKalb County",
             "state": "Georgia",
             "fips": "13089",
-            "population": 707089,
+            "population": 759297,
             "area": 268,
-            "density": 2638
+            "density": 2833
         },
         "Dodge County, Georgia": {
             "name": "Dodge County",
             "state": "Georgia",
             "fips": "13091",
-            "population": 21329,
+            "population": 20605,
             "area": 501,
-            "density": 43
+            "density": 41
         },
         "Dooly County, Georgia": {
             "name": "Dooly County",
             "state": "Georgia",
             "fips": "13093",
-            "population": 14318,
+            "population": 13390,
             "area": 393,
-            "density": 36
+            "density": 34
         },
         "Dougherty County, Georgia": {
             "name": "Dougherty County",
             "state": "Georgia",
             "fips": "13095",
-            "population": 94501,
+            "population": 87956,
             "area": 330,
-            "density": 286
+            "density": 267
         },
         "Douglas County, Georgia": {
             "name": "Douglas County",
             "state": "Georgia",
             "fips": "13097",
-            "population": 133971,
+            "population": 146343,
             "area": 199,
-            "density": 673
+            "density": 735
         },
         "Early County, Georgia": {
             "name": "Early County",
             "state": "Georgia",
             "fips": "13099",
-            "population": 10594,
+            "population": 10190,
             "area": 511,
-            "density": 21
+            "density": 20
         },
         "Echols County, Georgia": {
             "name": "Echols County",
             "state": "Georgia",
             "fips": "13101",
-            "population": 3988,
+            "population": 4006,
             "area": 404,
             "density": 10
         },
@@ -3438,23 +3438,23 @@
             "name": "Effingham County",
             "state": "Georgia",
             "fips": "13103",
-            "population": 53293,
+            "population": 64296,
             "area": 480,
-            "density": 111
+            "density": 134
         },
         "Elbert County, Georgia": {
             "name": "Elbert County",
             "state": "Georgia",
             "fips": "13105",
-            "population": 19684,
+            "population": 19194,
             "area": 369,
-            "density": 53
+            "density": 52
         },
         "Emanuel County, Georgia": {
             "name": "Emanuel County",
             "state": "Georgia",
             "fips": "13107",
-            "population": 22898,
+            "population": 22646,
             "area": 686,
             "density": 33
         },
@@ -3462,7 +3462,7 @@
             "name": "Evans County",
             "state": "Georgia",
             "fips": "13109",
-            "population": 10689,
+            "population": 10654,
             "area": 185,
             "density": 58
         },
@@ -3470,239 +3470,239 @@
             "name": "Fannin County",
             "state": "Georgia",
             "fips": "13111",
-            "population": 23492,
+            "population": 26188,
             "area": 386,
-            "density": 61
+            "density": 68
         },
         "Fayette County, Georgia": {
             "name": "Fayette County",
             "state": "Georgia",
             "fips": "13113",
-            "population": 107524,
+            "population": 114421,
             "area": 197,
-            "density": 546
+            "density": 581
         },
         "Floyd County, Georgia": {
             "name": "Floyd County",
             "state": "Georgia",
             "fips": "13115",
-            "population": 96177,
+            "population": 98498,
             "area": 513,
-            "density": 187
+            "density": 192
         },
         "Forsyth County, Georgia": {
             "name": "Forsyth County",
             "state": "Georgia",
             "fips": "13117",
-            "population": 187928,
+            "population": 244252,
             "area": 226,
-            "density": 832
+            "density": 1081
         },
         "Franklin County, Georgia": {
             "name": "Franklin County",
             "state": "Georgia",
             "fips": "13119",
-            "population": 21894,
+            "population": 23349,
             "area": 263,
-            "density": 83
+            "density": 89
         },
         "Fulton County, Georgia": {
             "name": "Fulton County",
             "state": "Georgia",
             "fips": "13121",
-            "population": 1041423,
+            "population": 1063937,
             "area": 529,
-            "density": 1969
+            "density": 2011
         },
         "Gilmer County, Georgia": {
             "name": "Gilmer County",
             "state": "Georgia",
             "fips": "13123",
-            "population": 28190,
+            "population": 31369,
             "area": 427,
-            "density": 66
+            "density": 73
         },
         "Glascock County, Georgia": {
             "name": "Glascock County",
             "state": "Georgia",
             "fips": "13125",
-            "population": 3142,
+            "population": 2971,
             "area": 144,
-            "density": 22
+            "density": 21
         },
         "Glynn County, Georgia": {
             "name": "Glynn County",
             "state": "Georgia",
             "fips": "13127",
-            "population": 81022,
+            "population": 85292,
             "area": 422,
-            "density": 192
+            "density": 202
         },
         "Gordon County, Georgia": {
             "name": "Gordon County",
             "state": "Georgia",
             "fips": "13129",
-            "population": 55766,
+            "population": 57963,
             "area": 355,
-            "density": 157
+            "density": 163
         },
         "Grady County, Georgia": {
             "name": "Grady County",
             "state": "Georgia",
             "fips": "13131",
-            "population": 25440,
+            "population": 24633,
             "area": 458,
-            "density": 56
+            "density": 54
         },
         "Greene County, Georgia": {
             "name": "Greene County",
             "state": "Georgia",
             "fips": "13133",
-            "population": 16092,
+            "population": 18324,
             "area": 388,
-            "density": 41
+            "density": 47
         },
         "Gwinnett County, Georgia": {
             "name": "Gwinnett County",
             "state": "Georgia",
             "fips": "13135",
-            "population": 842046,
+            "population": 936250,
             "area": 433,
-            "density": 1945
+            "density": 2162
         },
         "Habersham County, Georgia": {
             "name": "Habersham County",
             "state": "Georgia",
             "fips": "13137",
-            "population": 43520,
+            "population": 45328,
             "area": 278,
-            "density": 157
+            "density": 163
         },
         "Hall County, Georgia": {
             "name": "Hall County",
             "state": "Georgia",
             "fips": "13139",
-            "population": 185416,
+            "population": 204441,
             "area": 394,
-            "density": 471
+            "density": 519
         },
         "Hancock County, Georgia": {
             "name": "Hancock County",
             "state": "Georgia",
             "fips": "13141",
-            "population": 8996,
+            "population": 8457,
             "area": 473,
-            "density": 19
+            "density": 18
         },
         "Haralson County, Georgia": {
             "name": "Haralson County",
             "state": "Georgia",
             "fips": "13143",
-            "population": 28400,
+            "population": 29792,
             "area": 282,
-            "density": 101
+            "density": 106
         },
         "Harris County, Georgia": {
             "name": "Harris County",
             "state": "Georgia",
             "fips": "13145",
-            "population": 32550,
+            "population": 35236,
             "area": 464,
-            "density": 70
+            "density": 76
         },
         "Hart County, Georgia": {
             "name": "Hart County",
             "state": "Georgia",
             "fips": "13147",
-            "population": 25518,
+            "population": 26205,
             "area": 232,
-            "density": 110
+            "density": 113
         },
         "Heard County, Georgia": {
             "name": "Heard County",
             "state": "Georgia",
             "fips": "13149",
-            "population": 11633,
+            "population": 11923,
             "area": 296,
-            "density": 39
+            "density": 40
         },
         "Henry County, Georgia": {
             "name": "Henry County",
             "state": "Georgia",
             "fips": "13151",
-            "population": 209053,
+            "population": 234561,
             "area": 323,
-            "density": 647
+            "density": 726
         },
         "Houston County, Georgia": {
             "name": "Houston County",
             "state": "Georgia",
             "fips": "13153",
-            "population": 146136,
+            "population": 157863,
             "area": 377,
-            "density": 388
+            "density": 419
         },
         "Irwin County, Georgia": {
             "name": "Irwin County",
             "state": "Georgia",
             "fips": "13155",
-            "population": 9600,
+            "population": 9416,
             "area": 357,
-            "density": 27
+            "density": 26
         },
         "Jackson County, Georgia": {
             "name": "Jackson County",
             "state": "Georgia",
             "fips": "13157",
-            "population": 60571,
+            "population": 72977,
             "area": 342,
-            "density": 177
+            "density": 213
         },
         "Jasper County, Georgia": {
             "name": "Jasper County",
             "state": "Georgia",
             "fips": "13159",
-            "population": 13630,
+            "population": 14219,
             "area": 370,
-            "density": 37
+            "density": 38
         },
         "Jeff Davis County, Georgia": {
             "name": "Jeff Davis County",
             "state": "Georgia",
             "fips": "13161",
-            "population": 15156,
+            "population": 15115,
             "area": 333,
-            "density": 46
+            "density": 45
         },
         "Jefferson County, Georgia": {
             "name": "Jefferson County",
             "state": "Georgia",
             "fips": "13163",
-            "population": 16432,
+            "population": 15362,
             "area": 528,
-            "density": 31
+            "density": 29
         },
         "Jenkins County, Georgia": {
             "name": "Jenkins County",
             "state": "Georgia",
             "fips": "13165",
-            "population": 9213,
+            "population": 8676,
             "area": 350,
-            "density": 26
+            "density": 25
         },
         "Johnson County, Georgia": {
             "name": "Johnson County",
             "state": "Georgia",
             "fips": "13167",
-            "population": 9897,
+            "population": 9643,
             "area": 304,
-            "density": 33
+            "density": 32
         },
         "Jones County, Georgia": {
             "name": "Jones County",
             "state": "Georgia",
             "fips": "13169",
-            "population": 28577,
+            "population": 28735,
             "area": 394,
             "density": 73
         },
@@ -3710,15 +3710,15 @@
             "name": "Lamar County",
             "state": "Georgia",
             "fips": "13171",
-            "population": 18057,
+            "population": 19077,
             "area": 185,
-            "density": 98
+            "density": 103
         },
         "Lanier County, Georgia": {
             "name": "Lanier County",
             "state": "Georgia",
             "fips": "13173",
-            "population": 10400,
+            "population": 10423,
             "area": 187,
             "density": 56
         },
@@ -3726,103 +3726,103 @@
             "name": "Laurens County",
             "state": "Georgia",
             "fips": "13175",
-            "population": 48041,
+            "population": 47546,
             "area": 813,
-            "density": 59
+            "density": 58
         },
         "Lee County, Georgia": {
             "name": "Lee County",
             "state": "Georgia",
             "fips": "13177",
-            "population": 28746,
+            "population": 29992,
             "area": 356,
-            "density": 81
+            "density": 84
         },
         "Liberty County, Georgia": {
             "name": "Liberty County",
             "state": "Georgia",
             "fips": "13179",
-            "population": 65471,
+            "population": 61435,
             "area": 519,
-            "density": 126
+            "density": 118
         },
         "Lincoln County, Georgia": {
             "name": "Lincoln County",
             "state": "Georgia",
             "fips": "13181",
-            "population": 7737,
+            "population": 7921,
             "area": 211,
-            "density": 37
+            "density": 38
         },
         "Long County, Georgia": {
             "name": "Long County",
             "state": "Georgia",
             "fips": "13183",
-            "population": 16048,
+            "population": 19559,
             "area": 401,
-            "density": 40
+            "density": 49
         },
         "Lowndes County, Georgia": {
             "name": "Lowndes County",
             "state": "Georgia",
             "fips": "13185",
-            "population": 114552,
+            "population": 117406,
             "area": 504,
-            "density": 227
+            "density": 233
         },
         "Lumpkin County, Georgia": {
             "name": "Lumpkin County",
             "state": "Georgia",
             "fips": "13187",
-            "population": 30611,
+            "population": 33610,
             "area": 284,
-            "density": 108
+            "density": 118
         },
         "Macon County, Georgia": {
             "name": "Macon County",
             "state": "Georgia",
             "fips": "13193",
-            "population": 14263,
+            "population": 12947,
             "area": 403,
-            "density": 35
+            "density": 32
         },
         "Madison County, Georgia": {
             "name": "Madison County",
             "state": "Georgia",
             "fips": "13195",
-            "population": 27922,
+            "population": 29800,
             "area": 284,
-            "density": 98
+            "density": 105
         },
         "Marion County, Georgia": {
             "name": "Marion County",
             "state": "Georgia",
             "fips": "13197",
-            "population": 8711,
+            "population": 8359,
             "area": 367,
-            "density": 24
+            "density": 23
         },
         "McDuffie County, Georgia": {
             "name": "McDuffie County",
             "state": "Georgia",
             "fips": "13189",
-            "population": 21663,
+            "population": 21312,
             "area": 260,
-            "density": 83
+            "density": 82
         },
         "McIntosh County, Georgia": {
             "name": "McIntosh County",
             "state": "Georgia",
             "fips": "13191",
-            "population": 13839,
+            "population": 14378,
             "area": 434,
-            "density": 32
+            "density": 33
         },
         "Meriwether County, Georgia": {
             "name": "Meriwether County",
             "state": "Georgia",
             "fips": "13199",
-            "population": 21273,
+            "population": 21167,
             "area": 503,
             "density": 42
         },
@@ -3830,175 +3830,175 @@
             "name": "Miller County",
             "state": "Georgia",
             "fips": "13201",
-            "population": 5969,
+            "population": 5718,
             "area": 283,
-            "density": 21
+            "density": 20
         },
         "Mitchell County, Georgia": {
             "name": "Mitchell County",
             "state": "Georgia",
             "fips": "13205",
-            "population": 23144,
+            "population": 21863,
             "area": 512,
-            "density": 45
+            "density": 43
         },
         "Monroe County, Georgia": {
             "name": "Monroe County",
             "state": "Georgia",
             "fips": "13207",
-            "population": 26637,
+            "population": 27578,
             "area": 396,
-            "density": 67
+            "density": 70
         },
         "Montgomery County, Georgia": {
             "name": "Montgomery County",
             "state": "Georgia",
             "fips": "13209",
-            "population": 8913,
+            "population": 9172,
             "area": 245,
-            "density": 36
+            "density": 37
         },
         "Morgan County, Georgia": {
             "name": "Morgan County",
             "state": "Georgia",
             "fips": "13211",
-            "population": 17881,
+            "population": 19276,
             "area": 350,
-            "density": 51
+            "density": 55
         },
         "Murray County, Georgia": {
             "name": "Murray County",
             "state": "Georgia",
             "fips": "13213",
-            "population": 39392,
+            "population": 40096,
             "area": 344,
-            "density": 115
+            "density": 117
         },
         "Muscogee County, Georgia": {
             "name": "Muscogee County",
             "state": "Georgia",
             "fips": "13215",
-            "population": 198413,
+            "population": 195769,
             "area": 216,
-            "density": 919
+            "density": 906
         },
         "Newton County, Georgia": {
             "name": "Newton County",
             "state": "Georgia",
             "fips": "13217",
-            "population": 101505,
+            "population": 111744,
             "area": 276,
-            "density": 368
+            "density": 405
         },
         "Oconee County, Georgia": {
             "name": "Oconee County",
             "state": "Georgia",
             "fips": "13219",
-            "population": 33619,
+            "population": 40280,
             "area": 186,
-            "density": 181
+            "density": 217
         },
         "Oglethorpe County, Georgia": {
             "name": "Oglethorpe County",
             "state": "Georgia",
             "fips": "13221",
-            "population": 14618,
+            "population": 15259,
             "area": 441,
-            "density": 33
+            "density": 35
         },
         "Paulding County, Georgia": {
             "name": "Paulding County",
             "state": "Georgia",
             "fips": "13223",
-            "population": 144800,
+            "population": 168667,
             "area": 314,
-            "density": 461
+            "density": 537
         },
         "Peach County, Georgia": {
             "name": "Peach County",
             "state": "Georgia",
             "fips": "13225",
-            "population": 27622,
+            "population": 27546,
             "area": 151,
-            "density": 183
+            "density": 182
         },
         "Pickens County, Georgia": {
             "name": "Pickens County",
             "state": "Georgia",
             "fips": "13227",
-            "population": 29268,
+            "population": 32591,
             "area": 232,
-            "density": 126
+            "density": 140
         },
         "Pierce County, Georgia": {
             "name": "Pierce County",
             "state": "Georgia",
             "fips": "13229",
-            "population": 18844,
+            "population": 19465,
             "area": 343,
-            "density": 55
+            "density": 57
         },
         "Pike County, Georgia": {
             "name": "Pike County",
             "state": "Georgia",
             "fips": "13231",
-            "population": 17810,
+            "population": 18962,
             "area": 218,
-            "density": 82
+            "density": 87
         },
         "Polk County, Georgia": {
             "name": "Polk County",
             "state": "Georgia",
             "fips": "13233",
-            "population": 41188,
+            "population": 42613,
             "area": 311,
-            "density": 132
+            "density": 137
         },
         "Pulaski County, Georgia": {
             "name": "Pulaski County",
             "state": "Georgia",
             "fips": "13235",
-            "population": 11720,
+            "population": 11137,
             "area": 247,
-            "density": 47
+            "density": 45
         },
         "Putnam County, Georgia": {
             "name": "Putnam County",
             "state": "Georgia",
             "fips": "13237",
-            "population": 21198,
+            "population": 22119,
             "area": 344,
-            "density": 62
+            "density": 64
         },
         "Quitman County, Georgia": {
             "name": "Quitman County",
             "state": "Georgia",
             "fips": "13239",
-            "population": 2404,
+            "population": 2299,
             "area": 152,
-            "density": 16
+            "density": 15
         },
         "Rabun County, Georgia": {
             "name": "Rabun County",
             "state": "Georgia",
             "fips": "13241",
-            "population": 16297,
+            "population": 17137,
             "area": 371,
-            "density": 44
+            "density": 46
         },
         "Randolph County, Georgia": {
             "name": "Randolph County",
             "state": "Georgia",
             "fips": "13243",
-            "population": 7327,
+            "population": 6778,
             "area": 429,
-            "density": 17
+            "density": 16
         },
         "Richmond County, Georgia": {
             "name": "Richmond County",
             "state": "Georgia",
             "fips": "13245",
-            "population": 202587,
+            "population": 202518,
             "area": 324,
             "density": 625
         },
@@ -4006,23 +4006,23 @@
             "name": "Rockdale County",
             "state": "Georgia",
             "fips": "13247",
-            "population": 85820,
+            "population": 90896,
             "area": 131,
-            "density": 655
+            "density": 694
         },
         "Schley County, Georgia": {
             "name": "Schley County",
             "state": "Georgia",
             "fips": "13249",
-            "population": 4990,
+            "population": 5257,
             "area": 168,
-            "density": 30
+            "density": 31
         },
         "Screven County, Georgia": {
             "name": "Screven County",
             "state": "Georgia",
             "fips": "13251",
-            "population": 14202,
+            "population": 13966,
             "area": 648,
             "density": 22
         },
@@ -4030,23 +4030,23 @@
             "name": "Seminole County",
             "state": "Georgia",
             "fips": "13253",
-            "population": 8947,
+            "population": 8090,
             "area": 238,
-            "density": 38
+            "density": 34
         },
         "Spalding County, Georgia": {
             "name": "Spalding County",
             "state": "Georgia",
             "fips": "13255",
-            "population": 63865,
+            "population": 66703,
             "area": 198,
-            "density": 323
+            "density": 337
         },
         "Stephens County, Georgia": {
             "name": "Stephens County",
             "state": "Georgia",
             "fips": "13257",
-            "population": 25891,
+            "population": 25925,
             "area": 179,
             "density": 145
         },
@@ -4054,39 +4054,39 @@
             "name": "Stewart County",
             "state": "Georgia",
             "fips": "13259",
-            "population": 6042,
+            "population": 6621,
             "area": 459,
-            "density": 13
+            "density": 14
         },
         "Sumter County, Georgia": {
             "name": "Sumter County",
             "state": "Georgia",
             "fips": "13261",
-            "population": 31554,
+            "population": 29524,
             "area": 485,
-            "density": 65
+            "density": 61
         },
         "Talbot County, Georgia": {
             "name": "Talbot County",
             "state": "Georgia",
             "fips": "13263",
-            "population": 6517,
+            "population": 6195,
             "area": 393,
-            "density": 17
+            "density": 16
         },
         "Taliaferro County, Georgia": {
             "name": "Taliaferro County",
             "state": "Georgia",
             "fips": "13265",
-            "population": 1680,
+            "population": 1537,
             "area": 195,
-            "density": 9
+            "density": 8
         },
         "Tattnall County, Georgia": {
             "name": "Tattnall County",
             "state": "Georgia",
             "fips": "13267",
-            "population": 25384,
+            "population": 25286,
             "area": 484,
             "density": 52
         },
@@ -4094,63 +4094,63 @@
             "name": "Taylor County",
             "state": "Georgia",
             "fips": "13269",
-            "population": 8420,
+            "population": 8020,
             "area": 378,
-            "density": 22
+            "density": 21
         },
         "Telfair County, Georgia": {
             "name": "Telfair County",
             "state": "Georgia",
             "fips": "13271",
-            "population": 16349,
+            "population": 15860,
             "area": 441,
-            "density": 37
+            "density": 36
         },
         "Terrell County, Georgia": {
             "name": "Terrell County",
             "state": "Georgia",
             "fips": "13273",
-            "population": 9045,
+            "population": 8531,
             "area": 336,
-            "density": 27
+            "density": 25
         },
         "Thomas County, Georgia": {
             "name": "Thomas County",
             "state": "Georgia",
             "fips": "13275",
-            "population": 44724,
+            "population": 44451,
             "area": 548,
-            "density": 82
+            "density": 81
         },
         "Tift County, Georgia": {
             "name": "Tift County",
             "state": "Georgia",
             "fips": "13277",
-            "population": 41064,
+            "population": 40644,
             "area": 265,
-            "density": 155
+            "density": 153
         },
         "Toombs County, Georgia": {
             "name": "Toombs County",
             "state": "Georgia",
             "fips": "13279",
-            "population": 27315,
+            "population": 26830,
             "area": 367,
-            "density": 74
+            "density": 73
         },
         "Towns County, Georgia": {
             "name": "Towns County",
             "state": "Georgia",
             "fips": "13281",
-            "population": 10495,
+            "population": 12037,
             "area": 166,
-            "density": 63
+            "density": 73
         },
         "Treutlen County, Georgia": {
             "name": "Treutlen County",
             "state": "Georgia",
             "fips": "13283",
-            "population": 6769,
+            "population": 6901,
             "area": 201,
             "density": 34
         },
@@ -4158,23 +4158,23 @@
             "name": "Troup County",
             "state": "Georgia",
             "fips": "13285",
-            "population": 68468,
+            "population": 69922,
             "area": 414,
-            "density": 165
+            "density": 169
         },
         "Turner County, Georgia": {
             "name": "Turner County",
             "state": "Georgia",
             "fips": "13287",
-            "population": 8410,
+            "population": 7985,
             "area": 286,
-            "density": 29
+            "density": 28
         },
         "Twiggs County, Georgia": {
             "name": "Twiggs County",
             "state": "Georgia",
             "fips": "13289",
-            "population": 8447,
+            "population": 8120,
             "area": 360,
             "density": 23
         },
@@ -4182,39 +4182,39 @@
             "name": "Union County",
             "state": "Georgia",
             "fips": "13291",
-            "population": 21451,
+            "population": 24511,
             "area": 323,
-            "density": 66
+            "density": 76
         },
         "Upson County, Georgia": {
             "name": "Upson County",
             "state": "Georgia",
             "fips": "13293",
-            "population": 26630,
+            "population": 26320,
             "area": 326,
-            "density": 82
+            "density": 81
         },
         "Walker County, Georgia": {
             "name": "Walker County",
             "state": "Georgia",
             "fips": "13295",
-            "population": 68094,
+            "population": 69761,
             "area": 446,
-            "density": 153
+            "density": 156
         },
         "Walton County, Georgia": {
             "name": "Walton County",
             "state": "Georgia",
             "fips": "13297",
-            "population": 84575,
+            "population": 94593,
             "area": 329,
-            "density": 257
+            "density": 288
         },
         "Ware County, Georgia": {
             "name": "Ware County",
             "state": "Georgia",
             "fips": "13299",
-            "population": 35821,
+            "population": 35734,
             "area": 903,
             "density": 40
         },
@@ -4222,39 +4222,39 @@
             "name": "Warren County",
             "state": "Georgia",
             "fips": "13301",
-            "population": 5578,
+            "population": 5254,
             "area": 286,
-            "density": 20
+            "density": 18
         },
         "Washington County, Georgia": {
             "name": "Washington County",
             "state": "Georgia",
             "fips": "13303",
-            "population": 20879,
+            "population": 20374,
             "area": 680,
-            "density": 31
+            "density": 30
         },
         "Wayne County, Georgia": {
             "name": "Wayne County",
             "state": "Georgia",
             "fips": "13305",
-            "population": 30305,
+            "population": 29927,
             "area": 645,
-            "density": 47
+            "density": 46
         },
         "Webster County, Georgia": {
             "name": "Webster County",
             "state": "Georgia",
             "fips": "13307",
-            "population": 2793,
+            "population": 2607,
             "area": 210,
-            "density": 13
+            "density": 12
         },
         "Wheeler County, Georgia": {
             "name": "Wheeler County",
             "state": "Georgia",
             "fips": "13309",
-            "population": 7888,
+            "population": 7855,
             "area": 298,
             "density": 26
         },
@@ -4262,31 +4262,31 @@
             "name": "White County",
             "state": "Georgia",
             "fips": "13311",
-            "population": 27556,
+            "population": 30798,
             "area": 242,
-            "density": 114
+            "density": 127
         },
         "Whitfield County, Georgia": {
             "name": "Whitfield County",
             "state": "Georgia",
             "fips": "13313",
-            "population": 103359,
+            "population": 104628,
             "area": 290,
-            "density": 356
+            "density": 361
         },
         "Wilcox County, Georgia": {
             "name": "Wilcox County",
             "state": "Georgia",
             "fips": "13315",
-            "population": 9068,
+            "population": 8635,
             "area": 380,
-            "density": 24
+            "density": 23
         },
         "Wilkes County, Georgia": {
             "name": "Wilkes County",
             "state": "Georgia",
             "fips": "13317",
-            "population": 10076,
+            "population": 9777,
             "area": 471,
             "density": 21
         },
@@ -4294,17 +4294,17 @@
             "name": "Wilkinson County",
             "state": "Georgia",
             "fips": "13319",
-            "population": 9577,
+            "population": 8954,
             "area": 447,
-            "density": 21
+            "density": 20
         },
         "Worth County, Georgia": {
             "name": "Worth County",
             "state": "Georgia",
             "fips": "13321",
-            "population": 21741,
+            "population": 20247,
             "area": 570,
-            "density": 38
+            "density": 36
         }
     },
     "Hawaii": {
@@ -4708,816 +4708,816 @@
             "name": "Adams County",
             "state": "Illinois",
             "fips": "17001",
-            "population": 67103,
-            "area": 857,
-            "density": 78
+            "population": 65691,
+            "area": 855,
+            "density": 77
         },
         "Alexander County, Illinois": {
             "name": "Alexander County",
             "state": "Illinois",
             "fips": "17003",
-            "population": 8238,
-            "area": 236,
-            "density": 35
+            "population": 6060,
+            "area": 235,
+            "density": 26
         },
         "Bond County, Illinois": {
             "name": "Bond County",
             "state": "Illinois",
             "fips": "17005",
-            "population": 17768,
+            "population": 16630,
             "area": 380,
-            "density": 47
+            "density": 44
         },
         "Boone County, Illinois": {
             "name": "Boone County",
             "state": "Illinois",
             "fips": "17007",
-            "population": 54165,
-            "area": 281,
-            "density": 193
+            "population": 53577,
+            "area": 280,
+            "density": 191
         },
         "Brown County, Illinois": {
             "name": "Brown County",
             "state": "Illinois",
             "fips": "17009",
-            "population": 6936,
-            "area": 306,
-            "density": 23
+            "population": 6556,
+            "area": 305,
+            "density": 21
         },
         "Bureau County, Illinois": {
             "name": "Bureau County",
             "state": "Illinois",
             "fips": "17011",
-            "population": 34978,
+            "population": 32993,
             "area": 869,
-            "density": 40
+            "density": 38
         },
         "Calhoun County, Illinois": {
             "name": "Calhoun County",
             "state": "Illinois",
             "fips": "17013",
-            "population": 5089,
-            "area": 254,
-            "density": 20
+            "population": 4802,
+            "area": 253,
+            "density": 19
         },
         "Carroll County, Illinois": {
             "name": "Carroll County",
             "state": "Illinois",
             "fips": "17015",
-            "population": 15387,
-            "area": 444,
-            "density": 35
+            "population": 14312,
+            "area": 445,
+            "density": 32
         },
         "Cass County, Illinois": {
             "name": "Cass County",
             "state": "Illinois",
             "fips": "17017",
-            "population": 13642,
-            "area": 376,
-            "density": 36
+            "population": 12260,
+            "area": 375,
+            "density": 33
         },
         "Champaign County, Illinois": {
             "name": "Champaign County",
             "state": "Illinois",
             "fips": "17019",
-            "population": 201081,
-            "area": 997,
-            "density": 202
+            "population": 209983,
+            "area": 996,
+            "density": 211
         },
         "Christian County, Illinois": {
             "name": "Christian County",
             "state": "Illinois",
             "fips": "17021",
-            "population": 34800,
+            "population": 32661,
             "area": 709,
-            "density": 49
+            "density": 46
         },
         "Clark County, Illinois": {
             "name": "Clark County",
             "state": "Illinois",
             "fips": "17023",
-            "population": 16335,
-            "area": 502,
-            "density": 33
+            "population": 15596,
+            "area": 501,
+            "density": 31
         },
         "Clay County, Illinois": {
             "name": "Clay County",
             "state": "Illinois",
             "fips": "17025",
-            "population": 13815,
-            "area": 469,
-            "density": 29
+            "population": 13253,
+            "area": 468,
+            "density": 28
         },
         "Clinton County, Illinois": {
             "name": "Clinton County",
             "state": "Illinois",
             "fips": "17027",
-            "population": 37762,
+            "population": 37639,
             "area": 474,
-            "density": 80
+            "density": 79
         },
         "Coles County, Illinois": {
             "name": "Coles County",
             "state": "Illinois",
             "fips": "17029",
-            "population": 53873,
+            "population": 50885,
             "area": 508,
-            "density": 106
+            "density": 100
         },
         "Cook County, Illinois": {
             "name": "Cook County",
             "state": "Illinois",
             "fips": "17031",
-            "population": 5194675,
-            "area": 946,
-            "density": 5491
+            "population": 5180493,
+            "area": 944,
+            "density": 5488
         },
         "Crawford County, Illinois": {
             "name": "Crawford County",
             "state": "Illinois",
             "fips": "17033",
-            "population": 19817,
-            "area": 444,
-            "density": 45
+            "population": 18807,
+            "area": 443,
+            "density": 42
         },
         "Cumberland County, Illinois": {
             "name": "Cumberland County",
             "state": "Illinois",
             "fips": "17035",
-            "population": 11048,
-            "area": 346,
-            "density": 32
+            "population": 10808,
+            "area": 345,
+            "density": 31
         },
         "DeKalb County, Illinois": {
             "name": "DeKalb County",
             "state": "Illinois",
             "fips": "17037",
-            "population": 105160,
-            "area": 634,
-            "density": 166
+            "population": 104143,
+            "area": 631,
+            "density": 165
         },
         "DeWitt County, Illinois": {
             "name": "DeWitt County",
             "state": "Illinois",
             "fips": "17039",
-            "population": 16561,
-            "area": 398,
-            "density": 42
+            "population": 15769,
+            "area": 397,
+            "density": 40
         },
         "Douglas County, Illinois": {
             "name": "Douglas County",
             "state": "Illinois",
             "fips": "17041",
-            "population": 19980,
-            "area": 417,
-            "density": 48
+            "population": 19479,
+            "area": 416,
+            "density": 47
         },
         "DuPage County, Illinois": {
             "name": "DuPage County",
             "state": "Illinois",
             "fips": "17043",
-            "population": 916924,
-            "area": 334,
-            "density": 2745
+            "population": 928589,
+            "area": 327,
+            "density": 2840
         },
         "Edgar County, Illinois": {
             "name": "Edgar County",
             "state": "Illinois",
             "fips": "17045",
-            "population": 18576,
-            "area": 624,
-            "density": 30
+            "population": 17360,
+            "area": 623,
+            "density": 28
         },
         "Edwards County, Illinois": {
             "name": "Edwards County",
             "state": "Illinois",
             "fips": "17047",
-            "population": 6721,
+            "population": 6392,
             "area": 222,
-            "density": 30
+            "density": 29
         },
         "Effingham County, Illinois": {
             "name": "Effingham County",
             "state": "Illinois",
             "fips": "17049",
-            "population": 34242,
-            "area": 479,
-            "density": 71
+            "population": 34208,
+            "area": 478,
+            "density": 72
         },
         "Fayette County, Illinois": {
             "name": "Fayette County",
             "state": "Illinois",
             "fips": "17051",
-            "population": 22140,
+            "population": 21416,
             "area": 716,
-            "density": 31
+            "density": 30
         },
         "Ford County, Illinois": {
             "name": "Ford County",
             "state": "Illinois",
             "fips": "17053",
-            "population": 14081,
-            "area": 486,
-            "density": 29
+            "population": 13264,
+            "area": 485,
+            "density": 27
         },
         "Franklin County, Illinois": {
             "name": "Franklin County",
             "state": "Illinois",
             "fips": "17055",
-            "population": 39561,
-            "area": 412,
-            "density": 96
+            "population": 38701,
+            "area": 408,
+            "density": 95
         },
         "Fulton County, Illinois": {
             "name": "Fulton County",
             "state": "Illinois",
             "fips": "17057",
-            "population": 37069,
-            "area": 866,
-            "density": 43
+            "population": 34844,
+            "area": 865,
+            "density": 40
         },
         "Gallatin County, Illinois": {
             "name": "Gallatin County",
             "state": "Illinois",
             "fips": "17059",
-            "population": 5589,
-            "area": 324,
-            "density": 17
+            "population": 5058,
+            "area": 322,
+            "density": 16
         },
         "Greene County, Illinois": {
             "name": "Greene County",
             "state": "Illinois",
             "fips": "17061",
-            "population": 13886,
+            "population": 13044,
             "area": 543,
-            "density": 26
+            "density": 24
         },
         "Grundy County, Illinois": {
             "name": "Grundy County",
             "state": "Illinois",
             "fips": "17063",
-            "population": 50063,
-            "area": 420,
-            "density": 119
+            "population": 50972,
+            "area": 418,
+            "density": 122
         },
         "Hamilton County, Illinois": {
             "name": "Hamilton County",
             "state": "Illinois",
             "fips": "17065",
-            "population": 8457,
-            "area": 435,
+            "population": 8163,
+            "area": 434,
             "density": 19
         },
         "Hancock County, Illinois": {
             "name": "Hancock County",
             "state": "Illinois",
             "fips": "17067",
-            "population": 19104,
-            "area": 795,
-            "density": 24
+            "population": 17844,
+            "area": 793,
+            "density": 23
         },
         "Hardin County, Illinois": {
             "name": "Hardin County",
             "state": "Illinois",
             "fips": "17069",
-            "population": 4320,
-            "area": 178,
-            "density": 24
+            "population": 3910,
+            "area": 177,
+            "density": 22
         },
         "Henderson County, Illinois": {
             "name": "Henderson County",
             "state": "Illinois",
             "fips": "17071",
-            "population": 7331,
-            "area": 379,
-            "density": 19
+            "population": 6709,
+            "area": 378,
+            "density": 18
         },
         "Henry County, Illinois": {
             "name": "Henry County",
             "state": "Illinois",
             "fips": "17073",
-            "population": 50486,
-            "area": 823,
-            "density": 61
+            "population": 49090,
+            "area": 822,
+            "density": 60
         },
         "Iroquois County, Illinois": {
             "name": "Iroquois County",
             "state": "Illinois",
             "fips": "17075",
-            "population": 29718,
-            "area": 1116,
-            "density": 27
+            "population": 27604,
+            "area": 1117,
+            "density": 25
         },
         "Jackson County, Illinois": {
             "name": "Jackson County",
             "state": "Illinois",
             "fips": "17077",
-            "population": 60218,
-            "area": 588,
-            "density": 102
+            "population": 57419,
+            "area": 584,
+            "density": 98
         },
         "Jasper County, Illinois": {
             "name": "Jasper County",
             "state": "Illinois",
             "fips": "17079",
-            "population": 9698,
+            "population": 9611,
             "area": 494,
-            "density": 20
+            "density": 19
         },
         "Jefferson County, Illinois": {
             "name": "Jefferson County",
             "state": "Illinois",
             "fips": "17081",
-            "population": 38827,
+            "population": 37820,
             "area": 571,
-            "density": 68
+            "density": 66
         },
         "Jersey County, Illinois": {
             "name": "Jersey County",
             "state": "Illinois",
             "fips": "17083",
-            "population": 22985,
+            "population": 21847,
             "area": 369,
-            "density": 62
+            "density": 59
         },
         "Jo Daviess County, Illinois": {
             "name": "Jo Daviess County",
             "state": "Illinois",
             "fips": "17085",
-            "population": 22678,
-            "area": 601,
-            "density": 38
+            "population": 21366,
+            "area": 600,
+            "density": 36
         },
         "Johnson County, Illinois": {
             "name": "Johnson County",
             "state": "Illinois",
             "fips": "17087",
-            "population": 12582,
-            "area": 346,
+            "population": 12456,
+            "area": 343,
             "density": 36
         },
         "Kane County, Illinois": {
             "name": "Kane County",
             "state": "Illinois",
             "fips": "17089",
-            "population": 515269,
-            "area": 521,
-            "density": 989
+            "population": 534216,
+            "area": 519,
+            "density": 1029
         },
         "Kankakee County, Illinois": {
             "name": "Kankakee County",
             "state": "Illinois",
             "fips": "17091",
-            "population": 113449,
-            "area": 678,
-            "density": 167
+            "population": 110024,
+            "area": 676,
+            "density": 163
         },
         "Kendall County, Illinois": {
             "name": "Kendall County",
             "state": "Illinois",
             "fips": "17093",
-            "population": 114736,
-            "area": 321,
-            "density": 357
+            "population": 127915,
+            "area": 320,
+            "density": 400
         },
         "Knox County, Illinois": {
             "name": "Knox County",
             "state": "Illinois",
             "fips": "17095",
-            "population": 52919,
+            "population": 50112,
             "area": 716,
-            "density": 74
+            "density": 70
         },
         "Lake County, Illinois": {
             "name": "Lake County",
             "state": "Illinois",
             "fips": "17097",
-            "population": 703462,
-            "area": 448,
-            "density": 1570
+            "population": 700832,
+            "area": 443,
+            "density": 1582
         },
         "LaSalle County, Illinois": {
             "name": "LaSalle County",
             "state": "Illinois",
             "fips": "17099",
-            "population": 113924,
+            "population": 109430,
             "area": 1135,
-            "density": 100
+            "density": 96
         },
         "Lawrence County, Illinois": {
             "name": "Lawrence County",
             "state": "Illinois",
             "fips": "17101",
-            "population": 16833,
+            "population": 15765,
             "area": 372,
-            "density": 45
+            "density": 42
         },
         "Lee County, Illinois": {
             "name": "Lee County",
             "state": "Illinois",
             "fips": "17103",
-            "population": 36031,
-            "area": 725,
-            "density": 50
+            "population": 34223,
+            "area": 724,
+            "density": 47
         },
         "Livingston County, Illinois": {
             "name": "Livingston County",
             "state": "Illinois",
             "fips": "17105",
-            "population": 38950,
-            "area": 1044,
-            "density": 37
+            "population": 35761,
+            "area": 1043,
+            "density": 34
         },
         "Logan County, Illinois": {
             "name": "Logan County",
             "state": "Illinois",
             "fips": "17107",
-            "population": 30305,
+            "population": 28925,
             "area": 618,
-            "density": 49
+            "density": 47
         },
         "Macon County, Illinois": {
             "name": "Macon County",
             "state": "Illinois",
             "fips": "17115",
-            "population": 110768,
-            "area": 581,
-            "density": 191
+            "population": 104712,
+            "area": 580,
+            "density": 181
         },
         "Macoupin County, Illinois": {
             "name": "Macoupin County",
             "state": "Illinois",
             "fips": "17117",
-            "population": 47765,
-            "area": 864,
-            "density": 55
+            "population": 45313,
+            "area": 862,
+            "density": 53
         },
         "Madison County, Illinois": {
             "name": "Madison County",
             "state": "Illinois",
             "fips": "17119",
-            "population": 269282,
-            "area": 725,
-            "density": 371
+            "population": 264461,
+            "area": 716,
+            "density": 369
         },
         "Marion County, Illinois": {
             "name": "Marion County",
             "state": "Illinois",
             "fips": "17121",
-            "population": 39437,
+            "population": 37620,
             "area": 572,
-            "density": 69
+            "density": 66
         },
         "Marshall County, Illinois": {
             "name": "Marshall County",
             "state": "Illinois",
             "fips": "17123",
-            "population": 12640,
+            "population": 11534,
             "area": 386,
-            "density": 33
+            "density": 30
         },
         "Mason County, Illinois": {
             "name": "Mason County",
             "state": "Illinois",
             "fips": "17125",
-            "population": 14666,
+            "population": 13565,
             "area": 539,
-            "density": 27
+            "density": 25
         },
         "Massac County, Illinois": {
             "name": "Massac County",
             "state": "Illinois",
             "fips": "17127",
-            "population": 15429,
-            "area": 239,
-            "density": 65
+            "population": 14080,
+            "area": 237,
+            "density": 59
         },
         "McDonough County, Illinois": {
             "name": "McDonough County",
             "state": "Illinois",
             "fips": "17109",
-            "population": 32612,
+            "population": 29955,
             "area": 589,
-            "density": 55
+            "density": 51
         },
         "McHenry County, Illinois": {
             "name": "McHenry County",
             "state": "Illinois",
             "fips": "17111",
-            "population": 308760,
-            "area": 604,
-            "density": 511
+            "population": 308570,
+            "area": 603,
+            "density": 512
         },
         "McLean County, Illinois": {
             "name": "McLean County",
             "state": "Illinois",
             "fips": "17113",
-            "population": 169572,
-            "area": 1184,
-            "density": 143
+            "population": 172828,
+            "area": 1183,
+            "density": 146
         },
         "Menard County, Illinois": {
             "name": "Menard County",
             "state": "Illinois",
             "fips": "17129",
-            "population": 12705,
+            "population": 12288,
             "area": 314,
-            "density": 40
+            "density": 39
         },
         "Mercer County, Illinois": {
             "name": "Mercer County",
             "state": "Illinois",
             "fips": "17131",
-            "population": 16434,
+            "population": 15601,
             "area": 561,
-            "density": 29
+            "density": 28
         },
         "Monroe County, Illinois": {
             "name": "Monroe County",
             "state": "Illinois",
             "fips": "17133",
-            "population": 32957,
-            "area": 388,
-            "density": 85
+            "population": 34335,
+            "area": 385,
+            "density": 89
         },
         "Montgomery County, Illinois": {
             "name": "Montgomery County",
             "state": "Illinois",
             "fips": "17135",
-            "population": 30104,
-            "area": 704,
-            "density": 43
+            "population": 28601,
+            "area": 703,
+            "density": 41
         },
         "Morgan County, Illinois": {
             "name": "Morgan County",
             "state": "Illinois",
             "fips": "17137",
-            "population": 35547,
-            "area": 569,
-            "density": 62
+            "population": 33976,
+            "area": 568,
+            "density": 60
         },
         "Moultrie County, Illinois": {
             "name": "Moultrie County",
             "state": "Illinois",
             "fips": "17139",
-            "population": 14846,
-            "area": 336,
+            "population": 14717,
+            "area": 335,
             "density": 44
         },
         "Ogle County, Illinois": {
             "name": "Ogle County",
             "state": "Illinois",
             "fips": "17141",
-            "population": 53497,
-            "area": 759,
-            "density": 70
+            "population": 50923,
+            "area": 758,
+            "density": 67
         },
         "Peoria County, Illinois": {
             "name": "Peoria County",
             "state": "Illinois",
             "fips": "17143",
-            "population": 186494,
-            "area": 620,
-            "density": 301
+            "population": 180621,
+            "area": 618,
+            "density": 292
         },
         "Perry County, Illinois": {
             "name": "Perry County",
             "state": "Illinois",
             "fips": "17145",
-            "population": 22350,
+            "population": 21174,
             "area": 441,
-            "density": 51
+            "density": 48
         },
         "Piatt County, Illinois": {
             "name": "Piatt County",
             "state": "Illinois",
             "fips": "17147",
-            "population": 16729,
-            "area": 440,
-            "density": 38
+            "population": 16396,
+            "area": 439,
+            "density": 37
         },
         "Pike County, Illinois": {
             "name": "Pike County",
             "state": "Illinois",
             "fips": "17149",
-            "population": 16430,
-            "area": 830,
-            "density": 20
+            "population": 15611,
+            "area": 831,
+            "density": 19
         },
         "Pope County, Illinois": {
             "name": "Pope County",
             "state": "Illinois",
             "fips": "17151",
-            "population": 4470,
-            "area": 371,
-            "density": 12
+            "population": 4212,
+            "area": 368,
+            "density": 11
         },
         "Pulaski County, Illinois": {
             "name": "Pulaski County",
             "state": "Illinois",
             "fips": "17153",
-            "population": 6161,
-            "area": 201,
-            "density": 31
+            "population": 5463,
+            "area": 199,
+            "density": 27
         },
         "Putnam County, Illinois": {
             "name": "Putnam County",
             "state": "Illinois",
             "fips": "17155",
-            "population": 6006,
+            "population": 5740,
             "area": 160,
-            "density": 38
+            "density": 36
         },
         "Randolph County, Illinois": {
             "name": "Randolph County",
             "state": "Illinois",
             "fips": "17157",
-            "population": 33476,
-            "area": 578,
-            "density": 58
+            "population": 32106,
+            "area": 575,
+            "density": 56
         },
         "Richland County, Illinois": {
             "name": "Richland County",
             "state": "Illinois",
             "fips": "17159",
-            "population": 16233,
+            "population": 15763,
             "area": 360,
-            "density": 45
+            "density": 44
         },
         "Rock Island County, Illinois": {
             "name": "Rock Island County",
             "state": "Illinois",
             "fips": "17161",
-            "population": 147546,
+            "population": 143477,
             "area": 427,
-            "density": 346
+            "density": 336
         },
         "Saline County, Illinois": {
             "name": "Saline County",
             "state": "Illinois",
             "fips": "17165",
-            "population": 24913,
-            "area": 383,
-            "density": 65
+            "population": 23906,
+            "area": 379,
+            "density": 63
         },
         "Sangamon County, Illinois": {
             "name": "Sangamon County",
             "state": "Illinois",
             "fips": "17167",
-            "population": 197465,
+            "population": 195348,
             "area": 868,
-            "density": 227
+            "density": 225
         },
         "Schuyler County, Illinois": {
             "name": "Schuyler County",
             "state": "Illinois",
             "fips": "17169",
-            "population": 7544,
+            "population": 6907,
             "area": 437,
-            "density": 17
+            "density": 16
         },
         "Scott County, Illinois": {
             "name": "Scott County",
             "state": "Illinois",
             "fips": "17171",
-            "population": 5355,
-            "area": 251,
-            "density": 21
+            "population": 4926,
+            "area": 250,
+            "density": 20
         },
         "Shelby County, Illinois": {
             "name": "Shelby County",
             "state": "Illinois",
             "fips": "17173",
-            "population": 22363,
-            "area": 759,
+            "population": 21741,
+            "area": 758,
             "density": 29
         },
         "St. Clair County, Illinois": {
             "name": "St. Clair County",
             "state": "Illinois",
             "fips": "17163",
-            "population": 270056,
-            "area": 664,
-            "density": 407
+            "population": 261059,
+            "area": 657,
+            "density": 397
         },
         "Stark County, Illinois": {
             "name": "Stark County",
             "state": "Illinois",
             "fips": "17175",
-            "population": 5994,
+            "population": 5427,
             "area": 288,
-            "density": 21
+            "density": 19
         },
         "Stephenson County, Illinois": {
             "name": "Stephenson County",
             "state": "Illinois",
             "fips": "17177",
-            "population": 47711,
+            "population": 44753,
             "area": 564,
-            "density": 85
+            "density": 79
         },
         "Tazewell County, Illinois": {
             "name": "Tazewell County",
             "state": "Illinois",
             "fips": "17179",
-            "population": 135394,
-            "area": 649,
-            "density": 209
+            "population": 132328,
+            "area": 646,
+            "density": 205
         },
         "Union County, Illinois": {
             "name": "Union County",
             "state": "Illinois",
             "fips": "17181",
-            "population": 17808,
-            "area": 416,
-            "density": 43
+            "population": 16841,
+            "area": 413,
+            "density": 41
         },
         "Vermilion County, Illinois": {
             "name": "Vermilion County",
             "state": "Illinois",
             "fips": "17183",
-            "population": 81625,
-            "area": 899,
-            "density": 91
+            "population": 76806,
+            "area": 898,
+            "density": 86
         },
         "Wabash County, Illinois": {
             "name": "Wabash County",
             "state": "Illinois",
             "fips": "17185",
-            "population": 11947,
-            "area": 224,
-            "density": 53
+            "population": 11549,
+            "area": 223,
+            "density": 52
         },
         "Warren County, Illinois": {
             "name": "Warren County",
             "state": "Illinois",
             "fips": "17187",
-            "population": 17707,
-            "area": 543,
-            "density": 33
+            "population": 17032,
+            "area": 542,
+            "density": 31
         },
         "Washington County, Illinois": {
             "name": "Washington County",
             "state": "Illinois",
             "fips": "17189",
-            "population": 14716,
-            "area": 563,
-            "density": 26
+            "population": 13995,
+            "area": 562,
+            "density": 25
         },
         "Wayne County, Illinois": {
             "name": "Wayne County",
             "state": "Illinois",
             "fips": "17191",
-            "population": 16760,
-            "area": 714,
+            "population": 16332,
+            "area": 713,
             "density": 23
         },
         "White County, Illinois": {
             "name": "White County",
             "state": "Illinois",
             "fips": "17193",
-            "population": 14665,
-            "area": 495,
-            "density": 30
+            "population": 13665,
+            "area": 494,
+            "density": 28
         },
         "Whiteside County, Illinois": {
             "name": "Whiteside County",
             "state": "Illinois",
             "fips": "17195",
-            "population": 58498,
-            "area": 685,
-            "density": 85
+            "population": 55626,
+            "area": 684,
+            "density": 81
         },
         "Will County, Illinois": {
             "name": "Will County",
             "state": "Illinois",
             "fips": "17197",
-            "population": 677560,
-            "area": 837,
-            "density": 810
+            "population": 692310,
+            "area": 835,
+            "density": 829
         },
         "Williamson County, Illinois": {
             "name": "Williamson County",
             "state": "Illinois",
             "fips": "17199",
-            "population": 66357,
-            "area": 424,
-            "density": 157
+            "population": 67056,
+            "area": 420,
+            "density": 160
         },
         "Winnebago County, Illinois": {
             "name": "Winnebago County",
             "state": "Illinois",
             "fips": "17201",
-            "population": 295266,
-            "area": 514,
-            "density": 574
+            "population": 284081,
+            "area": 513,
+            "density": 554
         },
         "Woodford County, Illinois": {
             "name": "Woodford County",
             "state": "Illinois",
             "fips": "17203",
-            "population": 38664,
-            "area": 528,
+            "population": 38463,
+            "area": 527,
             "density": 73
         }
     },
