@@ -29,10 +29,10 @@ jobs:
       run: composer install --prefer-dist --no-progress --no-suggest
 
     - name: Scrape Data
-      - php ./scripts/countyScraper.php
+      run: php ./scripts/countyScraper.php
 
     - name: Update README
-      - ./scripts/updateReadme.sh
+      run: ./scripts/updateReadme.sh
 
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v3
