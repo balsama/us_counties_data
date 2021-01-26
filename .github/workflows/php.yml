@@ -1,0 +1,43 @@
+name: PHP Composer
+
+on:
+  schedule:
+    - cron:  '*/1 * * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Validate composer.json and composer.lock
+      run: composer validate
+
+    - name: Cache Composer packages
+      id: composer-cache
+      uses: actions/cache@v2
+      with:
+        path: vendor
+        key: ${{ runner.os }}-php-${{ hashFiles('**/composer.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-php-
+
+    - name: Install dependencies
+      if: steps.composer-cache.outputs.cache-hit != 'true'
+      run: composer install --prefer-dist --no-progress --no-suggest
+
+    - name: Scrape Data
+      - php ./scripts/countyScraper.php
+
+    - name: Update README
+      - ./scripts/updateReadme.sh
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        commit-message: update authors
+        title: Update County data
+          body: Update Counties with data scraped from Wikipedia.
+          branch: update-county-data
