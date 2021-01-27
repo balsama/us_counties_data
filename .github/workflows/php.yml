@@ -3,6 +3,10 @@ name: PHP Composer
 on:
   schedule:
     - cron:  '*/30 * * * *'
+  push:
+    branches: *
+  pull_request:
+    branches: [ main ]
 
 jobs:
   build:
