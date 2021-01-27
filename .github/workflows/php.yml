@@ -4,8 +4,7 @@ on:
   schedule:
     - cron:  '*/30 * * * *'
   push:
-    branches:
-      - *
+    branches: [ '*' ]
   pull_request:
     branches: [ main ]
 
