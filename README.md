@@ -1,5 +1,5 @@
 # US County Data
-*Last Updated: 6 September 2021*
+*Last Updated: 7 July 2022*
 
 US County information. Includes Population, Area, and Density (calculated from the first two).
 Data is scraped from Wikipedia, which is scraped from various sources.
