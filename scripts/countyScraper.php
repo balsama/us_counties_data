@@ -28,8 +28,8 @@ $allCountiesJson = json_encode($allCounties, JSON_PRETTY_PRINT);
 file_put_contents('data/counties.json', $allCountiesJson);
 
 $fp = fopen('data/counties.csv', 'w');
-fputcsv($fp, $headers);
+fputcsv($fp, $headers, ',','"', '\\');
 foreach ($allCounties as $county) {
-    fputcsv($fp, $county);
+    fputcsv($fp, $county, ',','"', '\\');
 }
 fclose($fp);

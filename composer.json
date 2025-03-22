@@ -3,12 +3,10 @@
   "description": "Population, area, and density data for US counties.",
   "type": "library",
   "require": {
-    "guzzlehttp/guzzle": "^6.3",
-    "league/csv": "^9.6",
-    "ext-json": "*"
-  },
-  "require-dev": {
-    "php": "^7.4.2 | ^8"
+    "guzzlehttp/guzzle": "*",
+    "league/csv": "*",
+    "ext-json": "*",
+    "php": "^8.3"
   },
   "license": "GPL-2.0-or-later",
   "minimum-stability": "dev",

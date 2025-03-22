@@ -48,6 +48,9 @@ class CountyScraper
                 $countyName = $this->removeNewLines($row->getElementsByTagName('th')->item(0)->nodeValue);
                 $fipsCode = (string) $statFipsCode . $this->removeNewLines($row->getElementsByTagName('td')->item($fipsColumn)->nodeValue);
                 $population = $this->formatPopulation($row->getElementsByTagName('td')->item($populationColumn)->nodeValue);
+                if (!isset($areaColumn)) {
+                    $areaColumn = 0;
+                }
                 $area = $this->extractSqareMilesFromArea($row->getElementsByTagName('td')->item($areaColumn)->nodeValue);
                 $density = (int) number_format($population / $area, 0, '.', '');
                 $counties["$countyName, $state"] = [
